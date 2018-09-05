@@ -46,7 +46,7 @@ embedding_layer = Embedding(len(absa_dataset.embedding_matrix),
 sequence_input = Input(shape=(max_words,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
 lstm = Bidirectional(LSTM(units=400, dropout=0.5))(embedded_sequences)
-# dropout = Dropout(0ю5)(lstm)
+# dropout = Dropout(0.5)(lstm)
 dense = Dense(2, activation="softmax")(lstm)
 
 model = Model(inputs=[sequence_input],
@@ -57,7 +57,7 @@ model.compile(loss='categorical_crossentropy',
 
 # class_weights = class_weight.compute_class_weight('balanced', np.unique(np.argmax(y_train_data, axis=1)), np.argmax(y_train_data, axis=1))
 model.fit(x_train_data, y_train_data,
-          epochs=10,
+          epochs=100,
           batch_size=16,
           # class_weight=class_weights,
           verbose=1)
