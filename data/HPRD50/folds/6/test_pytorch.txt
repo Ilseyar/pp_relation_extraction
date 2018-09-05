@@ -1,0 +1,212 @@
+p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (MEF2A) and thyroid hormone receptor-retinoid X receptor p300/$T1$ ('$T2$')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters Our findings showed that the same C-terminal portion of p300 binds the N-terminal domains of both TR and MEF2A, and our in vivo studies demonstrated that TR, MEF2A and p300 form a ternary complex
+cAMP-response-element-binding-protein
+CREB
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized $T1$$T2$, both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGFR4
+basic FGF (FGF-2)
+0
+Cutting edge: $T1$ functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 ($T2$), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+CD43
+CD162
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that $T1$ and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and $T2$ activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Gab1
+Cdc42
+1
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides $T1$$T2$, both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-1
+basic FGF (FGF-2)
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of $T1$ in 293T cells led to a reduction in active $T2$ and Cdc42 levels but not RhoA
+GC-GAP
+Rac1
+1
+$T1$, a Rho family GTPase-activating protein that interacts with signaling adapters $T2$ and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GC-GAP
+Gab1
+1
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ($T1$) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and $T2$ (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+Siglec-1
+P-selectin glycoprotein ligand 1
+0
+Transient expression of the full-length E2-2 without RSRS in U1240MG glioblastoma cells resulted in repression of FGF-1.B promoter activity These results suggest that the relative abundance of the two splice variants of E2-2 in brain could be an important determinant for the expression of $T1$$T2$ promoter activity These results suggest that the relative abundance of the two splice variants of E2-2 in brain could be an important determinant for the expression of FGF-1
+FGF-1
+FGF-1.B
+0
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 ($T1$$T2$ (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+CD162
+P-selectin glycoprotein ligand 1
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with $T1$$T2$) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GAB
+GAP
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and $T1$$T2$ besides FGF-1 and FGF-2
+FGF-2
+FGF-8
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound $T1$$T2$ and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-8
+acidic FGF (FGF-1)
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length $T1$ in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned $T2$ and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Nck
+CdGAP
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and $T1$$T2$ and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-2
+acidic FGF (FGF-1)
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length $T1$ in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein ($T2$) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Nck
+GAP
+0
+GC-GAP, a Rho family $T1$ that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length $T2$ in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GTPase-activating protein
+Nck
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named $T1$ for its ability to interact with GAB proteins and its activity toward Rac and $T2$ Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GC-GAP
+Cdc42
+1
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound $T1$ besides $T2$ and FGF-2
+FGF-8
+FGF-1
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein ($T1$) for Rho family GTPases The GAP domain shows high similarity to the recently cloned $T2$ and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GAP
+CdGAP
+0
+Differential binding of vascular cell-derived proteoglycans (perlecan, biglycan, decorin, and versican) to the beta-amyloid protein of Alzheimer's disease Previous studies have demonstrated the immunolocalization of perlecan, a specific $T1$$T2$) to the beta-amyloid protein of Alzheimer's disease Previous studies have demonstrated the immunolocalization of perlecan, a specific heparan sulfate proteoglycan, to the beta-amyloid protein (A beta)-containing amyloid deposits within the walls of blood vessels (i.e., congophilic angiopathy) in Alzheimer's disease (AD) brain Overall, the results indicate that specific vascular cell-derived PGs differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of perlecan In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell (SMC)-derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta (1-28) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in perlecan which was partially removed by pretreatment with heparitinase, but not by chondroitin ABC lyase [35S]-Sulfate labeled proteoglycans (PGs) derived from cultured ECs and SMCs bound to affinity columns containing A beta (1-28) or (1-40), with virtually no binding to A beta (40-1) (reverse peptide), beta-amyloid precursor protein (410-429), or bovine serum albumin Characterization of EC and SMC PGs bound to A beta (1-28) revealed strong binding by perlecan, weak binding by decorin and biglycan, two dermatan sulfate proteoglycans, and lack of binding by versican/PG-M, a large chondroitin sulfate proteoglycan
+heparan sulfate proteoglycan
+versican
+0
+Assignment of Etfdh, Etfb, and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human We used cDNA probes for the Etfdh, $T1$$T2$, Etfb, and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human We used cDNA probes for the Etfdh, Etfb, and Etfa genes to determine localization of these mouse genes to chromosomes 3, 7, and 13
+Etfb
+Etfdh
+0
+GC-GAP, a Rho family $T1$ that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein ($T2$) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GTPase-activating protein
+GAP
+0
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ($T1$$T2$ (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+Siglec-1
+sialoadhesin
+0
+Interleukin-6 activates phosphatidylinositol-3 kinase, which inhibits apoptosis in human prostate cancer cell lines RESULTS: Tyrosine phosphorylation of p85 is upregulated by IL-6 in both LNCaP and PC-3 $T1$ promotes coprecipitation of p85 with $T2$, the signal-transducing component of the IL-6 receptor
+IL-6
+gp130
+1
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and $T1$$T2$ and FGF-2
+FGF-2
+FGF-1
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides $T1$$T2$ and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-1
+acidic FGF (FGF-1)
+0
+Cutting edge: $T1$ functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and $T2$ (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+CD43
+P-selectin glycoprotein ligand 1
+0
+GC-GAP, a Rho family $T1$ that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned $T2$ and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GTPase-activating protein
+CdGAP
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of $T1$ in 293T cells led to a reduction in active Rac1 and $T2$ levels but not RhoA
+GC-GAP
+Cdc42
+1
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with $T1$$T2$ and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GAB
+CdGAP
+0
+$T1$ (type II isozyme) contains a $T2$ homology domain at the N terminus and a sterile alpha motif domain at the C terminus
+DGKdelta
+pleckstrin
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and $T1$ are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, $T2$, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Gab2
+phosphatidylinositol 3-kinase
+1
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that $T1$ and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of $T2$ under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Gab1
+GC-GAP
+1
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and $T1$ in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and $T2$ activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Gab2
+Cdc42
+1
+$T1$ orphan receptor functions as negative modulator for $T2$ in prostate cancer cells PC-3 BACKGROUND: Both androgen receptor (AR) and orphan receptor TR2 (TR2) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines The interaction between AR and TR2 was assessed by glutathione-S-transferase (GST) pull-down assay and mammalian two-hybrid system assay
+TR2
+androgen receptor
+1
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, $T1$ contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length $T2$ in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GC-GAP
+Nck
+1
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor $T1$ (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and $T2$ (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+sialoadhesin
+P-selectin glycoprotein ligand 1
+0
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin ($T1$) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 ($T2$), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+Siglec-1
+CD162
+0
+Cross-linking of $T1$ with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag $T2$, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+CD53
+CD69
+1
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named $T1$ for its ability to interact with $T2$ proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GC-GAP
+GAB
+1
+In solution, FGFR4ed formed complexes with $T1$ and $T2$, both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+acidic FGF (FGF-1)
+basic FGF (FGF-2)
+0
+Differential binding of vascular cell-derived proteoglycans (perlecan, biglycan, decorin, and versican) to the beta-amyloid protein of Alzheimer's disease Previous studies have demonstrated the immunolocalization of perlecan, a specific $T1$$T2$, a specific heparan sulfate proteoglycan, to the beta-amyloid protein (A beta)-containing amyloid deposits within the walls of blood vessels (i.e., congophilic angiopathy) in Alzheimer's disease (AD) brain Overall, the results indicate that specific vascular cell-derived PGs differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of perlecan In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell (SMC)-derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta (1-28) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in perlecan which was partially removed by pretreatment with heparitinase, but not by chondroitin ABC lyase [35S]-Sulfate labeled proteoglycans (PGs) derived from cultured ECs and SMCs bound to affinity columns containing A beta (1-28) or (1-40), with virtually no binding to A beta (40-1) (reverse peptide), beta-amyloid precursor protein (410-429), or bovine serum albumin Characterization of EC and SMC PGs bound to A beta (1-28) revealed strong binding by perlecan, weak binding by decorin and biglycan, two dermatan sulfate proteoglycans, and lack of binding by versican/PG-M, a large chondroitin sulfate proteoglycan
+heparan sulfate proteoglycan
+perlecan
+0
+In solution, FGFR4ed formed complexes with $T1$ and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized $T2$ also bound FGF-8 besides FGF-1 and FGF-2
+acidic FGF (FGF-1)
+FGFR4
+0
+$T1$ activates $T2$, which inhibits apoptosis in human prostate cancer cell lines RESULTS: Tyrosine phosphorylation of p85 is upregulated by IL-6 in both LNCaP and PC-3 IL-6 promotes coprecipitation of p85 with gp130, the signal-transducing component of the IL-6 receptor
+Interleukin-6
+phosphatidylinositol-3 kinase
+1
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and $T1$$T2$, both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-2
+basic FGF (FGF-2)
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and $T1$ in cooperation with other adapter molecules might regulate the cellular localization of $T2$ under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+Gab2
+GC-GAP
+1
+p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (MEF2A) and thyroid hormone receptor-retinoid X receptor p300/cAMP-response-element-binding-protein ('$T1$$T2$/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters Our findings showed that the same C-terminal portion of p300 binds the N-terminal domains of both TR and MEF2A, and our in vivo studies demonstrated that TR, MEF2A and p300 form a ternary complex
+CREB
+p300
+0
+p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (MEF2A) and thyroid hormone receptor-retinoid X receptor p300/$T1$$T2$/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters Our findings showed that the same C-terminal portion of p300 binds the N-terminal domains of both TR and MEF2A, and our in vivo studies demonstrated that TR, MEF2A and p300 form a ternary complex
+cAMP-response-element-binding-protein
+p300
+0
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with $T1$$T2$ in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA
+GAB
+Nck
+0
+Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor $T1$ (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 ($T2$), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions
+sialoadhesin
+CD162
+0
+In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound $T1$$T2$, both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2
+FGF-8
+basic FGF (FGF-2)
+0
+We report here that PLZF, and a structurally similar transcriptional repressor, $T1$, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) $T2$
+BCL-6
+histone deacetylase-1
+1

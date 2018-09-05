@@ -1,0 +1,64 @@
+In vivo effects of CGP-12177 on the expression of leptin and entity1_term genes in mouse brown and white adipose tissues OBJECTIVE: To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor (AR) agonist with beta2/beta1-AR antagonist action, on the expression of the leptin gene and of genes coding for uncoupling proteins (ucp1, ucp2 and ucp3) in brown and white adipose tissues CONCLUSION: The results reveal that simultaneous stimulation of the expression of certain entity2_term genes and the leptin gene can be achieved, and suggest that adrenergic regulation of the leptin gene and of genes of the ucp family in adipose tissues is the result of complex interactions between the different beta-AR pathways
+uncoupling protein
+ucp
+0
+The induction of entity1_term triggered by entity2_term in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway, downstream of transcription of the gibberellin-modulated transcriptional activator (GAMYB) needed for alpha-amylase induction
+alpha-amylase
+gibberellic acid
+1
+The induction of alpha-amylase triggered by gibberellic acid in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway, downstream of transcription of the entity1_term-modulated transcriptional activator (GAMYB) needed for entity2_term induction
+gibberellin
+alpha-amylase
+0
+The induction of alpha-amylase triggered by entity1_term in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway, downstream of transcription of the entity2_term-modulated transcriptional activator (GAMYB) needed for alpha-amylase induction
+gibberellic acid
+gibberellin
+0
+Isolation and characterization of gibbestatin B, an inhibitor of entity1_term-induced expression of entity2_term, and gibbestatin C from streptomycetaes
+gibberellin
+alpha-amylase
+1
+HvSPY coexpression largely abolished entity1_term-induced activity of an entity2_term promoter.
+GA3
+alpha-amylase
+1
+2) IGF-1, IGF-2, and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum: entity1_term (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and entity2_term and totally inhibited the effect of IGF-2
+phospholipase C
+insulin
+1
+The two groups were similar in their morning thyroxin, triiodothyronine, TSH, estradiol, cortisol, gastrin, cholecystokinin, somatostatin, entity1_term, entity2_term and IGF-1 levels
+oxytocin
+insulin
+0
+Further, the entity1_term-induced activation of IK(sl) was effectively antagonized by 5 x 10(-8) mol/l U-73122 or 5 x 10(-6) mol/l 2-nitro-4-carboxyphenyl N,N-diphenylcarbamate (inhibitors of the cell membrane phospholipase C), as well as by intracellularly applied heparin (selective inhibitor of inositol-1,4,5-trisphosphate (IP3)-induced Ca2+ release channels) The data obtained suggest (i) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells, (ii) that the oxytocin-related relaxation may result from the activation of Ca(2+)-sensitive K+ conductivity via activation of entity2_term-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and (iii) in turn, this evokes a non-inactivating component of IK, hyperpolarizing the cell membrane
+oxytocin
+IP3
+0
+Further, the oxytocin-induced activation of IK(sl) was effectively antagonized by 5 x 10(-8) mol/l U-73122 or 5 x 10(-6) mol/l 2-nitro-4-carboxyphenyl N,N-diphenylcarbamate (inhibitors of the cell membrane phospholipase C), as well as by intracellularly applied heparin (selective inhibitor of entity1_term (IP3)-induced Ca2+ release channels) The data obtained suggest (i) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells, (ii) that the oxytocin-related relaxation may result from the activation of Ca(2+)-sensitive K+ conductivity via activation of entity2_term-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and (iii) in turn, this evokes a non-inactivating component of IK, hyperpolarizing the cell membrane
+inositol-1,4,5-trisphosphate
+IP3
+0
+Further, the entity1_term-induced activation of IK(sl) was effectively antagonized by 5 x 10(-8) mol/l U-73122 or 5 x 10(-6) mol/l 2-nitro-4-carboxyphenyl N,N-diphenylcarbamate (inhibitors of the cell membrane phospholipase C), as well as by intracellularly applied heparin (selective inhibitor of entity2_term (IP3)-induced Ca2+ release channels) The data obtained suggest (i) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells, (ii) that the oxytocin-related relaxation may result from the activation of Ca(2+)-sensitive K+ conductivity via activation of IP3-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and (iii) in turn, this evokes a non-inactivating component of IK, hyperpolarizing the cell membrane
+oxytocin
+inositol-1,4,5-trisphosphate
+0
+The distribution of entity1_term (AVP) cells in the SCN overlapped with that of entity2_term in both species Species differences in the location of the Ca2+-dependent PKC isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism, or the synchronization of AVP neurons and their subsequent output signals
+arginine-vasopressin
+PKC
+1
+The distribution of entity1_term (AVP) cells in the SCN overlapped with that of PKC in both species Species differences in the location of the Ca2+-dependent PKC isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism, or the synchronization of entity2_term neurons and their subsequent output signals
+arginine-vasopressin
+AVP
+0
+The distribution of arginine-vasopressin (AVP) cells in the SCN overlapped with that of PKC in both species Species differences in the location of the Ca2+-dependent entity1_term isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism, or the synchronization of entity2_term neurons and their subsequent output signals
+PKC
+AVP
+0
+Protein kinase C (PKC) inhibitors reversed AVP inhibition, whereas PKC activator inhibited nitrite production The inhibitory action of entity1_term involves both the activation of entity2_term and the transcription of iNOS mRNA in cultured rat GMC
+AVP
+PKC
+1
+entity1_term (PKC) inhibitors reversed entity2_term inhibition, whereas PKC activator inhibited nitrite production The inhibitory action of AVP involves both the activation of PKC and the transcription of iNOS mRNA in cultured rat GMC
+Protein kinase C
+AVP
+1

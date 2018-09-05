@@ -1,0 +1,132 @@
+The addition of $T1$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but $T2$-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.
+ClpX
+sigmaH
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. $T1$ at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed $T2$ transcription and had little effect on cotB transcription.
+SpoIIID
+cotX
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to $T1$-dependent stimulation than $T2$-RNAP.
+ClpX
+sigmaA
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-$T1$, thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity.
+flgM
+FlgM
+0
+Transcription of ydhD was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation). ykuD was transcribed by SigK RNA polymerase from T4 of sporulation. Both $T1$ and GerE were essential for $T2$ expression, and this gene was transcribed from T5 of sporulation.
+SigK
+ykvP
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits $T1$$T2$, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+sigmaD
+flgM
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of $T1$ activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or $T2$. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotC
+1
+Transcription of ydhD was dependent on $T1$$T2$ was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation). ykuD was transcribed by SigK RNA polymerase from T4 of sporulation. Both SigK and GerE were essential for ykvP expression, and this gene was transcribed from T5 of sporulation.
+SigE
+ydhD
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$-flgM, thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity.
+comF
+FlgM
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, $T1$$T2$, sspE and yfhP.
+sspE
+yfhR
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on $T1$$T2$ transcription and had little effect on cotB transcription.
+cotB
+cotX
+0
+In the shaA mutant, $T1$-dependent expression of spo0A and $T2$ at an early stage of sporulation was sensitive to external NaCl.
+sigma(H)
+spoVG
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits $T1$$T2$-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+sigmaD
+comF
+0
+In the shaA mutant, $T1$-dependent expression of $T2$ and spoVG at an early stage of sporulation was sensitive to external NaCl.
+sigma(H)
+spo0A
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$$T2$ by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+comF
+hag
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed $T1$ transcription, whereas a higher concentration only partially repressed $T2$ transcription and had little effect on cotB transcription.
+cotC
+cotX
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits $T1$$T2$ by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+sigmaD
+hag
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, $T1$ and $T2$.
+sspE
+yfhP
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of $T1$ or $T2$. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotX
+cotC
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of $T1$ activated $T2$ transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotB
+1
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, $T1$$T2$, yfhR, sspE and yfhP.
+sspE
+yfhQ
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on $T1$$T2$ transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotB
+cotC
+0
+ComK negatively controls the transcription of $T1$ by stimulating the transcription of comF-flgM, thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity.
+hag
+FlgM
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. $T1$ at low concentration repressed $T2$ transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cotC
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final $T1$$T2$ transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotB
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits $T1$$T2$ negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+sigmaD
+ComK
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. $T1$ at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on $T2$ transcription.
+SpoIIID
+cotB
+1
+DNase I footprinting showed that $T1$ binds strongly to two sites in the $T2$ promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cotC
+1
+Transcription of ydhD was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation). ykuD was transcribed by $T1$$T2$ was transcribed by SigK RNA polymerase from T4 of sporulation. Both SigK and GerE were essential for ykvP expression, and this gene was transcribed from T5 of sporulation.
+SigK
+ykuD
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$-$T2$, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+comF
+flgM
+0
+Transcription of ydhD was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation). ykuD was transcribed by SigK RNA polymerase from T4 of sporulation. Both SigK and $T1$ were essential for $T2$ expression, and this gene was transcribed from T5 of sporulation.
+GerE
+ykvP
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to $T1$$T2$-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.
+ClpX
+sigmaH
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-$T1$$T2$ by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+flgM
+hag
+0

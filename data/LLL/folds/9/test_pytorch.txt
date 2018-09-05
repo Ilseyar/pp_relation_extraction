@@ -1,0 +1,132 @@
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin ($T1$), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T2$) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YfhM
+0
+In that respect sigB is similar to the previously described gene gsiB which is also a member of the $T1$$T2$ which is also a member of the sigmaB regulon.
+sigmaB
+gsiB
+1
+In that respect sigB is similar to the previously described gene gsiB which is also a member of the $T1$$T2$ is similar to the previously described gene gsiB which is also a member of the sigmaB regulon.
+sigmaB
+sigB
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin ($T1$$T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+RacX
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YfhM
+PBP4*
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that $T1$ may act as a negative regulator for the transcription of $T2$, yfhR, sspE and yfhP.
+YfhP
+yfhQ
+1
+$T1$ negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity.
+ComK
+FlgM
+1
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and $T2$.
+YfhP
+yfhP
+1
+A $T1$-dependent promoter (PW) precedes $T2$, demonstrating that this transcription factor is positively autoregulated.
+sigmaW
+sigW
+1
+Northern blot and primer extension analyses indicated that yfhS is transcribed by $T1$$T2$ is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and yfhP.
+E sigma E
+yfhS
+1
+The sspH and $T1$ genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-$T2$ operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+tlp
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+PBP4*
+0
+Dephosphorylation of SpoIIAA-P by $T1$$T2$ by SpoIIE is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.
+SpoIIE
+SpoIIAA-P
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that ywhE expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor sigma(F), and to a lesser extent by $T1$$T2$ expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor sigma(F), and to a lesser extent by sigma(G).
+sigma(G)
+ywhE
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+PBP4*
+0
+Secondly, $T1$ is essential for the activation of the first compartment-specific transcription factor $T2$ in the prespore. Localization of SpoIIE was shown to be dependent on the essential cell division protein FtsZ.
+SpoIIE
+sigma(F)
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T1$$T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YfhM
+RacX
+0
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T2$) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YfhM
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+PBP4*
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-$T1$$T2$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+tlp
+sspH
+0
+The sspH and $T1$ genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the $T2$-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sspN
+0
+The sspH and $T1$ genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by $T2$ and the other forespore-specific sigma factor, sigmaF.
+sspL
+sigmaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase ($T1$$T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+RacX
+0
+The sspH and $T1$$T2$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sspH
+0
+The sspH and $T1$ genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T2$.
+sspL
+sigmaF
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ, yfhR, $T2$ and yfhP.
+YfhP
+sspE
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-$T1$$T2$; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+tlp
+sigmaG
+0
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T2$), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YdjP
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase ($T1$), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T2$) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YfhM
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ, $T2$, sspE and yfhP.
+YfhP
+yfhR
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-$T1$$T2$-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+tlp
+sspN
+0
+Analysis of the expression of a translational ywhE-lacZ fusion showed that ywhE expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor $T1$$T2$ expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor sigma(F), and to a lesser extent by sigma(G).
+sigma(F)
+ywhE
+1
+Secondly, SpoIIE is essential for the activation of the first compartment-specific transcription factor sigma(F) in the prespore. Localization of SpoIIE was shown to be dependent on the essential cell division protein $T1$$T2$ was shown to be dependent on the essential cell division protein FtsZ.
+FtsZ
+SpoIIE
+1

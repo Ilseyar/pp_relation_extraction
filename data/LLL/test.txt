@@ -1,0 +1,268 @@
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YfhM
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YuaG
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YknXYZ
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity2_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+RacX
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YteI
+1
+The entity1_term regulon includes a penicillin binding protein (entity2_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+PBP4*
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity1_term), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity1_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity1_term), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YteI
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YteI
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (entity2_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+RacX
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity1_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+tlp
+sigmaF
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity1_term operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+tlp
+sigmaG
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspN
+sigmaF
+1
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity2_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sigmaG
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspN
+sigmaG
+1
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity2_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sigmaG
+1
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+tlp
+0
+The entity1_term and entity2_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sspL
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sspN
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspL
+sigmaF
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspL
+sigmaG
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+tlp
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspN
+tlp
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+tlp
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sspN
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspH
+sigmaF
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspH
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sspN
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sigmaG
+sigmaF
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity1_term and the other forespore-specific sigma factor, entity2_term.
+sigmaG
+sigmaF
+0
+The results indicate that entity1_term is sufficient to repress the transcription of the tagA and entity2_term promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagD
+1
+The results indicate that entity1_term is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the entity2_term promoter.
+PhoP~P
+tuaA
+1
+The results indicate that entity1_term is sufficient to repress the transcription of the entity2_term and tagD promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagA
+1
+The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and entity1_term promoters and also to activate the transcription of the entity2_term promoter.
+tagD
+tuaA
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the entity1_term and tagD promoters and also to activate the transcription of the entity2_term promoter.
+tagA
+tuaA
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the entity1_term and entity2_term promoters and also to activate the transcription of the tuaA promoter.
+tagA
+tagD
+0
+In addition to the typical entity1_term-dependent, stress- and starvation-inducible pattern, entity2_term is also induced in response to amino acid depletion.
+sigmaB
+yvyD
+1
+This indicates that the entity1_term gene product, being a member of both the sigmaB and entity2_term regulons, might negatively regulate the activity of the sigmaL regulon.
+yvyD
+sigmaH
+1
+This indicates that the entity1_term gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the entity2_term regulon.
+yvyD
+sigmaL
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a entity1_term-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+sigmaH
+yvyD
+1
+This indicates that the entity1_term gene product, being a member of both the entity2_term and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon.
+yvyD
+sigmaB
+1
+The entity1_term-dependent promoter drives expression of entity2_term under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+sigmaB
+yvyD
+1
+This indicates that the yvyD gene product, being a member of both the entity1_term and entity2_term regulons, might negatively regulate the activity of the sigmaL regulon.
+sigmaB
+sigmaH
+0
+This indicates that the yvyD gene product, being a member of both the sigmaB and entity1_term regulons, might negatively regulate the activity of the entity2_term regulon.
+sigmaH
+sigmaL
+0
+The entity1_term-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+sigmaB
+yvyD
+0
+The sigmaB-dependent promoter drives expression of entity1_term under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+yvyD
+yvyD
+0
+This indicates that the yvyD gene product, being a member of both the entity1_term and sigmaH regulons, might negatively regulate the activity of the entity2_term regulon.
+sigmaB
+sigmaL
+0
+The entity1_term-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a entity2_term-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+sigmaB
+sigmaH
+0
+The sigmaB-dependent promoter drives expression of entity1_term under stress conditions and after glucose starvation, whereas a entity2_term-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+yvyD
+sigmaH
+0

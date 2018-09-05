@@ -1,0 +1,1068 @@
+Expression of the sigma ( K ) -dependent $T1$ gene depended on $T2$ .
+cwlH
+gerE
+1
+Expression of the $T1$-dependent $T2$ gene depended on gerE .
+sigma(K)
+cwlH
+1
+Expression of the $T1$-dependent cwlH gene depended on $T2$ .
+sigma(K)
+gerE
+0
+In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A~P level , revealed that KinC and $T1$ were responsible for $T2$ production during the exponential phase of growth in the absence of KinA and KinB .
+KinD
+Spo0A~P
+1
+In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A~P level , revealed that $T1$ and KinD were responsible for $T2$ production during the exponential phase of growth in the absence of KinA and KinB .
+KinC
+Spo0A~P
+1
+In vivo studies of the activity of four of the kinases , KinA , KinC , KinD ( ykvD ) and KinE ( ykrQ ) , using abrB transcription as an indicator of Spo0A~P level , revealed that $T1$ and $T2$ were responsible for Spo0A~P production during the exponential phase of growth in the absence of KinA and KinB .
+KinC
+KinD
+0
+$T1$ is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , $T2$ , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+sigmaF
+SpoIIE
+1
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , $T1$ , which converts the inactive , phosphorylated form of $T2$ back to the active form .
+SpoIIE
+SpoIIAA
+1
+$T1$ is controlled by a regulatory cascade involving an anti-sigma factor , $T2$ , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+sigmaF
+SpoIIAB
+1
+$T1$ is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , $T2$ , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+sigmaF
+SpoIIAA
+1
+Taken together , the results support the idea that sequestration of $T1$ protein into the prespore plays an important role in the control of $T2$ activation and in coupling this activation to septation .
+SpoIIE
+sigmaF
+1
+$T1$ is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of $T2$ back to the active form .
+sigmaF
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , $T1$ , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of $T2$ back to the active form .
+SpoIIAA
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , $T1$ , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of $T2$ back to the active form .
+SpoIIAB
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , SpoIIAB , an anti-anti-sigma factor , $T1$ , and a membrane-bound phosphatase , $T2$ , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+SpoIIAA
+SpoIIE
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , $T1$ , an anti-anti-sigma factor , $T2$ , and a membrane-bound phosphatase , SpoIIE , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+SpoIIAB
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor , $T1$ , an anti-anti-sigma factor , SpoIIAA , and a membrane-bound phosphatase , $T2$ , which converts the inactive , phosphorylated form of SpoIIAA back to the active form .
+SpoIIAB
+SpoIIE
+0
+Although $T1$ is transcriptionally regulated by the key regulatory device that controls sporulation initiation , the $T2$ phosphorelay , there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH .
+spo0H
+Spo0
+1
+Our data demonstrate that the CtsR protein acts as a global repressor of the $T1$ operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the $T2$- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+clpC
+sigmaB
+1
+Our data demonstrate that the CtsR protein acts as a global repressor of the $T1$ operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB- or $T2$-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+clpC
+sigmaA
+1
+The Bacillus subtilis $T1$ operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a $T2$-like promoter .
+clpC
+sigmaA
+1
+Our data demonstrate that the $T1$ protein acts as a global repressor of the $T2$ operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+CtsR
+clpC
+1
+The Bacillus subtilis $T1$ operon is regulated by two stress induction pathways relying on either $T2$ or a class III stress induction mechanism acting at a sigmaA-like promoter .
+clpC
+sigmaB
+1
+Our data demonstrate that the $T1$ protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the sigmaB- or $T2$-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+CtsR
+sigmaA
+0
+Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the $T1$- or $T2$-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+sigmaB
+sigmaA
+0
+Our data demonstrate that the $T1$ protein acts as a global repressor of the clpC operon , as well as other class III heat shock genes , by preventing unstressed transcription from either the $T2$- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions .
+CtsR
+sigmaB
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either $T1$ or a class III stress induction mechanism acting at a $T2$-like promoter .
+sigmaB
+sigmaA
+0
+Transcriptional studies demonstrated that the expression from the $T1$ promoter is induced by L-arabinose , repressed by glucose , and negatively regulated by $T2$ .
+araE
+AraR
+1
+Transcriptional studies showed that $T1$ is strongly induced in response to heat , ethanol and salt stress or after starvation for glucose in a $T2$-dependent manner .
+nadE
+sigma B
+1
+Furthermore , YtxH and $T1$ seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) -dependent manner and in the sigB mutant probably via $T2$ .
+YvyD
+sigma(H)
+1
+Furthermore , YtxH and $T1$ seemed to be induced after phosphate starvation in the wild type in a $T2$-dependent manner and in the sigB mutant probably via sigma ( H ) .
+YvyD
+sigma(B)
+1
+Furthermore , $T1$ and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) -dependent manner and in the sigB mutant probably via $T2$ .
+YtxH
+sigma(H)
+1
+Furthermore , $T1$ and YvyD seemed to be induced after phosphate starvation in the wild type in a $T2$-dependent manner and in the sigB mutant probably via sigma ( H ) .
+YtxH
+sigma(B)
+1
+Furthermore , $T1$ and $T2$ seemed to be induced after phosphate starvation in the wild type in a sigma ( B ) -dependent manner and in the sigB mutant probably via sigma ( H ) .
+YtxH
+YvyD
+0
+Furthermore , YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a $T1$-dependent manner and in the sigB mutant probably via $T2$ .
+sigma(B)
+sigma(H)
+0
+A low level of GerE activated transcription of $T1$ by $T2$ RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .
+cotD
+sigmaK
+1
+A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of $T1$ repressed $T2$ transcription .
+GerE
+cotD
+1
+A low level of $T1$ activated transcription of cotD by $T2$ RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .
+GerE
+sigmaK
+1
+A low level of $T1$ activated transcription of $T2$ by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed cotD transcription .
+GerE
+cotD
+1
+These results demonstrate that $T1$-dependent transcription of $T2$ initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK .
+sigmaK
+gerE
+1
+These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which $T1$ acts as a repressor to limit production of $T2$ .
+GerE
+sigmaK
+1
+Most cot genes , and the $T1$ gene , are transcribed by $T2$ RNA polymerase .
+gerE
+sigmaK
+1
+Previously , it was shown that the $T1$ protein inhibits transcription in vitro of the $T2$ gene encoding sigmaK .
+GerE
+sigK
+1
+Most $T1$ genes , and the gerE gene , are transcribed by $T2$ RNA polymerase .
+cot
+sigmaK
+1
+We show that $T1$ binds to two sites that span the -35 region of the $T2$ promoter .
+GerE
+cotD
+1
+These results suggest that a rising level of $T1$ in sporulating cells may first activate $T2$ transcription from the upstream site then repress transcription as the downstream site becomes occupied .
+GerE
+cotD
+1
+Here , we show that $T1$ binds near the $T2$ transcriptional start site , to act as a repressor .
+GerE
+sigK
+1
+Most $T1$ genes , and the $T2$ gene , are transcribed by sigmaK RNA polymerase .
+cot
+gerE
+0
+These results demonstrate that $T1$-dependent transcription of gerE initiates a negative feedback loop in which $T2$ acts as a repressor to limit production of sigmaK .
+sigmaK
+GerE
+0
+These results demonstrate that $T1$-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of $T2$ .
+sigmaK
+sigmaK
+0
+These results demonstrate that sigmaK-dependent transcription of $T1$ initiates a negative feedback loop in which $T2$ acts as a repressor to limit production of sigmaK .
+gerE
+GerE
+0
+A low level of $T1$ activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of $T2$ repressed cotD transcription .
+GerE
+GerE
+0
+A low level of $T1$ activated transcription of cotD by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed $T2$ transcription .
+GerE
+cotD
+0
+A low level of GerE activated transcription of cotD by $T1$ RNA polymerase in vitro , but a higher level of $T2$ repressed cotD transcription .
+sigmaK
+GerE
+0
+A low level of GerE activated transcription of cotD by $T1$ RNA polymerase in vitro , but a higher level of GerE repressed $T2$ transcription .
+sigmaK
+cotD
+0
+A low level of GerE activated transcription of $T1$ by sigmaK RNA polymerase in vitro , but a higher level of $T2$ repressed cotD transcription .
+cotD
+GerE
+0
+These results demonstrate that sigmaK-dependent transcription of $T1$ initiates a negative feedback loop in which GerE acts as a repressor to limit production of $T2$ .
+gerE
+sigmaK
+0
+A low level of GerE activated transcription of $T1$ by sigmaK RNA polymerase in vitro , but a higher level of GerE repressed $T2$ transcription .
+cotD
+cotD
+0
+In addition to controlling transcription of $T1$ , $T2$ appears to control expression of at least one other gene required for production of CSF .
+phrC
+sigmaH
+1
+Three new $T1$-dependent genes ( ydaE , $T2$ and yfkM ) encoding proteins with still unknown functions were also described .
+sigmaB
+ydaG
+1
+Three new $T1$-dependent genes ( ydaE , ydaG and $T2$ ) encoding proteins with still unknown functions were also described .
+sigmaB
+yfkM
+1
+The $T1$ gene might belong to the increasing number of $T2$-dependent genes whose orthologues are under the control of sigmas in Escherichia coli , indicating that both regulons may fulfil similar functions .
+ydaP
+sigmaB
+1
+Three new $T1$-dependent genes ( $T2$ , ydaG and yfkM ) encoding proteins with still unknown functions were also described .
+sigmaB
+ydaE
+1
+( i ) The finding that the $T1$ operon is under $T2$ control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance .
+bmrUR
+sigmaB
+1
+Three new sigmaB-dependent genes ( $T1$ , $T2$ and yfkM ) encoding proteins with still unknown functions were also described .
+ydaE
+ydaG
+0
+Three new sigmaB-dependent genes ( $T1$ , ydaG and $T2$ ) encoding proteins with still unknown functions were also described .
+ydaE
+yfkM
+0
+Three new sigmaB-dependent genes ( ydaE , $T1$ and $T2$ ) encoding proteins with still unknown functions were also described .
+ydaG
+yfkM
+0
+During endospore formation in Bacillus subtilis , the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK $T1$ binds to a site on one of these promoters , $T2$ , that overlaps its -35 region .
+GerE
+cotX
+1
+During endospore formation in Bacillus subtilis , the DNA binding protein $T1$ stimulates transcription from several promoters that are used by RNA polymerase containing $T2$ GerE binds to a site on one of these promoters , cotX , that overlaps its -35 region .
+GerE
+sigmaK
+1
+During endospore formation in Bacillus subtilis , the DNA binding protein $T1$ stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK GerE binds to a site on one of these promoters , $T2$ , that overlaps its -35 region .
+GerE
+cotX
+0
+During endospore formation in Bacillus subtilis , the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing $T1$ GerE binds to a site on one of these promoters , $T2$ , that overlaps its -35 region .
+sigmaK
+cotX
+0
+During endospore formation in Bacillus subtilis , the DNA binding protein $T1$ stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK $T2$ binds to a site on one of these promoters , cotX , that overlaps its -35 region .
+GerE
+GerE
+0
+During endospore formation in Bacillus subtilis , the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing $T1$ $T2$ binds to a site on one of these promoters , cotX , that overlaps its -35 region .
+sigmaK
+GerE
+0
+However , the mutant was unable to stimulate transcription by final sigma ( A ) -RNA polymerase from the $T1$-dependent $T2$ operon promoter .
+Spo0A
+spoIIG
+1
+However , the mutant was unable to stimulate transcription by final $T1$-RNA polymerase from the Spo0A-dependent $T2$ operon promoter .
+sigma(A)
+spoIIG
+1
+However , the mutant was unable to stimulate transcription by final $T1$-RNA polymerase from the $T2$-dependent spoIIG operon promoter .
+sigma(A)
+Spo0A
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T1$ of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+RbsW
+sigma B
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T1$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+DnaK
+sigma 32
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , sigma F and $T2$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+SpoIIAB
+sigma G
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T2$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+sigma 28
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , $T2$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+SpoIIAB
+sigma F
+1
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T2$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+sigma G
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T1$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma G
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T1$ and $T2$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma F
+sigma G
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T1$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma G
+sigma B
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T1$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+sigma G
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T1$ , of Bacillus subtilis ; $T2$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma G
+RbsW
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and $T2$ , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+sigma G
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T2$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+sigma F
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+sigma B
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+sigma 28
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; $T2$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor $T1$ ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T2$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma 28
+RbsW
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T1$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma F
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T1$ ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma B
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+SpoIIAB
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T1$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+RbsW
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and $T2$ , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+DnaK
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T1$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma F
+sigma B
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T1$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+sigma F
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T1$ and sigma G , of Bacillus subtilis ; $T2$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+sigma F
+RbsW
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , $T2$ and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+sigma F
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T1$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+sigma B
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+SpoIIAB
+sigma B
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor $T2$ ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+sigma B
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+SpoIIAB
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T1$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+RbsW
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor $T2$ .
+FlgM
+sigma 32
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; FlgM , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T1$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T2$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+SpoIIAB
+RbsW
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; $T2$ , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; RbsW of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4 , which inhibits Escherichia coli sigma 70 ; $T1$ , present in both gram-positive and gram-negative bacteria , which inhibits the flagella sigma factor sigma 28 ; SpoIIAB , which inhibits the sporulation-specific sigma factor , sigma F and sigma G , of Bacillus subtilis ; $T2$ of B. subtilis , which inhibits stress response sigma factor sigma B ; and DnaK , a general regulator of the heat shock response , which in bacteria inhibits the heat shock sigma factor sigma 32 .
+FlgM
+RbsW
+0
+The -10 and -35 sequences of the sigmaB- and $T1$-dependent promoters of $T2$ overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .
+sigmaF
+katX
+1
+We demonstrated that $T1$ is also a $T2$-dependent general stress gene , since it is strongly induced by heat , salt and ethanol stress , as well as by energy depletion .
+katX
+sigmaB
+1
+Therefore , the physiological role of $T1$-dependent $T2$ expression remains obscure .
+sigmaB
+katX
+1
+The -10 and -35 sequences of the $T1$- and sigmaF-dependent promoters of $T2$ overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .
+sigmaB
+katX
+1
+Our results indicate that the level of $T1$ level in outgrowing spores depends mainly on $T2$ , because sigB mutants show normal KatX activity in dormant and outgrowing spores .
+KatX
+EsigmaF
+1
+The -10 and -35 sequences of the $T1$- and $T2$-dependent promoters of katX overlap , and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide .
+sigmaB
+sigmaF
+0
+In this mutant , expression of the $T1$ gene , whose transcription depends on both sigma ( A ) and the phosphorylated $T2$ protein , Spo0A~P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .
+spoIIG
+Spo0A
+1
+In this mutant , expression of the $T1$ gene , whose transcription depends on both $T2$ and the phosphorylated Spo0A protein , Spo0A~P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .
+spoIIG
+sigma(A)
+1
+In this mutant , expression of the spoIIG gene , whose transcription depends on both $T1$ and the phosphorylated $T2$ protein , Spo0A~P , a major transcription factor during early stages of sporulation , was greatly reduced at 43 degrees C .
+sigma(A)
+Spo0A
+0
+The expression of $T1$ is under the control of both sigma ( F ) and $T2$ .
+rsfA
+sigma(G)
+1
+The expression of $T1$ is under the control of both $T2$ and sigma ( G ) .
+rsfA
+sigma(F)
+1
+The expression of rsfA is under the control of both $T1$ and $T2$ .
+sigma(F)
+sigma(G)
+0
+Cell specificity is first established in the forespore under the control of the $T1$ factor , which is itself activated through the action of the $T2$ serine phosphatase , an enzyme targeted to the septum between the two cells .
+sigma F
+SpoIIE
+1
+The $T1$ gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by SigL-containing RNA polymerase and requires for its expression $T2$ , a member of the NtrC/NifA family of proteins that bind to enhancer-like elements , called upstream activating sequences ( UAS ) .
+rocG
+RocR
+1
+Unlike the case for other $T1$-dependent genes , $T2$ has no UAS ; instead , its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter , beyond the end of the rocG coding region .
+sigma(54)
+rocG
+1
+The $T1$ gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by $T2$-containing RNA polymerase and requires for its expression RocR , a member of the NtrC/NifA family of proteins that bind to enhancer-like elements , called upstream activating sequences ( UAS ) .
+rocG
+SigL
+1
+The rocG gene of Bacillus subtilis , encoding a catabolic glutamate dehydrogenase , is transcribed by $T1$-containing RNA polymerase and requires for its expression $T2$ , a member of the NtrC/NifA family of proteins that bind to enhancer-like elements , called upstream activating sequences ( UAS ) .
+SigL
+RocR
+0
+In contrast , $T1$ is transcribed in the forespore compartment by RNA polymerase with the forespore-specific $T2$ and appears to give a monocistronic transcript .
+sspJ
+sigmaG
+1
+$T1$ transcription also requires the DNA binding protein $T2$ .
+sspG
+GerE
+1
+The expression of the $T1$ operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor $T2$ , a member of the sigma 54 family .
+bkd
+SigL
+1
+sigma X also contributes to the expression of $T1$ , a putative membrane-bound glucosyl transferase that is partially controlled by the $T2$ stress response sigma factor .
+CsbB
+sigma B
+1
+$T1$ also contributes to the expression of $T2$ , a putative membrane-bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor .
+sigma X
+CsbB
+1
+$T1$ also contributes to the expression of CsbB , a putative membrane-bound glucosyl transferase that is partially controlled by the $T2$ stress response sigma factor .
+sigma X
+sigma B
+0
+In the mother cell compartment of sporulating cells , expression of the $T1$ gene , encoding the earlier-acting sigma factor , sigmaE , is negatively regulated by the later-acting sigma factor , $T2$ .
+sigE
+sigmaK
+1
+The ald promoter , like the $T1$ promoter , is believed to be recognized by $T2$ RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .
+sigE
+sigmaA
+1
+The ald promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that $T1$ may inhibit $T2$ activity late in sporulation .
+sigmaK
+sigmaA
+1
+Production of sigmaK about 1 h earlier than normal does affect $T1$ , which when phosphorylated is an activator of $T2$ transcription .
+Spo0A
+sigE
+1
+The $T1$ promoter , like the sigE promoter , is believed to be recognized by $T2$ RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .
+ald
+sigmaA
+1
+Production of $T1$ about 1 h earlier than normal does affect $T2$ , which when phosphorylated is an activator of sigE transcription .
+sigmaK
+Spo0A
+1
+The $T1$ promoter , like the $T2$ promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit sigmaA activity late in sporulation .
+ald
+sigE
+0
+The $T1$ promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that $T2$ may inhibit sigmaA activity late in sporulation .
+ald
+sigmaK
+0
+The $T1$ promoter , like the sigE promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit $T2$ activity late in sporulation .
+ald
+sigmaA
+0
+The ald promoter , like the $T1$ promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that $T2$ may inhibit sigmaA activity late in sporulation .
+sigE
+sigmaK
+0
+The ald promoter , like the $T1$ promoter , is believed to be recognized by sigmaA RNA polymerase , suggesting that sigmaK may inhibit $T2$ activity late in sporulation .
+sigE
+sigmaA
+0
+The ald promoter , like the sigE promoter , is believed to be recognized by $T1$ RNA polymerase , suggesting that $T2$ may inhibit sigmaA activity late in sporulation .
+sigmaA
+sigmaK
+0
+The ald promoter , like the sigE promoter , is believed to be recognized by $T1$ RNA polymerase , suggesting that sigmaK may inhibit $T2$ activity late in sporulation .
+sigmaA
+sigmaA
+0
+Production of $T1$ about 1 h earlier than normal does affect Spo0A , which when phosphorylated is an activator of $T2$ transcription .
+sigmaK
+sigE
+0
+The SpoIIE phosphatase indirectly activates $T1$ by dephosphorylating a protein ( $T2$ ) in the pathway that controls the activity of the transcription factor .
+sigmaF
+SpoIIAA-P
+1
+The $T1$ phosphatase indirectly activates sigmaF by dephosphorylating a protein ( $T2$ ) in the pathway that controls the activity of the transcription factor .
+SpoIIE
+SpoIIAA-P
+1
+The $T1$ phosphatase indirectly activates $T2$ by dephosphorylating a protein ( SpoIIAA-P ) in the pathway that controls the activity of the transcription factor .
+SpoIIE
+sigmaF
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated $T1$ to activate $T2$ until formation of the polar septum is completed .
+SpoIIAA
+sigmaF
+1
+Cell-specific activation of transcription factor $T1$ during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase ( $T2$ ) located in the septum .
+sigmaF
+SpoIIE
+1
+The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein FtsZ and could correspond to the $T1$-dependent assembly of $T2$ into E-rings .
+FtsZ
+SpoIIE
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that $T1$ blocks the capacity of unphosphorylated $T2$ to activate sigmaF until formation of the polar septum is completed .
+SpoIIE
+SpoIIAA
+1
+The first stage , which involves the phosphatase function of $T1$ , depends on the cell division protein $T2$ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings .
+SpoIIE
+FtsZ
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that $T1$ blocks the capacity of unphosphorylated SpoIIAA to activate $T2$ until formation of the polar septum is completed .
+SpoIIE
+sigmaF
+0
+The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein $T1$ and could correspond to the FtsZ-dependent assembly of $T2$ into E-rings .
+FtsZ
+SpoIIE
+0
+The first stage , which involves the phosphatase function of $T1$ , depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of $T2$ into E-rings .
+SpoIIE
+SpoIIE
+0
+The first stage , which involves the phosphatase function of SpoIIE , depends on the cell division protein $T1$ and could correspond to the $T2$-dependent assembly of SpoIIE into E-rings .
+FtsZ
+FtsZ
+0
+The first stage , which involves the phosphatase function of $T1$ , depends on the cell division protein FtsZ and could correspond to the $T2$-dependent assembly of SpoIIE into E-rings .
+SpoIIE
+FtsZ
+0
+Primer extension experiments and Northern blot analysis show that an active $T1$-dependent promoter precedes $T2$ and transcription is terminated at the putative p-independent terminator downstream of kdgT .
+sigmaA
+kdgR
+1
+This stress-induced increase in $T1$ expression is absolutely dependent on the alternative sigma factor $T2$ , which controls a large stationary-phase and stress regulon .
+ykzA
+sigmaB
+1
+From these results we conclude that ComK negatively regulates degR expression by preventing $T1$-driven transcription of $T2$ , possibly through interaction with the control region .
+sigmaD
+degR
+1
+We have shown previously that the transcription of $T1$ is driven by an alternative sigma factor , $T2$ .
+degR
+sigmaD
+1
+From these results we conclude that $T1$ negatively regulates $T2$ expression by preventing sigmaD-driven transcription of degR , possibly through interaction with the control region .
+ComK
+degR
+1
+From these results we conclude that $T1$ negatively regulates degR expression by preventing sigmaD-driven transcription of $T2$ , possibly through interaction with the control region .
+ComK
+degR
+1
+From these results we conclude that $T1$ negatively regulates degR expression by preventing $T2$-driven transcription of degR , possibly through interaction with the control region .
+ComK
+sigmaD
+1
+From these results we conclude that ComK negatively regulates $T1$ expression by preventing sigmaD-driven transcription of $T2$ , possibly through interaction with the control region .
+degR
+degR
+0
+From these results we conclude that ComK negatively regulates $T1$ expression by preventing $T2$-driven transcription of degR , possibly through interaction with the control region .
+degR
+sigmaD
+0
+Therefore , $T1$ is solely expressed during sporulation from a sigma ( K ) - and $T2$-controlled promoter that is located immediately upstream of ftsY inside the smc gene .
+ftsY
+GerE
+1
+Therefore , $T1$ is solely expressed during sporulation from a $T2$- and GerE-controlled promoter that is located immediately upstream of ftsY inside the smc gene .
+ftsY
+sigma(K)
+1
+Therefore , ftsY is solely expressed during sporulation from a $T1$- and $T2$-controlled promoter that is located immediately upstream of ftsY inside the smc gene .
+sigma(K)
+GerE
+0
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and $T1$ holoenzymes recognize promoter elements within the sigX-$T2$ control region .
+sigma(X)
+ypuN
+1
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both $T1$ and sigma ( X ) holoenzymes recognize promoter elements within the sigX-$T2$ control region .
+sigma(A)
+ypuN
+1
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and $T1$ holoenzymes recognize promoter elements within the $T2$-ypuN control region .
+sigma(X)
+sigX
+1
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both $T1$ and sigma ( X ) holoenzymes recognize promoter elements within the $T2$-ypuN control region .
+sigma(A)
+sigX
+1
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both sigma ( A ) and sigma ( X ) holoenzymes recognize promoter elements within the $T1$-$T2$ control region .
+sigX
+ypuN
+0
+We overproduced and purified sigma ( X ) from Escherichia coli and demonstrate that in vitro , both $T1$ and $T2$ holoenzymes recognize promoter elements within the sigX-ypuN control region .
+sigma(A)
+sigma(X)
+0
+Finally , we show that proper localization of SpoIVA required the expression of one or more genes which , like $T1$ , are under the control of the mother cell transcription factor $T2$ .
+spoIVA
+sigmaE
+1
+The addition of $T1$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than $T2$-RNAP .
+ClpX
+sigmaA
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH-RNAP was observed to be more sensitive to $T1$-dependent stimulation than $T2$-RNAP .
+ClpX
+sigmaA
+1
+The addition of $T1$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but $T2$-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP .
+ClpX
+sigmaH
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but $T1$-RNAP was observed to be more sensitive to $T2$-dependent stimulation than sigmaA-RNAP .
+sigmaH
+ClpX
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but $T1$-RNAP was observed to be more sensitive to ClpX-dependent stimulation than $T2$-RNAP .
+sigmaH
+sigmaA
+0
+The addition of $T1$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity , but sigmaH-RNAP was observed to be more sensitive to $T2$-dependent stimulation than sigmaA-RNAP .
+ClpX
+ClpX
+0
+In the shaA mutant , $T1$-dependent expression of spo0A and $T2$ at an early stage of sporulation was sensitive to external NaCl .
+sigma(H)
+spoVG
+1
+In the shaA mutant , $T1$-dependent expression of $T2$ and spoVG at an early stage of sporulation was sensitive to external NaCl .
+sigma(H)
+spo0A
+1
+In the shaA mutant , sigma ( H ) -dependent expression of $T1$ and $T2$ at an early stage of sporulation was sensitive to external NaCl .
+spo0A
+spoVG
+0
+Both SigK and $T1$ were essential for $T2$ expression , and this gene was transcribed from T5 of sporulation .
+GerE
+ykvP
+1
+$T1$ was transcribed by $T2$ RNA polymerase from T4 of sporulation .
+ykuD
+SigK
+1
+Both $T1$ and GerE were essential for $T2$ expression , and this gene was transcribed from T5 of sporulation .
+SigK
+ykvP
+1
+Transcription of $T1$ was dependent on $T2$ , and the mRNA was detectable from 2 h after the cessation of logarithmic growth ( T2 of sporulation ) .
+ydhD
+SigE
+1
+Both $T1$ and $T2$ were essential for ykvP expression , and this gene was transcribed from T5 of sporulation .
+SigK
+GerE
+0
+$T1$ at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on $T2$ transcription .
+SpoIIID
+cotB
+1
+$T1$ at low concentration repressed $T2$ transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription .
+SpoIIID
+cotC
+1
+$T1$ at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed $T2$ transcription and had little effect on cotB transcription .
+SpoIIID
+cotX
+1
+A low concentration of $T1$ activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or $T2$ .
+GerE
+cotC
+1
+A low concentration of GerE activated $T1$ transcription by final $T2$ RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .
+cotB
+sigma(K)
+1
+DNase I footprinting showed that $T1$ binds strongly to two sites in the $T2$ promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to cotB .
+SpoIIID
+cotC
+1
+A low concentration of $T1$ activated $T2$ transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .
+GerE
+cotB
+1
+A low concentration of $T1$ activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of $T2$ or cotC .
+GerE
+cotX
+1
+In vitro transcription experiments suggest that the differential pattern of $T1$ gene expression results from the combined action of GerE and another transcription factor , $T2$ .
+cot
+SpoIIID
+1
+A low concentration of $T1$ activated cotB transcription by final $T2$ RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or cotC .
+GerE
+sigma(K)
+1
+In vitro transcription experiments suggest that the differential pattern of $T1$ gene expression results from the combined action of $T2$ and another transcription factor , SpoIIID .
+cot
+GerE
+1
+Transcription of the cotB , $T1$ , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called $T2$ .
+cotC
+GerE
+1
+Transcription of the cotB , cotC , and $T1$ genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called $T2$ .
+cotX
+GerE
+1
+Transcription of the cotB , cotC , and $T1$ genes by final $T2$ RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotX
+sigma(K)
+1
+Transcription of the $T1$ , cotC , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called $T2$ .
+cotB
+GerE
+1
+Transcription of the $T1$ , cotC , and cotX genes by final $T2$ RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotB
+sigma(K)
+1
+Transcription of the cotB , $T1$ , and cotX genes by final $T2$ RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotC
+sigma(K)
+1
+DNase I footprinting showed that $T1$ binds strongly to two sites in the cotC promoter region , binds weakly to one site in the $T2$ promoter , and does not bind specifically to cotB .
+SpoIIID
+cotX
+1
+DNase I footprinting showed that $T1$ binds strongly to two sites in the cotC promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to $T2$ .
+SpoIIID
+cotB
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the $T1$ promoter region , binds weakly to one site in the $T2$ promoter , and does not bind specifically to cotB .
+cotC
+cotX
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region , binds weakly to one site in the $T1$ promoter , and does not bind specifically to $T2$ .
+cotX
+cotB
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the $T1$ promoter region , binds weakly to one site in the cotX promoter , and does not bind specifically to $T2$ .
+cotC
+cotB
+0
+Transcription of the cotB , cotC , and cotX genes by final $T1$ RNA polymerase is activated by a small , DNA-binding protein called $T2$ .
+sigma(K)
+GerE
+0
+Transcription of the $T1$ , $T2$ , and cotX genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotB
+cotC
+0
+Transcription of the $T1$ , cotC , and $T2$ genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotB
+cotX
+0
+In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of $T1$ and another transcription factor , $T2$ .
+GerE
+SpoIIID
+0
+Transcription of the cotB , $T1$ , and $T2$ genes by final sigma ( K ) RNA polymerase is activated by a small , DNA-binding protein called GerE .
+cotC
+cotX
+0
+A low concentration of GerE activated cotB transcription by final $T1$ RNA polymerase , whereas a higher concentration was needed to activate transcription of $T2$ or cotC .
+sigma(K)
+cotX
+0
+A low concentration of GerE activated cotB transcription by final $T1$ RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or $T2$ .
+sigma(K)
+cotC
+0
+A low concentration of GerE activated $T1$ transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of $T2$ or cotC .
+cotB
+cotX
+0
+A low concentration of GerE activated $T1$ transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of cotX or $T2$ .
+cotB
+cotC
+0
+A low concentration of GerE activated cotB transcription by final sigma ( K ) RNA polymerase , whereas a higher concentration was needed to activate transcription of $T1$ or $T2$ .
+cotX
+cotC
+0
+SpoIIID at low concentration repressed $T1$ transcription , whereas a higher concentration only partially repressed cotX transcription and had little effect on $T2$ transcription .
+cotC
+cotB
+0
+SpoIIID at low concentration repressed cotC transcription , whereas a higher concentration only partially repressed $T1$ transcription and had little effect on $T2$ transcription .
+cotX
+cotB
+0
+SpoIIID at low concentration repressed $T1$ transcription , whereas a higher concentration only partially repressed $T2$ transcription and had little effect on cotB transcription .
+cotC
+cotX
+0
+$T1$ negatively controls the transcription of hag by stimulating the transcription of comF-$T2$ , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+ComK
+flgM
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM , thereby increasing the production of the $T1$ antisigma factor that inhibits $T2$ activity .
+FlgM
+sigmaD
+1
+$T1$ negatively controls the transcription of $T2$ by stimulating the transcription of comF-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+ComK
+hag
+1
+$T1$ negatively controls the transcription of hag by stimulating the transcription of $T2$-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+ComK
+comF
+1
+$T1$ negatively controls the transcription of hag by stimulating the transcription of comF-flgM , thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity .
+ComK
+FlgM
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits $T2$ activity .
+comF
+sigmaD
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-$T1$ , thereby increasing the production of the FlgM antisigma factor that inhibits $T2$ activity .
+flgM
+sigmaD
+0
+$T1$ negatively controls the transcription of hag by stimulating the transcription of comF-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits $T2$ activity .
+ComK
+sigmaD
+0
+ComK negatively controls the transcription of $T1$ by stimulating the transcription of comF-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits $T2$ activity .
+hag
+sigmaD
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$-$T2$ , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+comF
+flgM
+0
+ComK negatively controls the transcription of $T1$ by stimulating the transcription of $T2$-flgM , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+hag
+comF
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of $T1$-flgM , thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity .
+comF
+FlgM
+0
+ComK negatively controls the transcription of $T1$ by stimulating the transcription of comF-$T2$ , thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity .
+hag
+flgM
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-$T1$ , thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity .
+flgM
+FlgM
+0
+ComK negatively controls the transcription of $T1$ by stimulating the transcription of comF-flgM , thereby increasing the production of the $T2$ antisigma factor that inhibits sigmaD activity .
+hag
+FlgM
+0
+A $T1$-dependent promoter ( PW ) precedes $T2$ , demonstrating that this transcription factor is positively autoregulated .
+sigmaW
+sigW
+1
+Dephosphorylation of $T1$ by $T2$ is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+ .
+SpoIIAA-P
+SpoIIE
+1
+These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ , yfhR , $T2$ and yfhP .
+YfhP
+sspE
+1
+These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ , yfhR , sspE and $T2$ .
+YfhP
+yfhP
+1
+These results suggest that $T1$ may act as a negative regulator for the transcription of $T2$ , yfhR , sspE and yfhP .
+YfhP
+yfhQ
+1
+These results suggest that $T1$ may act as a negative regulator for the transcription of yfhQ , $T2$ , sspE and yfhP .
+YfhP
+yfhR
+1
+Northern blot and primer extension analyses indicated that $T1$ is transcribed by $T2$ during sporulation .
+yfhS
+E sigma E
+1
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , yfhR , $T1$ and $T2$ .
+sspE
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of $T1$ , yfhR , $T2$ and yfhP .
+yfhQ
+sspE
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , $T1$ , $T2$ and yfhP .
+yfhR
+sspE
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of $T1$ , yfhR , sspE and $T2$ .
+yfhQ
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ , $T1$ , sspE and $T2$ .
+yfhR
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of $T1$ , $T2$ , sspE and yfhP .
+yfhQ
+yfhR
+0
+Analysis of the expression of a translational ywhE-lacZ fusion showed that $T1$ expression is sporulation-specific , and is controlled predominantly by the forespore-specific sigma factor sigma ( F ) , and to a lesser extent by $T2$ .
+ywhE
+sigma(G)
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that $T1$ expression is sporulation-specific , and is controlled predominantly by the forespore-specific sigma factor $T2$ , and to a lesser extent by sigma ( G ) .
+ywhE
+sigma(F)
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that ywhE expression is sporulation-specific , and is controlled predominantly by the forespore-specific sigma factor $T1$ , and to a lesser extent by $T2$ .
+sigma(F)
+sigma(G)
+0
+Localization of $T1$ was shown to be dependent on the essential cell division protein $T2$ .
+SpoIIE
+FtsZ
+1
+Secondly , $T1$ is essential for the activation of the first compartment-specific transcription factor $T2$ in the prespore .
+SpoIIE
+sigma(F)
+1
+In that respect $T1$ is similar to the previously described gene gsiB which is also a member of the $T2$ regulon .
+sigB
+sigmaB
+1
+In that respect sigB is similar to the previously described gene $T1$ which is also a member of the $T2$ regulon .
+gsiB
+sigmaB
+1
+In that respect $T1$ is similar to the previously described gene $T2$ which is also a member of the sigmaB regulon .
+sigB
+gsiB
+0
+The $T1$ regulon includes a penicillin binding protein ( PBP4* ) and a co-transcribed amino acid racemase ( RacX ) , homologues of signal peptide peptidase ( YteI ) , flotillin ( YuaG ) , ABC transporters ( YknXYZ ) , non-haem bromoperoxidase ( $T2$ ) , epoxide hydrolase ( YfhM ) and three small peptides with structural similarities to bacteriocin precursor polypeptides .
+sigma W
+YdjP
+1

@@ -1,0 +1,608 @@
+In vivo effects of CGP-12177 on the expression of leptin and $T1$ genes in mouse brown and white adipose tissues OBJECTIVE : To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor ( AR ) agonist with beta2/beta1-AR antagonist action , on the expression of the leptin gene and of genes coding for uncoupling proteins ( ucp1 , ucp2 and ucp3 ) in brown and white adipose tissues CONCLUSION : The results reveal that simultaneous stimulation of the expression of certain $T2$ genes and the leptin gene can be achieved , and suggest that adrenergic regulation of the leptin gene and of genes of the ucp family in adipose tissues is the result of complex interactions between the different beta-AR pathways
+uncoupling protein
+ucp
+0
+The induction of $T1$ triggered by $T2$ in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway , downstream of transcription of the gibberellin-modulated transcriptional activator ( GAMYB ) needed for alpha-amylase induction
+alpha-amylase
+gibberellic acid
+1
+The induction of alpha-amylase triggered by gibberellic acid in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway , downstream of transcription of the $T1$-modulated transcriptional activator ( GAMYB ) needed for $T2$ induction
+gibberellin
+alpha-amylase
+0
+The induction of alpha-amylase triggered by $T1$ in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway , downstream of transcription of the $T2$-modulated transcriptional activator ( GAMYB ) needed for alpha-amylase induction
+gibberellic acid
+gibberellin
+0
+Isolation and characterization of gibbestatin B , an inhibitor of $T1$-induced expression of $T2$ , and gibbestatin C from streptomycetaes
+gibberellin
+alpha-amylase
+1
+HvSPY coexpression largely abolished $T1$-induced activity of an $T2$ promoter .
+GA3
+alpha-amylase
+1
+2 ) IGF-1 , IGF-2 , and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum : $T1$ ( PLC ) inhibitors , neomycin , or U-73122 partially blocked the intracellular [ Ca2+ ] i increase induced by IGF-1 and $T2$ and totally inhibited the effect of IGF-2
+phospholipase C
+insulin
+1
+The two groups were similar in their morning thyroxin , triiodothyronine , TSH , estradiol , cortisol , gastrin , cholecystokinin , somatostatin , $T1$ , $T2$ and IGF-1 levels
+oxytocin
+insulin
+0
+Further , the $T1$-induced activation of IK ( sl ) was effectively antagonized by 5 x 10 ( -8 ) mol/l U-73122 or 5 x 10 ( -6 ) mol/l 2-nitro-4-carboxyphenyl N , N-diphenylcarbamate ( inhibitors of the cell membrane phospholipase C ) , as well as by intracellularly applied heparin ( selective inhibitor of inositol-1,4,5-trisphosphate ( IP3 ) -induced Ca2+ release channels ) The data obtained suggest ( i ) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells , ( ii ) that the oxytocin-related relaxation may result from the activation of Ca ( 2+ ) -sensitive K+ conductivity via activation of $T2$-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and ( iii ) in turn , this evokes a non-inactivating component of IK , hyperpolarizing the cell membrane
+oxytocin
+IP3
+0
+Further , the oxytocin-induced activation of IK ( sl ) was effectively antagonized by 5 x 10 ( -8 ) mol/l U-73122 or 5 x 10 ( -6 ) mol/l 2-nitro-4-carboxyphenyl N , N-diphenylcarbamate ( inhibitors of the cell membrane phospholipase C ) , as well as by intracellularly applied heparin ( selective inhibitor of $T1$ ( IP3 ) -induced Ca2+ release channels ) The data obtained suggest ( i ) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells , ( ii ) that the oxytocin-related relaxation may result from the activation of Ca ( 2+ ) -sensitive K+ conductivity via activation of $T2$-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and ( iii ) in turn , this evokes a non-inactivating component of IK , hyperpolarizing the cell membrane
+inositol-1,4,5-trisphosphate
+IP3
+0
+Further , the $T1$-induced activation of IK ( sl ) was effectively antagonized by 5 x 10 ( -8 ) mol/l U-73122 or 5 x 10 ( -6 ) mol/l 2-nitro-4-carboxyphenyl N , N-diphenylcarbamate ( inhibitors of the cell membrane phospholipase C ) , as well as by intracellularly applied heparin ( selective inhibitor of $T2$ ( IP3 ) -induced Ca2+ release channels ) The data obtained suggest ( i ) that selective oxytocin receptors are present on the membranes of guinea-pig antral smooth muscle cells , ( ii ) that the oxytocin-related relaxation may result from the activation of Ca ( 2+ ) -sensitive K+ conductivity via activation of IP3-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and ( iii ) in turn , this evokes a non-inactivating component of IK , hyperpolarizing the cell membrane
+oxytocin
+inositol-1,4,5-trisphosphate
+0
+The distribution of $T1$ ( AVP ) cells in the SCN overlapped with that of $T2$ in both species Species differences in the location of the Ca2+-dependent PKC isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism , or the synchronization of AVP neurons and their subsequent output signals
+arginine-vasopressin
+PKC
+1
+The distribution of $T1$ ( AVP ) cells in the SCN overlapped with that of PKC in both species Species differences in the location of the Ca2+-dependent PKC isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism , or the synchronization of $T2$ neurons and their subsequent output signals
+arginine-vasopressin
+AVP
+0
+The distribution of arginine-vasopressin ( AVP ) cells in the SCN overlapped with that of PKC in both species Species differences in the location of the Ca2+-dependent $T1$ isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism , or the synchronization of $T2$ neurons and their subsequent output signals
+PKC
+AVP
+0
+Protein kinase C ( PKC ) inhibitors reversed AVP inhibition , whereas PKC activator inhibited nitrite production The inhibitory action of $T1$ involves both the activation of $T2$ and the transcription of iNOS mRNA in cultured rat GMC
+AVP
+PKC
+1
+$T1$ ( PKC ) inhibitors reversed $T2$ inhibition , whereas PKC activator inhibited nitrite production The inhibitory action of AVP involves both the activation of PKC and the transcription of iNOS mRNA in cultured rat GMC
+Protein kinase C
+AVP
+1
+$T1$ ( PKC ) inhibitors reversed AVP inhibition , whereas PKC activator inhibited nitrite production The inhibitory action of AVP involves both the activation of $T2$ and the transcription of iNOS mRNA in cultured rat GMC
+Protein kinase C
+PKC
+0
+Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and uncoupling protein-2 ( UCP-2 ) Leptin overexpression increased UCP-2 mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of $T1$ , $T2$ controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+UCP-2
+leptin
+1
+Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation Here we show that $T1$ alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and $T2$ ( UCP-2 ) Leptin overexpression increased UCP-2 mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2 , leptin controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+leptin
+uncoupling protein-2
+1
+Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and uncoupling protein-2 ( UCP-2 ) $T1$ overexpression increased $T2$ mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2 , leptin controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+Leptin
+UCP-2
+1
+Induction by $T1$ of $T2$ and enzymes of fatty acid oxidation Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and uncoupling protein-2 ( UCP-2 ) Leptin overexpression increased UCP-2 mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2 , leptin controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+leptin
+uncoupling protein-2
+1
+Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and $T1$ ( UCP-2 ) Leptin overexpression increased $T2$ mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2 , leptin controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+uncoupling protein-2
+UCP-2
+0
+Induction by leptin of uncoupling protein-2 and enzymes of fatty acid oxidation Here we show that leptin alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and $T1$ ( UCP-2 ) $T2$ overexpression increased UCP-2 mRNA by more than 10-fold in epididymal , retroperitoneal , and subcutaneous fat tissue of normal , but not of leptin-receptor-defective obese rats By directly regulating the expression of enzymes of free fatty acid metabolism and of UCP-2 , leptin controls intracellular triglyceride content of certain nonadipocytes , as well as adipocytes
+uncoupling protein-2
+Leptin
+0
+In isolated adipocytes , the loss of almost half the 18S RNA content over a 24-hour incubation was prevented in the presence of $T1$ but not $T2$ or epidermal growth factor ( EGF )
+insulin
+oxytocin
+0
+Long-term changes in gastrin , cholecystokinin and insulin in response to oxytocin treatment The present study was designed to investigate how repeated injections of oxytocin influence plasma levels of vagally controlled hormones such as gastrin , cholecystokinin ( CCK ) , insulin and somatostatin , as well as of endogenous oxytocin and glucose In addition , both insulin and CCK levels were decreased in response to the oxytocin treatment when measured 3 and 10 days after the last injection ( ANOVA ; insulin p < 0.01 , CCK p < 0.05 ) When the alpha2-adrenoreceptor agonist clonidine ( 2.5 microgram/kg intracerebroventricularly ) was administered 3 days after the 5-day treatment period with oxytocin or saline , plasma levels of insulin and CCK increased significantly ( p < 0.05 ) in the oxytocin-treated rats , when compared to saline-treated controls receiving clonidine only In conclusion , these results show that $T1$ induces long-lasting changes in plasma levels of gastrin , CCK and $T2$ , without affecting somatostatin or glucose levels
+oxytocin
+insulin
+1
+Long-term changes in gastrin , cholecystokinin and insulin in response to oxytocin treatment The present study was designed to investigate how repeated injections of $T1$ influence plasma levels of vagally controlled hormones such as gastrin , cholecystokinin ( CCK ) , $T2$ and somatostatin , as well as of endogenous oxytocin and glucose In addition , both insulin and CCK levels were decreased in response to the oxytocin treatment when measured 3 and 10 days after the last injection ( ANOVA ; insulin p < 0.01 , CCK p < 0.05 ) When the alpha2-adrenoreceptor agonist clonidine ( 2.5 microgram/kg intracerebroventricularly ) was administered 3 days after the 5-day treatment period with oxytocin or saline , plasma levels of insulin and CCK increased significantly ( p < 0.05 ) in the oxytocin-treated rats , when compared to saline-treated controls receiving clonidine only In conclusion , these results show that oxytocin induces long-lasting changes in plasma levels of gastrin , CCK and insulin , without affecting somatostatin or glucose levels
+oxytocin
+insulin
+1
+Long-term changes in gastrin , cholecystokinin and insulin in response to oxytocin treatment The present study was designed to investigate how repeated injections of oxytocin influence plasma levels of vagally controlled hormones such as gastrin , cholecystokinin ( CCK ) , insulin and somatostatin , as well as of endogenous oxytocin and glucose In addition , both $T1$ and CCK levels were decreased in response to the $T2$ treatment when measured 3 and 10 days after the last injection ( ANOVA ; insulin p < 0.01 , CCK p < 0.05 ) When the alpha2-adrenoreceptor agonist clonidine ( 2.5 microgram/kg intracerebroventricularly ) was administered 3 days after the 5-day treatment period with oxytocin or saline , plasma levels of insulin and CCK increased significantly ( p < 0.05 ) in the oxytocin-treated rats , when compared to saline-treated controls receiving clonidine only In conclusion , these results show that oxytocin induces long-lasting changes in plasma levels of gastrin , CCK and insulin , without affecting somatostatin or glucose levels
+insulin
+oxytocin
+1
+Long-term changes in gastrin , cholecystokinin and $T1$ in response to $T2$ treatment The present study was designed to investigate how repeated injections of oxytocin influence plasma levels of vagally controlled hormones such as gastrin , cholecystokinin ( CCK ) , insulin and somatostatin , as well as of endogenous oxytocin and glucose In addition , both insulin and CCK levels were decreased in response to the oxytocin treatment when measured 3 and 10 days after the last injection ( ANOVA ; insulin p < 0.01 , CCK p < 0.05 ) When the alpha2-adrenoreceptor agonist clonidine ( 2.5 microgram/kg intracerebroventricularly ) was administered 3 days after the 5-day treatment period with oxytocin or saline , plasma levels of insulin and CCK increased significantly ( p < 0.05 ) in the oxytocin-treated rats , when compared to saline-treated controls receiving clonidine only In conclusion , these results show that oxytocin induces long-lasting changes in plasma levels of gastrin , CCK and insulin , without affecting somatostatin or glucose levels
+insulin
+oxytocin
+1
+Dietary intakes of flavonols , flavones and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of $T1$ was inversely correlated with the plasma total $T2$ concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonoids
+cholesterol
+1
+Dietary intakes of flavonols , flavones and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of $T1$ was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL $T2$ concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonoids
+cholesterol
+1
+Dietary intakes of flavonols , $T1$ and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL $T2$ concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavones
+cholesterol
+1
+Dietary intakes of flavonols , flavones and $T1$ by Japanese women and the inverse correlation between quercetin intake and plasma LDL $T2$ concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+isoflavones
+cholesterol
+1
+Dietary intakes of $T1$ , flavones and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL $T2$ concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonols
+cholesterol
+1
+Dietary intakes of $T1$ , flavones and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of $T2$ was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonols
+flavonoids
+0
+Dietary intakes of flavonols , flavones and $T1$ by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of $T2$ was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+isoflavones
+flavonoids
+0
+Dietary intakes of flavonols , $T1$ and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of $T2$ was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavones
+flavonoids
+0
+Dietary intakes of $T1$ , flavones and $T2$ by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonols
+isoflavones
+0
+Dietary intakes of $T1$ , $T2$ and isoflavones by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavonols
+flavones
+0
+Dietary intakes of flavonols , $T1$ and $T2$ by Japanese women and the inverse correlation between quercetin intake and plasma LDL cholesterol concentration The total intake of flavonoids was inversely correlated with the plasma total cholesterol concentration ( TC ) ( r = -0.236 , P : < 0.05 ) and plasma LDL cholesterol concentration ( LDL-C ) ( r = -0.220 , P : < 0.05 ) , after the adjustment for age , body mass index and total energy intake
+flavones
+isoflavones
+0
+OT may rapidly stimulate inositol ( 1,4,5 ) -trisphosphate ( IP3 ) and diacylglycerol ( DAG ) formation , consistent with the concept of rapid activation of a second-messenger system In support of this hypothesis , endometrial $T1$ levels were increased ( P < 0.05 ) within 0.5 min after treatment with 0.1 microM $T2$ These results indicate that OT induces endometrial IP3 production in a rapid manner indicative of a second-messenger system
+IP3
+OT
+1
+OT may rapidly stimulate inositol ( 1,4,5 ) -trisphosphate ( IP3 ) and diacylglycerol ( DAG ) formation , consistent with the concept of rapid activation of a second-messenger system In support of this hypothesis , endometrial IP3 levels were increased ( P < 0.05 ) within 0.5 min after treatment with 0.1 microM OT These results indicate that $T1$ induces endometrial $T2$ production in a rapid manner indicative of a second-messenger system
+OT
+IP3
+1
+$T1$ may rapidly stimulate $T2$ ( IP3 ) and diacylglycerol ( DAG ) formation , consistent with the concept of rapid activation of a second-messenger system In support of this hypothesis , endometrial IP3 levels were increased ( P < 0.05 ) within 0.5 min after treatment with 0.1 microM OT These results indicate that OT induces endometrial IP3 production in a rapid manner indicative of a second-messenger system
+OT
+inositol (1,4,5)-trisphosphate
+1
+OT may rapidly stimulate $T1$ ( IP3 ) and diacylglycerol ( DAG ) formation , consistent with the concept of rapid activation of a second-messenger system In support of this hypothesis , endometrial IP3 levels were increased ( P < 0.05 ) within 0.5 min after treatment with 0.1 microM OT These results indicate that OT induces endometrial $T2$ production in a rapid manner indicative of a second-messenger system
+inositol (1,4,5)-trisphosphate
+IP3
+0
+We have established that the recovery of secreted N1 is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of $T1$ is up-regulated by $T2$ but not protein kinase A in human cells and murine neurons
+PrP(c)
+protein kinase C
+1
+We have established that the recovery of secreted N1 is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of PrP ( c ) is up-regulated by $T1$ but not $T2$ in human cells and murine neurons
+protein kinase C
+protein kinase A
+0
+We have established that the recovery of secreted $T1$ is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of PrP ( c ) is up-regulated by $T2$ but not protein kinase A in human cells and murine neurons
+N1
+protein kinase C
+0
+We have established that the recovery of secreted N1 is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of $T1$ is up-regulated by protein kinase C but not $T2$ in human cells and murine neurons
+PrP(c)
+protein kinase A
+0
+We have established that the recovery of secreted $T1$ is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of PrP ( c ) is up-regulated by protein kinase C but not $T2$ in human cells and murine neurons
+N1
+protein kinase A
+0
+We have established that the recovery of secreted $T1$ is increased by the protein kinase C agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines In contrast , secretion of N1 remains unaffected by the inactive PDBu analog alphaPDD and by the protein kinase A effectors dibutyryl cAMP and forskolin Overall , our data indicate that the normal processing of $T2$ is up-regulated by protein kinase C but not protein kinase A in human cells and murine neurons
+N1
+PrP(c)
+0
+Wortmannin converts insulin but not oxytocin from an antilipolytic to a lipolytic agent in the presence of forskolin The present studies compared the effects of insulin in rat adipocytes with the effects of oxytocin and peroxovanadate , which mimic some effects of insulin The antilipolytic effects of peroxovanadate and $T1$ were unaffected by 500 nmol/L wortmannin , which blocked the antilipolytic action of $T2$ The data provide additional support for the hypothesis that oxytocin and peroxovanadate affect adipose tissue metabolism by mechanisms distinctly different from those involved in insulin action
+oxytocin
+insulin
+0
+8-OH-DPAT also increased insulin and decreased CCK and somatostatin levels , effects that were blocked by pretreatment with the oxytocin antagonist Taken together , these data suggest that the effect of 8-OH-DPAT on plasma levels of $T1$ , somatostatin and CCK may be mediated by $T2$ In previous experiments , we have shown that following i.c.v .
+insulin
+oxytocin
+1
+application of $T1$ , plasma levels of $T2$ are increased through a cholinergic mechanism
+oxytocin
+insulin
+1
+8-OH-DPAT also increased $T1$ and decreased CCK and somatostatin levels , effects that were blocked by pretreatment with the $T2$ antagonist Taken together , these data suggest that the effect of 8-OH-DPAT on plasma levels of insulin , somatostatin and CCK may be mediated by oxytocin In previous experiments , we have shown that following i.c.v .
+insulin
+oxytocin
+1
+We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting , there is a corresponding reciprocal change in hypothalamic neuropeptide Y ( NPY ) mRNA in young rats , but there are no changes in older rats These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age We examined daily food consumption , body weight , whole-body oxygen consumption , serum leptin , and NPY mRNA in the hypothalamus $T1$ infusion diminished hypothalamic $T2$ levels by nearly 50 % compared with pair-fed young rats , whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+Leptin
+NPY
+1
+We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting , there is a corresponding reciprocal change in hypothalamic neuropeptide Y ( NPY ) mRNA in young rats , but there are no changes in older rats These findings suggest that the regulation of hypothalamic $T1$ mRNA by $T2$ may be impaired with age We examined daily food consumption , body weight , whole-body oxygen consumption , serum leptin , and NPY mRNA in the hypothalamus Leptin infusion diminished hypothalamic NPY levels by nearly 50 % compared with pair-fed young rats , whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+NPY
+leptin
+1
+We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting , there is a corresponding reciprocal change in hypothalamic $T1$ ( NPY ) mRNA in young rats , but there are no changes in older rats These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age We examined daily food consumption , body weight , whole-body oxygen consumption , serum $T2$ , and NPY mRNA in the hypothalamus Leptin infusion diminished hypothalamic NPY levels by nearly 50 % compared with pair-fed young rats , whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+neuropeptide Y
+leptin
+0
+We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting , there is a corresponding reciprocal change in hypothalamic $T1$ ( NPY ) mRNA in young rats , but there are no changes in older rats These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age We examined daily food consumption , body weight , whole-body oxygen consumption , serum leptin , and $T2$ mRNA in the hypothalamus Leptin infusion diminished hypothalamic NPY levels by nearly 50 % compared with pair-fed young rats , whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+neuropeptide Y
+NPY
+0
+We previously reported that adiposity and serum leptin levels increase with age in male F-344xBN rats and that when physiological levels of serum leptin are manipulated by fasting , there is a corresponding reciprocal change in hypothalamic $T1$ ( NPY ) mRNA in young rats , but there are no changes in older rats These findings suggest that the regulation of hypothalamic NPY mRNA by leptin may be impaired with age We examined daily food consumption , body weight , whole-body oxygen consumption , serum leptin , and NPY mRNA in the hypothalamus $T2$ infusion diminished hypothalamic NPY levels by nearly 50 % compared with pair-fed young rats , whereas there were no changes in the hypothalamic NPY mRNA levels in senescent rats These diminished responses to leptin were associated with and may be the result of an impaired suppression of hypothalamic NPY mRNA levels
+neuropeptide Y
+Leptin
+0
+Oxytocin induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased inositol 1,4,5-trisphosphate ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the $T1$-induced increase in [ Ca2+ ] i and $T2$ formation U-73122 ( 3 microM ) also abolished the OT-induced IP3 formation
+OT
+IP3
+1
+Oxytocin induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased inositol 1,4,5-trisphosphate ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and IP3 formation U-73122 ( 3 microM ) also abolished the $T1$-induced $T2$ formation
+OT
+IP3
+1
+Oxytocin induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of $T1$ ( 1 microM ) for 15 sec increased $T2$ ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and IP3 formation U-73122 ( 3 microM ) also abolished the OT-induced IP3 formation
+OT
+inositol 1,4,5-trisphosphate
+1
+Oxytocin induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased $T1$ ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and $T2$ formation U-73122 ( 3 microM ) also abolished the OT-induced IP3 formation
+inositol 1,4,5-trisphosphate
+IP3
+0
+$T1$ induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased inositol 1,4,5-trisphosphate ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and $T2$ formation U-73122 ( 3 microM ) also abolished the OT-induced IP3 formation
+Oxytocin
+IP3
+0
+$T1$ induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased inositol 1,4,5-trisphosphate ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and IP3 formation U-73122 ( 3 microM ) also abolished the $T2$-induced IP3 formation
+Oxytocin
+OT
+0
+$T1$ induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells : participation of a pertussis toxin-insensitive G-protein , inositol 1,4,5-trisphosphate-sensitive Ca2+ pool , and Ca2+ channels Administration of OT ( 1 microM ) for 15 sec increased $T2$ ( IP3 ) formation by 61 % Pretreatment with pertussis toxin ( PTX , 1 microgram/ml ) for 2 hr failed to alter the OT-induced increase in [ Ca2+ ] i and IP3 formation U-73122 ( 3 microM ) also abolished the OT-induced IP3 formation
+Oxytocin
+inositol 1,4,5-trisphosphate
+0
+The $T1$-responsive elements conserved in cereal $T2$ genes are not included in the 5'-upstream region of Rep1 or RepA
+gibberellin
+alpha-amylase
+1
+We propose that OT binds to specific OT receptors ( OTR ) on the endometrium to stimulate phosphoinositide ( PI ) hydrolysis , thereby activating the inositol trisphosphate ( IP3 ) -diacylglycerol ( DAG ) second-messenger system to promote pulsatile PGF2 alpha secretion Endometrial $T1$ was increased within 30 seconds after $T2$ treatment and preceded the increase in PGF2 alpha release stimulated by OT These results support the hypothesis that OT stimulates phospholipase C to hydrolyze PI , yielding IP3 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+IP3
+OT
+1
+We propose that OT binds to specific OT receptors ( OTR ) on the endometrium to stimulate phosphoinositide ( PI ) hydrolysis , thereby activating the inositol trisphosphate ( IP3 ) -diacylglycerol ( DAG ) second-messenger system to promote pulsatile PGF2 alpha secretion Endometrial IP3 was increased within 30 seconds after OT treatment and preceded the increase in PGF2 alpha release stimulated by OT These results support the hypothesis that $T1$ stimulates phospholipase C to hydrolyze PI , yielding $T2$ and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+OT
+IP3
+1
+We propose that $T1$ binds to specific OT receptors ( OTR ) on the endometrium to stimulate phosphoinositide ( PI ) hydrolysis , thereby activating the inositol trisphosphate ( $T2$ ) -diacylglycerol ( DAG ) second-messenger system to promote pulsatile PGF2 alpha secretion Endometrial IP3 was increased within 30 seconds after OT treatment and preceded the increase in PGF2 alpha release stimulated by OT These results support the hypothesis that OT stimulates phospholipase C to hydrolyze PI , yielding IP3 and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs
+OT
+IP3
+1
+Interactions between leptin and NPY affecting lipid mobilization in adipose tissue The aim of the current investigations was focused on the study of the involvement of leptin and neuropeptide Y in lipid mobilization The lipolytic rate was assessed through glycerol release after incubation with leptin and NPY at concentrations ranging from 10 ( -6 ) to 10 ( -12 ) M in isolated adipocytes obtained from female rats At equimolar concentrations of leptin and NPY ( 10 ( -12 ) to 10 ( -6 ) M ) the observed lipolytic activity is comparable to the basal lipolytic activity , except at a concentration of 10 ( -9 ) M where upon a significant increase in lipolysis is observed Summing up , new evidence suggests that $T1$ and $T2$ may interact in a homeostatic loop to regulate body-fat mass and energy balance not only at the central nervous system level , but also directly at the adipocyte level
+NPY
+leptin
+1
+Interactions between $T1$ and $T2$ affecting lipid mobilization in adipose tissue The aim of the current investigations was focused on the study of the involvement of leptin and neuropeptide Y in lipid mobilization The lipolytic rate was assessed through glycerol release after incubation with leptin and NPY at concentrations ranging from 10 ( -6 ) to 10 ( -12 ) M in isolated adipocytes obtained from female rats At equimolar concentrations of leptin and NPY ( 10 ( -12 ) to 10 ( -6 ) M ) the observed lipolytic activity is comparable to the basal lipolytic activity , except at a concentration of 10 ( -9 ) M where upon a significant increase in lipolysis is observed Summing up , new evidence suggests that NPY and leptin may interact in a homeostatic loop to regulate body-fat mass and energy balance not only at the central nervous system level , but also directly at the adipocyte level
+leptin
+NPY
+1
+Interactions between leptin and NPY affecting lipid mobilization in adipose tissue The aim of the current investigations was focused on the study of the involvement of leptin and $T1$ in lipid mobilization The lipolytic rate was assessed through glycerol release after incubation with leptin and $T2$ at concentrations ranging from 10 ( -6 ) to 10 ( -12 ) M in isolated adipocytes obtained from female rats At equimolar concentrations of leptin and NPY ( 10 ( -12 ) to 10 ( -6 ) M ) the observed lipolytic activity is comparable to the basal lipolytic activity , except at a concentration of 10 ( -9 ) M where upon a significant increase in lipolysis is observed Summing up , new evidence suggests that NPY and leptin may interact in a homeostatic loop to regulate body-fat mass and energy balance not only at the central nervous system level , but also directly at the adipocyte level
+neuropeptide Y
+NPY
+0
+Interactions between leptin and NPY affecting lipid mobilization in adipose tissue The aim of the current investigations was focused on the study of the involvement of leptin and $T1$ in lipid mobilization The lipolytic rate was assessed through glycerol release after incubation with leptin and NPY at concentrations ranging from 10 ( -6 ) to 10 ( -12 ) M in isolated adipocytes obtained from female rats At equimolar concentrations of $T2$ and NPY ( 10 ( -12 ) to 10 ( -6 ) M ) the observed lipolytic activity is comparable to the basal lipolytic activity , except at a concentration of 10 ( -9 ) M where upon a significant increase in lipolysis is observed Summing up , new evidence suggests that NPY and leptin may interact in a homeostatic loop to regulate body-fat mass and energy balance not only at the central nervous system level , but also directly at the adipocyte level
+neuropeptide Y
+leptin
+0
+Furthermore , immunocytochemical studies showed the $T1$-induced neuronal MAC expression on the SH-SY5Y cells after CD59 was removed by $T2$ or blocked by anti-CD59 antibody
+A beta
+PIPLC
+0
+Uncoupling protein-3 is a mediator of thermogenesis regulated by thyroid hormone , beta3-adrenergic agonists , and leptin $T1$ mRNA levels were also regulated by dexamethasone , $T2$ , and starvation , albeit differently in muscle and brown adipose tissue
+UCP3
+leptin
+1
+$T1$ is a mediator of thermogenesis regulated by thyroid hormone , beta3-adrenergic agonists , and $T2$ UCP3 mRNA levels were also regulated by dexamethasone , leptin , and starvation , albeit differently in muscle and brown adipose tissue
+Uncoupling protein-3
+leptin
+1
+$T1$ is a mediator of thermogenesis regulated by thyroid hormone , beta3-adrenergic agonists , and leptin $T2$ mRNA levels were also regulated by dexamethasone , leptin , and starvation , albeit differently in muscle and brown adipose tissue
+Uncoupling protein-3
+UCP3
+0
+The second class of mutant , gse ( GA sensitivity ) , differed principally in GA sensitivity , requiring approximately 100-fold higher [ $T1$ ] for both leaf elongation and $T2$ production by aleurone
+GA3
+alpha-amylase
+1
+The second class of mutant , gse ( $T1$ sensitivity ) , differed principally in GA sensitivity , requiring approximately 100-fold higher [ GA3 ] for both leaf elongation and $T2$ production by aleurone
+GA
+alpha-amylase
+0
+The second class of mutant , gse ( $T1$ sensitivity ) , differed principally in GA sensitivity , requiring approximately 100-fold higher [ $T2$ ] for both leaf elongation and alpha-amylase production by aleurone
+GA
+GA3
+0
+$T1$ stimulates $T2$ production in dose-dependent fashion as well
+Oxytocin
+IP3
+1
+This action of $T1$ 25-35 is not altered by pretreatment with the calcium channel blockers nifedipine or cobalt , with the depleter of intracellular calcium stores cyclopiazonic acid , or with the $T2$ inhibitor neomycin
+beta-amyloid
+phospholipase C
+0
+Hesperidin , the most important $T1$ of Citrus sp. , significantly increases HDL and lowers $T2$ , LDL , total lipid and triglyceride plasma levels in normolipidemic rats and in rats with diet- and triton-induced hyperlipidemia
+flavanone
+cholesterol
+1
+Effect of residual endogenous insulin secretion on the abnormal oxytocin response to hypoglycaemia in insulin-dependent diabetics Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion , we wondered whether this factor also regulates OT secretion DESIGN : Case-control study : the OT response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion Blood samples for OT assay were taken just before the rapid injection of insulin ( time 0 ) and at time 15 , 30 , 45 and 60 min CONCLUSIONS : These data indicate that a residual endogenous $T1$ secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the $T2$ secretory system in IDDM
+insulin
+OT
+1
+Effect of residual endogenous insulin secretion on the abnormal oxytocin response to hypoglycaemia in insulin-dependent diabetics Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous $T1$ secretion , we wondered whether this factor also regulates $T2$ secretion DESIGN : Case-control study : the OT response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion Blood samples for OT assay were taken just before the rapid injection of insulin ( time 0 ) and at time 15 , 30 , 45 and 60 min CONCLUSIONS : These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+insulin
+OT
+1
+Effect of residual endogenous insulin secretion on the abnormal oxytocin response to hypoglycaemia in insulin-dependent diabetics Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion , we wondered whether this factor also regulates OT secretion DESIGN : Case-control study : the $T1$ response to $T2$-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion Blood samples for OT assay were taken just before the rapid injection of insulin ( time 0 ) and at time 15 , 30 , 45 and 60 min CONCLUSIONS : These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+OT
+insulin
+1
+Effect of residual endogenous $T1$ secretion on the abnormal $T2$ response to hypoglycaemia in insulin-dependent diabetics Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion , we wondered whether this factor also regulates OT secretion DESIGN : Case-control study : the OT response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion Blood samples for OT assay were taken just before the rapid injection of insulin ( time 0 ) and at time 15 , 30 , 45 and 60 min CONCLUSIONS : These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+insulin
+oxytocin
+1
+Effect of residual endogenous insulin secretion on the abnormal $T1$ response to hypoglycaemia in insulin-dependent diabetics Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous insulin secretion , we wondered whether this factor also regulates OT secretion DESIGN : Case-control study : the $T2$ response to insulin-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous insulin secretion Blood samples for OT assay were taken just before the rapid injection of insulin ( time 0 ) and at time 15 , 30 , 45 and 60 min CONCLUSIONS : These data indicate that a residual endogenous insulin secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the OT secretory system in IDDM
+oxytocin
+OT
+0
+After protein kinase C activity was functionally depleted by treating cells with phorbol 12-myristate 13-acetate for 24 hours , AVP did not augment IL-1beta-induced NO production The effect of AVP was also inhibited in the presence of the protein kinase C inhibitor calphostin C The addition of $T1$ increased $T2$ activity in cardiac myocytes , and its effect was significantly inhibited in the presence of calphostin C These results support the hypothesis that the heart may be a target organ for AVP and that AVP modulates IL-1beta-induced iNOS expression in myocytes through the V1a receptor , which is mediated at least partially via activation of protein kinase C
+AVP
+protein kinase C
+1
+After protein kinase C activity was functionally depleted by treating cells with phorbol 12-myristate 13-acetate for 24 hours , AVP did not augment IL-1beta-induced NO production The effect of AVP was also inhibited in the presence of the protein kinase C inhibitor calphostin C The addition of AVP increased protein kinase C activity in cardiac myocytes , and its effect was significantly inhibited in the presence of calphostin C These results support the hypothesis that the heart may be a target organ for AVP and that $T1$ modulates IL-1beta-induced iNOS expression in myocytes through the V1a receptor , which is mediated at least partially via activation of $T2$
+AVP
+protein kinase C
+1
+After protein kinase C activity was functionally depleted by treating cells with phorbol 12-myristate 13-acetate for 24 hours , AVP did not augment IL-1beta-induced NO production The effect of $T1$ was also inhibited in the presence of the $T2$ inhibitor calphostin C The addition of AVP increased protein kinase C activity in cardiac myocytes , and its effect was significantly inhibited in the presence of calphostin C These results support the hypothesis that the heart may be a target organ for AVP and that AVP modulates IL-1beta-induced iNOS expression in myocytes through the V1a receptor , which is mediated at least partially via activation of protein kinase C
+AVP
+protein kinase C
+1
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms $T1$- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of $T2$ , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+AVP
+PKCalpha
+1
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that $T1$-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of $T2$ , betaI , epsilon , and delta
+AVP
+PKCalpha
+1
+Signal transduction of $T1$-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the $T2$-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+arginine vasopressin
+protein kinase C
+1
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the $T1$ ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of $T2$ , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+protein kinase C
+PKCalpha
+0
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; $T1$ inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of $T2$ , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+PKC
+PKCalpha
+0
+Signal transduction of $T1$-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of $T2$ , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+arginine vasopressin
+PKCalpha
+0
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the $T1$ ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the $T2$-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+protein kinase C
+AVP
+0
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; $T1$ inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the $T2$-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+PKC
+AVP
+0
+Signal transduction of $T1$-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; PKC inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the $T2$-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+arginine vasopressin
+AVP
+0
+Signal transduction of arginine vasopressin-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the $T1$ ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; $T2$ inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+protein kinase C
+PKC
+0
+Signal transduction of $T1$-induced arachidonic acid release in H9c2 cardiac myoblasts : role of Ca2+ and the protein kinase C-dependent activation of p42 mitogen-activated protein kinase The Ca2+ ionophore , A23187 or ionomycin , mimicked the effect of AVP , whereas the protein kinase C ( PKC ) activator , TPA , only induced a slight increase in AA release Western blots demonstrated expression of PKCalpha , betaI , epsilon , delta , and zeta in H9c2 cells ; $T2$ inhibitors ( staurosporine or Ro 31-8220 ) or down-regulation of PKCalpha , betaI , epsilon , and delta by long-term ( 24 h ) TPA treatment caused a partial blockade of the AVP-induced response , whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms AVP- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PKCalpha , betaI , epsilon , and delta , but still occurred , together with the cytosolic PLA2 mobility shift , in the absence of external Ca2+ These results show that AVP-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway , leading to an influx of extracellular Ca2+ and activation of PKCalpha , betaI , epsilon , and delta
+arginine vasopressin
+PKC
+0
+neuropeptide Y ( NPY ) , proopiomelanocortin ( POMC ) , agouti-related peptide ( AGRP ) and cocaine and amphetamine-regulated transcript ( CART ) were regulated in a pattern consistent with their presumed roles as mediators of leptin action In contrast , $T1$ decreased body weight and adiposity , increased CART and suppressed $T2$ and AGRP mRNA expression in adult mice
+leptin
+NPY
+1
+$T1$ ( NPY ) , proopiomelanocortin ( POMC ) , agouti-related peptide ( AGRP ) and cocaine and amphetamine-regulated transcript ( CART ) were regulated in a pattern consistent with their presumed roles as mediators of $T2$ action In contrast , leptin decreased body weight and adiposity , increased CART and suppressed NPY and AGRP mRNA expression in adult mice
+neuropeptide Y
+leptin
+1
+$T1$ ( NPY ) , proopiomelanocortin ( POMC ) , agouti-related peptide ( AGRP ) and cocaine and amphetamine-regulated transcript ( CART ) were regulated in a pattern consistent with their presumed roles as mediators of leptin action In contrast , leptin decreased body weight and adiposity , increased CART and suppressed $T2$ and AGRP mRNA expression in adult mice
+neuropeptide Y
+NPY
+0
+In the fasting state UCP-2 expression correlated inversely with body mass index ( r = -0.45 ; P = 0.026 ) , percent body fat ( r = -0.41 ; P = 0.05 ) , plasma insulin ( r = -0.47 ; P = 0.02 ) , epigastric venous fatty acids ( r = -0.45 ; P = 0.04 ) , and leptin ( r = -0.50 ; P = 0.018 ) $T1$ expression remained inversely related with plasma $T2$ after controlling for percent body ( r = -0.45 ; P = 0.038 ) In conclusion , 1 ) UCP-2 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma leptin levels ; and 2 ) UCP-2 expression is not acutely regulated by food intake , insulin , or fatty acids
+UCP-2
+leptin
+1
+In the fasting state UCP-2 expression correlated inversely with body mass index ( r = -0.45 ; P = 0.026 ) , percent body fat ( r = -0.41 ; P = 0.05 ) , plasma insulin ( r = -0.47 ; P = 0.02 ) , epigastric venous fatty acids ( r = -0.45 ; P = 0.04 ) , and leptin ( r = -0.50 ; P = 0.018 ) UCP-2 expression remained inversely related with plasma leptin after controlling for percent body ( r = -0.45 ; P = 0.038 ) In conclusion , 1 ) $T1$ messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma $T2$ levels ; and 2 ) UCP-2 expression is not acutely regulated by food intake , insulin , or fatty acids
+UCP-2
+leptin
+1
+In the fasting state $T1$ expression correlated inversely with body mass index ( r = -0.45 ; P = 0.026 ) , percent body fat ( r = -0.41 ; P = 0.05 ) , plasma insulin ( r = -0.47 ; P = 0.02 ) , epigastric venous fatty acids ( r = -0.45 ; P = 0.04 ) , and $T2$ ( r = -0.50 ; P = 0.018 ) UCP-2 expression remained inversely related with plasma leptin after controlling for percent body ( r = -0.45 ; P = 0.038 ) In conclusion , 1 ) UCP-2 messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma leptin levels ; and 2 ) UCP-2 expression is not acutely regulated by food intake , insulin , or fatty acids
+UCP-2
+leptin
+1
+The activity of the MAPKs , induced by AVP or PMA was inhibited by downregulation of protein kinase C ( PKC ) , by the tyrosine kinase inhibitor genistein and by MAPK kinase ( MEK ) inhibitor , PD98059 We suggest that $T1$ activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of AVP-V1 receptor , tyrosine kinase , $T2$ and MEK
+AVP
+PKC
+1
+The activity of the MAPKs , induced by $T1$ or PMA was inhibited by downregulation of $T2$ ( PKC ) , by the tyrosine kinase inhibitor genistein and by MAPK kinase ( MEK ) inhibitor , PD98059 We suggest that AVP activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of AVP-V1 receptor , tyrosine kinase , PKC and MEK
+AVP
+protein kinase C
+1
+The activity of the MAPKs , induced by AVP or PMA was inhibited by downregulation of $T1$ ( PKC ) , by the tyrosine kinase inhibitor genistein and by MAPK kinase ( MEK ) inhibitor , PD98059 We suggest that AVP activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of AVP-V1 receptor , tyrosine kinase , $T2$ and MEK
+protein kinase C
+PKC
+0
+Our data demonstrate , that activation of mitogen activated protein ( MAP ) kinase alone is sufficient to promote $T1$ secretion , whereas inhibition of MAP kinase will reduce APP secretion only when $T2$ or phosphatidylinositol 3-kinase are additionally inhibited
+APP
+phospholipase Cgamma
+0
+Association of the insulin receptor with phospholipase C-gamma ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for $T1$ in metabolic signaling by $T2$ To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of PLC , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PLCgamma to block insulin-stimulated GLUT4 translocation
+PLCgamma
+insulin
+1
+Association of the insulin receptor with phospholipase C-gamma ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of $T1$ , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from $T2$ to block insulin-stimulated GLUT4 translocation
+PLC
+PLCgamma
+0
+Association of the insulin receptor with $T1$ ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of PLC , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from $T2$ to block insulin-stimulated GLUT4 translocation
+phospholipase C-gamma
+PLCgamma
+0
+Association of the insulin receptor with phospholipase C-gamma ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of $T1$ , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PLCgamma to block $T2$-stimulated GLUT4 translocation
+PLC
+insulin
+0
+Association of the insulin receptor with $T1$ ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of PLC , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PLCgamma to block $T2$-stimulated GLUT4 translocation
+phospholipase C-gamma
+insulin
+0
+Association of the insulin receptor with $T1$ ( PLCgamma ) in 3T3-L1 adipocytes suggests a role for PLCgamma in metabolic signaling by insulin To determine the functional significance of the interaction of PLCgamma and the IR , we used a specific inhibitor of $T2$ , U73122 , or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PLCgamma to block insulin-stimulated GLUT4 translocation
+phospholipase C-gamma
+PLC
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of $T1$ on glucose utilization and on the expression of $T2$ may be mediated through central mechanism
+leptin
+UCPs
+1
+Effects of intravenously infused leptin on insulin sensitivity and on the expression of uncoupling proteins in brown adipose tissue Centrally administered $T1$ has been shown to increase insulin-stimulated glucose utilization and to favor the expression of $T2$ ( UCPs ) To study if leptin also has direct peripherally mediated effects on these processes , this hormone ( 1 mg/day ) or its vehicle was infused i.v .
+leptin
+uncoupling proteins
+1
+$T1$ infusion also favored the expression of $T2$ in brown adipose tissue , either by increasing their expression or preventing the fall occurring during the pair-feeding regimen .
+leptin
+UCPs
+1
+Effects of intravenously infused $T1$ on insulin sensitivity and on the expression of $T2$ in brown adipose tissue Centrally administered leptin has been shown to increase insulin-stimulated glucose utilization and to favor the expression of uncoupling proteins ( UCPs ) To study if leptin also has direct peripherally mediated effects on these processes , this hormone ( 1 mg/day ) or its vehicle was infused i.v .
+leptin
+uncoupling proteins
+1
+Relative UCP expression levels were 100 , 104 , and 33 for $T1$ , 100 , 191 , and 125 for $T2$ and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP1
+UCP2
+0
+Relative UCP expression levels were 100 , 104 , and 33 for $T1$ , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for $T2$ in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP1
+UCP3
+0
+Relative UCP expression levels were 100 , 104 , and 33 for $T1$ , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in $T2$-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP1
+leptin
+0
+Relative $T1$ expression levels were 100 , 104 , and 33 for $T2$ , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP
+UCP1
+0
+Relative UCP expression levels were 100 , 104 , and 33 for $T1$ , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of $T2$ may be mediated through central mechanism
+UCP1
+UCPs
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for $T1$ and 100 , 107 , and 29 for $T2$ in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP2
+UCP3
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for $T1$ and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in $T2$-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP2
+leptin
+0
+Relative $T1$ expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for $T2$ and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP
+UCP2
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for $T1$ and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of $T2$ may be mediated through central mechanism
+UCP2
+UCPs
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for $T1$ in ad libitum fed control rats , in $T2$-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP3
+leptin
+0
+Relative $T1$ expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for $T2$ in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP
+UCP3
+0
+Relative UCP expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for $T1$ in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of $T2$ may be mediated through central mechanism
+UCP3
+UCPs
+0
+Relative $T1$ expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in $T2$-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of UCPs may be mediated through central mechanism
+UCP
+leptin
+0
+Relative $T1$ expression levels were 100 , 104 , and 33 for UCP1 , 100 , 191 , and 125 for UCP2 and 100 , 107 , and 29 for UCP3 in ad libitum fed control rats , in leptin-treated rats and in pair-fed control rats , respectively These results suggest that the overall effect of leptin on glucose utilization and on the expression of $T2$ may be mediated through central mechanism
+UCP
+UCPs
+0
+During wk 6 , milk yield and dry matter intake ( DMI ) were recorded daily , and plasma concentrations of glucose , nonesterified fatty acids , urea , protein , growth hormone , $T1$ , insulin-like growth factor I , $T2$ , and prolactin were determined
+insulin
+oxytocin
+0
+The beta $T1$ protein fragments had diverse effects on phosphoinositide-specific $T2$ ( PI-PLC ) as assayed in rat cortical membranes
+amyloid
+phospholipase C
+1
+Activity and expression of the three $T1$ 's are stimulated by several neuromediators and hormones such as noradrenaline , tri-iodothyronine and $T2$
+UCP
+leptin
+1
+$T1$ has been demonstrated to decrease or down regulate $T2$ expression and increase POMC expression
+Leptin
+NPY
+1
+Possible central nervous system ( CNS ) mechanisms could mediate these responses in that leptin receptors are located on hypothalamic neurons that coexpress $T1$ ( NPY ) or proopiomelanocortin ( POMC ) and both peptides that have been implicated as mediators of the CNS action of $T2$ .
+neuropeptide-Y
+leptin
+1
+These results suggest that APP-S secretion and $T1$ production in NT2N neurons are regulated by the muscarinic/$T2$ signal transduction pathway
+A beta
+phospholipase C
+1
+These results suggest that $T1$ secretion and A beta production in NT2N neurons are regulated by the muscarinic/$T2$ signal transduction pathway
+APP-S
+phospholipase C
+1
+These results suggest that $T1$ secretion and $T2$ production in NT2N neurons are regulated by the muscarinic/phospholipase C signal transduction pathway
+APP-S
+A beta
+0
+Insulin secretion , inositol phosphate levels , and phospholipase C isozymes in rodent pancreatic islets These findings are consistent with the concept that the underexpression of the nutrient-activated $T1$ isozyme may account for the minimal inositol phosphate ( IP ) and second-phase $T2$ secretory response from mouse islets
+PLC
+insulin
+1
+Insulin secretion , inositol phosphate levels , and $T1$ isozymes in rodent pancreatic islets These findings are consistent with the concept that the underexpression of the nutrient-activated PLC isozyme may account for the minimal inositol phosphate ( IP ) and second-phase $T2$ secretory response from mouse islets
+phospholipase C
+insulin
+0
+$T1$ secretion , inositol phosphate levels , and phospholipase C isozymes in rodent pancreatic islets These findings are consistent with the concept that the underexpression of the nutrient-activated $T2$ isozyme may account for the minimal inositol phosphate ( IP ) and second-phase insulin secretory response from mouse islets
+Insulin
+PLC
+0
+$T1$ secretion , inositol phosphate levels , and $T2$ isozymes in rodent pancreatic islets These findings are consistent with the concept that the underexpression of the nutrient-activated PLC isozyme may account for the minimal inositol phosphate ( IP ) and second-phase insulin secretory response from mouse islets
+Insulin
+phospholipase C
+0
+Insulin secretion , inositol phosphate levels , and $T1$ isozymes in rodent pancreatic islets These findings are consistent with the concept that the underexpression of the nutrient-activated $T2$ isozyme may account for the minimal inositol phosphate ( IP ) and second-phase insulin secretory response from mouse islets
+phospholipase C
+PLC
+0
+We have studied the effects of neomycin , a potent inhibitor of inositol phospholipid-specific phospholipase C ( PLC ) , on the germination of rice seed and the gibberellin-induced expression of alpha-amylase in the aleurone layer and the scutellar tissues It was shown that , in the absence of exogenous Ca2+ , neomycin markedly reduced the germination speed and seedling growth of rice seeds and inhibited the $T1$-induced expression of $T2$ in both secretory tissues These results strongly suggest that the phosphoinositide-Ca2+ signal transduction pathway may play an important role in the gibberellin-induced expression of alpha-amylase molecules closely related to the germination processes of rice seed
+gibberellin
+alpha-amylase
+1
+We have studied the effects of neomycin , a potent inhibitor of inositol phospholipid-specific phospholipase C ( PLC ) , on the germination of rice seed and the gibberellin-induced expression of alpha-amylase in the aleurone layer and the scutellar tissues It was shown that , in the absence of exogenous Ca2+ , neomycin markedly reduced the germination speed and seedling growth of rice seeds and inhibited the gibberellin-induced expression of alpha-amylase in both secretory tissues These results strongly suggest that the phosphoinositide-Ca2+ signal transduction pathway may play an important role in the $T1$-induced expression of $T2$ molecules closely related to the germination processes of rice seed
+gibberellin
+alpha-amylase
+1
+We have studied the effects of neomycin , a potent inhibitor of inositol phospholipid-specific phospholipase C ( PLC ) , on the germination of rice seed and the $T1$-induced expression of $T2$ in the aleurone layer and the scutellar tissues It was shown that , in the absence of exogenous Ca2+ , neomycin markedly reduced the germination speed and seedling growth of rice seeds and inhibited the gibberellin-induced expression of alpha-amylase in both secretory tissues These results strongly suggest that the phosphoinositide-Ca2+ signal transduction pathway may play an important role in the gibberellin-induced expression of alpha-amylase molecules closely related to the germination processes of rice seed
+gibberellin
+alpha-amylase
+1

@@ -1,0 +1,300 @@
+The deduced consensus closely resembled $T1$ response elements in $T2$ promoters
+gibberellin
+alpha-amylase
+1
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, $T1$ significantly decreased the basal activity of the $T2$ in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta) (1-40)
+PIP2-PLC
+1
+Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase Cgamma and protein kinase Calpha signalling cascade. Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an $T1$$T2$ has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner. The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner. In summary, we demonstrate that insulin treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PLCgamma, are expressed at sufficient levels.
+insulin
+phospholipase C (PLC)gamma
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on $T1$$T2$, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+Abeta
+amyloid
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of $T1$$T2$ peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta)
+amyloid
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of $T1$$T2$ peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+PLC
+amyloid
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, $T1$ activates $T2$ but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+Abeta 25-35
+PI-PLC
+1
+We previously showed that arginine vasopressin (AVP) stimulates heat shock protein 27 (HSP27) induction through protein kinase C activation in aortic smooth muscle A10 cells Calphostin C and ET-18-OCH(3), inhibitors of protein kinase C, reduced the phosphorylation of p38 MAP kinase by $T1$$T2$ (AVP) stimulates heat shock protein 27 (HSP27) induction through protein kinase C activation in aortic smooth muscle A10 cells Calphostin C and ET-18-OCH(3), inhibitors of protein kinase C, reduced the phosphorylation of p38 MAP kinase by AVP
+AVP
+arginine vasopressin
+0
+The ARC NPY neurones are stimulated by starvation, probably mediated by falls in circulating leptin and insulin (which both inhibit these neurones), and contribute to the increased hunger in this and other conditions of energy deficit ARC NPY neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which $T1$$T2$ neurones are stimulated by starvation, probably mediated by falls in circulating leptin and insulin (which both inhibit these neurones), and contribute to the increased hunger in this and other conditions of energy deficit ARC NPY neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which leptin inhibition is lost through mutations affecting leptin or its receptor
+leptin
+NPY
+0
+$T1$ beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of $T2$ activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+Amyloid
+phospholipase C
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on $T1$$T2$ exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+Abeta
+Abeta 25-35
+0
+Amyloid beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane phospholipase(s) C of adult brain cortex Fresh-water-soluble A beta 25-35 activated PI-PLC in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2 Moreover, A beta 25-35 had no effect on basal PIP2-PLC activity and cytosolic PI-PLC and PIP2-PLC The aggregated form of $T1$ 25-35 significantly inhibited $T2$ only in the presence of endogenous CaCl2
+A beta
+PIP2-PLC
+1
+Amyloid beta protein (25-35) stimulation of $T1$ A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that $T2$ beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+phospholipases
+amyloid
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of $T1$$T2$ (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+PLC
+phospholipase C
+0
+They are needed for the catabolism of $T1$, bile acids, and steroid hormones; they hydrolyze a number of $T2$ glycosides to anticarcinogens; and they detoxify certain carcinogens
+cholesterol
+flavonoid
+0
+$T1$ and $T2$ (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT leptin expression
+Leptin
+UCP
+0
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the $T1$-induced increase in $T2$ release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+Oxy
+insulin
+1
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of $T1$ by $T2$
+phospholipase C
+A beta P
+1
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release RESULTS: $T1$ increased $T2$ release and [Ca2+]i in a concentration-dependent manner Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+Oxy
+insulin
+1
+$T1$ beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of $T2$, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+Amyloid
+A beta P
+0
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the $T1$ mediated stimulation of $T2$ activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+A beta P
+phospholipase C
+1
+Similarly, carbachol, but not AVP or DDAVP, induced a significant increase in membrane-associated protein kinase C (PKC) enzyme activity In contrast, AVP had no effect on the distribution of any $T1$$T2$ (PKC) enzyme activity In contrast, AVP had no effect on the distribution of any PKC isoform tested
+PKC
+protein kinase C
+0
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of $T1$ resulted in induction of the uterine $T2$ and UCP3 levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+leptin
+UCP2
+1
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and $T1$$T2$ and UCP3 levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+UCP3
+UCP2
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on $T1$-evoked alterations of synaptic plasma membrane-bound $T2$
+Abeta
+PI-PLC
+1
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively $T1$-stimulated $T2$ release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+Oxytocin
+insulin
+1
+Leptin and UCP (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT $T1$$T2$ (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT leptin expression
+leptin
+UCP
+0
+An inhibitor of $T1$, Ro31-8220 (10 microM), abolished the ability of PDBu to decrease [Ca(2+)](i), without affecting the response to maximal or submaximal concentrations of $T2$
+PKC
+AVP
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of $T1$$T2$ (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta)
+phospholipase C
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific $T1$ (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the $T2$ in SPM and the enzyme activity regulated through cholinergic receptors
+phospholipase C
+PIP2-PLC
+0
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and UCP3 levels These results indicate that $T1$$T2$ resulted in induction of the uterine UCP2 and UCP3 levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+UCP
+leptin
+0
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying $T1$ (Oxy)-induced $T2$ release RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+oxytocin
+insulin
+1
+Amyloid beta protein (25-35) stimulation of $T1$ A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of $T2$ activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+phospholipases
+phospholipase C
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of $T1$ This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the $T2$ in SPM and the enzyme activity regulated through cholinergic receptors
+PLC
+PIP2-PLC
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, $T1$$T2$ peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta) (1-40)
+amyloid
+0
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the $T1$-induced increases in [Ca2+]i and $T2$; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner Oxy-induced insulin release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+Oxy
+IP3
+1
+Amyloid beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane phospholipase(s) C of adult brain cortex Fresh-water-soluble $T1$ 25-35 activated $T2$ in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2 Moreover, A beta 25-35 had no effect on basal PIP2-PLC activity and cytosolic PI-PLC and PIP2-PLC The aggregated form of A beta 25-35 significantly inhibited PIP2-PLC only in the presence of endogenous CaCl2
+A beta
+PI-PLC
+1
+Aggregated beta $T1$ peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic $T2$ in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+amyloid
+phospholipase C
+1
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and UCP3 levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine $T1$ and UCP3 mRNA may be due to increased $T2$ levels
+UCP2
+leptin
+1
+A neurotoxic fragment of $T1$, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the $T2$ activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+amyloid
+PI-PLC
+1
+The relative risks between highest and lowest quarters of $T1$ intake adjusted for age, smoking, serum $T2$ concentration, blood pressure, and body mass index were 0.69 (95% confidence interval 0.53 to 0.90) and 0.54 (0.33 to 0.87) for total and coronary mortality, respectively
+flavonoid
+cholesterol
+0
+Leptin and UCP (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT $T1$$T2$ expression, as well as for plasma leptin and WAT leptin expression
+leptin
+UCP2
+0
+METHODS: We have therefore studied possible associations of the Gln27Glu and the Gly16Arg polymorphisms in the beta2AR with BMI, plasma leptin and UCP-1 mRNA expression in the intraperitoneal adipose tissue in a population of Caucasian women Furthermore, no association was found between the Gln27Glu or the Gly16Arg polymorphisms and plasma leptin or adipose tissue $T1$$T2$ and UCP-1 mRNA expression in the intraperitoneal adipose tissue in a population of Caucasian women Furthermore, no association was found between the Gln27Glu or the Gly16Arg polymorphisms and plasma leptin or adipose tissue UCP-1 gene expression in either group
+UCP-1
+leptin
+0
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of $T1$, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that $T2$ beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+A beta P
+amyloid
+0
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of $T1$ resulted in induction of the uterine UCP2 and $T2$ levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+leptin
+UCP3
+1
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the $T1$ stimulation of $T2$ activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+A beta P
+phospholipase C
+1
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of $T1$ on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the $T2$ in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta)
+PIP2-PLC
+0
+Finally, recent evidences suggest that melanocortins could be involved in mediating the effects of $T1$, and in controlling the expression of $T2$ (NPY)
+leptin
+neuropeptide Y
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, $T1$$T2$, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, Abeta 25-35 exerts a similar effect on the membrane-bound PI-PLC from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+Abeta 25-35
+amyloid
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of $T1$ on membrane-bound and cytosolic $T2$ Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta)
+PLC
+1
+Leptin and UCP (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle $T1$$T2$ (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT leptin expression
+UCP2
+UCP
+0
+We previously showed that $T1$ (AVP) stimulates heat shock protein 27 (HSP27) induction through $T2$ activation in aortic smooth muscle A10 cells Calphostin C and ET-18-OCH(3), inhibitors of protein kinase C, reduced the phosphorylation of p38 MAP kinase by AVP
+arginine vasopressin
+protein kinase C
+1
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and $T1$ levels These results indicate that $T2$ gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+UCP3
+UCP
+0
+Amyloid beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane phospholipase(s) C of adult brain cortex Fresh-water-soluble A beta 25-35 activated PI-PLC in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2 Moreover, A beta 25-35 had no effect on basal $T1$ activity and cytosolic $T2$ and PIP2-PLC The aggregated form of A beta 25-35 significantly inhibited PIP2-PLC only in the presence of endogenous CaCl2
+PIP2-PLC
+PI-PLC
+0
+We previously showed that arginine vasopressin (AVP) stimulates heat shock protein 27 (HSP27) induction through protein kinase C activation in aortic smooth muscle A10 cells Calphostin C and ET-18-OCH(3), inhibitors of $T1$, reduced the phosphorylation of p38 MAP kinase by $T2$
+protein kinase C
+AVP
+1
+Treatment with (+)-trifluoro-ABA strongly inhibited the $T1$-inducible expression of $T2$ I-1 encoded by RAmy1A in the aleurone layers of embryoless half-seeds at the levels of transcription, protein synthesis, and enzyme activity
+gibberellic acid
+alpha-amylase
+1
+$T1$ beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane $T2$ of adult brain cortex Fresh-water-soluble A beta 25-35 activated PI-PLC in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2 Moreover, A beta 25-35 had no effect on basal PIP2-PLC activity and cytosolic PI-PLC and PIP2-PLC The aggregated form of A beta 25-35 significantly inhibited PIP2-PLC only in the presence of endogenous CaCl2
+Amyloid
+phospholipase(s) C
+1
+$T1$ beta protein (25-35) stimulation of $T2$ A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+Amyloid
+phospholipases
+1
+Similarly, carbachol, but not $T1$ or DDAVP, induced a significant increase in membrane-associated $T2$ (PKC) enzyme activity In contrast, AVP had no effect on the distribution of any PKC isoform tested
+AVP
+protein kinase C
+0
+Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase Cgamma and protein kinase Calpha signalling cascade. Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner. The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner. In summary, we demonstrate that $T1$ treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and $T2$, are expressed at sufficient levels.
+insulin
+PLCgamma
+1
+Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways. CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms. In addition, U-73122 diminished the Oxy-induced increase in intracellular concentration of inositol 1, 4, 5-triphosphate (IP3) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively Oxytocin-stimulated insulin release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways AIM: To study the mechanisms underlying oxytocin (Oxy)-induced insulin release RESULTS: Oxy increased insulin release and [Ca2+]i in a concentration-dependent manner $T1$-induced $T2$ release was not altered by pretreatment with pertussis toxin (PT) U-73122 at 8 mumol.L-1 totally abolished the Oxy-induced increases in [Ca2+]i and IP3; however it reduced the Oxy-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively CONCLUSION: Oxy increases insulin release through both PLC and non-PLC mediated signal transduction mechanisms
+Oxy
+insulin
+1
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of $T1$ This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, $T2$ significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+PLC
+A(beta) (1-40)
+0
+A neurotoxic fragment of amyloid, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PI-PLC activity of normoxic brain In its non-aggregated form, Abeta 25-35 activates PI-PLC but in the aggregated form the enzymatic activity decreased Thus, $T1$ exerts a similar effect on the membrane-bound $T2$ from normoxic brain or subjected to ischemia reperfusion injury Ischemia-reperfusion injury had no effect on Abeta-evoked alterations of synaptic plasma membrane-bound PI-PLC
+Abeta 25-35
+PI-PLC
+1
+Insulin-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the phospholipase Cgamma and protein kinase Calpha signalling cascade. Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with $T1$$T2$ has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner. The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner. In summary, we demonstrate that insulin treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PLCgamma, are expressed at sufficient levels.
+PLCgamma
+phospholipase C (PLC)gamma
+0
+Interestingly, both 5-HT and $T1$ modulate the action of $T2$, which may form a part of a common output pathway for the expression of appetite
+leptin
+NPY
+1
+The glycosyl-phosphatidylinositol anchored protein, membrane dipeptidase (EC 3.4.13.19) is released from the surface of 3T3-L1 adipocytes in response to $T1$ treatment through the action of a $T2$ Although X-Pro aminopeptidase (EC 3.4.11.9) is GPI-anchored in 3T3-L1 adipocytes as shown by digestion with bacterial phosphatidylinositol-specific phospholipase C, it was not released upon insulin treatment of the cells, indicating that only a subset of the GPI-anchored proteins are susceptible to insulin-stimulated release
+insulin
+phospholipase C
+1
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific $T1$ (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, $T2$ significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+phospholipase C
+A(beta) (1-40)
+0
+Leptin and UCP (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle $T1$$T2$ and UCP (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle A negative correlation between WAT O2 consumption and UCP2 expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle UCP2 expression, as well as for plasma leptin and WAT leptin expression
+UCP2
+Leptin
+0
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of $T1$$T2$ A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that amyloid beta protein activation of phospholipase C may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+A beta P
+phospholipases
+0
+$T1$-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the $T2$ and protein kinase Calpha signalling cascade. Co-expression of PLD1 with phospholipase C (PLC)gamma has the same effect, while co-expression of PLD2 with PLCgamma allows PLD2 activity to be stimulated in an insulin-dependent manner. The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish insulin-induced PLD2 activation in HEK-293 cells co-expressing the insulin receptor, PLCgamma and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner. In summary, we demonstrate that insulin treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PLCgamma, are expressed at sufficient levels.
+Insulin
+phospholipase Cgamma
+1
+The effect of $T1$ in adult rats appears to be exerted at hypothalamic level by regulating growth hormone releasing hormone (GHRH), somatostatin and $T2$ (NPY)-producing neurones
+leptin
+neuropeptide Y
+1
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the $T1$$T2$ peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of A(beta) on membrane-bound and cytosolic PLC Moreover, A(beta) (1-40) significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+PIP2-PLC
+amyloid
+0
+The expression of uterine UCP2 and UCP3 were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT leptin mRNA expression and exogenous administration of leptin resulted in induction of the uterine UCP2 and UCP3 levels These results indicate that $T1$$T2$ and UCP3 levels These results indicate that UCP gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine UCP2 and UCP3 mRNA may be due to increased leptin levels
+UCP
+UCP2
+0
+Aggregated beta amyloid peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic phospholipase C in brain cortex The effects of full-length amyloid beta protein, A(beta) (1-40), on phosphoinositide-specific phospholipase C (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats Aggregated A(beta) also decreased significantly the level of diacylglycerol, the product of PLC This additionally supports the inhibitory effect of $T1$ on membrane-bound and cytosolic PLC Moreover, $T2$ significantly decreased the basal activity of the PIP2-PLC in SPM and the enzyme activity regulated through cholinergic receptors
+A(beta)
+A(beta) (1-40)
+0
+Amyloid beta protein (25-35) stimulation of phospholipases A, C and D activities of LA-N-2 cells [3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of A beta P, from 20 to 125 micrograms/ml, and phospholipase C activation was measured The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the A beta P mediated stimulation of phospholipase C activity was investigated Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the A beta P stimulation of phospholipase C activity in [3H]inositol prelabeled LA-N-2 cells This suggests that $T1$ beta protein activation of $T2$ may be receptor mediated The phospholipase C inhibitor U 71322 prevented the activation of phospholipase C by A beta P
+amyloid
+phospholipase C
+1

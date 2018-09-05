@@ -1,0 +1,300 @@
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of $T1$$T2$ (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+CK2
+bovine prion protein
+0
+Melatonin inhibits oxytocin response to insulin-induced hypoglycemia, but not to angiotensin II in normal men In order to establish whether melatonin alters basal and/or stimulated oxytocin secretion, 18 normal men were treated (p.o.) with 6 or 12 mg melatonin or placebo in basal conditions (N-6 subjects) or concomitantly to the administration of insulin (O.15 IU/kg body weight in an i.v. bolus) (N-6 subjects) or angiotensin II (increasing doses of 4, 8 and 16 ng/kg/min, at intervals of 20 min) In contrast, the $T1$ response to $T2$-induced hypoglycemia was significantly reduced by melatonin treatment
+oxytocin
+insulin
+1
+A barley gene encoding a novel DNA-binding protein (HRT) was identified by southwestern screening with baits containing a $T1$ phytohormone response element from an $T2$ promoter
+gibberellin
+alpha-amylase
+1
+The induction of $T1$ triggered by $T2$ in barley embryos is repressed by sugars Our results indicate that glucose represses gibberellin signalling late along this hormone transduction pathway, downstream of transcription of the gibberellin-modulated transcriptional activator (GAMYB) needed for alpha-amylase induction
+alpha-amylase
+gibberellic acid
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the $T1$$T2$ (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+PrP
+bovine prion protein
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The $T1$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T2$ activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC inhibitors
+PKC
+0
+To assess the possible involvement of PKC in AVP and IL-1 action in Leydig cells, the PKC inhibitor Calphostin C was tested These results confirm that $T1$ and PMA activate $T2$ and indicate that IL-1 likely does not activate PKC in Leydig cells
+AVP
+PKC
+1
+These data suggest that cAMP-dependent phosphorylation at a step involving GTP-binding protein/PLC coupling can exert a negative effect on the stimulation of $T1$ formation by $T2$ and thereby affect contraction/relaxation in the myometrium
+IP3
+oxytocin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of $T1$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T2$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+vasopressin
+PKC-epsilon
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of $T1$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or $T2$ Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+vasopressin
+AVP
+0
+Isolation and characterization of gibbestatin B, an inhibitor of $T1$-induced expression of $T2$, and gibbestatin C from streptomycetaes
+gibberellin
+alpha-amylase
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the $T1$$T2$ as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+PrP
+Bovine prion protein
+0
+Neural site of leptin influence on neuropeptide Y signaling pathways altering feeding and uncoupling protein NPY in the PVN increases feeding and decreases uncoupling protein (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY Next, we determined that leptin decreases NPY and increases $T1$$T2$ (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY Next, we determined that leptin decreases NPY and increases UCP gene expression
+UCP
+uncoupling protein
+0
+Phosphoinositide hydrolysis, resulting in $T1$ (IP3) and diacylglycerol (DG) formation, has been implicated in $T2$-stimulated pulsatile secretion of prostaglandin F2 alpha (PGF2 alpha) from uterine endometrium of sheep and other mammals
+inositol trisphosphate
+oxytocin
+1
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas $T1$ and ET-1 receptors are coupled to phospholipase C, generating $T2$ and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+oxytocin
+IP3
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or $T2$ Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+AVP
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$ encompassing the C-terminal domain (residues 105-242) interacts with $T2$ but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bPrP
+CK2
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$$T2$ (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bPrP
+protein kinase CK2
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the $T1$ to modulate the activity of $T2$, a pleiotropic protein kinase that is particularly abundant in the brain
+PrP
+CK2
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of $T1$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T2$ activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+vasopressin
+PKC
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T1$$T2$ as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+protein kinase
+Bovine prion protein
+0
+Neural site of $T1$ influence on neuropeptide Y signaling pathways altering feeding and $T2$ NPY in the PVN increases feeding and decreases uncoupling protein (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY Next, we determined that leptin decreases NPY and increases UCP gene expression
+leptin
+uncoupling protein
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$ encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T2$ that is particularly abundant in the brain
+bPrP
+protein kinase
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T1$$T2$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC-alpha
+PKC inhibitors
+0
+Carbachol and $T1$ stimulate the generation of $T2$ in the guinea pig myometrium In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and oxytocin enhanced a concentration-dependent and rapid release of IP3 which preceded that of IP2 and IP1
+oxytocin
+inositol phosphates
+1
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and $T1$ stimulated $T2$ accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+oxytocin
+inositol phosphate
+1
+During luteinization of bovine granulosa cells in vitro in the presence of insulin, or $T1$ plus forskolin, there is a massive upregulation not only of progesterone production, but also of the gene for the peptide hormone $T2$, with secretion of the peptide into the medium
+insulin
+oxytocin
+1
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > $T1$$T2$ (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+IP3
+inositol 1,4,5-trisphosphate
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of $T1$$T2$ as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+CK2
+Bovine prion protein
+0
+C75 inhibited expression of the prophagic signal $T1$ in the hypothalamus and acted in a $T2$-independent manner that appears to be mediated by malonyl-coenzyme A
+neuropeptide Y
+leptin
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T1$$T2$ (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+protein kinase
+bovine prion protein
+0
+2) IGF-1, IGF-2, and insulin also induced a Ca2+ mobilization from the endoplasmic reticulum: $T1$ (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and $T2$ and totally inhibited the effect of IGF-2
+phospholipase C
+insulin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of $T1$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T2$, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+vasopressin
+PKC-alpha
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of $T1$ A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T2$ that is particularly abundant in the brain
+CK2
+protein kinase
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T1$, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T2$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC-alpha
+PKC-epsilon
+0
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated $T1$$T2$ Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+inositol phosphate
+IP3
+0
+Tolbutamide and diazoxide modulate phospholipase C-linked Ca(2+) signaling and insulin secretion in beta-cells We examined whether tolbutamide and diazoxide, which close or open ATP-sensitive K(+) channels (K(ATP) channels), respectively, interact with PLC-linked Ca(2+) signals in HIT-T15 and mouse beta-cells and with $T1$-linked $T2$ secretion from HIT-T15 cells Thus tolbutamide and diazoxide regulate both PLC-linked Ca(2+) signaling and insulin secretion from pancreatic beta-cells by modulating K(ATP) channels, thereby determining voltage-sensitive Ca(2+) influx
+PLC
+insulin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or $T1$ Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T2$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+AVP
+PKC-epsilon
+0
+Leptin effects on pulsatile gonadotropin releasing hormone secretion from the adult rat hypothalamus and interaction with cocaine and amphetamine regulated transcript peptide and neuropeptide Y [In Process Citation] $T1$ may act as a negative feedback signal to the hypothalamic control of appetite through suppression of $T2$ (NPY) secretion and stimulation of cocaine and amphetamine regulated transcript (CART). We aimed at studying the effects of leptin, CART and NPY on the hypothalamic control of the pituitary-gonadal system. The increase in GnRH pulse amplitude caused by leptin was totally prevented by coincubation with an anti-CART antiserum whereas it was not affected by coincubation with the NPY Y5-receptor antagonist (10(-7) M). In conclusion, leptin and NPY show separate permissive effects on GnRH secretion in the adult rat hypothalamus.
+Leptin
+neuropeptide Y
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of $T1$$T2$ (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+CK2
+protein kinase CK2
+0
+During luteinization of bovine granulosa cells in vitro in the presence of $T1$, or insulin plus forskolin, there is a massive upregulation not only of progesterone production, but also of the gene for the peptide hormone $T2$, with secretion of the peptide into the medium
+insulin
+oxytocin
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$ encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the $T2$ to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bPrP
+PrP
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T1$, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM $T2$ Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC-alpha
+AVP
+1
+Neural site of leptin influence on neuropeptide Y signaling pathways altering feeding and uncoupling protein NPY in the PVN increases feeding and decreases uncoupling protein (UCP) activity in brown fat, whereas leptin decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY Next, we determined that $T1$ decreases NPY and increases $T2$ gene expression
+leptin
+UCP
+1
+Tolbutamide and diazoxide modulate $T1$-linked Ca(2+) signaling and $T2$ secretion in beta-cells We examined whether tolbutamide and diazoxide, which close or open ATP-sensitive K(+) channels (K(ATP) channels), respectively, interact with PLC-linked Ca(2+) signals in HIT-T15 and mouse beta-cells and with PLC-linked insulin secretion from HIT-T15 cells Thus tolbutamide and diazoxide regulate both PLC-linked Ca(2+) signaling and insulin secretion from pancreatic beta-cells by modulating K(ATP) channels, thereby determining voltage-sensitive Ca(2+) influx
+phospholipase C
+insulin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of $T2$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+vasopressin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T2$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+PKC-epsilon
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The $T2$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+PKC inhibitors
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of $T1$ The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The $T2$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+vasopressin
+PKC inhibitors
+0
+In the present study we found that at increasing $T1$ concentrations, increasing numbers of barley (Hordeum vulgare) cells showed the enhanced $T2$ secretion and vacuolation characteristic of the GA response
+GA
+amylase
+1
+$T1$ as a modulator of $T2$ On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+Bovine prion protein
+protein kinase CK2
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The $T1$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or $T2$ Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC inhibitors
+AVP
+1
+Carbachol and oxytocin stimulate the generation of inositol phosphates in the guinea pig myometrium In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and $T1$ enhanced a concentration-dependent and rapid release of $T2$ which preceded that of IP2 and IP1
+oxytocin
+IP3
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The $T1$ Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T2$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC inhibitors
+PKC-epsilon
+0
+$T1$ effects on pulsatile gonadotropin releasing hormone secretion from the adult rat hypothalamus and interaction with cocaine and amphetamine regulated transcript peptide and $T2$ [In Process Citation] Leptin may act as a negative feedback signal to the hypothalamic control of appetite through suppression of neuropeptide Y (NPY) secretion and stimulation of cocaine and amphetamine regulated transcript (CART). We aimed at studying the effects of leptin, CART and NPY on the hypothalamic control of the pituitary-gonadal system. The increase in GnRH pulse amplitude caused by leptin was totally prevented by coincubation with an anti-CART antiserum whereas it was not affected by coincubation with the NPY Y5-receptor antagonist (10(-7) M). In conclusion, leptin and NPY show separate permissive effects on GnRH secretion in the adult rat hypothalamus.
+Leptin
+neuropeptide Y
+1
+Phorbol myristate acetate (TPA), an activator of $T1$, elicited an increase of MAPK activity, but did not further influence the level of $T2$4-8-enhanced MAPK activity; Nevertheless, the extent of CaMKII activation was attenuated by TPA
+PKC
+AVP
+0
+Melatonin inhibits $T1$ response to $T2$-induced hypoglycemia, but not to angiotensin II in normal men In order to establish whether melatonin alters basal and/or stimulated oxytocin secretion, 18 normal men were treated (p.o.) with 6 or 12 mg melatonin or placebo in basal conditions (N-6 subjects) or concomitantly to the administration of insulin (O.15 IU/kg body weight in an i.v. bolus) (N-6 subjects) or angiotensin II (increasing doses of 4, 8 and 16 ng/kg/min, at intervals of 20 min) In contrast, the oxytocin response to insulin-induced hypoglycemia was significantly reduced by melatonin treatment
+oxytocin
+insulin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T1$, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T2$ activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC-alpha
+PKC
+0
+Tolbutamide and diazoxide modulate phospholipase C-linked Ca(2+) signaling and insulin secretion in beta-cells We examined whether tolbutamide and diazoxide, which close or open ATP-sensitive K(+) channels (K(ATP) channels), respectively, interact with PLC-linked Ca(2+) signals in HIT-T15 and mouse beta-cells and with PLC-linked insulin secretion from HIT-T15 cells Thus tolbutamide and diazoxide regulate both $T1$-linked Ca(2+) signaling and $T2$ secretion from pancreatic beta-cells by modulating K(ATP) channels, thereby determining voltage-sensitive Ca(2+) influx
+PLC
+insulin
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T1$ activation is a necessary step in the signal transduction pathway linking low concentrations of $T2$ to Ca2+ spiking in A7r5 cells
+PKC
+AVP
+1
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated $T1$$T2$ (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+inositol phosphate
+inositol 1,4,5-trisphosphate
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of $T1$ (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T2$ that is particularly abundant in the brain
+protein kinase CK2
+protein kinase
+0
+The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), oxytocin, prostaglandin F2 alpha (PGF2 alpha) and inositol 1,4,5-trisphosphate (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas $T1$$T2$ (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: oxytocin > PGF2 alpha > ET-1 > IP3 Endothelin-1 and oxytocin stimulated inositol phosphate accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas oxytocin and ET-1 receptors are coupled to phospholipase C, generating IP3 and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources
+oxytocin
+inositol 1,4,5-trisphosphate
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of $T1$ (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the $T2$ to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+protein kinase CK2
+PrP
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic $T1$$T2$ to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+protein kinase
+PrP
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant $T1$ (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of $T2$ (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bovine prion protein
+protein kinase CK2
+1
+Ca2+ signalling in rat vascular smooth muscle cells: a role for protein kinase C at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not $T1$, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T2$ activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+PKC-epsilon
+PKC
+0
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$$T2$ (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bPrP
+bovine prion protein
+0
+To assess the possible involvement of $T1$ in $T2$ and IL-1 action in Leydig cells, the PKC inhibitor Calphostin C was tested These results confirm that AVP and PMA activate PKC and indicate that IL-1 likely does not activate PKC in Leydig cells
+PKC
+AVP
+1
+HvSPY coexpression largely abolished $T1$-induced activity of an $T2$ promoter.
+GA3
+alpha-amylase
+1
+Bovine prion protein as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of $T1$$T2$ as a modulator of protein kinase CK2 On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant bovine prion protein (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of protein kinase CK2 (also termed 'casein kinase 2') We also show that bPrP counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of CK2 A truncated form of bPrP encompassing the C-terminal domain (residues 105-242) interacts with CK2 but does not affect its catalytic activity These results disclose the potential of the PrP to modulate the activity of CK2, a pleiotropic protein kinase that is particularly abundant in the brain
+bPrP
+Bovine prion protein
+0
+The SGR and RGR also had different endocrine profiles with, for example, twice as high $T1$ (p < 0.01) and $T2$ levels (p < 0.01) in RGR compared to the SGR
+oxytocin
+insulin
+0
+The aims of this study were: (1) to assess the effects of maternal undernutrition during pregnancy on adult offspring with regard to growth, body composition and plasma levels of glucose, $T1$ and corticosterone, and (2) to investigate whether $T2$ treatment early in life could ameliorate the adverse effects of food restriction in utero
+insulin
+oxytocin
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of PKC-alpha, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that $T2$ activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+PKC
+0
+Ca2+ signalling in rat vascular smooth muscle cells: a role for $T1$ at physiological vasoconstrictor concentrations of vasopressin The protein kinase C (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of AVP (50 pM) The PKC inhibitors Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or AVP Time-dependent redistribution of $T2$, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM AVP Pretreatment for 24 h with 1 microM PMA downregulated expression of PKC-alpha and -delta, but not PKC-epsilon, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM AVP We conclude that PKC activation is a necessary step in the signal transduction pathway linking low concentrations of AVP to Ca2+ spiking in A7r5 cells
+protein kinase C
+PKC-alpha
+0

@@ -1,0 +1,132 @@
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the $T1$ promoter, and does not bind specifically to $T2$. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotX
+cotB
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the $T1$ promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to $T2$. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotC
+cotB
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, $T1$, and $T2$ genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotC
+cotX
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated $T1$ transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or $T2$. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotB
+cotC
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the $T1$, $T2$, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotB
+cotC
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein $T1$$T2$, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+FtsZ
+SpoIIE
+1
+Transcription of ydhD was dependent on SigE, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation). ykuD was transcribed by SigK RNA polymerase from T4 of sporulation. Both SigK and $T1$$T2$ and GerE were essential for ykvP expression, and this gene was transcribed from T5 of sporulation.
+GerE
+SigK
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of $T1$ and another transcription factor, $T2$. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+SpoIIID
+0
+From these results we conclude that $T1$ negatively regulates degR expression by preventing $T2$-driven transcription of degR, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+ComK
+sigmaD
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both $T1$ and $T2$ holoenzymes recognize promoter elements within the sigX-ypuN control region.
+sigma(A)
+sigma(X)
+0
+Primer extension experiments and Northern blot analysis show that an active $T1$-dependent promoter precedes $T2$ and transcription is terminated at the putative p-independent terminator downstream of kdgT.
+sigmaA
+kdgR
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated $T1$ transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of $T2$ or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotB
+cotX
+0
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to $T1$$T2$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.
+ClpX
+ClpX
+0
+Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like spoIVA, are under the control of the mother cell transcription factor $T1$$T2$, are under the control of the mother cell transcription factor sigmaE.
+sigmaE
+spoIVA
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the $T1$$T2$ promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotX
+cotC
+0
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both $T1$ and sigma(X) holoenzymes recognize promoter elements within the sigX-$T2$ control region.
+sigma(A)
+ypuN
+1
+This stress-induced increase in ykzA expression is absolutely dependent on the alternative sigma factor $T1$$T2$ expression is absolutely dependent on the alternative sigma factor sigmaB, which controls a large stationary-phase and stress regulon.
+sigmaB
+ykzA
+1
+The addition of $T1$ to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than $T2$-RNAP.
+ClpX
+sigmaA
+1
+Therefore, ftsY is solely expressed during sporulation from a $T1$$T2$ is solely expressed during sporulation from a sigma(K)- and GerE-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+sigma(K)
+ftsY
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and $T1$ holoenzymes recognize promoter elements within the sigX-$T2$ control region.
+sigma(X)
+ypuN
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both $T1$ and sigma(X) holoenzymes recognize promoter elements within the $T2$-ypuN control region.
+sigma(A)
+sigX
+1
+From these results we conclude that $T1$ negatively regulates degR expression by preventing sigmaD-driven transcription of $T2$, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+ComK
+degR
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and $T1$ holoenzymes recognize promoter elements within the $T2$-ypuN control region.
+sigma(X)
+sigX
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final $T1$ RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or $T2$. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotC
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final $T1$ RNA polymerase, whereas a higher concentration was needed to activate transcription of $T2$ or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotX
+0
+Therefore, ftsY is solely expressed during sporulation from a sigma(K)- and $T1$$T2$ is solely expressed during sporulation from a sigma(K)- and GerE-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+GerE
+ftsY
+1
+In the shaA mutant, sigma(H)-dependent expression of spo0A and $T1$$T2$ and spoVG at an early stage of sporulation was sensitive to external NaCl.
+spoVG
+spo0A
+0
+From these results we conclude that $T1$ negatively regulates $T2$ expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+ComK
+degR
+1
+From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, $T1$$T2$ is driven by an alternative sigma factor, sigmaD.
+sigmaD
+degR
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the $T1$, cotC, and $T2$ genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+cotB
+cotX
+0
+From these results we conclude that ComK negatively regulates degR expression by preventing $T1$-driven transcription of $T2$, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+sigmaD
+degR
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called $T1$$T2$ RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+sigma(K)
+0
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than $T1$$T2$-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.
+sigmaA
+sigmaH
+0

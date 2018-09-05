@@ -1,0 +1,132 @@
+The sigmaB-dependent promoter drives expression of $T1$ under stress conditions and after glucose starvation, whereas a $T2$-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+yvyD
+sigmaH
+0
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin ($T2$), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YuaG
+1
+The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the $T1$$T2$ and tagD promoters and also to activate the transcription of the tuaA promoter.
+tuaA
+tagA
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by $T1$$T2$-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sspN
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and $T1$ regulons, might negatively regulate the activity of the $T2$ regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+sigmaH
+sigmaL
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the $T1$$T2$ promoters and also to activate the transcription of the tuaA promoter.
+tuaA
+tagD
+0
+The $T1$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T2$.
+sspH
+sigmaF
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, $T1$; the sspN-tlp operon is recognized equally well by $T2$ and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, $T1$; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T2$.
+sigmaG
+sigmaF
+0
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical $T1$-dependent, stress- and starvation-inducible pattern, $T2$ is also induced in response to amino acid depletion.
+sigmaB
+yvyD
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for $T1$$T2$ under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+yvyD
+yvyD
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and $T1$$T2$ and tagD promoters and also to activate the transcription of the tuaA promoter.
+tagD
+tagA
+0
+The results indicate that $T1$ is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the $T2$ promoter.
+PhoP~P
+tuaA
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the $T1$ and sigmaH regulons, might negatively regulate the activity of the $T2$ regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+sigmaB
+sigmaL
+0
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and $T1$$T2$ gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+sigmaH
+yvyD
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and $T1$$T2$ and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+sigmaH
+sigmaB
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, $T1$$T2$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sspH
+1
+The $T1$ regulon includes a penicillin binding protein ($T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+PBP4*
+1
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase ($T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+RacX
+1
+The $T1$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by $T2$ and the other forespore-specific sigma factor, sigmaF.
+sspH
+sigmaG
+0
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for $T1$$T2$-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+yvyD
+sigmaB
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, $T1$$T2$ genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sspL
+1
+The $T1$-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a $T2$-dependent promoter is responsible for yvyD transcription following amino acid limitation. This indicates that the yvyD gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon. In addition to the typical sigmaB-dependent, stress- and starvation-inducible pattern, yvyD is also induced in response to amino acid depletion.
+sigmaB
+sigmaH
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T1$$T2$ and the other forespore-specific sigma factor, sigmaF.
+sigmaF
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T1$$T2$-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaF
+sspN
+1
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase ($T2$), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YteI
+1
+The $T1$ regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T2$), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YknXYZ
+1
+The results indicate that $T1$ is sufficient to repress the transcription of the $T2$ and tagD promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagA
+1
+The $T1$ and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the $T2$-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sspN
+0
+The results indicate that $T1$ is sufficient to repress the transcription of the tagA and $T2$ promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagD
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, $T1$$T2$ operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaF
+tlp
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the $T1$$T2$; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspN
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by $T1$$T2$ operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+tlp
+1

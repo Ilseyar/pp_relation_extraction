@@ -1,0 +1,132 @@
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new $T1$-dependent genes (ydaE, $T2$ and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+ydaG
+1
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new $T1$-dependent genes (ydaE, ydaG and $T2$) encoding proteins with still unknown functions were also described.
+sigmaB
+yfkM
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T2$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+sigma B
+0
+However, the mutant was unable to stimulate transcription by final sigma(A)-RNA polymerase from the $T1$-dependent $T2$ operon promoter.
+Spo0A
+spoIIG
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; $T1$, which inhibits the sporulation-specific sigma factor, sigma F and $T2$, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+sigma G
+1
+(i) The finding that the bmrUR operon is under $T1$$T2$ operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new sigmaB-dependent genes (ydaE, ydaG and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+bmrUR
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$$T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+DnaK
+RbsW
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK $T1$ binds to a site on one of these promoters, $T2$, that overlaps its -35 region.
+GerE
+cotX
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T2$.
+sigma G
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T2$, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$$T2$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+DnaK
+sigma B
+0
+However, the mutant was unable to stimulate transcription by final $T1$-RNA polymerase from the Spo0A-dependent $T2$ operon promoter.
+sigma(A)
+spoIIG
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$$T2$, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+DnaK
+SpoIIAB
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein $T1$ stimulates transcription from several promoters that are used by RNA polymerase containing $T2$ GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+GerE
+sigmaK
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$, of Bacillus subtilis; $T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+RbsW
+0
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of $T1$$T2$ gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new sigmaB-dependent genes (ydaE, ydaG and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+ydaP
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T2$.
+sigma 28
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; $T1$ of B. subtilis, which inhibits stress response sigma factor $T2$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+RbsW
+sigma B
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$$T2$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+DnaK
+sigma F
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; $T1$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T2$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+sigma 28
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; $T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T2$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; SpoIIAB, which inhibits the sporulation-specific sigma factor, $T2$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+sigma F
+0
+However, the mutant was unable to stimulate transcription by final sigma(A)-RNA polymerase from the $T1$$T2$-RNA polymerase from the Spo0A-dependent spoIIG operon promoter.
+Spo0A
+sigma(A)
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor $T1$; $T2$, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T2$.
+DnaK
+sigma 32
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that $T1$ binds near the $T2$ transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+sigK
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+FlgM
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$$T2$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+sigma F
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, $T1$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T2$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+sigma B
+0
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new $T1$-dependent genes ($T2$, ydaG and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+ydaE
+1
+In addition to controlling transcription of phrC, $T1$$T2$, sigmaH appears to control expression of at least one other gene required for production of CSF.
+sigmaH
+phrC
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+DnaK
+FlgM
+0

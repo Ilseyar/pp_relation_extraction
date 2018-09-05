@@ -1,0 +1,300 @@
+Further investigation suggested that activation of $T1$ (PKC), which is part of the $T2$-induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for AVP-induced ACTH release
+protein kinase C
+AVP
+1
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in $T1$$T2$ (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+AVP
+protein kinase C
+0
+$T1$ (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, $T2$ was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+Oxytocin
+OT
+0
+Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol $T1$$T2$ (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+rbPrP
+recombinant bovine PrP
+0
+However, the AVP-dependent stimulation required activation of protein kinase C (PKC), whereas the inhibition was $T1$$T2$ (PKC), whereas the inhibition was PKC independent, indicating that the NGF-induced signaling pathways leading to inhibition and stimulation of HCO3- absorption are distinct
+PKC
+protein kinase C
+0
+Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the $T1$$T2$ Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+insulin
+(pro)insulin
+0
+A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis $T1$ increases the expression of $T2$ (UCP-1, -2, -3) and thus energy dissipation
+Leptin
+uncoupling proteins
+1
+Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the $T1$$T2$ was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+insulin
+OT
+0
+$T1$ (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over $T2$ Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+Oxytocin
+(pro)insulin
+0
+Signal transduction in pancreatic beta-cells: Regulation of insulin secretion by information flow in the phospholipase C/Protein kinase C pathway The physiologic regulation of glucose-induced insulin secretion is dependent upon the activation of information flow in the phospholipase C (PLC)/protein kinase C (PKC) signal transduction system When rat islet are cultured for short periods, the content and activation of PLC in response to glucose decreases and this biochemical defect in signal transduction is paralleled by significant reductions in glucose-induced insulin secretion Biphasic $T1$ secretion can be evoked and time-dependent potentiation can be induced in mouse islets by carbachol, an agonist that activates an isozyme of $T2$ distinct from that activated by glucose When taken in their entirety, the experimental evidence suggests that the activation of PLC is an essential component in the physiologic regulation of insulin secretion and that disordered activation of the enzyme culminates in disordered insulin release
+insulin
+PLC
+1
+Carbachol and oxytocin stimulate the generation of inositol phosphates in the guinea pig myometrium In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and oxytocin enhanced a concentration-dependent and rapid release of $T1$$T2$ in the guinea pig myometrium In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and oxytocin enhanced a concentration-dependent and rapid release of IP3 which preceded that of IP2 and IP1
+IP3
+inositol phosphates
+0
+Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts. These analyses indicate that GNB inhibits the $T1$-induced expression of $T2$ by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+GA
+alpha-amylase
+1
+Ten $T1$ have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to $T2$, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+protein kinases
+CK2
+0
+The effects of the fluorinated analogues were evaluated on inhibition of cress seed germination and inhibition of gibberellin-inducible alpha-amylase induction in embryoless barley half-seeds (2E, 4E)-2-Fluoro-5-(1'-hydroxy-2',6', 6'-trimethyl-2'-cyclohexen-1'-yl)-3-methyl-2,4-pentadienoic acid (5b) showed potent inhibitory activity at the same level as ABA in the cress seed germination test, and 5b also inhibited $T1$-inducible $T2$ induction at 4 x 10(-)(6), 3 times the concentration of ABA (1 x 10(-)(6)) for 50% inhibition of alpha-amylase production
+gibberellin
+alpha-amylase
+1
+By comparison with the promoters of $T1$ genes, which are also induced by $T2$, we suggest that GARE is coupled with the upstream element and the pyrimidine box to form a GA response complex
+alpha-amylase
+GA
+1
+Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the $T1$-induced expression of $T2$ in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts. These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+GA
+alpha-amylase
+1
+Gibbestatin B inhibits the $T1$-induced expression of $T2$ expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts. These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+GA
+alpha-amylase
+1
+NPY-leptin: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior Many studies have indicated that neuropeptide Y (NPY) stimulates and leptin inhibits food intake In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and leptin (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle However, $T1$$T2$ (NPY) stimulates and leptin inhibits food intake In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and leptin (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle However, NPY inhibited and leptin stimulated intake if the solution was infused intraorally Thus NPY stimulates the responses used to obtain food but inhibits those used to consume food, and leptin has the opposite effects
+NPY
+neuropeptide Y
+0
+Furthermore, in SN-56/OBR cells both CNTF and $T1$ produce changes in neurotransmitter and neuropeptide phenotype characteristic of cholinergic neurons, such as an increase in choline acetyltransferase and vasoactive intestinal polypeptide, and a decrease in $T2$ expression
+leptin
+neuropeptide Y
+1
+Arcuate nucleus $T1$ mRNA increased in rats given protein-free diet, correlating with $T2$ rather than decreased feeding
+NPY
+leptin
+1
+Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to $T1$, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol $T2$, which is doubled by mild heat treatment of rbPrP
+CK2
+rbPrP
+1
+Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of $T1$-induced barley high-pI type B and rice RAmylA $T2$ transcripts. These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+GA
+alpha-amylase
+1
+A loop system exists between hypothalamic $T1$ (NPY) and peripheral adipose tissue $T2$ to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation
+neuropeptide Y
+leptin
+1
+Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of $T1$ in aleurone layers of barley is known to be induced by $T2$ (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts. These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+alpha-amylase
+gibberellin A3
+1
+Relationship among leptin, neuropeptide Y, and galanin in young women and in postmenopausal women [see comments] OBJECTIVE: To determine whether hormonal status may affect neuropeptide Y (NPY), galanin, and leptin release in postmenopausal women and in young women CONCLUSIONS: Our results suggest that the differences is plasma leptin, $T1$$T2$ release in postmenopausal women and in young women CONCLUSIONS: Our results suggest that the differences is plasma leptin, NPY, and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher NPY levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+NPY
+leptin
+0
+Inhibition of 5-HT3 serotonergic receptors with ondansetron (4 or 8 mg) did not modify the basal secretion of AVP and OT and the $T1$ response to $T2$-induced hypoglycemia
+OT
+insulin
+1
+Homogeneous liposome immunoassay for insulin using phospholipase C from Clostridium perfringens Insulin was conjugated to phospholipase C by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of insulin-$T1$$T2$ was conjugated to phospholipase C by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of insulin-phospholipase C conjugate were inhibited in the presence of insulin antiserum
+phospholipase C
+Insulin
+0
+This effect is maximal at 10(-8) M AVP (a concentration clearly above the normal physiological range of $T1$ concentrations) and involves the V2 receptor pathway, while activation of $T2$ or changes in intracellular calcium are ineffective
+AVP
+protein kinase C
+0
+A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis $T1$$T2$ levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation
+Leptin
+NPY
+0
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in $T1$$T2$ (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+AVP
+Arginine vasopressin
+0
+Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the gibberellin-dependent Osamy-c expression in rice To understand the molecular mechanism of gibberellin-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the alpha-amylase gene, Osamy-c, were measured To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the $T1$$T2$-dependent Osamy-c expression in rice To understand the molecular mechanism of gibberellin-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the alpha-amylase gene, Osamy-c, were measured To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the GA-dependent expression of the rice Osamy-c gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon GA3 treatment
+GA
+gibberellin
+0
+Similarly, central $T1$ treatment also had a greater effect in suppressing hypothalamic $T2$ mRNA expression in young (-23+/-4%) than in old (-8+/-4%) rats compared with their age-matched pair-fed treated rats
+leptin
+NPY
+1
+$T1$ is a satiety factor which acts within the hypothalamus to decrease the levels of several neuropeptides stimulating food intake (among them, $T2$ [NPY]), while increasing those that inhibit food intake
+Leptin
+neuropeptide Y
+1
+Signal transduction in pancreatic beta-cells: Regulation of insulin secretion by information flow in the phospholipase C/Protein kinase C pathway The physiologic regulation of glucose-induced $T1$ secretion is dependent upon the activation of information flow in the $T2$ (PLC)/protein kinase C (PKC) signal transduction system When rat islet are cultured for short periods, the content and activation of PLC in response to glucose decreases and this biochemical defect in signal transduction is paralleled by significant reductions in glucose-induced insulin secretion Biphasic insulin secretion can be evoked and time-dependent potentiation can be induced in mouse islets by carbachol, an agonist that activates an isozyme of PLC distinct from that activated by glucose When taken in their entirety, the experimental evidence suggests that the activation of PLC is an essential component in the physiologic regulation of insulin secretion and that disordered activation of the enzyme culminates in disordered insulin release
+insulin
+phospholipase C
+1
+The results demonstrate that potent antioxidants, such as $T1$, protect MM-LDL from lipoperoxidation and preserve their ability to efficiently deliver $T2$ to cells
+flavonoids
+cholesterol
+1
+Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, $T1$$T2$ Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+OT
+(pro)insulin
+0
+Secreted form of beta-amyloid precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells Furthermore, we demonstrate that tyrosine phosphorylation of $T1$ and formation of inositol 1,4,5-trisphosphate were increased by $T2$-stimulation
+phospholipase Cgamma1
+sAPP695
+1
+Signal transduction in pancreatic beta-cells: Regulation of insulin secretion by information flow in the phospholipase C/Protein kinase C pathway The physiologic regulation of glucose-induced insulin secretion is dependent upon the activation of information flow in the $T1$ (PLC)/protein kinase C (PKC) signal transduction system When rat islet are cultured for short periods, the content and activation of $T2$ in response to glucose decreases and this biochemical defect in signal transduction is paralleled by significant reductions in glucose-induced insulin secretion Biphasic insulin secretion can be evoked and time-dependent potentiation can be induced in mouse islets by carbachol, an agonist that activates an isozyme of PLC distinct from that activated by glucose When taken in their entirety, the experimental evidence suggests that the activation of PLC is an essential component in the physiologic regulation of insulin secretion and that disordered activation of the enzyme culminates in disordered insulin release
+phospholipase C
+PLC
+0
+Current interest in reducing heart disease risks by diet involves attention to total fat; saturated, monounsaturated, polyunsaturated and trans fatty acids, as well as dietary $T1$, soluble fiber, salt, alcohol, antioxidants, dietary alterations causing homocysteinemia and other dietary constituents, such as $T2$ compounds in some soy products
+cholesterol
+flavonoid
+0
+Although osmotic stimuli cause an increase in nitric oxide synthase (NOS) activity as well as synthesis of AVP and oxytocin in the paraventricular (PVN) and supraoptic nuclei (SON), it is not known whether NOS activity in the hypothalamus changes in the diabetic patients who have plasma hyperosmolality with hyperglycaemia caused by insulin deficiency Three weeks after administration of STZ, the diabetic rats were subcutaneously treated with $T1$ for 1 week, which resulted in significant suppression of the induction of nNOS, AVP and $T2$ gene expression in the PVN and SON
+insulin
+oxytocin
+1
+If daily $T1$ injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and $T2$ and cholecystokinin levels are increased
+oxytocin
+insulin
+1
+In HVSMC both $T1$ and AVP increased $T2$ (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for oxytocin than AVP
+oxytocin
+inositol 1,4,5-trisphosphate
+1
+However, the $T1$-dependent stimulation required activation of protein kinase C (PKC), whereas the inhibition was $T2$ independent, indicating that the NGF-induced signaling pathways leading to inhibition and stimulation of HCO3- absorption are distinct
+AVP
+PKC
+0
+The effects of the fluorinated analogues were evaluated on inhibition of cress seed germination and inhibition of $T1$-inducible $T2$ induction in embryoless barley half-seeds (2E, 4E)-2-Fluoro-5-(1'-hydroxy-2',6', 6'-trimethyl-2'-cyclohexen-1'-yl)-3-methyl-2,4-pentadienoic acid (5b) showed potent inhibitory activity at the same level as ABA in the cress seed germination test, and 5b also inhibited gibberellin-inducible alpha-amylase induction at 4 x 10(-)(6), 3 times the concentration of ABA (1 x 10(-)(6)) for 50% inhibition of alpha-amylase production
+gibberellin
+alpha-amylase
+1
+A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, leptin decreases NPY levels, thus food intake and body weight Circadian fluctuations of NPY and $T1$ levels maintain normal body homeostasis Leptin increases the expression of $T2$ (UCP-1, -2, -3) and thus energy dissipation
+leptin
+uncoupling proteins
+0
+NPY-leptin: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior Many studies have indicated that neuropeptide Y (NPY) stimulates and leptin inhibits food intake In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and $T1$ (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle However, $T2$ inhibited and leptin stimulated intake if the solution was infused intraorally Thus NPY stimulates the responses used to obtain food but inhibits those used to consume food, and leptin has the opposite effects
+leptin
+NPY
+0
+These findings are consistent with increased $T1$ signaling to the $T2$ and POMC neurons in the ARC by physiological levels of circulating leptin during normal feeding
+leptin
+NPY
+0
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was $T1$$T2$ (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+PKC
+Arginine vasopressin
+0
+Oxytocin (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the $T1$$T2$ (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over (pro)insulin Thus, OT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the insulin family
+insulin
+Oxytocin
+0
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent $T1$ was necessary in $T2$- but not in LPA-induced activation of p70 S6K
+PKC
+AVP
+1
+Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the gibberellin-dependent Osamy-c expression in rice To understand the molecular mechanism of gibberellin-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the alpha-amylase gene, Osamy-c, were measured To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the $T1$$T2$ gene, Osamy-c, were measured To further understand the possible role of protein phosphatases 1 and 2A in the GA-dependent expression of Osamy-c, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the GA-dependent expression of the rice Osamy-c gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon GA3 treatment
+GA
+alpha-amylase
+0
+NPY-leptin: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior Many studies have indicated that neuropeptide Y (NPY) stimulates and leptin inhibits food intake In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and $T1$$T2$ (NPY) stimulates and leptin inhibits food intake In line with this, intracerebroventricular injection of NPY (10 microg) stimulated and leptin (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle However, NPY inhibited and leptin stimulated intake if the solution was infused intraorally Thus NPY stimulates the responses used to obtain food but inhibits those used to consume food, and leptin has the opposite effects
+leptin
+neuropeptide Y
+0
+Relationship among leptin, neuropeptide Y, and galanin in young women and in postmenopausal women [see comments] OBJECTIVE: To determine whether hormonal status may affect neuropeptide Y (NPY), galanin, and leptin release in postmenopausal women and in young women CONCLUSIONS: Our results suggest that the differences is plasma leptin, $T1$$T2$ (NPY), galanin, and leptin release in postmenopausal women and in young women CONCLUSIONS: Our results suggest that the differences is plasma leptin, NPY, and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher NPY levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+NPY
+neuropeptide Y
+0
+These results suggest that, in isolated white adipocytes, the released adenosine acts as a helper and/or a positive regulator for $T1$ in the release of leptin via an activation of adenosine A1 receptors that involves the $T2$-PKC pathway.
+insulin
+PLC
+1
+Gibbestatin B inhibits the GA-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by $T1$$T2$-induced expression of alpha-amylase expression in cereal seeds [In Process Citation] The expression of alpha-amylase in aleurone layers of barley is known to be induced by gibberellin A3 (GA). In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the GA-induced expression of alpha-amylase in barley and rice, with IC50 values of 125 and 70 microM, respectively. GNB suppressed accumulation of GA-induced barley high-pI type B and rice RAmylA alpha-amylase transcripts. These analyses indicate that GNB inhibits the GA-induced expression of alpha-amylase by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+gibberellin A3
+GA
+0
+Both receive information about the nutritional status and the level of energy storage through insulin and leptin signaling mediated by specific receptors located on POMC and NPY neurons present predominantly in the arcuate nucleus (ARC). When leptin signaling is defective, through a defect in either the receptor (Zucker fa/fa rat, cp/cp rat, and db/db mouse) or in the peptide itself (ob/ob mouse), the $T1$$T2$ signaling is defective, through a defect in either the receptor (Zucker fa/fa rat, cp/cp rat, and db/db mouse) or in the peptide itself (ob/ob mouse), the NPY system is upregulated as shown by mRNA overexpression and increased peptide release, whereas the content and/or release of some inhibitory peptides (neurotensin, cholecystokinin) are diminished.
+NPY
+leptin
+0
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, $T1$-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was $T2$-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+AVP
+PKC
+1
+$T1$ (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate $T2$ (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+Arginine vasopressin
+protein kinase C
+1
+Plasma $T1$, and some functionally related peptides (CCK, gastrin, somatostatin and $T2$), were measured by standard radioimmunoassay techniques
+oxytocin
+insulin
+0
+Ten $T1$ have been assayed for their ability to phosphorylate in vitro the $T2$ (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+protein kinases
+recombinant bovine PrP
+0
+Cellular preincubation with 200 microg/ml antibodies against the inositolphosphoglycan (IPG) moiety of the GPI-anchor (Ab(IPG)), or depletion in GPI-anchored proteins by cellular pretreatment with 0.5 U/ml PI-$T1$, 1 mM $T2$ and 2 HU/ml streptolysin-O, or depletion in membrane cholesterol content by filipin (5 microg/ml), digitonin (5 microg/ml) and cholesterol oxidase (0.5 U/ml) decreases the HDL3-signal, suggesting the involvement of a lipolytic cleavage of GPI-anchored proteins
+PLC
+insulin
+0
+$T1$ evokes the release of Ca2+ from $T2$-sensitive intracellular stores
+OT
+IP3
+0
+The activity of catalase was found to be significantly enhanced in the tissues of normal and $T1$ fed rats administered 1 mg $T2$ from brinjal/100 g BW/day
+cholesterol
+flavonoid
+0
+However, the $T1$-dependent stimulation required activation of $T2$ (PKC), whereas the inhibition was PKC independent, indicating that the NGF-induced signaling pathways leading to inhibition and stimulation of HCO3- absorption are distinct
+AVP
+protein kinase C
+1
+Secreted form of $T1$ precursor protein activates protein kinase C and $T2$ in cultured embryonic rat neocortical cells Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by sAPP695-stimulation
+beta-amyloid
+phospholipase Cgamma1
+1
+Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to $T1$$T2$ (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+CK2
+recombinant bovine PrP
+0
+Signal transduction in pancreatic beta-cells: Regulation of $T1$ secretion by information flow in the $T2$/Protein kinase C pathway The physiologic regulation of glucose-induced insulin secretion is dependent upon the activation of information flow in the phospholipase C (PLC)/protein kinase C (PKC) signal transduction system When rat islet are cultured for short periods, the content and activation of PLC in response to glucose decreases and this biochemical defect in signal transduction is paralleled by significant reductions in glucose-induced insulin secretion Biphasic insulin secretion can be evoked and time-dependent potentiation can be induced in mouse islets by carbachol, an agonist that activates an isozyme of PLC distinct from that activated by glucose When taken in their entirety, the experimental evidence suggests that the activation of PLC is an essential component in the physiologic regulation of insulin secretion and that disordered activation of the enzyme culminates in disordered insulin release
+insulin
+phospholipase C
+1
+Arginine vasopressin (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate protein kinase C (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was $T1$$T2$ (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells However, AVP-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PKC-dependent and PI 3-kinase-independent PKC was necessary in AVP- but not in LPA-induced activation of p70 S6K
+PKC
+protein kinase C
+0
+A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, $T1$ decreases $T2$ levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis Leptin increases the expression of uncoupling proteins (UCP-1, -2, -3) and thus energy dissipation
+leptin
+NPY
+1
+This indicates that the calcium response to $T1$ application was principally associated with activation of the $T2$-sensitive calcium stores
+OT
+IP3
+0
+Secreted form of beta-amyloid precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by $T1$$T2$ precursor protein activates protein kinase C and phospholipase Cgamma1 in cultured embryonic rat neocortical cells Furthermore, we demonstrate that tyrosine phosphorylation of phospholipase Cgamma1 and formation of inositol 1,4,5-trisphosphate were increased by sAPP695-stimulation
+sAPP695
+beta-amyloid
+0
+A loop system exists between hypothalamic neuropeptide Y (NPY) and peripheral adipose tissue leptin to maintain normal body homeostasis When infused i.c.v. to normal rats to mimic its central effects, leptin decreases $T1$ levels, thus food intake and body weight Circadian fluctuations of NPY and leptin levels maintain normal body homeostasis Leptin increases the expression of $T2$ (UCP-1, -2, -3) and thus energy dissipation
+NPY
+uncoupling proteins
+0
+Homogeneous liposome immunoassay for insulin using phospholipase C from Clostridium perfringens Insulin was conjugated to phospholipase C by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of insulin-$T1$ conjugate were inhibited in the presence of $T2$ antiserum
+phospholipase C
+insulin
+0
+Ten protein kinases have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol $T1$$T2$ have been assayed for their ability to phosphorylate in vitro the recombinant bovine PrP (25-242) (rbPrP) With regard to CK2, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol rbPrP, which is doubled by mild heat treatment of rbPrP
+rbPrP
+protein kinases
+0
+Relationship among $T1$, $T2$, and galanin in young women and in postmenopausal women [see comments] OBJECTIVE: To determine whether hormonal status may affect neuropeptide Y (NPY), galanin, and leptin release in postmenopausal women and in young women CONCLUSIONS: Our results suggest that the differences is plasma leptin, NPY, and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher NPY levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved
+leptin
+neuropeptide Y
+1

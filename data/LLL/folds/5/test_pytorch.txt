@@ -1,0 +1,132 @@
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by $T1$$T2$ promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaA
+sigE
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that $T1$ blocks the capacity of unphosphorylated $T2$ to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+SpoIIAA
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein $T1$ and could correspond to the $T2$-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+FtsZ
+FtsZ
+0
+sigma X also contributes to the expression of CsbB, a putative membrane-bound glucosyl transferase that is partially controlled by the $T1$$T2$, a putative membrane-bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor.
+sigma B
+CsbB
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein ($T1$$T2$ by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIAA-P
+sigmaF
+1
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, $T1$$T2$ gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaK
+sigE
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase ($T1$$T2$ during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+sigmaF
+1
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that $T1$ may inhibit $T2$ activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaK
+sigmaA
+1
+Therefore, ftsY is solely expressed during sporulation from a $T1$- and $T2$-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+sigma(K)
+GerE
+0
+The expression of the bkd operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor $T1$$T2$ operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor SigL, a member of the sigma 54 family.
+SigL
+bkd
+1
+The first stage, which involves the phosphatase function of $T1$, depends on the cell division protein FtsZ and could correspond to the $T2$-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+FtsZ
+0
+From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD-driven transcription of $T1$$T2$ expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+degR
+degR
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The $T1$ phosphatase indirectly activates sigmaF by dephosphorylating a protein ($T2$) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+SpoIIAA-P
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The $T1$ phosphatase indirectly activates $T2$ by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+sigmaF
+1
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by $T1$ RNA polymerase, suggesting that sigmaK may inhibit $T2$ activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaA
+sigmaA
+0
+$T1$ also contributes to the expression of $T2$, a putative membrane-bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor.
+sigma X
+CsbB
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the $T1$-dependent assembly of $T2$ into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+FtsZ
+SpoIIE
+1
+From these results we conclude that ComK negatively regulates $T1$ expression by preventing $T2$-driven transcription of degR, possibly through interaction with the control region. We have shown previously that the transcription of degR is driven by an alternative sigma factor, sigmaD.
+degR
+sigmaD
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of $T1$$T2$, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+SpoIIE
+0
+Production of $T1$ about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of $T2$ transcription. The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaK
+sigE
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by $T1$ RNA polymerase, suggesting that $T2$ may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaA
+sigmaK
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of $T1$$T2$ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+FtsZ
+0
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and sigma(X) holoenzymes recognize promoter elements within the sigX-$T1$$T2$-ypuN control region.
+ypuN
+sigX
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the $T1$ promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit $T2$ activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigE
+sigmaA
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by $T1$$T2$ promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaA
+ald
+1
+Production of $T1$ about 1 h earlier than normal does affect $T2$, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigmaK
+Spo0A
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated SpoIIAA to activate $T1$$T2$ blocks the capacity of unphosphorylated SpoIIAA to activate sigmaF until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+sigmaF
+SpoIIE
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The $T1$ promoter, like the $T2$ promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+ald
+sigE
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The $T1$ promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit $T2$ activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+ald
+sigmaA
+0
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The ald promoter, like the $T1$ promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that $T2$ may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+sigE
+sigmaK
+0
+Production of sigmaK about 1 h earlier than normal does affect $T1$, which when phosphorylated is an activator of $T2$ transcription. The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+Spo0A
+sigE
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings. Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated $T1$ to activate $T2$ until formation of the polar septum is completed. Cell-specific activation of transcription factor sigmaF during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (SpoIIE) located in the septum. The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIAA
+sigmaF
+1
+Production of sigmaK about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of sigE transcription. The $T1$ promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that $T2$ may inhibit sigmaA activity late in sporulation. In the mother cell compartment of sporulating cells, expression of the sigE gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, sigmaK.
+ald
+sigmaK
+0

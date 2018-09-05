@@ -1,0 +1,132 @@
+In that respect $T1$ is similar to the previously described gene $T2$ which is also a member of the sigmaB regulon.
+sigB
+gsiB
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+PBP4*
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$$T2$), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$), non-haem bromoperoxidase (YdjP), epoxide hydrolase ($T2$) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YfhM
+0
+$T1$ negatively controls the transcription of hag by stimulating the transcription of comF-$T2$, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+flgM
+1
+$T1$ negatively controls the transcription of hag by stimulating the transcription of $T2$-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+comF
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T1$$T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+RacX
+0
+DNase I footprinting showed that $T1$ binds strongly to two sites in the cotC promoter region, binds weakly to one site in the $T2$ promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cotX
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that ywhE expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor $T1$, and to a lesser extent by $T2$.
+sigma(F)
+sigma(G)
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$$T2$), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+RacX
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$), non-haem bromoperoxidase ($T2$), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YdjP
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final $T1$$T2$, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotC
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the $T1$ antisigma factor that inhibits $T2$ activity.
+FlgM
+sigmaD
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T1$), epoxide hydrolase ($T2$) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+YfhM
+0
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and $T1$$T2$, yfhR, sspE and yfhP.
+yfhP
+yfhQ
+0
+$T1$ negatively controls the transcription of $T2$ by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+hag
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T1$$T2$), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+YuaG
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called $T1$$T2$ genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotX
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$$T2$), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YteI
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of $T1$$T2$ gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cot
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase ($T1$), flotillin ($T2$), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YuaG
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called $T1$$T2$, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotB
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of $T1$ activated cotB transcription by final $T2$ RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+sigma(K)
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase ($T1$$T2$), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+YteI
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of $T1$ activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of $T2$ or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotX
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final $T1$$T2$ genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotX
+1
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and $T1$$T2$, sspE and yfhP.
+yfhP
+yfhR
+0
+DNase I footprinting showed that $T1$ binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to $T2$. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cotB
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final $T1$$T2$, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+sigma(K)
+cotB
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called $T1$$T2$, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+GerE
+cotC
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters ($T1$$T2$) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+PBP4*
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB. Transcription of the cotB, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE. In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of GerE and another transcription factor, $T1$$T2$ gene expression results from the combined action of GerE and another transcription factor, SpoIIID. A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC. SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cot
+1
+Northern blot and primer extension analyses indicated that yfhS is transcribed by E sigma E during sporulation. These results suggest that YfhP may act as a negative regulator for the transcription of $T1$, $T2$, sspE and yfhP.
+yfhQ
+yfhR
+0

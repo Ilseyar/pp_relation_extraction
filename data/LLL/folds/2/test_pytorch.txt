@@ -1,0 +1,132 @@
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of $T1$ activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed $T2$ transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which $T1$$T2$ initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+gerE
+0
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a $T1$$T2$ and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+sigma(B)
+YtxH
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK GerE binds to a site on one of these promoters, $T1$$T2$ stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+cotX
+GerE
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of $T1$ activated transcription of cotD by $T2$ RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+sigmaK
+1
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via $T1$$T2$ seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+sigma(H)
+YvyD
+1
+Most cot genes, and the gerE gene, are transcribed by $T1$$T2$ gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+gerE
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of $T1$ activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of $T2$ repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+GerE
+0
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new sigmaB-dependent genes (ydaE, $T1$ and $T2$) encoding proteins with still unknown functions were also described.
+ydaG
+yfkM
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of $T1$ initiates a negative feedback loop in which GerE acts as a repressor to limit production of $T2$. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+gerE
+sigmaK
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of $T1$ repressed $T2$ transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that $T1$ binds to two sites that span the -35 region of the $T2$ promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein $T1$ stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK $T2$ binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+GerE
+GerE
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of $T1$ in sporulating cells may first activate $T2$ transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+1
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via $T1$$T2$ and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+sigma(H)
+YtxH
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that $T1$-dependent transcription of $T2$ initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+gerE
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by $T1$ RNA polymerase in vitro, but a higher level of GerE repressed $T2$ transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+cotD
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and $T2$, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+DnaK
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of $T1$ by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed $T2$ transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+cotD
+cotD
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and $T1$$T2$; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+sigma 28
+0
+Transcriptional studies showed that nadE is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a $T1$$T2$ is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a sigma B-dependent manner.
+sigma B
+nadE
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of $T1$$T2$ by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+0
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a $T1$$T2$ seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+sigma(B)
+YvyD
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of $T1$ activated transcription of $T2$ by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+1
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new sigmaB-dependent genes ($T1$, $T2$ and yfkM) encoding proteins with still unknown functions were also described.
+ydaE
+ydaG
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which $T1$ acts as a repressor to limit production of $T2$. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+sigmaK
+1
+Most cot genes, and the gerE gene, are transcribed by $T1$$T2$ genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+cot
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by $T1$ RNA polymerase in vitro, but a higher level of $T2$ repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+GerE
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by $T1$$T2$ by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+cotD
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK GerE binds to a site on one of these promoters, $T1$$T2$ GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+cotX
+sigmaK
+0
+(i) The finding that the bmrUR operon is under sigmaB control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance. The ydaP gene might belong to the increasing number of sigmaB-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions. Three new sigmaB-dependent genes ($T1$, ydaG and $T2$) encoding proteins with still unknown functions were also described.
+ydaE
+yfkM
+0
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the $T1$ protein inhibits transcription in vitro of the $T2$ gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+sigK
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK $T1$$T2$ GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+GerE
+sigmaK
+0

@@ -1,0 +1,132 @@
+The expression of rsfA is under the control of both sigma(F) and $T1$$T2$ is under the control of both sigma(F) and sigma(G).
+sigma(G)
+rsfA
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, $T1$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T2$.
+sigma F
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T1$$T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 32
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+FlgM
+0
+The expression of rsfA is under the control of both $T1$$T2$ is under the control of both sigma(F) and sigma(G).
+sigma(F)
+rsfA
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+FlgM
+0
+sspG transcription also requires the DNA binding protein $T1$$T2$ transcription also requires the DNA binding protein GerE. In contrast, sspJ is transcribed in the forespore compartment by RNA polymerase with the forespore-specific sigmaG and appears to give a monocistronic transcript.
+GerE
+sspG
+1
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of sigmaB-dependent katX expression remains obscure. The -10 and -35 sequences of the sigmaB- and $T1$$T2$- and sigmaF-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+sigmaF
+sigmaB
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 32
+FlgM
+0
+The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by $T1$$T2$ gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression RocR, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS). Unlike the case for other sigma(54)-dependent genes, rocG has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+SigL
+rocG
+1
+sspG transcription also requires the DNA binding protein GerE. In contrast, sspJ is transcribed in the forespore compartment by RNA polymerase with the forespore-specific $T1$$T2$ is transcribed in the forespore compartment by RNA polymerase with the forespore-specific sigmaG and appears to give a monocistronic transcript.
+sigmaG
+sspJ
+1
+In this mutant, expression of the spoIIG gene, whose transcription depends on both sigma(A) and the phosphorylated $T1$$T2$ gene, whose transcription depends on both sigma(A) and the phosphorylated Spo0A protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+Spo0A
+spoIIG
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T1$$T2$, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 32
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; $T1$, which inhibits the sporulation-specific sigma factor, $T2$ and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+sigma F
+1
+The expression of rsfA is under the control of both $T1$ and $T2$.
+sigma(F)
+sigma(G)
+0
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of sigmaB-dependent katX expression remains obscure. The -10 and -35 sequences of the $T1$- and sigmaF-dependent promoters of $T2$ overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+sigmaB
+katX
+1
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of $T1$-dependent $T2$ expression remains obscure. The -10 and -35 sequences of the sigmaB- and sigmaF-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+sigmaB
+katX
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+RbsW
+FlgM
+0
+In this mutant, expression of the spoIIG gene, whose transcription depends on both $T1$ and the phosphorylated $T2$ protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+sigma(A)
+Spo0A
+0
+The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression $T1$$T2$ gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression RocR, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS). Unlike the case for other sigma(54)-dependent genes, rocG has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+RocR
+rocG
+1
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of sigmaB-dependent katX expression remains obscure. The -10 and -35 sequences of the sigmaB- and $T1$-dependent promoters of $T2$ overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+sigmaF
+katX
+1
+$T1$ also contributes to the expression of CsbB, a putative membrane-bound glucosyl transferase that is partially controlled by the $T2$ stress response sigma factor.
+sigma X
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T1$; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor $T2$.
+sigma B
+sigma 32
+0
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on $T1$$T2$ level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of sigmaB-dependent katX expression remains obscure. The -10 and -35 sequences of the sigmaB- and sigmaF-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+EsigmaF
+KatX
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; $T1$, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; $T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+RbsW
+0
+The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by $T1$-containing RNA polymerase and requires for its expression $T2$, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS). Unlike the case for other sigma(54)-dependent genes, rocG has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+SigL
+RocR
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T1$$T2$, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma B
+FlgM
+0
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores. Therefore, the physiological role of sigmaB-dependent katX expression remains obscure. The -10 and -35 sequences of the sigmaB- and sigmaF-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide. We demonstrated that katX is also a $T1$$T2$ is also a sigmaB-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+sigmaB
+katX
+1
+In this mutant, expression of the spoIIG gene, whose transcription depends on both $T1$$T2$ gene, whose transcription depends on both sigma(A) and the phosphorylated Spo0A protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+sigma(A)
+spoIIG
+1
+Cell specificity is first established in the forespore under the control of the sigma F factor, which is itself activated through the action of the $T1$$T2$ factor, which is itself activated through the action of the SpoIIE serine phosphatase, an enzyme targeted to the septum between the two cells.
+SpoIIE
+sigma F
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, $T1$ and sigma G, of Bacillus subtilis; $T2$ of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+RbsW
+0
+The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression RocR, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS). Unlike the case for other $T1$-dependent genes, $T2$ has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+sigma(54)
+rocG
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor $T1$$T2$, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma B
+SpoIIAB
+0

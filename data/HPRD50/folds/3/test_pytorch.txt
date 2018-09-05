@@ -1,0 +1,212 @@
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and $T1$ but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIA
+p300
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T1$, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIB
+p300
+0
+The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a $T1$$T2$ showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans
+homodimer
+cytidine deaminase
+0
+Suppression of rat thromboxane synthase gene transcription by $T1$ in macrophages via an interaction with $T2$ Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 (NF-E2)/AP-1 site (-98/-88), which was indicated to be the major promoter of the TXS gene By electrophoretic mobility shift assay using the NF-E2/AP-1 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor NRF2 (NF-E2-related factor 2) Finally, a direct interaction between PPARgamma and NRF2 was confirmed by glutathione S-transferase pull-down assay
+peroxisome proliferator-activated receptor gamma
+NRF2
+1
+TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC-3 BACKGROUND: Both androgen receptor (AR) and orphan receptor TR2 ($T1$) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines The interaction between AR and TR2 was assessed by $T2$ (GST) pull-down assay and mammalian two-hybrid system assay
+TR2
+glutathione-S-transferase
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and $T1$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+glutathione S-transferase
+SRC-1
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T1$, TBP, and TFIIA but not with TFIIEalpha in the $T2$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIB
+GST
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the $T2$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+GST
+0
+A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing $T1$$T2$, specifically interacts with the CTD not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing splicing factor SC35
+splicing factor SC35
+CASP10
+0
+A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing $T1$$T2$ not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing splicing factor SC35
+splicing factor SC35
+CTD
+0
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated $T1$ may be a substrate for $T2$ regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+CD22
+PTP-1C
+1
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either $T1$/$T2$/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+CD22
+PTP-1C
+1
+The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a $T1$ has important implications for the mechanism of $T2$ mRNA editing in humans
+homodimer
+apoB
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the $T1$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+GST
+SRC-1
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$$T2$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+glutathione S-transferase
+0
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and $T1$$T2$, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+c-myc
+CD69
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and $T1$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T2$, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+glutathione S-transferase
+TFIIB
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T1$ but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+SRC-1
+p300
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and $T1$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the $T2$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+glutathione S-transferase
+GST
+0
+Subsequent amino acid sequencing revealed many peptides involving $T1$ cross-linked either to itself or to a variety of other known CE protein components, including cystatin alpha, $T2$, elafin, keratins, members of the small proline-rich superfamily, loricrin, and unknown proteins related to the desmoplakin family Specific glutamines or lysines of involucrin were used to cross-link the different proteins, such as glutamines 495 and 496 to desmoplakin, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain involucrin cross-links
+involucrin
+desmoplakin
+1
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of $T1$ (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of $T2$ and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+PTP-1C
+CD22
+1
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for $T1$ regulates tyrosyl phosphorylation of $T2$ The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+PTP-1C
+CD22
+1
+The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of $T1$$T2$ showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans
+apoB
+cytidine deaminase
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the $T1$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+GST
+p300
+0
+$T1$ associates with $T2$, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+CD22
+protein tyrosine phosphatase 1C
+1
+Subsequent amino acid sequencing revealed many peptides involving $T1$ cross-linked either to itself or to a variety of other known CE protein components, including $T2$, desmoplakin, elafin, keratins, members of the small proline-rich superfamily, loricrin, and unknown proteins related to the desmoplakin family Specific glutamines or lysines of involucrin were used to cross-link the different proteins, such as glutamines 495 and 496 to desmoplakin, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain involucrin cross-links
+involucrin
+cystatin alpha
+1
+Subsequent amino acid sequencing revealed many peptides involving $T1$ cross-linked either to itself or to a variety of other known CE protein components, including cystatin alpha, desmoplakin, $T2$, keratins, members of the small proline-rich superfamily, loricrin, and unknown proteins related to the desmoplakin family Specific glutamines or lysines of involucrin were used to cross-link the different proteins, such as glutamines 495 and 496 to desmoplakin, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain involucrin cross-links
+involucrin
+elafin
+1
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and $T1$$T2$, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+IL-4
+CD69
+0
+$T1$ interaction with $T2$ phosphatase ties mitogenic signal transduction to cell cycle activation We show here that Cdc25 phosphatase associates with raf1 in somatic mammalian cells and in meiotic frog oocytes
+Raf1
+Cdc25
+1
+A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro $T1$$T2$, specifically interacts with the CTD not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing splicing factor SC35
+SRcyp
+CASP10
+0
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and $T1$$T2$ protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+IL-4
+c-myc
+0
+Herein, we show that a distinct IkappaB protein $T1$ also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+Bcl3
+SRC-1
+0
+Raf1 interaction with Cdc25 phosphatase ties mitogenic signal transduction to cell cycle activation We show here that $T1$ phosphatase associates with $T2$ in somatic mammalian cells and in meiotic frog oocytes
+Cdc25
+raf1
+1
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and $T2$ but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+TFIIA
+0
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with $T1$ was mediated by the NH2-terminal Src homology 2 (SH2) domain of $T2$ Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+CD22
+PTP-1C
+1
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+SRC-1
+0
+We report that $T1$ (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and $T2$ (structure maintenance of chromosome 1) We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival
+MSH2
+SMC1
+1
+Herein, we show that a distinct IkappaB protein $T1$ also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+Bcl3
+p300
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+p300
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and $T1$ but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIA
+SRC-1
+0
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular $T1$ and $T2$, potentiated the DNA synthesis induced by cross-linking of CD53
+IL-2
+IL-4
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and $T1$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not $T2$ further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+glutathione S-transferase
+p300
+0
+CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of $T1$ with $T2$ was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C
+PTP-1C
+CD22
+1
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and $T1$ but not with TFIIEalpha in the $T2$ pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIA
+GST
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T1$, TBP, and $T2$ but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIB
+TFIIA
+0
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular $T1$$T2$ protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+IL-2
+c-myc
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T1$, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of $T2$ but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+TFIIB
+SRC-1
+0
+We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1) We found that phosphorylation of $T1$ by ATR also requires checkpoint proteins $T2$ and replication protein A In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival
+Chk1
+Rad17
+1
+Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular $T1$$T2$, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53
+IL-2
+CD69
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and $T1$ pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and $T2$ but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+glutathione S-transferase
+TFIIA
+0
+A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro $T1$ is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing $T2$
+SRcyp
+splicing factor SC35
+0
+Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to $T1$, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors $T2$, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR
+IkappaBbeta
+TFIIB
+0
+We report that $T1$ (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of $T2$ and SMC1 (structure maintenance of chromosome 1) We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival
+MSH2
+Chk1
+1

@@ -1,0 +1,1336 @@
+Expression of the sigma(K)-dependent entity1_term gene depended on entity2_term.
+cwlH
+gerE
+1
+Expression of the entity1_term-dependent entity2_term gene depended on gerE.
+sigma(K)
+cwlH
+1
+Expression of the entity1_term-dependent cwlH gene depended on entity2_term.
+sigma(K)
+gerE
+0
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that KinC and entity1_term were responsible for entity2_term production during the exponential phase of growth in the absence of KinA and KinB.
+KinD
+Spo0A~P
+1
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that entity1_term and KinD were responsible for entity2_term production during the exponential phase of growth in the absence of KinA and KinB.
+KinC
+Spo0A~P
+1
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that entity1_term and entity2_term were responsible for Spo0A~P production during the exponential phase of growth in the absence of KinA and KinB.
+KinC
+KinD
+0
+entity1_term is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, entity2_term, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+sigmaF
+SpoIIE
+1
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, entity1_term, which converts the inactive, phosphorylated form of entity2_term back to the active form.
+SpoIIE
+SpoIIAA
+1
+entity1_term is controlled by a regulatory cascade involving an anti-sigma factor, entity2_term, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+sigmaF
+SpoIIAB
+1
+entity1_term is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, entity2_term, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+sigmaF
+SpoIIAA
+1
+Taken together, the results support the idea that sequestration of entity1_term protein into the prespore plays an important role in the control of entity2_term activation and in coupling this activation to septation.
+SpoIIE
+sigmaF
+1
+entity1_term is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of entity2_term back to the active form.
+sigmaF
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, entity1_term, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of entity2_term back to the active form.
+SpoIIAA
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, entity1_term, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of entity2_term back to the active form.
+SpoIIAB
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, entity1_term, and a membrane-bound phosphatase, entity2_term, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+SpoIIE
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, entity1_term, an anti-anti-sigma factor, entity2_term, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAB
+SpoIIAA
+0
+sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, entity1_term, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, entity2_term, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAB
+SpoIIE
+0
+Although entity1_term is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the entity2_term phosphorelay, there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH.
+spo0H
+Spo0
+1
+Our data demonstrate that the CtsR protein acts as a global repressor of the entity1_term operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the entity2_term- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+clpC
+sigmaB
+1
+Our data demonstrate that the CtsR protein acts as a global repressor of the entity1_term operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or entity2_term-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+clpC
+sigmaA
+1
+The Bacillus subtilis entity1_term operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a entity2_term-like promoter.
+clpC
+sigmaA
+1
+Our data demonstrate that the entity1_term protein acts as a global repressor of the entity2_term operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+CtsR
+clpC
+1
+The Bacillus subtilis entity1_term operon is regulated by two stress induction pathways relying on either entity2_term or a class III stress induction mechanism acting at a sigmaA-like promoter.
+clpC
+sigmaB
+1
+Our data demonstrate that the entity1_term protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or entity2_term-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+CtsR
+sigmaA
+0
+Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the entity1_term- or entity2_term-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaB
+sigmaA
+0
+Our data demonstrate that the entity1_term protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the entity2_term- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+CtsR
+sigmaB
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either entity1_term or a class III stress induction mechanism acting at a entity2_term-like promoter.
+sigmaB
+sigmaA
+0
+Transcriptional studies demonstrated that the expression from the entity1_term promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by entity2_term.
+araE
+AraR
+1
+Transcriptional studies showed that entity1_term is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a entity2_term-dependent manner.
+nadE
+sigma B
+1
+Furthermore, YtxH and entity1_term seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via entity2_term.
+YvyD
+sigma(H)
+1
+Furthermore, YtxH and entity1_term seemed to be induced after phosphate starvation in the wild type in a entity2_term-dependent manner and in the sigB mutant probably via sigma(H).
+YvyD
+sigma(B)
+1
+Furthermore, entity1_term and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via entity2_term.
+YtxH
+sigma(H)
+1
+Furthermore, entity1_term and YvyD seemed to be induced after phosphate starvation in the wild type in a entity2_term-dependent manner and in the sigB mutant probably via sigma(H).
+YtxH
+sigma(B)
+1
+Furthermore, entity1_term and entity2_term seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+YtxH
+YvyD
+0
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a entity1_term-dependent manner and in the sigB mutant probably via entity2_term.
+sigma(B)
+sigma(H)
+0
+A low level of GerE activated transcription of entity1_term by entity2_term RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription.
+cotD
+sigmaK
+1
+A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of entity1_term repressed entity2_term transcription.
+GerE
+cotD
+1
+A low level of entity1_term activated transcription of cotD by entity2_term RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription.
+GerE
+sigmaK
+1
+A low level of entity1_term activated transcription of entity2_term by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription.
+GerE
+cotD
+1
+These results demonstrate that entity1_term-dependent transcription of entity2_term initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK.
+sigmaK
+gerE
+1
+These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which entity1_term acts as a repressor to limit production of entity2_term.
+GerE
+sigmaK
+1
+Most cot genes, and the entity1_term gene, are transcribed by entity2_term RNA polymerase.
+gerE
+sigmaK
+1
+Previously, it was shown that the entity1_term protein inhibits transcription in vitro of the entity2_term gene encoding sigmaK.
+GerE
+sigK
+1
+Most entity1_term genes, and the gerE gene, are transcribed by entity2_term RNA polymerase.
+cot
+sigmaK
+1
+We show that entity1_term binds to two sites that span the -35 region of the entity2_term promoter.
+GerE
+cotD
+1
+These results suggest that a rising level of entity1_term in sporulating cells may first activate entity2_term transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+GerE
+cotD
+1
+Here, we show that entity1_term binds near the entity2_term transcriptional start site, to act as a repressor.
+GerE
+sigK
+1
+Most entity1_term genes, and the entity2_term gene, are transcribed by sigmaK RNA polymerase.
+cot
+gerE
+0
+These results demonstrate that entity1_term-dependent transcription of gerE initiates a negative feedback loop in which entity2_term acts as a repressor to limit production of sigmaK.
+sigmaK
+GerE
+0
+These results demonstrate that entity1_term-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of entity2_term.
+sigmaK
+sigmaK
+0
+These results demonstrate that sigmaK-dependent transcription of entity1_term initiates a negative feedback loop in which entity2_term acts as a repressor to limit production of sigmaK.
+gerE
+GerE
+0
+A low level of entity1_term activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of entity2_term repressed cotD transcription.
+GerE
+GerE
+0
+A low level of entity1_term activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed entity2_term transcription.
+GerE
+cotD
+0
+A low level of GerE activated transcription of cotD by entity1_term RNA polymerase in vitro, but a higher level of entity2_term repressed cotD transcription.
+sigmaK
+GerE
+0
+A low level of GerE activated transcription of cotD by entity1_term RNA polymerase in vitro, but a higher level of GerE repressed entity2_term transcription.
+sigmaK
+cotD
+0
+A low level of GerE activated transcription of entity1_term by sigmaK RNA polymerase in vitro, but a higher level of entity2_term repressed cotD transcription.
+cotD
+GerE
+0
+These results demonstrate that sigmaK-dependent transcription of entity1_term initiates a negative feedback loop in which GerE acts as a repressor to limit production of entity2_term.
+gerE
+sigmaK
+0
+A low level of GerE activated transcription of entity1_term by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed entity2_term transcription.
+cotD
+cotD
+0
+In addition to controlling transcription of entity1_term, entity2_term appears to control expression of at least one other gene required for production of CSF.
+phrC
+sigmaH
+1
+Three new entity1_term-dependent genes (ydaE, entity2_term and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+ydaG
+1
+Three new entity1_term-dependent genes (ydaE, ydaG and entity2_term) encoding proteins with still unknown functions were also described.
+sigmaB
+yfkM
+1
+The entity1_term gene might belong to the increasing number of entity2_term-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions.
+ydaP
+sigmaB
+1
+Three new entity1_term-dependent genes (entity2_term, ydaG and yfkM) encoding proteins with still unknown functions were also described.
+sigmaB
+ydaE
+1
+(i) The finding that the entity1_term operon is under entity2_term control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance.
+bmrUR
+sigmaB
+1
+Three new sigmaB-dependent genes (entity1_term, entity2_term and yfkM) encoding proteins with still unknown functions were also described.
+ydaE
+ydaG
+0
+Three new sigmaB-dependent genes (entity1_term, ydaG and entity2_term) encoding proteins with still unknown functions were also described.
+ydaE
+yfkM
+0
+Three new sigmaB-dependent genes (ydaE, entity1_term and entity2_term) encoding proteins with still unknown functions were also described.
+ydaG
+yfkM
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK entity1_term binds to a site on one of these promoters, entity2_term, that overlaps its -35 region.
+GerE
+cotX
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein entity1_term stimulates transcription from several promoters that are used by RNA polymerase containing entity2_term GerE binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+GerE
+sigmaK
+1
+During endospore formation in Bacillus subtilis, the DNA binding protein entity1_term stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK GerE binds to a site on one of these promoters, entity2_term, that overlaps its -35 region.
+GerE
+cotX
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing entity1_term GerE binds to a site on one of these promoters, entity2_term, that overlaps its -35 region.
+sigmaK
+cotX
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein entity1_term stimulates transcription from several promoters that are used by RNA polymerase containing sigmaK entity2_term binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+GerE
+GerE
+0
+During endospore formation in Bacillus subtilis, the DNA binding protein GerE stimulates transcription from several promoters that are used by RNA polymerase containing entity1_term entity2_term binds to a site on one of these promoters, cotX, that overlaps its -35 region.
+sigmaK
+GerE
+0
+However, the mutant was unable to stimulate transcription by final sigma(A)-RNA polymerase from the entity1_term-dependent entity2_term operon promoter.
+Spo0A
+spoIIG
+1
+However, the mutant was unable to stimulate transcription by final entity1_term-RNA polymerase from the Spo0A-dependent entity2_term operon promoter.
+sigma(A)
+spoIIG
+1
+However, the mutant was unable to stimulate transcription by final entity1_term-RNA polymerase from the entity2_term-dependent spoIIG operon promoter.
+sigma(A)
+Spo0A
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity1_term of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+RbsW
+sigma B
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity1_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+DnaK
+sigma 32
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, sigma F and entity2_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+sigma G
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity2_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+sigma 28
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, entity2_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+sigma F
+1
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity2_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+sigma G
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity1_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity1_term and entity2_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+sigma G
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity1_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity1_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+sigma G
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity1_term, of Bacillus subtilis; entity2_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma G
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and entity2_term, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+sigma G
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity2_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+sigma F
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+sigma 28
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; entity2_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor entity1_term; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity2_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma 28
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity1_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity1_term; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma B
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity1_term of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+RbsW
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and entity2_term, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+DnaK
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity1_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity1_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+sigma F
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity1_term and sigma G, of Bacillus subtilis; entity2_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+sigma F
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, entity2_term and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+sigma F
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity1_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+sigma B
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor entity2_term; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+sigma B
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+SpoIIAB
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity1_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+RbsW
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor entity2_term.
+FlgM
+sigma 32
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity1_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity2_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+SpoIIAB
+RbsW
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; entity2_term, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+SpoIIAB
+0
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; entity1_term, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; entity2_term of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+FlgM
+RbsW
+0
+The -10 and -35 sequences of the sigmaB- and entity1_term-dependent promoters of entity2_term overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.
+sigmaF
+katX
+1
+We demonstrated that entity1_term is also a entity2_term-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+katX
+sigmaB
+1
+Therefore, the physiological role of entity1_term-dependent entity2_term expression remains obscure.
+sigmaB
+katX
+1
+The -10 and -35 sequences of the entity1_term- and sigmaF-dependent promoters of entity2_term overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.
+sigmaB
+katX
+1
+Our results indicate that the level of entity1_term level in outgrowing spores depends mainly on entity2_term, because sigB mutants show normal KatX activity in dormant and outgrowing spores.
+KatX
+EsigmaF
+1
+The -10 and -35 sequences of the entity1_term- and entity2_term-dependent promoters of katX overlap, and the transcriptional start points used by EsigmaB and EsigmaF differ by only one nucleotide.
+sigmaB
+sigmaF
+0
+In this mutant, expression of the entity1_term gene, whose transcription depends on both sigma(A) and the phosphorylated entity2_term protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+spoIIG
+Spo0A
+1
+In this mutant, expression of the entity1_term gene, whose transcription depends on both entity2_term and the phosphorylated Spo0A protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+spoIIG
+sigma(A)
+1
+In this mutant, expression of the spoIIG gene, whose transcription depends on both entity1_term and the phosphorylated entity2_term protein, Spo0A~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+sigma(A)
+Spo0A
+0
+The expression of entity1_term is under the control of both sigma(F) and entity2_term.
+rsfA
+sigma(G)
+1
+The expression of entity1_term is under the control of both entity2_term and sigma(G).
+rsfA
+sigma(F)
+1
+The expression of rsfA is under the control of both entity1_term and entity2_term.
+sigma(F)
+sigma(G)
+0
+Cell specificity is first established in the forespore under the control of the entity1_term factor, which is itself activated through the action of the entity2_term serine phosphatase, an enzyme targeted to the septum between the two cells.
+sigma F
+SpoIIE
+1
+The entity1_term gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by SigL-containing RNA polymerase and requires for its expression entity2_term, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).
+rocG
+RocR
+1
+Unlike the case for other entity1_term-dependent genes, entity2_term has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the rocG promoter, beyond the end of the rocG coding region.
+sigma(54)
+rocG
+1
+The entity1_term gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by entity2_term-containing RNA polymerase and requires for its expression RocR, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).
+rocG
+SigL
+1
+The rocG gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by entity1_term-containing RNA polymerase and requires for its expression entity2_term, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).
+SigL
+RocR
+0
+In contrast, entity1_term is transcribed in the forespore compartment by RNA polymerase with the forespore-specific entity2_term and appears to give a monocistronic transcript.
+sspJ
+sigmaG
+1
+entity1_term transcription also requires the DNA binding protein entity2_term.
+sspG
+GerE
+1
+The expression of the entity1_term operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor entity2_term, a member of the sigma 54 family.
+bkd
+SigL
+1
+sigma X also contributes to the expression of entity1_term, a putative membrane-bound glucosyl transferase that is partially controlled by the entity2_term stress response sigma factor.
+CsbB
+sigma B
+1
+entity1_term also contributes to the expression of entity2_term, a putative membrane-bound glucosyl transferase that is partially controlled by the sigma B stress response sigma factor.
+sigma X
+CsbB
+1
+entity1_term also contributes to the expression of CsbB, a putative membrane-bound glucosyl transferase that is partially controlled by the entity2_term stress response sigma factor.
+sigma X
+sigma B
+0
+In the mother cell compartment of sporulating cells, expression of the entity1_term gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, entity2_term.
+sigE
+sigmaK
+1
+The ald promoter, like the entity1_term promoter, is believed to be recognized by entity2_term RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation.
+sigE
+sigmaA
+1
+The ald promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that entity1_term may inhibit entity2_term activity late in sporulation.
+sigmaK
+sigmaA
+1
+Production of sigmaK about 1 h earlier than normal does affect entity1_term, which when phosphorylated is an activator of entity2_term transcription.
+Spo0A
+sigE
+1
+The entity1_term promoter, like the sigE promoter, is believed to be recognized by entity2_term RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation.
+ald
+sigmaA
+1
+Production of entity1_term about 1 h earlier than normal does affect entity2_term, which when phosphorylated is an activator of sigE transcription.
+sigmaK
+Spo0A
+1
+The entity1_term promoter, like the entity2_term promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit sigmaA activity late in sporulation.
+ald
+sigE
+0
+The entity1_term promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that entity2_term may inhibit sigmaA activity late in sporulation.
+ald
+sigmaK
+0
+The entity1_term promoter, like the sigE promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit entity2_term activity late in sporulation.
+ald
+sigmaA
+0
+The ald promoter, like the entity1_term promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that entity2_term may inhibit sigmaA activity late in sporulation.
+sigE
+sigmaK
+0
+The ald promoter, like the entity1_term promoter, is believed to be recognized by sigmaA RNA polymerase, suggesting that sigmaK may inhibit entity2_term activity late in sporulation.
+sigE
+sigmaA
+0
+The ald promoter, like the sigE promoter, is believed to be recognized by entity1_term RNA polymerase, suggesting that entity2_term may inhibit sigmaA activity late in sporulation.
+sigmaA
+sigmaK
+0
+The ald promoter, like the sigE promoter, is believed to be recognized by entity1_term RNA polymerase, suggesting that sigmaK may inhibit entity2_term activity late in sporulation.
+sigmaA
+sigmaA
+0
+Production of entity1_term about 1 h earlier than normal does affect Spo0A, which when phosphorylated is an activator of entity2_term transcription.
+sigmaK
+sigE
+0
+The SpoIIE phosphatase indirectly activates entity1_term by dephosphorylating a protein (entity2_term) in the pathway that controls the activity of the transcription factor.
+sigmaF
+SpoIIAA-P
+1
+The entity1_term phosphatase indirectly activates sigmaF by dephosphorylating a protein (entity2_term) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+SpoIIAA-P
+1
+The entity1_term phosphatase indirectly activates entity2_term by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+SpoIIE
+sigmaF
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that SpoIIE blocks the capacity of unphosphorylated entity1_term to activate entity2_term until formation of the polar septum is completed.
+SpoIIAA
+sigmaF
+1
+Cell-specific activation of transcription factor entity1_term during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (entity2_term) located in the septum.
+sigmaF
+SpoIIE
+1
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the entity1_term-dependent assembly of entity2_term into E-rings.
+FtsZ
+SpoIIE
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that entity1_term blocks the capacity of unphosphorylated entity2_term to activate sigmaF until formation of the polar septum is completed.
+SpoIIE
+SpoIIAA
+1
+The first stage, which involves the phosphatase function of entity1_term, depends on the cell division protein entity2_term and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings.
+SpoIIE
+FtsZ
+1
+Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that entity1_term blocks the capacity of unphosphorylated SpoIIAA to activate entity2_term until formation of the polar septum is completed.
+SpoIIE
+sigmaF
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein entity1_term and could correspond to the FtsZ-dependent assembly of entity2_term into E-rings.
+FtsZ
+SpoIIE
+0
+The first stage, which involves the phosphatase function of entity1_term, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of entity2_term into E-rings.
+SpoIIE
+SpoIIE
+0
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein entity1_term and could correspond to the entity2_term-dependent assembly of SpoIIE into E-rings.
+FtsZ
+FtsZ
+0
+The first stage, which involves the phosphatase function of entity1_term, depends on the cell division protein FtsZ and could correspond to the entity2_term-dependent assembly of SpoIIE into E-rings.
+SpoIIE
+FtsZ
+0
+Primer extension experiments and Northern blot analysis show that an active entity1_term-dependent promoter precedes entity2_term and transcription is terminated at the putative p-independent terminator downstream of kdgT.
+sigmaA
+kdgR
+1
+This stress-induced increase in entity1_term expression is absolutely dependent on the alternative sigma factor entity2_term, which controls a large stationary-phase and stress regulon.
+ykzA
+sigmaB
+1
+From these results we conclude that ComK negatively regulates degR expression by preventing entity1_term-driven transcription of entity2_term, possibly through interaction with the control region.
+sigmaD
+degR
+1
+We have shown previously that the transcription of entity1_term is driven by an alternative sigma factor, entity2_term.
+degR
+sigmaD
+1
+From these results we conclude that entity1_term negatively regulates entity2_term expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region.
+ComK
+degR
+1
+From these results we conclude that entity1_term negatively regulates degR expression by preventing sigmaD-driven transcription of entity2_term, possibly through interaction with the control region.
+ComK
+degR
+1
+From these results we conclude that entity1_term negatively regulates degR expression by preventing entity2_term-driven transcription of degR, possibly through interaction with the control region.
+ComK
+sigmaD
+1
+From these results we conclude that ComK negatively regulates entity1_term expression by preventing sigmaD-driven transcription of entity2_term, possibly through interaction with the control region.
+degR
+degR
+0
+From these results we conclude that ComK negatively regulates entity1_term expression by preventing entity2_term-driven transcription of degR, possibly through interaction with the control region.
+degR
+sigmaD
+0
+Therefore, entity1_term is solely expressed during sporulation from a sigma(K)- and entity2_term-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+ftsY
+GerE
+1
+Therefore, entity1_term is solely expressed during sporulation from a entity2_term- and GerE-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+ftsY
+sigma(K)
+1
+Therefore, ftsY is solely expressed during sporulation from a entity1_term- and entity2_term-controlled promoter that is located immediately upstream of ftsY inside the smc gene.
+sigma(K)
+GerE
+0
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and entity1_term holoenzymes recognize promoter elements within the sigX-entity2_term control region.
+sigma(X)
+ypuN
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both entity1_term and sigma(X) holoenzymes recognize promoter elements within the sigX-entity2_term control region.
+sigma(A)
+ypuN
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and entity1_term holoenzymes recognize promoter elements within the entity2_term-ypuN control region.
+sigma(X)
+sigX
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both entity1_term and sigma(X) holoenzymes recognize promoter elements within the entity2_term-ypuN control region.
+sigma(A)
+sigX
+1
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and sigma(X) holoenzymes recognize promoter elements within the entity1_term-entity2_term control region.
+sigX
+ypuN
+0
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both entity1_term and entity2_term holoenzymes recognize promoter elements within the sigX-ypuN control region.
+sigma(A)
+sigma(X)
+0
+Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like entity1_term, are under the control of the mother cell transcription factor entity2_term.
+spoIVA
+sigmaE
+1
+The addition of entity1_term to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to ClpX-dependent stimulation than entity2_term-RNAP.
+ClpX
+sigmaA
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to entity1_term-dependent stimulation than entity2_term-RNAP.
+ClpX
+sigmaA
+1
+The addition of entity1_term to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but entity2_term-RNAP was observed to be more sensitive to ClpX-dependent stimulation than sigmaA-RNAP.
+ClpX
+sigmaH
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but entity1_term-RNAP was observed to be more sensitive to entity2_term-dependent stimulation than sigmaA-RNAP.
+sigmaH
+ClpX
+1
+The addition of ClpX to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but entity1_term-RNAP was observed to be more sensitive to ClpX-dependent stimulation than entity2_term-RNAP.
+sigmaH
+sigmaA
+0
+The addition of entity1_term to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but sigmaH-RNAP was observed to be more sensitive to entity2_term-dependent stimulation than sigmaA-RNAP.
+ClpX
+ClpX
+0
+In the shaA mutant, entity1_term-dependent expression of spo0A and entity2_term at an early stage of sporulation was sensitive to external NaCl.
+sigma(H)
+spoVG
+1
+In the shaA mutant, entity1_term-dependent expression of entity2_term and spoVG at an early stage of sporulation was sensitive to external NaCl.
+sigma(H)
+spo0A
+1
+In the shaA mutant, sigma(H)-dependent expression of entity1_term and entity2_term at an early stage of sporulation was sensitive to external NaCl.
+spo0A
+spoVG
+0
+Both SigK and entity1_term were essential for entity2_term expression, and this gene was transcribed from T5 of sporulation.
+GerE
+ykvP
+1
+entity1_term was transcribed by entity2_term RNA polymerase from T4 of sporulation.
+ykuD
+SigK
+1
+Both entity1_term and GerE were essential for entity2_term expression, and this gene was transcribed from T5 of sporulation.
+SigK
+ykvP
+1
+Transcription of entity1_term was dependent on entity2_term, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation).
+ydhD
+SigE
+1
+Both entity1_term and entity2_term were essential for ykvP expression, and this gene was transcribed from T5 of sporulation.
+SigK
+GerE
+0
+entity1_term at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on entity2_term transcription.
+SpoIIID
+cotB
+1
+entity1_term at low concentration repressed entity2_term transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on cotB transcription.
+SpoIIID
+cotC
+1
+entity1_term at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed entity2_term transcription and had little effect on cotB transcription.
+SpoIIID
+cotX
+1
+A low concentration of entity1_term activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or entity2_term.
+GerE
+cotC
+1
+A low concentration of GerE activated entity1_term transcription by final entity2_term RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC.
+cotB
+sigma(K)
+1
+DNase I footprinting showed that entity1_term binds strongly to two sites in the entity2_term promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to cotB.
+SpoIIID
+cotC
+1
+A low concentration of entity1_term activated entity2_term transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC.
+GerE
+cotB
+1
+A low concentration of entity1_term activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of entity2_term or cotC.
+GerE
+cotX
+1
+In vitro transcription experiments suggest that the differential pattern of entity1_term gene expression results from the combined action of GerE and another transcription factor, entity2_term.
+cot
+SpoIIID
+1
+A low concentration of entity1_term activated cotB transcription by final entity2_term RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or cotC.
+GerE
+sigma(K)
+1
+In vitro transcription experiments suggest that the differential pattern of entity1_term gene expression results from the combined action of entity2_term and another transcription factor, SpoIIID.
+cot
+GerE
+1
+Transcription of the cotB, entity1_term, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called entity2_term.
+cotC
+GerE
+1
+Transcription of the cotB, cotC, and entity1_term genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called entity2_term.
+cotX
+GerE
+1
+Transcription of the cotB, cotC, and entity1_term genes by final entity2_term RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotX
+sigma(K)
+1
+Transcription of the entity1_term, cotC, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called entity2_term.
+cotB
+GerE
+1
+Transcription of the entity1_term, cotC, and cotX genes by final entity2_term RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotB
+sigma(K)
+1
+Transcription of the cotB, entity1_term, and cotX genes by final entity2_term RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotC
+sigma(K)
+1
+DNase I footprinting showed that entity1_term binds strongly to two sites in the cotC promoter region, binds weakly to one site in the entity2_term promoter, and does not bind specifically to cotB.
+SpoIIID
+cotX
+1
+DNase I footprinting showed that entity1_term binds strongly to two sites in the cotC promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to entity2_term.
+SpoIIID
+cotB
+1
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the entity1_term promoter region, binds weakly to one site in the entity2_term promoter, and does not bind specifically to cotB.
+cotC
+cotX
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the cotC promoter region, binds weakly to one site in the entity1_term promoter, and does not bind specifically to entity2_term.
+cotX
+cotB
+0
+DNase I footprinting showed that SpoIIID binds strongly to two sites in the entity1_term promoter region, binds weakly to one site in the cotX promoter, and does not bind specifically to entity2_term.
+cotC
+cotB
+0
+Transcription of the cotB, cotC, and cotX genes by final entity1_term RNA polymerase is activated by a small, DNA-binding protein called entity2_term.
+sigma(K)
+GerE
+0
+Transcription of the entity1_term, entity2_term, and cotX genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotB
+cotC
+0
+Transcription of the entity1_term, cotC, and entity2_term genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotB
+cotX
+0
+In vitro transcription experiments suggest that the differential pattern of cot gene expression results from the combined action of entity1_term and another transcription factor, entity2_term.
+GerE
+SpoIIID
+0
+Transcription of the cotB, entity1_term, and entity2_term genes by final sigma(K) RNA polymerase is activated by a small, DNA-binding protein called GerE.
+cotC
+cotX
+0
+A low concentration of GerE activated cotB transcription by final entity1_term RNA polymerase, whereas a higher concentration was needed to activate transcription of entity2_term or cotC.
+sigma(K)
+cotX
+0
+A low concentration of GerE activated cotB transcription by final entity1_term RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or entity2_term.
+sigma(K)
+cotC
+0
+A low concentration of GerE activated entity1_term transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of entity2_term or cotC.
+cotB
+cotX
+0
+A low concentration of GerE activated entity1_term transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of cotX or entity2_term.
+cotB
+cotC
+0
+A low concentration of GerE activated cotB transcription by final sigma(K) RNA polymerase, whereas a higher concentration was needed to activate transcription of entity1_term or entity2_term.
+cotX
+cotC
+0
+SpoIIID at low concentration repressed entity1_term transcription, whereas a higher concentration only partially repressed cotX transcription and had little effect on entity2_term transcription.
+cotC
+cotB
+0
+SpoIIID at low concentration repressed cotC transcription, whereas a higher concentration only partially repressed entity1_term transcription and had little effect on entity2_term transcription.
+cotX
+cotB
+0
+SpoIIID at low concentration repressed entity1_term transcription, whereas a higher concentration only partially repressed entity2_term transcription and had little effect on cotB transcription.
+cotC
+cotX
+0
+entity1_term negatively controls the transcription of hag by stimulating the transcription of comF-entity2_term, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+flgM
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the entity1_term antisigma factor that inhibits entity2_term activity.
+FlgM
+sigmaD
+1
+entity1_term negatively controls the transcription of entity2_term by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+hag
+1
+entity1_term negatively controls the transcription of hag by stimulating the transcription of entity2_term-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+ComK
+comF
+1
+entity1_term negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the entity2_term antisigma factor that inhibits sigmaD activity.
+ComK
+FlgM
+1
+ComK negatively controls the transcription of hag by stimulating the transcription of entity1_term-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits entity2_term activity.
+comF
+sigmaD
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-entity1_term, thereby increasing the production of the FlgM antisigma factor that inhibits entity2_term activity.
+flgM
+sigmaD
+0
+entity1_term negatively controls the transcription of hag by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits entity2_term activity.
+ComK
+sigmaD
+0
+ComK negatively controls the transcription of entity1_term by stimulating the transcription of comF-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits entity2_term activity.
+hag
+sigmaD
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of entity1_term-entity2_term, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+comF
+flgM
+0
+ComK negatively controls the transcription of entity1_term by stimulating the transcription of entity2_term-flgM, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+hag
+comF
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of entity1_term-flgM, thereby increasing the production of the entity2_term antisigma factor that inhibits sigmaD activity.
+comF
+FlgM
+0
+ComK negatively controls the transcription of entity1_term by stimulating the transcription of comF-entity2_term, thereby increasing the production of the FlgM antisigma factor that inhibits sigmaD activity.
+hag
+flgM
+0
+ComK negatively controls the transcription of hag by stimulating the transcription of comF-entity1_term, thereby increasing the production of the entity2_term antisigma factor that inhibits sigmaD activity.
+flgM
+FlgM
+0
+ComK negatively controls the transcription of entity1_term by stimulating the transcription of comF-flgM, thereby increasing the production of the entity2_term antisigma factor that inhibits sigmaD activity.
+hag
+FlgM
+0
+A entity1_term-dependent promoter (PW) precedes entity2_term, demonstrating that this transcription factor is positively autoregulated.
+sigmaW
+sigW
+1
+Dephosphorylation of entity1_term by entity2_term is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.
+SpoIIAA-P
+SpoIIE
+1
+These results suggest that entity1_term may act as a negative regulator for the transcription of yfhQ, yfhR, entity2_term and yfhP.
+YfhP
+sspE
+1
+These results suggest that entity1_term may act as a negative regulator for the transcription of yfhQ, yfhR, sspE and entity2_term.
+YfhP
+yfhP
+1
+These results suggest that entity1_term may act as a negative regulator for the transcription of entity2_term, yfhR, sspE and yfhP.
+YfhP
+yfhQ
+1
+These results suggest that entity1_term may act as a negative regulator for the transcription of yfhQ, entity2_term, sspE and yfhP.
+YfhP
+yfhR
+1
+Northern blot and primer extension analyses indicated that entity1_term is transcribed by entity2_term during sporulation.
+yfhS
+E sigma E
+1
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, yfhR, entity1_term and entity2_term.
+sspE
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of entity1_term, yfhR, entity2_term and yfhP.
+yfhQ
+sspE
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, entity1_term, entity2_term and yfhP.
+yfhR
+sspE
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of entity1_term, yfhR, sspE and entity2_term.
+yfhQ
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of yfhQ, entity1_term, sspE and entity2_term.
+yfhR
+yfhP
+0
+These results suggest that YfhP may act as a negative regulator for the transcription of entity1_term, entity2_term, sspE and yfhP.
+yfhQ
+yfhR
+0
+Analysis of the expression of a translational ywhE-lacZ fusion showed that entity1_term expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor sigma(F), and to a lesser extent by entity2_term.
+ywhE
+sigma(G)
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that entity1_term expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor entity2_term, and to a lesser extent by sigma(G).
+ywhE
+sigma(F)
+1
+Analysis of the expression of a translational ywhE-lacZ fusion showed that ywhE expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor entity1_term, and to a lesser extent by entity2_term.
+sigma(F)
+sigma(G)
+0
+Localization of entity1_term was shown to be dependent on the essential cell division protein entity2_term.
+SpoIIE
+FtsZ
+1
+Secondly, entity1_term is essential for the activation of the first compartment-specific transcription factor entity2_term in the prespore.
+SpoIIE
+sigma(F)
+1
+In that respect entity1_term is similar to the previously described gene gsiB which is also a member of the entity2_term regulon.
+sigB
+sigmaB
+1
+In that respect sigB is similar to the previously described gene entity1_term which is also a member of the entity2_term regulon.
+gsiB
+sigmaB
+1
+In that respect entity1_term is similar to the previously described gene entity2_term which is also a member of the sigmaB regulon.
+sigB
+gsiB
+0
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YdjP
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YfhM
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YuaG
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YknXYZ
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity2_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+RacX
+1
+The entity1_term regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+YteI
+1
+The entity1_term regulon includes a penicillin binding protein (entity2_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+sigma W
+PBP4*
+1
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity1_term), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity1_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YknXYZ
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (entity2_term), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YknXYZ
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity1_term), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YdjP
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (entity2_term), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YdjP
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity1_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YteI
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YteI
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (entity2_term), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YteI
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity1_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+YuaG
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (entity2_term), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YuaG
+0
+The sigma W regulon includes a penicillin binding protein (PBP4*) and a co-transcribed amino acid racemase (entity1_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+RacX
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (RacX), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (entity2_term) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+YfhM
+0
+The sigma W regulon includes a penicillin binding protein (entity1_term) and a co-transcribed amino acid racemase (entity2_term), homologues of signal peptide peptidase (YteI), flotillin (YuaG), ABC transporters (YknXYZ), non-haem bromoperoxidase (YdjP), epoxide hydrolase (YfhM) and three small peptides with structural similarities to bacteriocin precursor polypeptides.
+PBP4*
+RacX
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity1_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+tlp
+sigmaF
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity1_term operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+tlp
+sigmaG
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspN
+sigmaF
+1
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity2_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sigmaG
+1
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspN
+sigmaG
+1
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity2_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sigmaG
+1
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+tlp
+0
+The entity1_term and entity2_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sspL
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspL
+sspN
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspL
+sigmaF
+0
+The sspH and entity1_term genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspL
+sigmaG
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+tlp
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity1_term-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspN
+tlp
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-entity2_term operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+tlp
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sspH
+sspN
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sspH
+sigmaF
+0
+The entity1_term and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sspH
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the entity2_term-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sspN
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-tlp operon is recognized equally well by sigmaG and the other forespore-specific sigma factor, entity2_term.
+sigmaG
+sigmaF
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, entity1_term; the sspN-tlp operon is recognized equally well by entity2_term and the other forespore-specific sigma factor, sigmaF.
+sigmaG
+sigmaG
+0
+The sspH and sspL genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, sigmaG; the sspN-tlp operon is recognized equally well by entity1_term and the other forespore-specific sigma factor, entity2_term.
+sigmaG
+sigmaF
+0
+The results indicate that entity1_term is sufficient to repress the transcription of the tagA and entity2_term promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagD
+1
+The results indicate that entity1_term is sufficient to repress the transcription of the tagA and tagD promoters and also to activate the transcription of the entity2_term promoter.
+PhoP~P
+tuaA
+1
+The results indicate that entity1_term is sufficient to repress the transcription of the entity2_term and tagD promoters and also to activate the transcription of the tuaA promoter.
+PhoP~P
+tagA
+1
+The results indicate that PhoP~P is sufficient to repress the transcription of the tagA and entity1_term promoters and also to activate the transcription of the entity2_term promoter.
+tagD
+tuaA
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the entity1_term and tagD promoters and also to activate the transcription of the entity2_term promoter.
+tagA
+tuaA
+0
+The results indicate that PhoP~P is sufficient to repress the transcription of the entity1_term and entity2_term promoters and also to activate the transcription of the tuaA promoter.
+tagA
+tagD
+0
+In addition to the typical entity1_term-dependent, stress- and starvation-inducible pattern, entity2_term is also induced in response to amino acid depletion.
+sigmaB
+yvyD
+1
+This indicates that the entity1_term gene product, being a member of both the sigmaB and entity2_term regulons, might negatively regulate the activity of the sigmaL regulon.
+yvyD
+sigmaH
+1
+This indicates that the entity1_term gene product, being a member of both the sigmaB and sigmaH regulons, might negatively regulate the activity of the entity2_term regulon.
+yvyD
+sigmaL
+1
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a entity1_term-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+sigmaH
+yvyD
+1
+This indicates that the entity1_term gene product, being a member of both the entity2_term and sigmaH regulons, might negatively regulate the activity of the sigmaL regulon.
+yvyD
+sigmaB
+1
+The entity1_term-dependent promoter drives expression of entity2_term under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+sigmaB
+yvyD
+1
+This indicates that the yvyD gene product, being a member of both the entity1_term and entity2_term regulons, might negatively regulate the activity of the sigmaL regulon.
+sigmaB
+sigmaH
+0
+This indicates that the yvyD gene product, being a member of both the sigmaB and entity1_term regulons, might negatively regulate the activity of the entity2_term regulon.
+sigmaH
+sigmaL
+0
+The entity1_term-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+sigmaB
+yvyD
+0
+The sigmaB-dependent promoter drives expression of entity1_term under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for entity2_term transcription following amino acid limitation.
+yvyD
+yvyD
+0
+This indicates that the yvyD gene product, being a member of both the entity1_term and sigmaH regulons, might negatively regulate the activity of the entity2_term regulon.
+sigmaB
+sigmaL
+0
+The entity1_term-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a entity2_term-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+sigmaB
+sigmaH
+0
+The sigmaB-dependent promoter drives expression of entity1_term under stress conditions and after glucose starvation, whereas a entity2_term-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+yvyD
+sigmaH
+0

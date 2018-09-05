@@ -1,0 +1,132 @@
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, $T1$$T2$, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+SpoIIAB
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either $T1$ or a class III stress induction mechanism acting at a $T2$-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaB
+sigmaA
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either $T1$$T2$ operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaB
+clpC
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that $T1$-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of $T2$. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+sigmaK
+0
+Expression of the $T1$-dependent $T2$ gene depended on gerE.
+sigma(K)
+cwlH
+1
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that $T1$ and KinD were responsible for $T2$ production during the exponential phase of growth in the absence of KinA and KinB.
+KinC
+Spo0A~P
+1
+Most cot genes, and the $T1$$T2$ genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that sigmaK-dependent transcription of gerE initiates a negative feedback loop in which GerE acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+gerE
+cot
+0
+Transcriptional studies demonstrated that the expression from the araE promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by $T1$$T2$ promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by AraR.
+AraR
+araE
+1
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the $T1$ protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the $T2$- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+CtsR
+sigmaB
+0
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, $T1$, which converts the inactive, phosphorylated form of $T2$ back to the active form.
+SpoIIE
+SpoIIAA
+1
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase. Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK. These results demonstrate that $T1$-dependent transcription of gerE initiates a negative feedback loop in which $T2$ acts as a repressor to limit production of sigmaK. A low level of GerE activated transcription of cotD by sigmaK RNA polymerase in vitro, but a higher level of GerE repressed cotD transcription. Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor. We show that GerE binds to two sites that span the -35 region of the cotD promoter. These results suggest that a rising level of GerE in sporulating cells may first activate cotD transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+sigmaK
+GerE
+0
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that KinC and $T1$ were responsible for $T2$ production during the exponential phase of growth in the absence of KinA and KinB.
+KinD
+Spo0A~P
+1
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, $T1$$T2$ is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIE
+sigmaF
+1
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, $T1$$T2$ is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAB
+sigmaF
+1
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, $T1$$T2$, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIE
+SpoIIAB
+0
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, $T1$$T2$ is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+sigmaF
+1
+Although spo0H is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the $T1$$T2$ is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the Spo0 phosphorelay, there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH.
+Spo0
+spo0H
+1
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or $T1$$T2$- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaA
+sigmaB
+0
+Taken together, the results support the idea that sequestration of $T1$ protein into the prespore plays an important role in the control of $T2$ activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIE
+sigmaF
+1
+Expression of the $T1$-dependent cwlH gene depended on $T2$.
+sigma(K)
+gerE
+0
+In vivo studies of the activity of four of the kinases, KinA, KinC, KinD (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of Spo0A~P level, revealed that $T1$ and $T2$ were responsible for Spo0A~P production during the exponential phase of growth in the absence of KinA and KinB.
+KinC
+KinD
+0
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of $T1$$T2$, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+SpoIIAA
+0
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. $T1$ is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of $T2$ back to the active form.
+sigmaF
+SpoIIAA
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a $T1$$T2$ operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaA
+clpC
+1
+Furthermore, YtxH and YvyD seemed to be induced after phosphate starvation in the wild type in a $T1$-dependent manner and in the sigB mutant probably via $T2$.
+sigma(B)
+sigma(H)
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or $T1$$T2$ operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaA
+clpC
+1
+Furthermore, YtxH and $T1$$T2$ and YvyD seemed to be induced after phosphate starvation in the wild type in a sigma(B)-dependent manner and in the sigB mutant probably via sigma(H).
+YvyD
+YtxH
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or $T1$$T2$ protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaA
+CtsR
+0
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, $T1$, and a membrane-bound phosphatase, $T2$, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+SpoIIE
+0
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the $T1$ protein acts as a global repressor of the $T2$ operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+CtsR
+clpC
+1
+The Bacillus subtilis clpC operon is regulated by two stress induction pathways relying on either sigmaB or a class III stress induction mechanism acting at a sigmaA-like promoter. Our data demonstrate that the CtsR protein acts as a global repressor of the clpC operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the $T1$$T2$ operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the sigmaB- or sigmaA-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+sigmaB
+clpC
+1
+Expression of the sigma(K)-dependent cwlH gene depended on $T1$$T2$ gene depended on gerE.
+gerE
+cwlH
+1
+Taken together, the results support the idea that sequestration of SpoIIE protein into the prespore plays an important role in the control of sigmaF activation and in coupling this activation to septation. sigmaF is controlled by a regulatory cascade involving an anti-sigma factor, SpoIIAB, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of $T1$$T2$, an anti-anti-sigma factor, SpoIIAA, and a membrane-bound phosphatase, SpoIIE, which converts the inactive, phosphorylated form of SpoIIAA back to the active form.
+SpoIIAA
+SpoIIAB
+0
