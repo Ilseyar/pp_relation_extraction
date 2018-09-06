@@ -1,0 +1,2264 @@
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), $T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+endothelin-1
+0
+We have exploited the availability of the cloned XPB, $T1$, p62, $T2$, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPD
+p44
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human $T1$ and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+gp130
+0
+OBJECTIVE: To assess the usefulness of the molar ratio of serum $T1$ (RBP) to transthyretin ($T2$) to determine vitamin A (VA) status during infection.
+retinol-binding protein
+TTR
+0
+Crosslinking of iodinated acidic FGF (aFGF) and $T1$$T2$ (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+basic FGF
+acidic FGF
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, $T2$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+IL-10
+0
+RIN1 interacts with the "effector domain" of $T1$ and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known $T2$ effector.
+RAS
+RAS
+0
+Expressions of $T1$, AADC and $T2$ were detected by Western blot analysis.
+TH
+GCH
+0
+Here, a direct interaction between the activation domain of p53 and two subunits of the $T1$ complex, TAFII40 and $T2$, is reported.
+TFIID
+TAFII60
+0
+This $T1$ sequence shows preferential binding to the $T2$ domain in vitro.
+RIN1
+ABL-SH3
+1
+We suggest that activation of the cell cycle by the Ras/$T1$ pathways might be mediated in part by $T2$.
+Raf1
+Cdc25
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase ($T1$), aromatic L-amino acid decarboxylase (AADC), and $T2$ (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+TH
+GTP cyclohydrolase I
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of $T1$$T2$ (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein gp130.
+IL-6
+interleukin-6
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex $T1$, the nucleotide excision repair protein $T2$, and Cockayne syndrome group B (CSB) protein.
+TFIIH
+XPG
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$ (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+TATA binding protein
+0
+However, in cell lines with defined combinations of ErbBs, $T1$ only activates those with ErbB3 and/or ErbB4, suggesting that signalling by $T2$ is mediated by ErbB3 and/or ErbB4 receptors.
+neuregulin-2beta
+neuregulin-2
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D ($T1$)2 complex to couple with the soluble portion of $T2$.
+sIL-6R
+gp130
+0
+Crosslinking of iodinated acidic FGF ($T1$) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and $T2$.
+aFGF
+bFGF
+0
+CREB is activated through phosphorylation by protein kinase A (PKA), but precisely how phosphorylation stimulates $T1$$T2$ is activated through phosphorylation by protein kinase A (PKA), but precisely how phosphorylation stimulates CREB function is unknown.
+CREB
+CREB
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein ($T1$), human $T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+dTBP
+TAFII250
+0
+The molar ratio of serum $T1$ (RBP) to transthyretin ($T2$) is not useful to assess vitamin A status during infection in hospitalised children.
+retinol-binding protein
+TTR
+0
+Studies of the $T1$ ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of $T2$.
+IL-6
+gp130
+0
+The same domain of RIN1 that binds $T1$ also interacts with 14-3-3 proteins, extending the similarity between $T2$ and other RAS effectors.
+RAS
+RIN1
+0
+LexA protein fused to the Drosophila protein bicoid ($T1$-bicoid) failed to interact with the $T2$ fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+B42
+0
+METHODS: The genes for dopamine synthetic enzymes, $T1$ ($T2$), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+tyrosine hydroxylase
+TH
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$$T2$ (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+IL-6 receptor
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members (ErbB-1, neu/ErbB-2, ErbB-3, and $T1$$T2$, ErbB-3, and ErbB-4) and tumor recurrence.
+ErbB-4
+ErbB-2
+0
+Furthermore, a partial $T1$ complex containing Drosophila $T2$ (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TFIID
+TATA binding protein
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+TAFII250
+0
+We have used fluorescence anisotropy measurements to define the equilibrium binding parameters of the $T1$:CBP interaction and report here that $T2$ can activate transcription through a region in its carboxy terminus.
+phosphoCREB
+CBP
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T1$, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sICAM-1
+sVCAM-1
+0
+Although $T1$ has a higher binding affinity for immobilized $T2$, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6D
+sIL-6R
+1
+LexA protein fused to the Drosophila protein $T1$ ($T2$-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+LexA
+0
+In this article, we demonstrate that $T1$ associates with a complex containing cadherins, alpha- and $T2$ in mink lung (MvLu) cells, and in rat heart, lung, and brain tissues.
+PTPmu
+beta-catenin
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ (sIL-6R) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6 receptor
+gp130
+0
+Influence of $T1$ ($T2$) dimerization on formation of the high affinity hexameric IL-6.receptor complex.
+interleukin-6
+IL-6
+0
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+IL-6D
+IL-6
+0
+The switch II region of $T1$ is stabilized by $T2$, thus allowing glutamine-61 of Ras, mutation of which activates the oncogenic potential, to participate in catalysis.
+Ras
+GAP-334
+1
+RIN1 interacts with the "effector domain" of RAS and employs some $T1$ determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known $T2$ effector.
+RAS
+RAS
+0
+RESULTS: $T1$, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-$T2$ and AAV-GCH.
+TH
+AADC
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T1$ and the affinity converter/signal transducing protein $T2$.
+IL-6 receptor
+gp130
+0
+These data imply that IL-6-induced dimerization of $T1$$T2$-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+sIL-6R
+IL-6
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and $T1$ bind specifically and stably to $T2$.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with TBP.
+c-Jun
+TBP
+1
+In patients with baseline serum retinol concentrations<0.70 micromol/l, changes in $T1$:$T2$ ratio between admission and day 7 were not statistically different in the three groups (one-way ANOVA P=0.548).
+RBP
+TTR
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and $T1$ bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of $T2$ and c-Jun are necessary and sufficient for stable association with TBP.
+c-Jun
+c-Fos
+0
+Here we show that beta:beta activin binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form $T1$$T2$) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+ActRII
+ActRII
+0
+Here we show that beta:$T1$ binds to the $T2$ (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+beta activin
+activin type II receptor kinase
+1
+Sos and $T1$.$T2$.
+80K-H
+pp66
+1
+In synchronized human osteosarcoma cells, $T1$ is induced in early G1 and becomes associated with $T2$, a Cdk-binding subunit.
+cyclin D1
+p9Ckshs1
+1
+$T1$ protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed $T2$-Abeta interaction was specific.
+LexA
+Abeta
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to $T1$.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and $T2$ are necessary and sufficient for stable association with TBP.
+TBP
+c-Jun
+0
+LexA protein fused to the Drosophila protein bicoid ($T1$-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed $T2$-Abeta interaction was specific.
+LexA
+Abeta
+0
+We now show that full-length $T1$ interacts with activated $T2$ in mammalian cells and defines a minimum region of 434 aa required for efficient RAS binding.
+RIN1
+RAS
+1
+$T1$ and $T2$ oncoproteins form a complex that regulates transcription from promoters containing AP-1 binding sites.
+Fos
+Jun
+1
+We have previously identified a nuclear protein of M(r)265K, $T1$, that binds specifically to the PKA-phosphorylated form of $T2$.
+CBP
+CREB
+1
+Here we show that beta:beta activin binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase $T1$$T2$) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+SKR2
+ActRII
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), endothelin-1, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+soluble cell adhesion molecules
+0
+The erythropoietin-like domain of $T1$ (TPO1-153) has been fused to the $T2$ coat protein of M13 bacteriophage.
+TPO
+gIII
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human $T1$ and the extracellular ("soluble") portions of the $T2$ receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+IL-6
+0
+We have exploited the availability of the cloned $T1$, XPD, $T2$, p44, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPB
+p62
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+TAFII250
+0
+As a result of this physical interaction, binding of h-TR beta 1 to its hormone response elements either as homodimer or as a heterodimer with the $T1$ was inhibited by $T2$ in a concentration-dependent manner.
+retinoic X receptor
+p53
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or $T1$, suggesting that signalling by neuregulin-2 is mediated by $T2$ and/or ErbB4 receptors.
+ErbB4
+ErbB3
+0
+A model is presented whereby the trimeric complex of IL-6R, gp130, and $T1$$T2$, gp130, and IL-6M forms before the functional hexamer.
+IL-6M
+IL-6R
+0
+$T1$ protein interacts with multiple subunits of TFIIH and with $T2$ protein.
+XPG
+CSB
+1
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), $T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+endothelin-1
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T1$$T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sE-selectin
+endothelin-1
+0
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-Abeta bait when the B42 transactivation domain was fused to an $T1$$T2$ transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+Abeta
+B42
+0
+The three-dimensional structure of the complex between human H-Ras bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human GTPase-activating protein $T1$ ($T2$) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+p120GAP
+GAP-334
+0
+The same domain of RIN1 that binds RAS also interacts with 14-3-3 proteins, extending the similarity between $T1$ and other $T2$ effectors.
+RIN1
+RAS
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), $T1$, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+endothelin-1
+soluble cell adhesion molecules
+0
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor ($T2$) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+sIL-6R
+0
+Crosslinking of iodinated acidic FGF (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and $T1$$T2$ and bFGF.
+bFGF
+aFGF
+0
+How $T1$ acts to bring about this suppression is not clear but one clue is that the Rb protein forms complexes with the transforming oncoproteins of several DNA tumour viruses, and that two regions of $T2$ essential for such binding frequently contain mutations in tumour cells.
+Rb
+Rb
+0
+Here, a direct interaction between the activation domain of p53 and two subunits of the $T1$ complex, $T2$ and TAFII60, is reported.
+TFIID
+TAFII40
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), $T1$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+endothelin-1
+sVCAM-1
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ receptor ($T2$) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+sIL-6R
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human $T1$ and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+IL-6
+IL-6
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T1$) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sCAM
+sE-selectin
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed $T1$-$T2$ interaction was specific.
+Abeta
+Abeta
+1
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring lacZ (beta-galactosidase) and $T1$ ($T2$) genes under the control of LexA-dependent operators.
+LEU2
+leucine utilization
+0
+Recombinant neuregulin-2beta induces the tyrosine-phosphorylation of $T1$, ErbB3 and $T2$ in cell lines expressing all of these ErbB-family receptors.
+ErbB2
+ErbB4
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+sE-selectin
+0
+At least two of the subunits of $T1$ (XPB and $T2$ proteins) are implicated in the disease xeroderma pigmentosum (XP).
+TFIIH
+XPD
+0
+RESULTS: Using Cox univariate analysis, we determined that angiolymphatic tumor emboli and non-well-differentiated tumor cells were two significant conventional pathologic predictors of tumor recurrence, and that ErbB-1 and $T1$$T2$ and ErbB-3 were also significant predictors.
+ErbB-3
+ErbB-1
+0
+Inhibin also binds to $T1$ through its beta subunit, competes with the binding of activin to ActRII, but fails to form the $T2$.
+ActRII
+ActRII
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members (ErbB-1, neu/ErbB-2, $T1$$T2$, ErbB-3, and ErbB-4) and tumor recurrence.
+ErbB-3
+ErbB-2
+0
+Two lines of evidence support the notion that $T1$ and $T2$ have homologous Rb-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+RbAP46
+simian virus 40 T antigen
+0
+RIN1 interacts with the "effector domain" of $T1$ and employs some $T2$ determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known RAS effector.
+RAS
+RAS
+0
+Furthermore, a partial $T1$ complex containing Drosophila TATA binding protein (dTBP), human TAFII250, $T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TFIID
+dTAFII60
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of $T1$$T2$ ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of gp130.
+IL-6D
+IL-6
+0
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R $T1$$T2$ is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+gp130
+sIL-6R
+0
+Two potentially oncogenic cyclins, cyclin A and $T1$, share common properties of subunit configuration, tyrosine phosphorylation and physical association with the $T2$ protein .Originally identified as a 'mitotic cyclin', cyclin A exhibits properties of growth factor sensitivity, susceptibility to viral subversion and association with a tumor-suppressor protein, properties which are indicative of an S-phase-promoting factor (SPF) as well as a candidate proto-oncogene.
+cyclin D1
+Rb
+1
+We propose that $T1$ and c-Jun proteins function as transcriptional activators, in part by recruiting $T2$ to form complexes to initiate RNA synthesis.
+c-Fos
+TBP
+1
+Furthermore, a partial TFIID complex containing Drosophila $T1$ ($T2$), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TATA binding protein
+dTBP
+0
+RESULTS: TH, AADC and $T1$ were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-$T2$ and AAV-GCH.
+GCH
+AADC
+0
+CONCLUSION: The triple transduction of TH, $T1$ and $T2$ genes with separate AAV vectors is effective, which might be important to gene therapy for Parkinson's disease.
+AADC
+GCH
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$$T2$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+IL-1beta
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$$T2$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+IL-1beta
+0
+As a result of this physical interaction, binding of $T1$ to its hormone response elements either as homodimer or as a heterodimer with the retinoic X receptor was inhibited by $T2$ in a concentration-dependent manner.
+h-TR beta 1
+p53
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$ complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+TFIID
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or $T1$, suggesting that signalling by $T2$ is mediated by ErbB3 and/or ErbB4 receptors.
+ErbB4
+neuregulin-2
+0
+The same domain of $T1$ that binds $T2$ also interacts with 14-3-3 proteins, extending the similarity between RIN1 and other RAS effectors.
+RIN1
+RAS
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor ($T1$) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+sIL-6R
+gp130
+0
+Inhibin also binds to ActRII through its beta subunit, competes with the binding of activin to $T1$, but fails to form the $T2$.
+ActRII
+ActRII
+0
+Furthermore, a partial $T1$ complex containing Drosophila TATA binding protein (dTBP), human $T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TFIID
+TAFII250
+0
+Two lines of evidence support the notion that $T1$ and simian virus 40 T antigen have homologous Rb-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with $T2$ for binding to Rb.
+RbAP46
+RbAP46
+0
+Additionally we have examined interactions between $T1$ components, the human NER protein XPG, and the $T2$ protein which is implicated in Cockayne syndrome (CS).
+TFIIH
+CSB
+0
+$T1$ transcriptional activation mediated by coactivators TAFII40 and $T2$.
+p53
+TAFII60
+1
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 $T1$$T2$-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+IL-6R
+IL-6
+0
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human $T2$ and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+IL-6
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+sVCAM-1
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+bicoid
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex $T1$, the nucleotide excision repair protein XPG, and Cockayne syndrome group B ($T2$) protein.
+TFIIH
+CSB
+0
+RESULTS: $T1$, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-$T2$.
+TH
+GCH
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the $T1$ fragment fused to $T2$, indicating that the observed Abeta-Abeta interaction was specific.
+B42
+Abeta
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+sVCAM-1
+0
+Although IL-6D has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, $T1$$T2$, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6M
+sIL-6R
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+dTAFII40
+0
+Glycine-12 in the transition state mimic is within van der Waals distance of both arginine-789 of $T1$ and glutamine-61 of $T2$, and even its mutation to alanine would disturb the arrangements of residues in the transition state.
+GAP-334
+Ras
+0
+Influence of interleukin-6 (IL-6) dimerization on formation of the high affinity hexameric $T1$$T2$) dimerization on formation of the high affinity hexameric IL-6.receptor complex.
+IL-6
+IL-6
+0
+The switch II region of Ras is stabilized by $T1$, thus allowing glutamine-61 of $T2$, mutation of which activates the oncogenic potential, to participate in catalysis.
+GAP-334
+Ras
+0
+Tumour-suppressor genes, such as the human $T1$ ($T2$), are widely recognized as being vital in the control of cell growth and tumour formation.
+retinoblastoma susceptibility gene
+Rb
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, $T1$, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+USF
+E1A
+0
+Two potentially oncogenic cyclins, $T1$ and cyclin D1, share common properties of subunit configuration, tyrosine phosphorylation and physical association with the $T2$ protein .Originally identified as a 'mitotic cyclin', cyclin A exhibits properties of growth factor sensitivity, susceptibility to viral subversion and association with a tumor-suppressor protein, properties which are indicative of an S-phase-promoting factor (SPF) as well as a candidate proto-oncogene.
+cyclin A
+Rb
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and $T1$ have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+gp130
+IL-6
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members ($T1$, neu/ErbB-2, $T2$, and ErbB-4) and tumor recurrence.
+ErbB-1
+ErbB-3
+0
+RESULTS: TH, $T1$ and $T2$ were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-GCH.
+AADC
+GCH
+0
+Recombinant $T1$ induces the tyrosine-phosphorylation of $T2$, ErbB3 and ErbB4 in cell lines expressing all of these ErbB-family receptors.
+neuregulin-2beta
+ErbB2
+1
+We have used fluorescence anisotropy measurements to define the equilibrium binding parameters of the phosphoCREB:$T1$ interaction and report here that $T2$ can activate transcription through a region in its carboxy terminus.
+CBP
+CBP
+0
+MAIN OUTCOME MEASURES: $T1$/$T2$ molar ratio after 7 days hospitalisation.
+RBP
+TTR
+0
+We have exploited the availability of the cloned XPB, $T1$, p62, p44, and $T2$ genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPD
+p34
+0
+The encoded product of the neuregulin-2 gene has a motif structure similar to that of neuregulins and an alternative splicing site in the $T1$$T2$ gene has a motif structure similar to that of neuregulins and an alternative splicing site in the epidermal growth factor(EGF)-like domain gives rise to two isoforms (alpha and beta).
+epidermal growth factor
+neuregulin-2
+0
+We have exploited the availability of the cloned XPB, XPD, p62, p44, and $T1$ genes (all of which encode polypeptide subunits of $T2$) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p34
+TFIIH
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I ($T1$$T2$), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+GCH
+AADC
+0
+LexA protein fused to the Drosophila protein $T1$ (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed $T2$-Abeta interaction was specific.
+bicoid
+Abeta
+0
+Here, we demonstrate that $T1$ may regulate the activity of the HIV-1 long terminal repeat through its ability to bind sequences in the NF-kappaB enhancer region and to interact with the NF-kappaB subunit, $T2$.
+E2F-1
+p50
+1
+We have exploited the availability of the cloned $T1$, XPD, p62, $T2$, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPB
+p44
+0
+Our analyses demonstrate that the $T1$, $T2$, p44, and p62 proteins interact with each other.
+XPB
+XPD
+1
+CREB is activated through phosphorylation by protein kinase A ($T1$), but precisely how phosphorylation stimulates $T2$ function is unknown.
+PKA
+CREB
+0
+The high affinity interleukin-6 ($T1$) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T2$ and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6 receptor
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$ (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+bicoid
+0
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6D
+gp130
+0
+Fusion proteins were created by linking the Abeta fragment to a $T1$ DNA-binding domain (bait) and also to a $T2$ transactivation domain (prey).
+LexA
+B42
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$ complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+TFIID
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), $T1$$T2$), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+aromatic L-amino acid decarboxylase
+TH
+0
+CONCLUSIONS: In this population of malnourished hospitalised children, molar $T1$:$T2$ ratio does not appear to be useful to assess VA status during infection.
+RBP
+TTR
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of $T1$ and $T2$ are necessary and sufficient for stable association with TBP.
+c-Fos
+c-Jun
+0
+Moreover, cyclin D1 was found to be phosphorylated on tyrosine residues in vivo and, like $T1$, was readily phosphorylated by $T2$ in vitro.
+cyclin A
+pp60c-src
+1
+Crosslinking of iodinated $T1$ (aFGF) and basic FGF ($T2$) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+acidic FGF
+bFGF
+0
+The activation domain of CBP interacts with the basal transcription factor $T1$ through a domain that is conserved in the yeast coactivator $T2$ (ref.
+TFIIB
+ADA-1
+0
+The $T1$-$T2$ complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants.
+Ras
+RasGAP
+1
+Our analyses demonstrate that the XPB, XPD, p44, and $T1$$T2$, and p62 proteins interact with each other.
+p62
+p44
+0
+We have exploited the availability of the cloned XPB, $T1$, $T2$, p44, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPD
+p62
+0
+Two lines of evidence support the notion that $T1$ and simian virus 40 T antigen have homologous Rb-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with $T2$; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+RbAP46
+RbAP46
+0
+Some of these extracellular stimuli arrest cells in the G1 phase of the mitotic division cycle and modulate the activity of the tumor suppressor protein $T1$ and its partner $T2$.
+Rb
+E2F-1
+1
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), aromatic L-amino acid decarboxylase ($T1$), and $T2$ (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+AADC
+GTP cyclohydrolase I
+0
+We propose that c-Fos and $T1$ proteins function as transcriptional activators, in part by recruiting $T2$ to form complexes to initiate RNA synthesis.
+c-Jun
+TBP
+1
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T2$) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+sCAM
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T1$$T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sCAM
+endothelin-1
+0
+$T1$ is activated through phosphorylation by $T2$ (PKA), but precisely how phosphorylation stimulates CREB function is unknown.
+CREB
+protein kinase A
+1
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+sE-selectin
+0
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric ($T1$$T2$-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+IL-6
+IL-6
+0
+CREB is activated through phosphorylation by protein kinase A ($T1$$T2$ (PKA), but precisely how phosphorylation stimulates CREB function is unknown.
+PKA
+protein kinase A
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-$T1$) failed to interact with the B42 fragment fused to Abeta, indicating that the observed $T2$-Abeta interaction was specific.
+bicoid
+Abeta
+0
+Although IL-6D has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than $T1$$T2$ is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6D
+IL-6M
+0
+Monomeric ($T1$) and dimeric ($T2$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+IL-6D
+0
+Fusion proteins were created by linking the Abeta fragment to a LexA DNA-binding domain (bait) and also to a $T1$$T2$ fragment to a LexA DNA-binding domain (bait) and also to a B42 transactivation domain (prey).
+B42
+Abeta
+0
+The same domain of RIN1 that binds $T1$ also interacts with 14-3-3 proteins, extending the similarity between RIN1 and other $T2$ effectors.
+RAS
+RAS
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+sICAM-1
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both $T1$ and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and $T2$ are necessary and sufficient for stable association with TBP.
+c-Fos
+c-Jun
+0
+The high affinity interleukin-6 ($T1$) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein $T2$.
+IL-6
+gp130
+0
+LexA protein fused to the Drosophila protein bicoid ($T1$-bicoid) failed to interact with the B42 fragment fused to $T2$, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+Abeta
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+TAFII250
+0
+DESIGN: We took advantage of previously collected data during a randomised double-blind, placebo-controlled clinical trial to conduct a secondary analysis of the RBP/$T1$$T2$/TTR ratio and its relationship to infection and VA status.
+TTR
+RBP
+0
+We have exploited the availability of the cloned $T1$, $T2$, p62, p44, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPB
+XPD
+0
+Here, a direct interaction between the activation domain of $T1$ and two subunits of the TFIID complex, $T2$ and TAFII60, is reported.
+p53
+TAFII40
+1
+The bZIP domains of $T1$ and Jun mediate a physical association with the $T2$.
+Fos
+TATA box-binding protein
+1
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor ($T2$) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6D
+sIL-6R
+0
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring lacZ ($T1$) and $T2$ (leucine utilization) genes under the control of LexA-dependent operators.
+beta-galactosidase
+LEU2
+0
+Thus, phFGFR encodes a human FGF receptor with high affinity for both $T1$ and $T2$.
+aFGF
+bFGF
+0
+OBJECTIVE: To assess the usefulness of the molar ratio of serum retinol-binding protein ($T1$$T2$ (RBP) to transthyretin (TTR) to determine vitamin A (VA) status during infection.
+RBP
+retinol-binding protein
+0
+We established a strong correlation between chromatin activity of lymphocytes and the serum concentration of IL-1beta, $T1$, and $T2$, which are the active participants in the pro- and anti-inflammatory program in atherogenesis.
+IL-6
+IL-10
+0
+A 51-residue region from the conserved C-terminal region of TBP, previously shown to be the binding site for the viral activator protein $T1$, interacts with $T2$ and c-Jun proteins.
+E1A
+c-Fos
+0
+Inhibin also binds to $T1$ through its beta subunit, competes with the binding of activin to $T2$, but fails to form the ActRII.
+ActRII
+ActRII
+0
+Expressions of $T1$, $T2$ and GCH were detected by Western blot analysis.
+TH
+AADC
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the $T1$ (sIL-6R)2 complex to couple with the soluble portion of $T2$.
+IL-6D
+gp130
+0
+We report here the identification of one such human cellular $T1$-associated protein of relative molecular mass 46,000 (46K) ($T2$).
+Rb
+RbAP46
+0
+$T1$ protein fused to the Drosophila protein bicoid ($T2$-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+LexA
+0
+We report here that recombinant B61 induces autophosphorylation of ECK in intact cells, consistent with $T1$ being an authentic ligand for $T2$.
+B61
+ECK
+1
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T1$$T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sCAM
+soluble cell adhesion molecules
+0
+Affinity chromatography and co-immunoprecipitation assays provide evidence for direct interaction of $T1$ and $T2$ in the absence of their DNA target sequences.
+E2F-1
+p50
+1
+$T1$ protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to $T2$, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+Abeta
+0
+OBJECTIVE: To assess the usefulness of the molar ratio of serum retinol-binding protein ($T1$) to transthyretin ($T2$) to determine vitamin A (VA) status during infection.
+RBP
+TTR
+0
+Here, we demonstrate that $T1$ may regulate the activity of the HIV-1 long terminal repeat through its ability to bind sequences in the NF-kappaB enhancer region and to interact with the $T2$ subunit, p50.
+E2F-1
+NF-kappaB
+1
+The same domain of $T1$ that binds RAS also interacts with 14-3-3 proteins, extending the similarity between RIN1 and other $T2$ effectors.
+RIN1
+RAS
+0
+Recombinant $T1$ induces the tyrosine-phosphorylation of ErbB2, ErbB3 and $T2$ in cell lines expressing all of these ErbB-family receptors.
+neuregulin-2beta
+ErbB4
+1
+Due to its increased affinity for the $T1$ but its decreased ability to couple with gp130, we suggest that a stable $T2$ dimer may be an efficient IL-6 antagonist.
+IL-6R
+IL-6
+1
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T2$ (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+IL-6 receptor
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+sE-selectin
+0
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-Abeta bait when the $T1$$T2$-Abeta bait when the B42 transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+B42
+LexA
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T1$$T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sE-selectin
+soluble cell adhesion molecules
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of $T1$ and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein $T2$.
+IL-6
+gp130
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and $T1$ are necessary and sufficient for stable association with $T2$.
+c-Jun
+TBP
+1
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$ or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+TBP
+0
+OBJECTIVE: To assess the usefulness of the molar ratio of serum retinol-binding protein ($T1$) to $T2$ (TTR) to determine vitamin A (VA) status during infection.
+RBP
+transthyretin
+0
+$T1$ is activated through phosphorylation by protein kinase A ($T2$), but precisely how phosphorylation stimulates CREB function is unknown.
+CREB
+PKA
+1
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$ complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+TFIID
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T2$) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+sCAM
+0
+These results suggest that $T1$ has two distinct receptor-binding sites that function to dimerize $T2$ receptors in a sequential fashion.
+TPO
+TPO
+0
+The ability of $T1$ and c-Jun proteins to interact directly with the $T2$ (TBP), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+c-Fos
+TATA box-binding protein
+1
+METHODS: The genes for dopamine synthetic enzymes, $T1$ (TH), $T2$ (AADC), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+tyrosine hydroxylase
+aromatic L-amino acid decarboxylase
+0
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+TAFII55
+Tat
+0
+A 51-residue region from the conserved C-terminal region of $T1$, previously shown to be the binding site for the viral activator protein $T2$, interacts with c-Fos and c-Jun proteins.
+TBP
+E1A
+1
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$ and TAFII60 did not.
+TAFII60
+TAFII40
+0
+$T1$ interacts with the "effector domain" of RAS and employs some $T2$ determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known RAS effector.
+RIN1
+RAS
+0
+RIN1 interacts with the "effector domain" of RAS and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of $T1$, a known $T2$ effector.
+RAF1
+RAS
+1
+An arginine side chain (arginine-789) of $T1$ is supplied into the active site of $T2$ to neutralize developing charges in the transition state.
+GAP-334
+Ras
+0
+Our analyses demonstrate that the XPB, XPD, $T1$$T2$, p44, and p62 proteins interact with each other.
+p44
+XPD
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T2$) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+sCAM
+0
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+IL-6M
+IL-6
+0
+Although IL-6D has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than $T1$$T2$, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6D
+sIL-6R
+0
+We found that the human $T1$ ($T2$) physically interacted with p53 via its DNA binding domain.
+TR subtype beta 1
+h-TR beta 1
+0
+Recombinant $T1$ induces the tyrosine-phosphorylation of ErbB2, $T2$ and ErbB4 in cell lines expressing all of these ErbB-family receptors.
+neuregulin-2beta
+ErbB3
+1
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human $T1$, dTAFII60, and $T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII250
+dTAFII40
+0
+Consistent with its role as a coactivator, $T1$ augments the activity of phosphorylated $T2$ to activate transcription of cAMP-responsive genes.
+CBP
+CREB
+1
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, $T1$, and $T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+dTAFII60
+dTAFII40
+0
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring $T1$ (beta-galactosidase) and $T2$ (leucine utilization) genes under the control of LexA-dependent operators.
+lacZ
+LEU2
+0
+The molar ratio of serum retinol-binding protein (RBP) to $T1$ ($T2$) is not useful to assess vitamin A status during infection in hospitalised children.
+transthyretin
+TTR
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I ($T1$$T2$ (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+GCH
+GTP cyclohydrolase I
+0
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+soluble cell adhesion molecules
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$$T2$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+IL-6
+0
+We have exploited the availability of the cloned XPB, XPD, $T1$, $T2$, and p34 genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p62
+p44
+0
+RIN1 interacts with the "effector domain" of $T1$ and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of $T2$, a known RAS effector.
+RAS
+RAF1
+0
+Recombinant neuregulin-2beta induces the tyrosine-phosphorylation of ErbB2, $T1$ and $T2$ in cell lines expressing all of these ErbB-family receptors.
+ErbB3
+ErbB4
+0
+Crosslinking of iodinated acidic FGF (aFGF) and $T1$ ($T2$) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+basic FGF
+bFGF
+0
+We have exploited the availability of the cloned XPB, XPD, $T1$, p44, and p34 genes (all of which encode polypeptide subunits of $T2$) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p62
+TFIIH
+0
+Together, these results suggest that TAFII40 and $T1$$T2$ and TAFII60 are important targets for transmitting activation signals between p53 and the initiation complex.
+TAFII60
+TAFII40
+0
+Here, a direct interaction between the activation domain of p53 and two subunits of the TFIID complex, $T1$ and $T2$, is reported.
+TAFII40
+TAFII60
+0
+The ability of c-Fos and c-Jun proteins to interact directly with the $T1$ ($T2$), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+TATA box-binding protein
+TBP
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral $T1$, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+E1A
+Tat
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+Abeta
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein ($T1$), human TAFII250, dTAFII60, and $T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+dTBP
+dTAFII40
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T1$$T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sICAM-1
+endothelin-1
+0
+At least two of the subunits of $T1$ ($T2$ and XPD proteins) are implicated in the disease xeroderma pigmentosum (XP).
+TFIIH
+XPB
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T1$, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sE-selectin
+sVCAM-1
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both $T1$ and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with $T2$.
+c-Fos
+TBP
+0
+We have exploited the availability of the cloned $T1$, XPD, p62, p44, and p34 genes (all of which encode polypeptide subunits of $T2$) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPB
+TFIIH
+0
+The high affinity interleukin-6 ($T1$$T2$ (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein gp130.
+IL-6
+interleukin-6
+0
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-Abeta bait when the B42 transactivation domain was fused to an $T1$$T2$ bait when the B42 transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+Abeta
+Abeta
+0
+The activation domain of $T1$ interacts with the basal transcription factor $T2$ through a domain that is conserved in the yeast coactivator ADA-1 (ref.
+CBP
+TFIIB
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the $T1$ fragment fused to Abeta, indicating that the observed $T2$-Abeta interaction was specific.
+B42
+Abeta
+0
+The high affinity $T1$ (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T2$ receptor and the affinity converter/signal transducing protein gp130.
+interleukin-6
+IL-6
+0
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring $T1$ (beta-galactosidase) and LEU2 ($T2$) genes under the control of LexA-dependent operators.
+lacZ
+leucine utilization
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with $T1$ and/or ErbB4, suggesting that signalling by $T2$ is mediated by ErbB3 and/or ErbB4 receptors.
+ErbB3
+neuregulin-2
+0
+The three-dimensional structure of the complex between human $T1$ bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human GTPase-activating protein $T2$ (GAP-334) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+H-Ras
+p120GAP
+1
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric ($T1$$T2$ is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+IL-6
+sIL-6R
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex TFIIH, the nucleotide excision repair protein $T1$, and Cockayne syndrome group B ($T2$) protein.
+XPG
+CSB
+1
+Furthermore, a partial TFIID complex containing Drosophila $T1$ (dTBP), human $T2$, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TATA binding protein
+TAFII250
+0
+The encoded product of the neuregulin-2 gene has a motif structure similar to that of neuregulins and an alternative splicing site in the $T1$($T2$)-like domain gives rise to two isoforms (alpha and beta).
+epidermal growth factor
+EGF
+0
+Moreover, the amino-terminal domain of $T1$ directly associates with, and is tyrosine phosphorylated by, $T2$.
+RIN1
+c-ABL
+1
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with $T1$ and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or $T2$ receptors.
+ErbB3
+ErbB4
+0
+Fusion proteins were created by linking the Abeta fragment to a $T1$$T2$ fragment to a LexA DNA-binding domain (bait) and also to a B42 transactivation domain (prey).
+LexA
+Abeta
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T1$) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sCAM
+sICAM-1
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), $T1$ (AADC), and $T2$ (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+aromatic L-amino acid decarboxylase
+GTP cyclohydrolase I
+0
+Here we report the crystal structure of human dimeric $T1$ in complex with two high affinity $T2$s(BRIAec).
+BMP-2
+BMP receptor IA extracellular domain
+1
+RESULTS: TH, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-$T1$, AAV-$T2$ and AAV-GCH.
+TH
+AADC
+0
+LexA protein fused to the Drosophila protein bicoid ($T1$-$T2$) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+bicoid
+0
+$T1$ protein fused to the Drosophila protein $T2$ (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+bicoid
+0
+$T1$ transcriptional activation mediated by coactivators $T2$ and TAFII60.
+p53
+TAFII40
+1
+Although IL-6D has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, $T1$$T2$ has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6M
+IL-6D
+0
+RESULTS: After 7 days hospitalisation, molar $T1$:$T2$ ratio (mean+/-s.d.)
+RBP
+TTR
+0
+Crosslinking of iodinated acidic FGF (aFGF) and $T1$ (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and $T2$.
+basic FGF
+bFGF
+0
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), $T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+endothelin-1
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and $T1$ bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and $T2$ are necessary and sufficient for stable association with TBP.
+c-Jun
+c-Jun
+0
+OBJECTIVE: To assess the usefulness of the molar ratio of serum retinol-binding protein (RBP) to $T1$$T2$ (RBP) to transthyretin (TTR) to determine vitamin A (VA) status during infection.
+transthyretin
+retinol-binding protein
+0
+A 51-residue region from the conserved C-terminal region of $T1$, previously shown to be the binding site for the viral activator protein E1A, interacts with c-Fos and $T2$ proteins.
+TBP
+c-Jun
+1
+We suggest that activation of the cell cycle by the Ras/$T1$$T2$/Raf1 pathways might be mediated in part by Cdc25.
+Raf1
+Ras
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T1$$T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sVCAM-1
+soluble cell adhesion molecules
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+dTAFII40
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+soluble cell adhesion molecules
+0
+We sought to characterize how $T1$ binds and activates its receptor, $T2$.
+TPO
+myeloproliferative leukemia virus receptor
+1
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of $T1$ and c-Jun are necessary and sufficient for stable association with $T2$.
+c-Fos
+TBP
+1
+RESULTS: $T1$, $T2$ and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-GCH.
+TH
+AADC
+0
+Cytokines $T1$, IL-1beta, $T2$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+IL-6
+0
+We have exploited the availability of the cloned XPB, XPD, p62, $T1$, and $T2$ genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p44
+p34
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+dTAFII60
+0
+Crosslinking of iodinated acidic FGF (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and $T1$$T2$) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+bFGF
+bFGF
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members ($T1$, neu/$T2$, ErbB-3, and ErbB-4) and tumor recurrence.
+ErbB-1
+ErbB-2
+0
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+sVCAM-1
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of $T1$ and two membrane-associated receptor components: a low affinity but specific $T2$ receptor and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6
+0
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-Abeta bait when the B42 transactivation domain was fused to an $T1$$T2$-Abeta bait when the B42 transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+Abeta
+LexA
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, $T1$, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+CTF
+Tat
+0
+XPG protein interacts with multiple subunits of $T1$$T2$ protein interacts with multiple subunits of TFIIH and with CSB protein.
+TFIIH
+XPG
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+sICAM-1
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+dTAFII60
+0
+$T1$ also binds to ActRII through its beta subunit, competes with the binding of activin to $T2$, but fails to form the ActRII.
+Inhibin
+ActRII
+0
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T2$ receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+IL-6
+0
+Phage enzyme-linked immunosorbent assay was used to determine affinities for binding to both the TPO receptor and five anti-$T1$$T2$ receptor and five anti-TPO1-153 monoclonal antibodies.
+TPO1
+TPO
+0
+The three-dimensional structure of the complex between human $T1$ bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human $T2$ p120GAP (GAP-334) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+H-Ras
+GTPase-activating protein
+0
+We have used fluorescence anisotropy measurements to define the equilibrium binding parameters of the $T1$:$T2$ interaction and report here that CBP can activate transcription through a region in its carboxy terminus.
+phosphoCREB
+CBP
+1
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 $T1$$T2$ is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+IL-6R
+sIL-6R
+0
+Interactions with human $T1$ and mouse $T2$ were confirmed using glutathione transferase-tagged cDNAs.
+PARP
+replication factor 1a
+0
+The Ras and $T1$$T2$ and Raf1 proto-oncogenes transduce extracellular signals that promote cell growth.
+Raf1
+Ras
+0
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), endothelin-1, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+soluble cell adhesion molecules
+0
+Nuclear protein $T1$ is a coactivator for the transcription factor $T2$.
+CBP
+CREB
+1
+It binds homophilically, i.e., $T1$ on the surface of one cell binds to $T2$ on an apposing cell, and the binding site lies within the immunoglobulin domain.
+PTPmu
+PTPmu
+1
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase ($T1$), aromatic L-amino acid decarboxylase ($T2$), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+TH
+AADC
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D ($T1$$T2$ resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of gp130.
+sIL-6R
+IL-6D
+0
+The ability of c-Fos and $T1$ proteins to interact directly with the $T2$ (TBP), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+c-Jun
+TATA box-binding protein
+1
+Through their interaction with the ErbB family of receptors ($T1$, $T2$ and ErbB4), neuregulins help to regulate cell growth and differentiation in many tissues.
+ErbB2
+ErbB3
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-$T1$) failed to interact with the B42 fragment fused to $T2$, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+Abeta
+0
+RESULTS: TH, AADC and $T1$ were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-$T2$, AAV-AADC and AAV-GCH.
+GCH
+TH
+0
+Cytokines $T1$, IL-1beta, IL-6, $T2$, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+IL-8
+0
+We have exploited the availability of the cloned $T1$, XPD, p62, p44, and $T2$ genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPB
+p34
+0
+We have exploited the availability of the cloned XPB, $T1$, p62, p44, and p34 genes (all of which encode polypeptide subunits of $T2$) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+XPD
+TFIIH
+0
+METHODS: The genes for dopamine synthetic enzymes, $T1$ (TH), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I ($T2$, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+tyrosine hydroxylase
+GCH
+0
+We propose that c-Fos and $T1$$T2$ and c-Jun proteins function as transcriptional activators, in part by recruiting TBP to form complexes to initiate RNA synthesis.
+c-Jun
+c-Fos
+0
+In contrast, the other three monoclonal antibodies, which were effective at blocking $T1$ activity but did not block initial binding of $T2$ to its receptor, had epitopes predominantly on helix or 3.
+TPO
+TPO
+0
+A 51-residue region from the conserved C-terminal region of TBP, previously shown to be the binding site for the viral activator protein E1A, interacts with $T1$ and $T2$ proteins.
+c-Fos
+c-Jun
+0
+LexA protein fused to the Drosophila protein $T1$ (LexA-bicoid) failed to interact with the B42 fragment fused to $T2$, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+Abeta
+0
+$T1$ interaction with $T2$ ties mitogenic signal transduction to cell cycle activation.
+Raf1
+Cdc25 phosphatase
+1
+RESULTS: TH, $T1$ and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-$T2$, AAV-AADC and AAV-GCH.
+AADC
+TH
+0
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T2$) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+sCAM
+0
+Interaction between cell cycle regulator, $T1$, and $T2$ mediates repression of HIV-1 gene transcription.
+E2F-1
+NF-kappaB
+1
+The high affinity interleukin-6 (IL-6) signaling complex consists of $T1$ and two membrane-associated receptor components: a low affinity but specific $T2$ and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6 receptor
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human $T1$ and the extracellular ("soluble") portions of the $T2$ (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+IL-6 receptor
+0
+Activin type I receptors, SKR1 and $T1$$T2$ and SKR2, were first cloned from well differentiated human hepatoma cells (HepG2).
+SKR2
+SKR1
+0
+Cytokines $T1$, $T2$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+IL-1beta
+0
+We established a strong correlation between chromatin activity of lymphocytes and the serum concentration of $T1$, $T2$, and IL-10, which are the active participants in the pro- and anti-inflammatory program in atherogenesis.
+IL-1beta
+IL-6
+0
+$T1$ interacts with the "effector domain" of $T2$ and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known RAS effector.
+RIN1
+RAS
+1
+Here we show that beta:beta activin binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase $T1$ to form $T2$.beta:beta.
+SKR2
+ActRII
+0
+Transient expression in COS-1 cells and immunoprecipitation using an antiserum raised against a C-terminal peptide, gave rise to two components, representing mature (130 kDa) and precursor (115 kDa) forms of the $T1$ encoded polypeptide, which was denoted $T2$.
+phFGFR
+hFGFR-1
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, $T2$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+IL-10
+0
+The three-dimensional structure of the complex between human $T1$ bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human GTPase-activating protein p120GAP ($T2$) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+H-Ras
+GAP-334
+1
+Recombinant neuregulin-2beta induces the tyrosine-phosphorylation of $T1$, $T2$ and ErbB4 in cell lines expressing all of these ErbB-family receptors.
+ErbB2
+ErbB3
+0
+The activation domain of $T1$ interacts with the basal transcription factor TFIIB through a domain that is conserved in the yeast coactivator $T2$ (ref.
+CBP
+ADA-1
+1
+RESULTS: $T1$, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-$T2$, AAV-AADC and AAV-GCH.
+TH
+TH
+0
+Crosslinking of iodinated acidic FGF ($T1$) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both $T2$ and bFGF.
+aFGF
+aFGF
+0
+We report here the identification of one such human cellular $T1$ of relative molecular mass 46,000 (46K) ($T2$).
+Rb-associated protein
+RbAP46
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or ErbB4, suggesting that signalling by $T1$ is mediated by ErbB3 and/or $T2$ receptors.
+neuregulin-2
+ErbB4
+0
+Furthermore, a partial TFIID complex containing Drosophila $T1$ (dTBP), human TAFII250, dTAFII60, and $T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TATA binding protein
+dTAFII40
+0
+The switch II region of $T1$ is stabilized by GAP-334, thus allowing glutamine-61 of $T2$, mutation of which activates the oncogenic potential, to participate in catalysis.
+Ras
+Ras
+0
+Two lines of evidence support the notion that $T1$ and simian virus 40 T antigen have homologous Rb-binding properties: first, several mutated $T2$ proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+RbAP46
+Rb
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the $T1$ ($T2$)2 complex to couple with the soluble portion of gp130.
+IL-6D
+sIL-6R
+1
+The Ras-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic $T1$$T2$ complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants.
+Ras
+RasGAP
+0
+Immunoprecipitation experiments with human osteosarcoma cells and Ewing's sarcoma cells demonstrated that $T1$ is associated with both $T2$ and p33cdk2, and that cyclin D1 immune complexes exhibit appreciable histone H1 kinase activity.
+cyclin D1
+p34cdc2
+1
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with $T1$ and/or $T2$, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or ErbB4 receptors.
+ErbB3
+ErbB4
+0
+We report here that recombinant $T1$ induces autophosphorylation of $T2$ in intact cells, consistent with B61 being an authentic ligand for ECK.
+B61
+ECK
+1
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by $T1$ and/or $T2$ receptors.
+ErbB3
+ErbB4
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, $T1$, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+YY1
+Tat
+0
+We have previously identified a nuclear protein of M(r)265K, $T1$, that binds specifically to the $T2$-phosphorylated form of CREB.
+CBP
+PKA
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ ($T2$) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6 receptor
+sIL-6R
+0
+The increased binding affinity of $T1$ appears to be due to its ability to cross-link two $T2$ molecules on the biosensor surface.
+IL-6D
+sIL-6R
+1
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ (sIL-6R) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+IL-6 receptor
+IL-6
+0
+Expressions of TH, $T1$ and $T2$ were detected by Western blot analysis.
+AADC
+GCH
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both $T1$ and c-Jun bind specifically and stably to $T2$.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with TBP.
+c-Fos
+TBP
+1
+We suggest that activation of the cell cycle by the Ras/Raf1 pathways might be mediated in part by $T1$$T2$/Raf1 pathways might be mediated in part by Cdc25.
+Cdc25
+Ras
+0
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+sE-selectin
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, $T1$, USF, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+YY1
+E1A
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, $T1$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+USF
+Tat
+0
+Crosslinking of iodinated acidic FGF (aFGF) and basic FGF ($T1$) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both $T2$ and bFGF.
+bFGF
+aFGF
+0
+Influence of interleukin-6 (IL-6) dimerization on formation of the high affinity hexameric $T1$$T2$ (IL-6) dimerization on formation of the high affinity hexameric IL-6.receptor complex.
+IL-6.receptor
+interleukin-6
+0
+Furthermore, a partial $T1$ complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and $T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TFIID
+dTAFII40
+0
+Crosslinking of iodinated acidic FGF ($T1$$T2$ (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+aFGF
+acidic FGF
+0
+Human RIN1 was first characterized as a $T1$$T2$ binding protein based on the properties of its carboxyl-terminal domain.
+RAS binding protein
+RAS
+0
+A double point mutation in the activation domain of $T1$ impaired the ability of this domain to activate transcription and, simultaneously, its ability to interact with both $T2$ and TAFII60.
+p53
+TAFII40
+1
+From Scatchard analyses, the Kd:s for binding of $T1$ and $T2$ to hFGFR-1 were estimated to 25 pM and 41 pM, respectively.
+aFGF
+bFGF
+0
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T2$ (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6D
+IL-6 receptor
+0
+$T1$ is a ligand for the $T2$.
+B61
+ECK receptor protein-tyrosine kinase
+1
+CONCLUSION: The triple transduction of $T1$, AADC and $T2$ genes with separate AAV vectors is effective, which might be important to gene therapy for Parkinson's disease.
+TH
+GCH
+0
+Thrombopoietin ($T1$$T2$ (TPO) is a hematopoietin important for megakaryocyte proliferation and production of blood platelets.
+TPO
+Thrombopoietin
+0
+Here we show that beta:beta activin binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form $T1$$T2$ (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+ActRII
+activin type II receptor kinase
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-$T1$) failed to interact with the $T2$ fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+B42
+0
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric ($T1$ $T2$ gp130)2 complex.
+IL-6
+IL-6R
+1
+When expressed in mammalian cells, the $T1$ binding domain of $T2$ can act as a dominant negative signal transduction blocker.
+RAS
+RIN1
+1
+OBJECTIVE: To assess the usefulness of the molar ratio of serum retinol-binding protein (RBP) to $T1$ ($T2$) to determine vitamin A (VA) status during infection.
+transthyretin
+TTR
+0
+Two lines of evidence support the notion that $T1$ and simian virus 40 T antigen have homologous Rb-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to $T2$.
+RbAP46
+Rb
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), endothelin-1, and $T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+soluble cell adhesion molecules
+0
+The bZIP domains of $T1$ and $T2$ mediate a physical association with the TATA box-binding protein.
+Fos
+Jun
+0
+RESULTS: TH, $T1$ and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-$T2$ and AAV-GCH.
+AADC
+AADC
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, $T1$, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+USF
+CTF
+0
+Influence of interleukin-6 (IL-6) dimerization on formation of the high affinity hexameric $T1$$T2$.receptor complex.
+IL-6.receptor
+IL-6
+0
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+sICAM-1
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$ (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+TATA binding protein
+0
+However, in cell lines with defined combinations of ErbBs, $T1$ only activates those with ErbB3 and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by $T2$ and/or ErbB4 receptors.
+neuregulin-2beta
+ErbB3
+0
+The beta:beta activin homodimer and alpha:$T1$$T2$ homodimer and alpha:beta inhibin heterodimer are mutual antagonists which share a common beta subunit.
+beta inhibin
+beta activin
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to $T1$, indicating that the observed $T2$-Abeta interaction was specific.
+Abeta
+Abeta
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members (ErbB-1, neu/ErbB-2, ErbB-3, and $T1$$T2$, neu/ErbB-2, ErbB-3, and ErbB-4) and tumor recurrence.
+ErbB-4
+ErbB-1
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T1$ receptor and the affinity converter/signal transducing protein $T2$.
+IL-6
+gp130
+0
+$T1$ interacts with the "effector domain" of RAS and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of RAF1, a known $T2$ effector.
+RIN1
+RAS
+0
+Crosslinking of iodinated acidic FGF ($T1$) and $T2$ (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+aFGF
+basic FGF
+0
+We now show that full-length RIN1 interacts with activated RAS in mammalian cells and defines a minimum region of 434 aa required for efficient $T1$$T2$ interacts with activated RAS in mammalian cells and defines a minimum region of 434 aa required for efficient RAS binding.
+RAS
+RIN1
+0
+LexA protein fused to the Drosophila protein $T1$ (LexA-$T2$) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+bicoid
+0
+The ability of $T1$ and $T2$ proteins to interact directly with the TATA box-binding protein (TBP), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+c-Fos
+c-Jun
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$$T2$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+IL-6
+0
+Additionally we have examined interactions between TFIIH components, the human NER protein $T1$, and the $T2$ protein which is implicated in Cockayne syndrome (CS).
+XPG
+CSB
+0
+The same domain of $T1$ that binds RAS also interacts with 14-3-3 proteins, extending the similarity between $T2$ and other RAS effectors.
+RIN1
+RIN1
+0
+Cytokines IL-1alpha, $T1$, $T2$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+IL-6
+0
+Moreover, $T1$ was found to be phosphorylated on tyrosine residues in vivo and, like cyclin A, was readily phosphorylated by $T2$ in vitro.
+cyclin D1
+pp60c-src
+1
+Using co-immunoprecipitation and protein-protein association assays, we show that both $T1$ and c-Jun bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of $T2$ and c-Jun are necessary and sufficient for stable association with TBP.
+c-Fos
+c-Fos
+0
+Due to its increased affinity for the IL-6R but its decreased ability to couple with gp130, we suggest that a stable IL-6 dimer may be an efficient $T1$$T2$ but its decreased ability to couple with gp130, we suggest that a stable IL-6 dimer may be an efficient IL-6 antagonist.
+IL-6
+IL-6R
+0
+Influence of $T1$ (IL-6) dimerization on formation of the high affinity hexameric $T2$.receptor complex.
+interleukin-6
+IL-6
+0
+As a result of this physical interaction, binding of $T1$ to its hormone response elements either as homodimer or as a heterodimer with the $T2$ was inhibited by p53 in a concentration-dependent manner.
+h-TR beta 1
+retinoic X receptor
+1
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, $T1$, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+CTF
+E1A
+0
+We have crystallized a complex between human $T1$ and a two-domain extracellular fragment of human $T2$.
+FGF1
+FGFR2
+1
+The ability of c-Fos and $T1$ proteins to interact directly with the TATA box-binding protein ($T2$), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+c-Jun
+TBP
+1
+Crosslinking of iodinated acidic FGF ($T1$) and basic FGF ($T2$) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and bFGF.
+aFGF
+bFGF
+0
+$T1$ protein fused to the Drosophila protein bicoid (LexA-$T2$) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+bicoid
+0
+A 51-residue region from the conserved C-terminal region of $T1$, previously shown to be the binding site for the viral activator protein E1A, interacts with $T2$ and c-Jun proteins.
+TBP
+c-Fos
+1
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-Abeta bait when the $T1$$T2$ bait when the B42 transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+B42
+Abeta
+0
+We found that the human $T1$ (h-TR beta 1) physically interacted with $T2$ via its DNA binding domain.
+TR subtype beta 1
+p53
+1
+Here, a direct interaction between the activation domain of $T1$ and two subunits of the TFIID complex, TAFII40 and $T2$, is reported.
+p53
+TAFII60
+1
+Crosslinking of iodinated acidic FGF (aFGF) and $T1$ (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both $T2$ and bFGF.
+basic FGF
+aFGF
+0
+The three-dimensional structure of the complex between human H-Ras bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human GTPase-activating protein p120GAP ($T1$$T2$ p120GAP (GAP-334) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+GAP-334
+GTPase-activating protein
+0
+In contrast, mutant $T1$ either had no effect or activated the transcriptional activity of $T2$ depending on the type of hormone response elements.
+p53
+h-TR beta 1
+0
+$T1$ complexes in which an $T2$ chain occupies each receptor subunit.
+SKR2
+activin beta
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or $T1$, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or $T2$ receptors.
+ErbB4
+ErbB4
+0
+However, in cell lines with defined combinations of ErbBs, $T1$ only activates those with $T2$ and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or ErbB4 receptors.
+neuregulin-2beta
+ErbB3
+1
+How $T1$ acts to bring about this suppression is not clear but one clue is that the $T2$ protein forms complexes with the transforming oncoproteins of several DNA tumour viruses, and that two regions of Rb essential for such binding frequently contain mutations in tumour cells.
+Rb
+Rb
+0
+Here we show that beta:$T1$ binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form $T2$.beta:beta.
+beta activin
+ActRII
+0
+Two lines of evidence support the notion that RbAP46 and $T1$ have homologous Rb-binding properties: first, several mutated $T2$ proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+simian virus 40 T antigen
+Rb
+0
+Human RIN1 was first characterized as a $T1$$T2$ was first characterized as a RAS binding protein based on the properties of its carboxyl-terminal domain.
+RAS binding protein
+RIN1
+0
+Crosslinking of iodinated $T1$ (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both aFGF and $T2$.
+acidic FGF
+bFGF
+0
+A cellular protein that competes with $T1$ for binding to the $T2$ gene product.
+SV40 T antigen
+retinoblastoma
+0
+$T1$ also binds to ActRII through its beta subunit, competes with the binding of activin to ActRII, but fails to form the $T2$.
+Inhibin
+ActRII
+0
+Human $T1$ was first characterized as a $T2$ binding protein based on the properties of its carboxyl-terminal domain.
+RIN1
+RAS
+1
+XPG protein interacts with multiple subunits of TFIIH and with $T1$$T2$ and with CSB protein.
+CSB
+TFIIH
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+dTBP
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+sVCAM-1
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human $T1$, $T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII250
+dTAFII60
+0
+Two lines of evidence support the notion that RbAP46 and $T1$ have homologous $T2$-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+simian virus 40 T antigen
+Rb
+1
+Our analyses demonstrate that the XPB, XPD, p44, and $T1$$T2$, XPD, p44, and p62 proteins interact with each other.
+p62
+XPB
+0
+Furthermore, a partial $T1$ complex containing Drosophila TATA binding protein ($T2$), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TFIID
+dTBP
+0
+We report here the identification of one such human cellular $T1$$T2$ of relative molecular mass 46,000 (46K) (RbAP46).
+Rb
+Rb-associated protein
+0
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T2$, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+sE-selectin
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+LexA
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and $T1$, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sE-selectin
+sICAM-1
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor ($T1$) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+sIL-6R
+IL-6
+0
+At least two of the subunits of TFIIH ($T1$ and $T2$ proteins) are implicated in the disease xeroderma pigmentosum (XP).
+XPB
+XPD
+0
+The high affinity $T1$ (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein $T2$.
+interleukin-6
+gp130
+0
+Activated $T1$ predominantly interacts with $T2$.
+FGFR3
+GRB2
+1
+Due to its increased affinity for the IL-6R but its decreased ability to couple with gp130, we suggest that a stable IL-6 dimer may be an efficient $T1$$T2$, we suggest that a stable IL-6 dimer may be an efficient IL-6 antagonist.
+IL-6
+gp130
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the $T1$$T2$ resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of gp130.
+IL-6D
+IL-6D
+0
+LexA protein fused to the Drosophila protein $T1$ (LexA-bicoid) failed to interact with the $T2$ fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+bicoid
+B42
+0
+However, in cell lines with defined combinations of ErbBs, $T1$ only activates those with ErbB3 and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or $T2$ receptors.
+neuregulin-2beta
+ErbB4
+0
+Immunoprecipitation experiments with human osteosarcoma cells and Ewing's sarcoma cells demonstrated that $T1$ is associated with both p34cdc2 and $T2$, and that cyclin D1 immune complexes exhibit appreciable histone H1 kinase activity.
+cyclin D1
+p33cdk2
+1
+$T1$ also binds to $T2$ through its beta subunit, competes with the binding of activin to ActRII, but fails to form the ActRII.
+Inhibin
+ActRII
+1
+Although IL-6D has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than $T1$$T2$ has a higher binding affinity for immobilized sIL-6R, as determined by biosensor analysis employing surface plasmon resonance detection, IL-6M is more potent than IL-6D in a STAT3 phosphorylation assay.
+IL-6D
+IL-6D
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex TFIIH, the nucleotide excision repair protein XPG, and $T1$$T2$, the nucleotide excision repair protein XPG, and Cockayne syndrome group B (CSB) protein.
+Cockayne syndrome group B (CSB) protein
+TFIIH
+0
+Crystal structure of the $T1$-$T2$ ectodomain complex.
+BMP-2
+BRIA
+1
+RESULTS: TH, AADC and $T1$ were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-$T2$.
+GCH
+GCH
+0
+METHODS: The genes for dopamine synthetic enzymes, $T1$ (TH), aromatic L-amino acid decarboxylase ($T2$), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+tyrosine hydroxylase
+AADC
+0
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R $T1$$T2$-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 IL-6R gp130)2 complex.
+gp130
+IL-6
+0
+METHODS: The genes for dopamine synthetic enzymes, $T1$ (TH), aromatic L-amino acid decarboxylase (AADC), and $T2$ (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+tyrosine hydroxylase
+GTP cyclohydrolase I
+0
+We show here that $T1$ associates with $T2$ in somatic mammalian cells and in meiotic frog oocytes.
+Cdc25 phosphatase
+raf1
+1
+The three-dimensional structure of the complex between human H-Ras bound to guanosine diphosphate and the guanosine triphosphatase (GTPase)-activating domain of the human GTPase-activating protein $T1$$T2$ p120GAP (GAP-334) in the presence of aluminum fluoride was solved at a resolution of 2.5 angstroms.
+p120GAP
+GTPase-activating protein
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$ protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+LexA
+0
+The $T1$-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic $T2$ mutants.
+Ras
+Ras
+0
+The bZIP domains of Fos and $T1$ mediate a physical association with the $T2$.
+Jun
+TATA box-binding protein
+1
+A model is presented whereby the trimeric complex of IL-6R, gp130, and $T1$$T2$, and IL-6M forms before the functional hexamer.
+IL-6M
+gp130
+0
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human $T2$ and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6D
+IL-6
+0
+RESULTS: TH, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-$T1$ and AAV-$T2$.
+AADC
+GCH
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$ (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+TATA binding protein
+0
+Here we show that beta:$T1$ binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase $T2$ to form ActRII.beta:beta.
+beta activin
+SKR2
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), $T1$ (AADC), and GTP cyclohydrolase I ($T2$, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+aromatic L-amino acid decarboxylase
+GCH
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to $T1$.Mutational analysis demonstrates that both the basic region and leucine zipper domains of $T2$ and c-Jun are necessary and sufficient for stable association with TBP.
+TBP
+c-Fos
+0
+BACKGROUND: To elucidate the relationship between the expression of epidermal growth factor receptor family members (ErbB-1, neu/ErbB-2, ErbB-3, and $T1$$T2$, and ErbB-4) and tumor recurrence.
+ErbB-4
+ErbB-3
+0
+RESULTS: TH, AADC and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-$T1$, AAV-AADC and AAV-$T2$.
+TH
+GCH
+0
+The molar ratio of serum retinol-binding protein (RBP) to $T1$$T2$) to transthyretin (TTR) is not useful to assess vitamin A status during infection in hospitalised children.
+transthyretin
+RBP
+0
+$T1$ and sP- and $T2$ levels were not related to function of lymphocytes (by MDM data) as seen in both tests; it is probable that another cell-cell communication mechanism had been switched on.
+Endothelin-1
+sE-selectin
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein ($T1$), human TAFII250, $T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+dTBP
+dTAFII60
+0
+A model is presented whereby the trimeric complex of $T1$, $T2$, and IL-6M forms before the functional hexamer.
+IL-6R
+gp130
+1
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D ($T1$$T2$ ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of gp130.
+sIL-6R
+IL-6
+0
+A 51-residue region from the conserved C-terminal region of TBP, previously shown to be the binding site for the viral activator protein $T1$, interacts with c-Fos and $T2$ proteins.
+E1A
+c-Jun
+0
+LexA protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the B42 fragment fused to Abeta, indicating that the observed Abeta-$T1$$T2$ fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+Abeta
+B42
+0
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric ($T1$ IL-6R $T2$)2 complex.
+IL-6
+gp130
+0
+Furthermore, $T1$ can be activated in vitro in a $T2$-dependent manner.
+Cdc25 phosphatase
+Raf1
+1
+The $T1$-interacting region of Sp1 was localized to its DNA-binding domain, which is distinct from the glutamine-rich activation domains previously shown to interact with Drosophila $T2$.
+TAFII55
+TAFII110
+0
+Cytokines IL-1alpha, $T1$, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1beta
+sICAM-1
+0
+Together, these results suggest that $T1$ and TAFII60 are important targets for transmitting activation signals between $T2$ and the initiation complex.
+TAFII40
+p53
+1
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the $T1$$T2$ ternary complex formation demonstrated that the reduced biological potency of IL-6D resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of gp130.
+IL-6D
+IL-6
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+dTBP
+0
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring lacZ ($T1$) and LEU2 ($T2$) genes under the control of LexA-dependent operators.
+beta-galactosidase
+leucine utilization
+0
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and c-Jun bind specifically and stably to $T1$.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with $T2$.
+TBP
+TBP
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with $T1$ and/or ErbB4, suggesting that signalling by neuregulin-2 is mediated by $T2$ and/or ErbB4 receptors.
+ErbB3
+ErbB3
+0
+The molar ratio of serum retinol-binding protein ($T1$) to transthyretin ($T2$) is not useful to assess vitamin A status during infection in hospitalised children.
+RBP
+TTR
+0
+Additionally we have examined interactions between $T1$ components, the human NER protein $T2$, and the CSB protein which is implicated in Cockayne syndrome (CS).
+TFIIH
+XPG
+0
+In transfected cells, wild-type $T1$ repressed the hormone-dependent transcriptional activation of $T2$.
+p53
+h-TR beta 1
+1
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T1$) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sCAM
+sVCAM-1
+0
+We have exploited the availability of the cloned XPB, XPD, p62, $T1$, and p34 genes (all of which encode polypeptide subunits of $T2$) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p44
+TFIIH
+0
+The $T1$-like domain of $T2$ (TPO1-153) has been fused to the gIII coat protein of M13 bacteriophage.
+erythropoietin
+TPO
+0
+Due to its increased affinity for the IL-6R but its decreased ability to couple with $T1$, we suggest that a stable $T2$ dimer may be an efficient IL-6 antagonist.
+gp130
+IL-6
+1
+Using co-immunoprecipitation and protein-protein association assays, we show that both c-Fos and $T1$ bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with $T2$.
+c-Jun
+TBP
+0
+We have exploited the availability of the cloned XPB, XPD, $T1$, p44, and $T2$ genes (all of which encode polypeptide subunits of TFIIH) to examine interactions between in vitro-translated polypeptides by co-immunoprecipitation.
+p62
+p34
+0
+We established a strong correlation between chromatin activity of lymphocytes and the serum concentration of $T1$, IL-6, and $T2$, which are the active participants in the pro- and anti-inflammatory program in atherogenesis.
+IL-1beta
+IL-10
+0
+Due to its increased affinity for the IL-6R but its decreased ability to couple with $T1$$T2$ but its decreased ability to couple with gp130, we suggest that a stable IL-6 dimer may be an efficient IL-6 antagonist.
+gp130
+IL-6R
+0
+$T1$ protein fused to the Drosophila protein bicoid (LexA-bicoid) failed to interact with the $T2$ fragment fused to Abeta, indicating that the observed Abeta-Abeta interaction was specific.
+LexA
+B42
+0
+Through their interaction with the ErbB family of receptors (ErbB2, ErbB3 and $T1$$T2$ and ErbB4), neuregulins help to regulate cell growth and differentiation in many tissues.
+ErbB4
+ErbB3
+0
+We found that the human TR subtype beta 1 ($T1$) physically interacted with $T2$ via its DNA binding domain.
+h-TR beta 1
+p53
+1
+Monomeric ($T1$) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the IL-6 receptor (sIL-6R) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6M
+gp130
+0
+The encoded product of the neuregulin-2 gene has a motif structure similar to that of neuregulins and an alternative splicing site in the epidermal growth factor($T1$$T2$ gene has a motif structure similar to that of neuregulins and an alternative splicing site in the epidermal growth factor(EGF)-like domain gives rise to two isoforms (alpha and beta).
+EGF
+neuregulin-2
+0
+The molar ratio of serum $T1$ (RBP) to $T2$ (TTR) is not useful to assess vitamin A status during infection in hospitalised children.
+retinol-binding protein
+transthyretin
+0
+RESULTS: TH, $T1$ and GCH were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-$T2$.
+AADC
+GCH
+0
+Here, a direct interaction between the activation domain of $T1$ and two subunits of the $T2$ complex, TAFII40 and TAFII60, is reported.
+p53
+TFIID
+0
+p53 transcriptional activation mediated by coactivators TAFII40 and $T1$$T2$ and TAFII60.
+TAFII60
+TAFII40
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$ or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+TBP
+0
+Monomeric (IL-6M) and dimeric ($T1$) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T2$ receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6D
+IL-6
+0
+The kinetics of amyloid fibril formation by $T1$ ($T2$) are typical of a nucleation-dependent polymerization mechanism.
+beta-amyloid peptide
+Abeta
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T2$, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+sICAM-1
+0
+Our analyses demonstrate that the XPB, XPD, p44, and $T1$$T2$, p44, and p62 proteins interact with each other.
+p62
+XPD
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human $T1$ and the extracellular ("soluble") portions of the IL-6 receptor ($T2$) and gp130 have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+sIL-6R
+0
+However, in cell lines with defined combinations of ErbBs, neuregulin-2beta only activates those with ErbB3 and/or ErbB4, suggesting that signalling by $T1$ is mediated by $T2$ and/or ErbB4 receptors.
+neuregulin-2
+ErbB3
+0
+The high affinity interleukin-6 ($T1$) signaling complex consists of $T2$ and two membrane-associated receptor components: a low affinity but specific IL-6 receptor and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6
+0
+Through their interaction with the ErbB family of receptors ($T1$, ErbB3 and $T2$), neuregulins help to regulate cell growth and differentiation in many tissues.
+ErbB2
+ErbB4
+0
+$T1$ interacts with the "effector domain" of RAS and employs some RAS determinants that are common to, and others that are distinct from, those required for the binding of $T2$, a known RAS effector.
+RIN1
+RAF1
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and $T1$$T2$), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII60
+dTBP
+0
+How Rb acts to bring about this suppression is not clear but one clue is that the $T1$ protein forms complexes with the transforming oncoproteins of several DNA tumour viruses, and that two regions of $T2$ essential for such binding frequently contain mutations in tumour cells.
+Rb
+Rb
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex TFIIH, the nucleotide excision repair protein XPG, and $T1$$T2$) protein.
+Cockayne syndrome group B (CSB) protein
+CSB
+0
+Interactions involving the human RNA polymerase II transcription/nucleotide excision repair complex TFIIH, the nucleotide excision repair protein XPG, and $T1$$T2$, and Cockayne syndrome group B (CSB) protein.
+Cockayne syndrome group B (CSB) protein
+XPG
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking $T1$$T2$ supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TAFII40
+dTAFII40
+0
+CREB is activated through phosphorylation by protein kinase A (PKA), but precisely how phosphorylation stimulates $T1$$T2$ (PKA), but precisely how phosphorylation stimulates CREB function is unknown.
+CREB
+protein kinase A
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase (TH), $T1$ ($T2$), and GTP cyclohydrolase I (GCH, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+aromatic L-amino acid decarboxylase
+AADC
+0
+We now show that full-length RIN1 interacts with activated $T1$ in mammalian cells and defines a minimum region of 434 aa required for efficient $T2$ binding.
+RAS
+RAS
+0
+Two lines of evidence support the notion that $T1$ and simian virus 40 T antigen have homologous $T2$-binding properties: first, several mutated Rb proteins that failed to bind to T also did not associate with RbAP46; and second, both T antigen and T peptide (amino acids 101-118) were able to compete with RbAP46 for binding to Rb.
+RbAP46
+Rb
+1
+In vitro binding studies demonstrated that the intracellular segment of $T1$ binds directly to the intracellular domain of $T2$, but not to alpha- or beta-catenin.
+PTPmu
+E-cadherin
+1
+Using co-immunoprecipitation and protein-protein association assays, we show that both $T1$ and $T2$ bind specifically and stably to TBP.Mutational analysis demonstrates that both the basic region and leucine zipper domains of c-Fos and c-Jun are necessary and sufficient for stable association with TBP.
+c-Fos
+c-Jun
+0
+Crosslinking of iodinated $T1$ (aFGF) and basic FGF (bFGF) to transiently expressing COS-1 cells revealed a major band of 95 kDa, which was competed for by both $T2$ and bFGF.
+acidic FGF
+aFGF
+0
+The apparent targeting of the $T1$-$T2$ interaction by oncoproteins of DNA tumour viruses strongly suggests that formation of this complex is functionally important.
+RbAP46
+Rb
+1
+RIN1 interacts with the "effector domain" of RAS and employs some $T1$ determinants that are common to, and others that are distinct from, those required for the binding of $T2$, a known RAS effector.
+RAS
+RAF1
+0
+Furthermore, a partial TFIID complex containing Drosophila TATA binding protein (dTBP), human TAFII250, dTAFII60, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas $T1$$T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TBP
+dTAFII60
+0
+The multisubunit transcription factor IID ($T1$$T2$ (TFIID) is thought to be a primary target for site-specific activators of transcription.
+TFIID
+transcription factor IID
+0
+The ability of $T1$ and c-Jun proteins to interact directly with the TATA box-binding protein ($T2$), the general transcription factor required for initiating the assembly of transcription complexes, was investigated.
+c-Fos
+TBP
+1
+A double point mutation in the activation domain of $T1$ impaired the ability of this domain to activate transcription and, simultaneously, its ability to interact with both TAFII40 and $T2$.
+p53
+TAFII60
+1
+These data imply that IL-6-induced dimerization of sIL-6R is not the driving force in promoting formation of the hexameric (IL-6 $T1$ $T2$)2 complex.
+IL-6R
+gp130
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ receptor (sIL-6R) and gp130 have been purified in order to investigate the effect of $T2$ dimerization on binding to the receptor complex.
+IL-6
+IL-6
+0
+A double point mutation in the activation domain of p53 impaired the ability of this domain to activate transcription and, simultaneously, its ability to interact with both $T1$ and $T2$.
+TAFII40
+TAFII60
+0
+Due to its increased affinity for the IL-6R but its decreased ability to couple with gp130, we suggest that a stable IL-6 dimer may be an efficient $T1$$T2$ dimer may be an efficient IL-6 antagonist.
+IL-6
+IL-6
+0
+The $T1$-like domain of TPO (TPO1-153) has been fused to the $T2$ coat protein of M13 bacteriophage.
+erythropoietin
+gIII
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, $T1$, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules ($T2$) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-8
+sCAM
+0
+The high affinity $T1$ (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T2$ and the affinity converter/signal transducing protein gp130.
+interleukin-6
+IL-6 receptor
+0
+METHODS: The genes for dopamine synthetic enzymes, tyrosine hydroxylase ($T1$), aromatic L-amino acid decarboxylase (AADC), and GTP cyclohydrolase I ($T2$, an enzyme critical for tetrahydrobiopterin synthesis) were contransduced into 293 cells with separate AAV vectors.
+TH
+GCH
+0
+Here we show that beta:beta activin binds to the activin type II receptor kinase (ActRII) which induces activin binding to the type I receptor kinase $T1$$T2$ (ActRII) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+SKR2
+activin type II receptor kinase
+0
+Together, these results suggest that TAFII40 and $T1$ are important targets for transmitting activation signals between $T2$ and the initiation complex.
+TAFII60
+p53
+1
+Specificity was further shown by the finding that no significant interaction was observed in yeast expressing LexA-$T1$$T2$-Abeta bait when the B42 transactivation domain was fused to an Abeta fragment with Phe-Phe at residues 19 and 20 replaced by Thr-Thr (AbetaTT), a finding that is consistent with in vitro observations made by others.
+Abeta
+LexA
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, $T1$ (Immunotech, France), $T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-10
+endothelin-1
+0
+Our analyses demonstrate that the XPB, XPD, $T1$$T2$, XPD, p44, and p62 proteins interact with each other.
+p44
+XPB
+0
+The results of this study suggest that $T1$ activity may be regulated by its interaction with the cell cycle regulatory protein, $T2$.
+NF-kappaB
+E2F-1
+1
+However, in cell lines with defined combinations of ErbBs, $T1$ only activates those with ErbB3 and/or $T2$, suggesting that signalling by neuregulin-2 is mediated by ErbB3 and/or ErbB4 receptors.
+neuregulin-2beta
+ErbB4
+1
+Influence of interleukin-6 (IL-6) dimerization on formation of the high affinity hexameric $T1$$T2$) dimerization on formation of the high affinity hexameric IL-6.receptor complex.
+IL-6.receptor
+IL-6
+0
+Studies of the IL-6 ternary complex formation demonstrated that the reduced biological potency of $T1$ resulted from a decreased ability of the IL-6D (sIL-6R)2 complex to couple with the soluble portion of $T2$.
+IL-6D
+gp130
+0
+CONCLUSION: The triple transduction of $T1$, $T2$ and GCH genes with separate AAV vectors is effective, which might be important to gene therapy for Parkinson's disease.
+TH
+AADC
+0
+Monomeric (IL-6M) and dimeric (IL-6D) forms of Escherichia coli-derived human IL-6 and the extracellular ("soluble") portions of the $T1$ receptor (sIL-6R) and $T2$ have been purified in order to investigate the effect of IL-6 dimerization on binding to the receptor complex.
+IL-6
+gp130
+0
+Furthermore, a partial TFIID complex containing Drosophila $T1$ (dTBP), human TAFII250, $T2$, and dTAFII40 supported activation by a Gal4-p53 fusion protein in vitro, whereas TBP or a subcomplex lacking TAFII40 and TAFII60 did not.
+TATA binding protein
+dTAFII60
+0
+Here we show that beta:beta activin binds to the $T1$ ($T2$) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+activin type II receptor kinase
+ActRII
+0
+The high affinity interleukin-6 ($T1$) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T2$ receptor and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, $T1$, USF, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+YY1
+CTF
+0
+The molar ratio of serum $T1$ ($T2$) to transthyretin (TTR) is not useful to assess vitamin A status during infection in hospitalised children.
+retinol-binding protein
+RBP
+0
+The high affinity interleukin-6 (IL-6) signaling complex consists of IL-6 and two membrane-associated receptor components: a low affinity but specific $T1$$T2$ and the affinity converter/signal transducing protein gp130.
+IL-6
+IL-6 receptor
+0
+RESULTS: $T1$, AADC and $T2$ were effectively coexpressed in transduced cells with three separate AAV vectors, AAV-TH, AAV-AADC and AAV-GCH.
+TH
+GCH
+0
+Cytokines $T1$, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), $T2$, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-1alpha
+endothelin-1
+0
+Protein-protein interactions were measured by expression of these fusion proteins in Saccharomyces cerevisiae harboring $T1$ ($T2$) and LEU2 (leucine utilization) genes under the control of LexA-dependent operators.
+lacZ
+beta-galactosidase
+0
+Cytokines IL-1alpha, IL-1beta, IL-6, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, $T1$$T2$ (sCAM) sP- and sE-selectin, sICAM-1, and sVCAM-1 (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+sICAM-1
+soluble cell adhesion molecules
+0
+Here we report the crystal structure of human dimeric $T1$ in complex with two high affinity BMP receptor IA extracellular domains($T2$).
+BMP-2
+BRIAec
+1
+Cytokines IL-1alpha, IL-1beta, $T1$, IL-8, IL-10 (Immunotech, France), endothelin-1, and soluble cell adhesion molecules (sCAM) sP- and sE-selectin, sICAM-1, and $T2$ (R&D, UK) have been determined using ELISA kits (photometer, Biomek-1000, Beckman, USA).
+IL-6
+sVCAM-1
+0
+We have previously identified a nuclear protein of M(r)265K, CBP, that binds specifically to the $T1$-phosphorylated form of $T2$.
+PKA
+CREB
+1

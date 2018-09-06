@@ -1,0 +1,2264 @@
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T2$ complexes containing hsp70 and Hip (p48).
+p60
+PR
+0
+Both the GT155-$T1$ and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on $T2$, a characteristic of many calnexin interactions.
+calnexin
+GT155
+0
+Both the GT155-calnexin and the $T1$-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on $T2$, a characteristic of many calnexin interactions.
+GT155
+GT155
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), $T2$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+p60
+p23
+0
+This observation supports a model in which p60 functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking $T1$$T2$ assembly to facilitate formation of subsequent PR complexes lacking p60.
+p60
+PR
+0
+The $T1$ glucose transporter interacts with $T2$ and calreticulin.
+glut 1
+calnexin
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing $T2$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+PR
+heat shock protein 90
+0
+$T1$/c-Cbl interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor $T2$, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+Vav
+CTLA-4
+0
+The $T1$ protein binds to $T2$, a zinc-finger protein that shares an epitope with the adenovirus E1A protein.
+retinoblastoma
+RIZ
+1
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell $T1$ complexes hTAFII28, hTAFII20 and $T2$.
+TFIID
+hTAFII18
+0
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the $T1$, $T2$, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+microtubule-associated protein 2
+P150
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either $T1$ or $T2$ in vivo, and the specificity of pRB or p107 binding is mediated by the E2F subunit.
+pRB
+p107
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T1$ ($T2$ alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII30
+hTFIID
+0
+Cloning and characterization of hTAFII18, hTAFII20 and hTAFII28: three subunits of the human transcription factor $T1$$T2$: three subunits of the human transcription factor TFIID.
+TFIID
+hTAFII28
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ alpha and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID
+0
+Mutations within the KDR site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect $T1$$T2$ binding, and mutants deficient in FLT-1 binding did not affect KDR binding.
+KDR
+FLT-1
+0
+The glut 1 glucose transporter interacts with calnexin and $T1$$T2$ and calreticulin.
+calreticulin
+calnexin
+0
+Human spleen tyrosine kinase $T1$ associates with the Src-family kinase p53/$T2$ and a 120-kDa phosphoprotein.
+p72Syk
+56Lyn
+1
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins Ht 21 and $T1$$T2$, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+Ht 31
+P150
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTFIID
+0
+The interactions between $T1$ and $T2$, or CDK2, may be important at the G1 to S transition in human cells.
+cyclin E
+CDC2
+1
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature $T1$$T2$ complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+PR
+0
+p27Kip1 binds the complex as an extended structure interacting with both cyclin A and $T1$$T2$ and Cdk2.
+Cdk2
+cyclin A
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-$T1$$T2$ is the central organizing component of an hsp90-p60-hsp70 complex.
+p60
+p60
+0
+The retinoblastoma protein binds to RIZ, a zinc-finger protein that shares an epitope with the adenovirus $T1$$T2$, a zinc-finger protein that shares an epitope with the adenovirus E1A protein.
+E1A
+RIZ
+0
+Association between $T1$ and $T2$/cdc2 was detected in the HeLa cells.
+cdc25A
+cyclin B1
+1
+COS-7 cells co-transfected with the cloned IL-13R cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and $T1$$T2$ and IL-13.
+IL-13
+IL-4
+0
+Unlike human $T1$ (which uses many hydrophilic residues), the viral cytokine largely uses hydrophobic amino acids to contact $T2$, which enhances the complementarity of the viral IL-6-gp130 binding interfaces.
+IL-6
+gp130
+1
+In contrast to hTAFII28, $T1$$T2$, hTAFII18 is a TFIID beta-specific hTAFII.
+hTAFII18
+hTAFII28
+0
+Mutations within the KDR site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect $T1$$T2$ binding did not affect KDR binding.
+KDR
+FLT-1
+0
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins $T1$$T2$, P150, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+Ht 21
+microtubule-associated protein 2
+0
+The $T1$-p60-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the $T2$-binding drug geldanamycin.
+hsp90
+hsp90
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-$T1$$T2$ do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-hsp70 complex.
+p60
+hsp70
+0
+$T1$ mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/fetal liver kinase 1 (Flk-1) and $T2$.
+VEGF
+FLT-1
+0
+Shedding of the extracellular domain of $T1$ was induced by 4 beta-phorbol 12-myristate 13-acetate but not by TNF-alpha or $T2$.
+TNF-R2
+TNF-beta
+0
+We show that hTAFII28 interacts with $T1$ both in vitro and intracellularly; in contrast to its Drosophila homologue, hTAFII28 also interacts directly with $T2$.
+hTAFII18
+TBP
+0
+Crystal structure of the $T1$ cyclin-dependent-kinase inhibitor bound to the $T2$-Cdk2 complex.
+p27Kip1
+cyclin A
+1
+Since $T1$ is typically found in a complex with hsp90 and $T2$, we have further characterized its interactions with these proteins.
+p60
+hsp70
+1
+In the 2.4 angstrom crystal structure of the extracellular signaling assembly between viral IL-6 and human gp130, two complexes are cross-linked into a tetramer through direct interactions between the immunoglobulin domain of $T1$ and site III of viral $T2$, which is necessary for receptor activation.
+gp130
+IL-6
+1
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTFIID beta
+0
+The hsp90-p60-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the $T1$$T2$-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the hsp90-binding drug geldanamycin.
+hsp90
+p60
+0
+Two previously unidentified human cdc25 genes have been isolated, $T1$ and $T2$.
+cdc25A
+cdc25B
+0
+This observation supports a model in which p60 functions at an intermediate stage of PR assembly to facilitate formation of subsequent $T1$$T2$ functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking p60.
+PR
+p60
+0
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds $T1$$T2$ receptor, but neither of these proteins binds IL-13.
+IL-13
+IL-2
+0
+The $T1$ shows homology with the $T2$ receptor, and to a lesser extent, with the prolactin receptor.
+IL-13R
+IL-5
+0
+Immunoblotting studies were used to confirm the binding of $T1$ from fresh platelet lysates to the $T2$ fusion protein.
+FXIII
+HSP27
+1
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature $T1$$T2$ and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+hsp70
+0
+The crystal structure shows that $T1$ consists of three immunoglobulin-like domains which wrap around $T2$ in a manner distinct from the structures of previously described cytokine-receptor complexes.
+s-IL1R
+IL-1beta
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), $T1$, and immunophilins and, on the other, enhance recovery of early $T2$ complexes containing hsp70 and Hip (p48).
+p23
+PR
+0
+The crystal structure of the human $T1$ inhibitory domain bound to the phosphorylated $T2$-cyclin-dependent kinase 2 (Cdk2) complex has been determined at 2.3 angstrom.
+p27Kip1 kinase
+cyclin A
+1
+Computer-aided analysis of secondary structure, performed on four $T1$-anchoring protein sequences (the $T2$, P150, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+RII
+microtubule-associated protein 2
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T2$ (p48).
+heat shock protein 90
+Hip
+0
+hTAFII20 is the homologue of $T1$, an alternatively spliced form of d$T2$ (p32).
+p22
+TAFII30 alpha
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T1$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip ($T2$).
+hsp90
+p48
+0
+Both the GT155-calnexin and the $T1$-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many $T2$ interactions.
+GT155
+calnexin
+0
+$T1$ is a core $T2$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTAFII
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 (hsp90), $T2$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+PR
+p23
+0
+Cellular $T1$ as well as the recombinant Src homology 2 (SH2) domains of $T2$ bound a tyrosine-phosphorylated peptide encompassing Y463 with approximately threefold greater affinity than a doubly tyrosine-phosphorylated Y429-Y441 peptide.
+p85
+p85
+0
+Identification of vascular endothelial growth factor determinants for binding $T1$ and $T2$ receptors.
+KDR
+FLT-1
+0
+$T1$ and cdc25B display endogenous tyrosine phosphatase activity that is stimulated several-fold, in the absence of cdc2, by stoichiometric addition of either $T2$ or B2 but not A or D1.
+cdc25A
+cyclin B1
+0
+COS-7 cells co-transfected with the cloned IL-13R cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and $T1$$T2$ cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and IL-13.
+IL-13
+IL-13R
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, $T1$ (KDR)/fetal liver kinase 1 ($T2$) and FLT-1.
+kinase insert domain-containing receptor
+Flk-1
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three $T1$$T2$ to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-R2
+TNF-beta
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-$T1$ associations were not detected in pre-B and myeloma cell lines and $T2$ from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+We have cloned cDNAs encoding three novel TAFIIs [$T1$ (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes $T2$, hTAFII20 and hTAFII18.
+TATA-binding protein
+hTAFII28
+0
+Thus, our data show that both calnexin and $T1$$T2$ and calreticulin interact with Glut 1 in a glycosylation-dependent manner.
+calreticulin
+calnexin
+0
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, $T1$$T2$, K5, and K6.
+K5
+K2
+0
+A domain is conserved between RIZ and the $T1$/$T2$ differentiation factor.
+PRDI-BF1
+Blimp-1
+0
+The interactions of $T1$ and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes ($T2$) or in mature PR complexes (hsp90).
+hsp70
+hsp70
+0
+In addition, we show that the conserved motif Y699 MTP present in $T1$ is the binding site for the $T2$ SH2 domain in vitro.
+c-Cbl
+Vav
+1
+The interactions between $T1$ and CDC2, or $T2$, may be important at the G1 to S transition in human cells.
+cyclin E
+CDK2
+1
+Syk and Lyn coimmunoprecipitated from mature and activated B-cell lines, and gel-purified $T1$ and $T2$ reassociated in vitro, demonstrating their direct interaction.
+Syk
+Lyn
+1
+Previous studies on the assembly of progesterone receptor ($T1$$T2$ (PR) complexes in vitro have suggested that PR assembly is a dynamic, ordered process involving at least eight nonreceptor proteins.
+PR
+progesterone receptor
+0
+Specifically, substitution of proline for Ala-498 significantly diminished $T1$$T2$ binding, and similar mutation of Ile-502 or Ile-507 abolished interaction.
+RII
+RII alpha
+0
+These findings indicate that B-type cyclins are multifunctional proteins that not only act as M phase regulatory subunits of the $T1$ protein kinase, but also activate the cdc25 tyrosine phosphatase, of which $T2$ is the physiological substrate.
+cdc2
+cdc2
+0
+$T1$ also was shown to coprecipitate with $T2$ in immunoprecipitation studies and to colocalize with HSP27 in immunofluorescence studies of intact glass-activated platelets.
+FXIII
+HSP27
+1
+cdc25A and $T1$ display endogenous tyrosine phosphatase activity that is stimulated several-fold, in the absence of cdc2, by stoichiometric addition of either $T2$ or B2 but not A or D1.
+cdc25B
+cyclin B1
+0
+Both the GT155-calnexin and the GT155-$T1$ interactions were dependent on the presence of a correctly modified oligosaccharide group on $T2$, a characteristic of many calnexin interactions.
+CAP-60
+GT155
+0
+$T1$ mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/fetal liver kinase 1 ($T2$) and FLT-1.
+VEGF
+Flk-1
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either $T1$ or p107 in vivo, and the specificity of $T2$ or p107 binding is mediated by the E2F subunit.
+pRB
+pRB
+0
+The $T1$ ($T2$) is a target of viral oncoproteins.
+retinoblastoma protein
+Rb
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T1$ (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTAFII30
+TAFII30 beta
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with $T1$$T2$ interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Lyn
+0
+The purpose of the present comparative immunohistochemical study was to compare rates of cell adhesion molecule (E-cadherin) and protease [$T1$$T2$) and protease [stromelysin-3 (ST-3)] expression in groups of de novo (n=64) and ex adenoma (n=42) lesions in order to see whether their more aggressive behavior is associated with decreased cell adhesion and increased protease expression.
+stromelysin-3
+E-cadherin
+0
+hTAFII20 is the homologue of $T1$$T2$ is the homologue of p22, an alternatively spliced form of dTAFII30 alpha (p32).
+p22
+hTAFII20
+0
+Mutational analysis of $T1$ indicates that the N terminus is required for hsp70 binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding $T2$ and hsp70.
+p60
+hsp90
+1
+Since $T1$ and $T2$ do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp90
+hsp70
+0
+We investigated the mechanism of calcium-stimulated gastrin release from gastrinoma cells in vitro with a particular focus on the $T1$ ($T2$).
+calcium-sensing receptor
+CaR
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes ($T1$$T2$ complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+PR
+0
+Cloning and characterization of a specific interleukin (IL)-13 binding protein structurally related to the $T1$$T2$ receptor alpha chain.
+IL-5 receptor
+IL-5
+0
+The rates of extensive $T1$ expression and decreased $T2$ expression were significantly higher in the de novo group (P=0.014 and 0.005, respectively).
+ST-3
+E-cadherin
+0
+Cross-linking of 125I-$T1$ and 125I-$T2$ to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-beta
+0
+PI 3-kinase activity and the regulatory $T1$ subunit of $T2$ associated with CD5 in pervanadate-stimulated, but not in unstimulated thymocytes.
+p85
+PI 3-kinase
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for $T1$$T2$ to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-beta
+TNF-beta
+0
+The crystal structure of the human p27Kip1 kinase inhibitory domain bound to the phosphorylated cyclin A-$T1$$T2$-cyclin-dependent kinase 2 (Cdk2) complex has been determined at 2.3 angstrom.
+cyclin-dependent kinase 2
+cyclin A
+0
+In contrast to hTAFII28, hTAFII18 is a $T1$$T2$ is a TFIID beta-specific hTAFII.
+TFIID
+hTAFII18
+0
+Vav/c-Cbl interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which $T1$$T2$/c-Cbl interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+c-Cbl
+Vav
+0
+Shedding of the extracellular domain of $T1$ was induced by 4 beta-phorbol 12-myristate 13-acetate but not by $T2$ or TNF-beta.
+TNF-R2
+TNF-alpha
+0
+The interaction between Vav and c-Cbl is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of $T1$$T2$ is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of c-Cbl.
+c-Cbl
+c-Cbl
+0
+Here we show that Vav and $T1$ form inducible molecular complexes in $T2$-activated murine thymocytes and peripheral T cells as well as pervanadate-treated T cells.
+c-Cbl
+TCR
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for $T1$$T2$ to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-beta
+0
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including $T1$, $T2$, K5, and K6.
+K1
+K2
+0
+Furthermore, this mutational analysis implicates KDR, but not FLT-1, in $T1$$T2$, but not FLT-1, in VEGF induction of endothelial cell proliferation.
+VEGF
+KDR
+0
+The 72-kDa spleen tyrosine kinase (Syk) and Src-family kinase p53/$T1$$T2$) and Src-family kinase p53/56Lyn (Lyn) contribute to signaling via the B-cell antigen receptor complex.
+56Lyn
+Syk
+0
+Since $T1$ and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-$T2$ complex.
+hsp90
+hsp70
+0
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with TBP; however, additional interactions between $T1$$T2$ interacts directly with TBP; however, additional interactions between hTAFII20 and hTAFII28 or hTAFII30 were detected.
+hTAFII20
+hTAFII20
+0
+We investigated whether phosphatidylinositol (PI) 3-kinase, which binds to tyrosine-phosphorylated $T1$, interacts with $T2$ following T cell activation.
+ITAM
+CD5
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-$T1$$T2$-hsp70 complex.
+hsp70
+p60
+0
+These data suggest that anchoring proteins interact with $T1$$T2$ alpha via an amphipathic helix binding motif.
+RII alpha
+RII
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for $T1$$T2$ cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-R2
+0
+Interactions of p60, a mediator of progesterone receptor assembly, with heat shock proteins hsp90 and $T1$$T2$ and hsp70.
+hsp70
+hsp90
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, $T1$$T2$ homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Crk
+Src
+0
+In contrast to hTAFII28, hTAFII18 is a TFIID beta-specific $T1$$T2$ is a TFIID beta-specific hTAFII.
+hTAFII
+hTAFII18
+0
+COS-7 cells co-transfected with the cloned IL-13R cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both $T1$$T2$ cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and IL-13.
+IL-4
+IL-4R
+0
+Mutations within the KDR site had minimal effect on $T1$$T2$ site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect KDR binding.
+FLT-1
+KDR
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with $T1$$T2$ from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as $T1$$T2$ homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Grb2
+Src
+0
+An expression plasmid encoding the human 75-kDa $T1$ (TNF-R2) was constructed and used to generate a stable human cell line (293/$T2$) overexpressing TNF-R2.
+tumor necrosis factor (TNF) type 2 receptor
+TNF-R2
+0
+$T1$ binds the complex as an extended structure interacting with both cyclin A and $T2$.
+p27Kip1
+Cdk2
+1
+Since hsp90 and $T1$ do not readily associate on their own, it appears that $T2$ is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp70
+p60
+0
+However, the various $T1$/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of pRB or p107 binding is mediated by the $T2$ subunit.
+E2F
+E2F
+0
+This observation supports a model in which p60 functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking $T1$$T2$ complexes lacking p60.
+p60
+PR
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature $T2$ complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+p60
+PR
+0
+A truncated version of the integral membrane glycoprotein $T1$ ($T2$) was synthesized in a rabbit reticulocyte translation system in the presence of canine pancreatic microsomes.
+Glut 1
+GT155
+0
+PI 3-kinase activity and the regulatory p85 subunit of $T1$ associated with $T2$ in pervanadate-stimulated, but not in unstimulated thymocytes.
+PI 3-kinase
+CD5
+1
+The SH2/SH3-containing protein $T1$ also contains a guanine nucleotide exchange factor domain, and Vav has a crucial role in thymocyte development and activation of peripheral T cells following stimulation through the $T2$.
+Vav
+TCR
+0
+$T1$ produced in E. coli bound and activated the $T2$ protein in extracts from human G1 cells, and antibodies against cyclin E immunoprecipitated a histone H1 kinase from HeLa cells.
+Cyclin E
+CDC2
+1
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, $T1$, and $T2$.
+K5
+K6
+0
+In contrast to hTAFII28, hTAFII18 is a TFIID beta-specific $T1$$T2$-specific hTAFII.
+hTAFII
+TFIID beta
+0
+Cross-linking of 125I-$T1$ and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for $T2$, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-beta
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T2$ alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTFIID
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T1$ complexes containing hsp70 and Hip ($T2$).
+PR
+p48
+0
+Cloning and characterization of a specific $T1$ binding protein structurally related to the $T2$ alpha chain.
+interleukin (IL)-13
+IL-5 receptor
+0
+We have cloned cDNAs encoding three novel TAFIIs [$T1$ (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, $T2$ and hTAFII18.
+TATA-binding protein
+hTAFII20
+0
+Interactions of $T1$, a mediator of progesterone receptor assembly, with heat shock proteins hsp90 and $T2$.
+p60
+hsp70
+1
+Calreticulin, the soluble homologue of $T1$$T2$, the soluble homologue of calnexin, was also shown to interact with GT155 only when the protein bore a correctly modified oligosaccharide group.
+calnexin
+Calreticulin
+0
+$T1$ also interacts with $T2$, but it interacts more strongly with hTAFII28 and hTAFII30.
+hTAFII18
+TBP
+1
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID alpha
+hTFIID
+0
+Two previously unidentified human cdc25 genes have been isolated, $T1$$T2$ genes have been isolated, cdc25A and cdc25B.
+cdc25A
+cdc25
+0
+We conclude that stimulation of thymocytes with pervanadate induces the recruitment of $T1$ and pp120 to $T2$.
+PI 3-kinase
+CD5
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T2$ complexes containing hsp70 and Hip (p48).
+PR
+PR
+0
+In patients with a complete response to IFN-alpha, the levels of $T1$ were higher at 24 weeks following $T2$ treatment than that of pre-treatment (P = 0.04), and the levels of IL-4 decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-gamma
+IFN-alpha
+0
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein ($T1$) and the gamma chain (gammac) of the $T2$ receptor, but neither of these proteins binds IL-13.
+IL-4R
+IL-2
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein ($T1$)-associated factors] from the human (h) HeLa cell TFIID complexes $T2$, hTAFII20 and hTAFII18.
+TBP
+hTAFII28
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes $T1$, hTAFII20 and $T2$.
+hTAFII28
+hTAFII18
+0
+The interactions of $T1$ and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early $T2$ complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+PR
+0
+Alanine-scanning mutagenesis was used to identify a positively charged surface in VEGF that mediates binding to $T1$/$T2$.
+KDR
+Flk-1
+0
+Concentrations of $T1$ ($T2$) and light subunit neurofilament protein (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+glial fibrillary acidic protein
+GFAp
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature $T1$$T2$ in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+hsp90
+0
+Of these 400, interferon regulatory factor 4 (IRF4), $T1$$T2$), cyclin B2, TBP-associated factor, eukaryotic elongation factor and pim 2 were up-regulated more than 3.5 fold.
+cyclin B2
+IRF4
+0
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with TBP; however, additional interactions between $T1$$T2$; however, additional interactions between hTAFII20 and hTAFII28 or hTAFII30 were detected.
+hTAFII20
+TBP
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T1$ (hTFIID alpha and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII30
+hTFIID
+0
+Computer-aided analysis of secondary structure, performed on four $T1$-anchoring protein sequences (the microtubule-associated protein 2, $T2$, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+RII
+P150
+0
+Mutational analysis of p60 indicates that the N terminus is required for hsp70 binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and $T1$$T2$ binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and hsp70.
+hsp70
+hsp70
+0
+In addition, the anti-calnexin antiserum immunoprecipitated a UV-dependent cross-linking product consisting of $T1$ and a protein of approximately 60 kDa designated CAP-60 ($T2$ of 60 kDa).
+GT155
+calnexin-associated protein
+1
+The interactions of $T1$ and hsp90 in intermediate $T2$ complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+PR
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, $T1$ (KDR)/$T2$ (Flk-1) and FLT-1.
+kinase insert domain-containing receptor
+fetal liver kinase 1
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T2$ complexes containing hsp70 and Hip (p48).
+heat shock protein 90
+PR
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early $T1$$T2$ in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+hsp90
+0
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins $T1$ and $T2$), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+Ht 21
+Ht 31
+0
+A domain is conserved between $T1$ and the PRDI-BF1/$T2$ differentiation factor.
+RIZ
+Blimp-1
+0
+$T1$ binds the complex as an extended structure interacting with both $T2$ and Cdk2.
+p27Kip1
+cyclin A
+1
+The interaction between $T1$ and $T2$ is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of c-Cbl.
+Vav
+c-Cbl
+1
+Both the $T1$-calnexin and the GT155-$T2$ interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+GT155
+CAP-60
+0
+Human spleen tyrosine kinase p72Syk associates with the Src-family kinase p53/56Lyn and a $T1$$T2$ and a 120-kDa phosphoprotein.
+120-kDa phosphoprotein
+56Lyn
+0
+PI 3-kinase activity and the regulatory $T1$ subunit of PI 3-kinase associated with $T2$ in pervanadate-stimulated, but not in unstimulated thymocytes.
+p85
+CD5
+0
+$T1$ ($T2$), a desmosomal component lacking a transmembrane domain, has been implicated in this interaction, although most studies have been conducted with cells that contain few or no desmosomes, and efforts to demonstrate direct interactions between desmoplakin and intermediate filaments have not been successful.
+Desmoplakin
+DPI
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor ($T1$)/$T2$ (Flk-1) and FLT-1.
+KDR
+fetal liver kinase 1
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain $T2$ (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTAFII30
+0
+The interactions of hsp70 and hsp90 in intermediate $T1$$T2$ in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+hsp90
+0
+An expression plasmid encoding the human 75-kDa tumor necrosis factor (TNF) type 2 receptor ($T1$) was constructed and used to generate a stable human cell line (293/TNF-R2) overexpressing $T2$.
+TNF-R2
+TNF-R2
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature $T1$$T2$) or in mature PR complexes (hsp90).
+PR
+hsp70
+0
+This $T1$-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and $T2$ from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Syk
+0
+Previous studies on the assembly of progesterone receptor ($T1$) complexes in vitro have suggested that $T2$ assembly is a dynamic, ordered process involving at least eight nonreceptor proteins.
+PR
+PR
+0
+We have cloned cDNAs encoding three novel TAFIIs [$T1$ (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, hTAFII20 and $T2$.
+TATA-binding protein
+hTAFII18
+0
+Deletion analysis indicates that TBP and $T1$ bind to distinct domains of $T2$.
+hTAFII18
+hTAFII28
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T2$ and Hip (p48).
+PR
+hsp70
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip ($T2$).
+p60
+p48
+0
+Of these 400, interferon regulatory factor 4 (IRF4), $T1$, TBP-associated factor, eukaryotic elongation factor and $T2$ were up-regulated more than 3.5 fold.
+cyclin B2
+pim 2
+0
+$T1$ mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/$T2$ (Flk-1) and FLT-1.
+VEGF
+fetal liver kinase 1
+0
+This observation supports a model in which p60 functions at an intermediate stage of PR assembly to facilitate formation of subsequent $T1$$T2$ assembly to facilitate formation of subsequent PR complexes lacking p60.
+PR
+PR
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, $T1$, and $T2$, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Crk
+Crk-L
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ (hsp90), $T2$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+heat shock protein 90
+p23
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$$T2$ and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID alpha
+0
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with TBP; however, additional interactions between hTAFII20 and $T1$ or $T2$ were detected.
+hTAFII28
+hTAFII30
+0
+COS-7 cells transfected with the $T1$ cDNA bind $T2$ with high affinity but do not bind IL-4.
+IL-13R
+IL-13
+1
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an $T1$$T2$ is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp90
+p60
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T1$), p23, and immunophilins and, on the other, enhance recovery of early $T2$ complexes containing hsp70 and Hip (p48).
+hsp90
+PR
+0
+hTAFII20 is the homologue of $T1$, an alternatively spliced form of dTAFII30 alpha ($T2$).
+p22
+p32
+0
+The 72-kDa spleen tyrosine kinase (Syk) and Src-family kinase $T1$/56Lyn ($T2$) contribute to signaling via the B-cell antigen receptor complex.
+p53
+Lyn
+0
+Two proteins have been described as constituents of the $T1$ receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the $T2$ receptor, but neither of these proteins binds IL-13.
+IL-4
+IL-2
+0
+These results reveal differences not only in subunit composition, but also in the organization of $T1$ and $T2$ complexes.
+dTFIID
+hTFIID
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTFIID beta
+0
+Concentrations of glial fibrillary acidic protein (GFAp) and light subunit neurofilament protein ($T1$$T2$) and light subunit neurofilament protein (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+NFL
+GFAp
+0
+$T1$, the soluble homologue of calnexin, was also shown to interact with $T2$ only when the protein bore a correctly modified oligosaccharide group.
+Calreticulin
+GT155
+1
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with $T1$; however, additional interactions between hTAFII20 and $T2$ or hTAFII30 were detected.
+TBP
+hTAFII28
+0
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID alpha
+hTFIID beta
+0
+Repression of $T1$-directed transcription may be accomplished through direct physical interaction between $T2$ and this activator.
+CTF-1
+YY1
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ ($T2$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+heat shock protein 90
+hsp90
+0
+$T1$ showed genetic interactions with the CDC28 gene, suggesting that it functioned at START by interacting with the $T2$ protein.
+Cyclin E
+CDC28
+1
+Mutations within the KDR site had minimal effect on FLT-1 binding, and mutants deficient in $T1$$T2$ binding, and mutants deficient in FLT-1 binding did not affect KDR binding.
+FLT-1
+FLT-1
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip ($T2$).
+PR
+p48
+0
+Vav/c-Cbl interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which $T1$$T2$, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+c-Cbl
+CTLA-4
+0
+Of these 400, interferon regulatory factor 4 (IRF4), $T1$$T2$ (IRF4), cyclin B2, TBP-associated factor, eukaryotic elongation factor and pim 2 were up-regulated more than 3.5 fold.
+cyclin B2
+interferon regulatory factor 4
+0
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain hTAFII30 ($T2$ alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an $T1$-$T2$-hsp70 complex.
+hsp90
+p60
+1
+The 120-kDa serine/threonine phosphorylated protein that coprecipitated with $T1$ resembled the Syk-associated $T2$ by several criteria.
+PLC gamma 1
+pp120
+0
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTFIID
+0
+$T1$ can bind either hsp70 or $T2$ independently and in an ATP-independent manner.
+P60
+hsp90
+1
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as $T1$$T2$ and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Grb2
+TCR
+0
+Cloning and characterization of hTAFII18, hTAFII20 and hTAFII28: three subunits of the human transcription factor $T1$$T2$ and hTAFII28: three subunits of the human transcription factor TFIID.
+TFIID
+hTAFII20
+0
+In addition, previous work indicated that $T1$ and $T2$ might be involved in YY1-mediated repression.
+p300
+CBP
+0
+In contrast, physical interaction is not necessary for $T1$ to repress $T2$- and CREB-mediated transcription.
+YY1
+Sp1
+0
+Several phosphoproteins, including one of 72 kDa and one of 120 kDa, coprecipitated with phospholipase C-gamma 1 ($T1$$T2$ (PLC gamma 1).
+PLC gamma 1
+phospholipase C-gamma 1
+0
+In contrast, physical interaction is not necessary for $T1$ to repress Sp1- and $T2$-mediated transcription.
+YY1
+CREB
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell $T1$$T2$ (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, hTAFII20 and hTAFII18.
+TFIID
+TATA-binding protein
+0
+The $T1$ is localized to specific subcellular environments through the binding of the regulatory subunit ($T2$) dimer to RII-anchoring proteins.
+type II cAMP-dependent protein kinase
+RII
+0
+The molecular adapter $T1$ is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, $T2$, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+c-Cbl
+Crk
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), $T1$, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T2$ and Hip (p48).
+p23
+hsp70
+0
+We conclude that stimulation of thymocytes with pervanadate induces the recruitment of PI 3-kinase and $T1$$T2$ and pp120 to CD5.
+pp120
+PI 3-kinase
+0
+Syk and $T1$ coimmunoprecipitated from mature and activated B-cell lines, and gel-purified Syk and $T2$ reassociated in vitro, demonstrating their direct interaction.
+Lyn
+Lyn
+0
+We show that $T1$ interacts with hTAFII18 both in vitro and intracellularly; in contrast to its Drosophila homologue, $T2$ also interacts directly with TBP.
+hTAFII28
+hTAFII28
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for $T1$, suggesting these complexes contain two or three $T2$ molecules.
+TNF-beta
+TNF-R2
+0
+The 72-kDa spleen tyrosine kinase (Syk) and Src-family kinase $T1$/$T2$ (Lyn) contribute to signaling via the B-cell antigen receptor complex.
+p53
+56Lyn
+0
+Vav/c-Cbl interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which $T1$$T2$ interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+c-Cbl
+c-Cbl
+0
+$T1$/$T2$ interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor CTLA-4, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+Vav
+c-Cbl
+1
+Y429 and Y441 occur in an imperfect $T1$ ($T2$)-like sequence.
+immunoreceptor tyrosine-based activation motif
+ITAM
+0
+The molecular adapter $T1$ is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as $T2$, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+c-Cbl
+Grb2
+1
+Association between cdc25A and $T1$/$T2$ was detected in the HeLa cells.
+cyclin B1
+cdc2
+0
+The motif may represent an activating domain that has to be provided to $T1$ by intermolecular interaction with $T2$.
+cdc25
+cyclin B
+0
+Syk and $T1$ coimmunoprecipitated from mature and activated B-cell lines, and gel-purified $T2$ and Lyn reassociated in vitro, demonstrating their direct interaction.
+Lyn
+Syk
+0
+A bacterially expressed 318-amino acid fragment, Ht 31 (418-736), containing the amphipathic helix region, was able to bind $T1$$T2$.
+RII
+RII alpha
+0
+Vav/$T1$ interactions are also detectable in freshly isolated T cells from gene-targeted mice that lack the T cell-specific inhibitory receptor $T2$, in which c-Cbl is hyperphosphorylated on tyrosine residues.
+c-Cbl
+CTLA-4
+0
+$T1$ mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, $T2$ (KDR)/fetal liver kinase 1 (Flk-1) and FLT-1.
+VEGF
+kinase insert domain-containing receptor
+0
+Association between $T1$ and cyclin B1/$T2$ was detected in the HeLa cells.
+cdc25A
+cdc2
+1
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein ($T1$$T2$ (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, hTAFII20 and hTAFII18.
+TBP
+TATA-binding protein
+0
+The hsp90-p60-$T1$$T2$-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the hsp90-binding drug geldanamycin.
+hsp70
+p60
+0
+The crystal structure of the human p27Kip1 kinase inhibitory domain bound to the phosphorylated cyclin A-$T1$ ($T2$) complex has been determined at 2.3 angstrom.
+cyclin-dependent kinase 2
+Cdk2
+0
+Of these 400, interferon regulatory factor 4 (IRF4), cyclin B2, TBP-associated factor, eukaryotic elongation factor and $T1$$T2$), cyclin B2, TBP-associated factor, eukaryotic elongation factor and pim 2 were up-regulated more than 3.5 fold.
+pim 2
+IRF4
+0
+Deletion analysis indicates that $T1$ and hTAFII18 bind to distinct domains of $T2$.
+TBP
+hTAFII28
+1
+A GT155 mutant that was not glycosylated (AGGT155) did not associate with calnexin or $T1$$T2$ or CAP-60.
+CAP-60
+calnexin
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since $T1$-$T2$ associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Lyn
+1
+This Syk-$T1$ interaction may be dependent on the stage of B-cell differentiation, since Syk-$T2$ associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Lyn
+0
+$T1$ ($T2$) expression in various cell types is induced by hypoxia and other stimuli.
+Vascular endothelial growth factor
+VEGF
+0
+COS-7 cells co-transfected with the cloned IL-13R cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both $T1$$T2$ cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and IL-13.
+IL-4
+IL-13R
+0
+The data thus demonstrate specific binding of platelet FXIII to HSP27 and suggest that $T1$ may participate in the cellular localization and/or enzymatic regulation of platelet $T2$.
+HSP27
+FXIII
+1
+P60 can bind either hsp70 or $T1$$T2$ or hsp90 independently and in an ATP-independent manner.
+hsp90
+hsp70
+0
+Here we show that $T1$ and c-Cbl form inducible molecular complexes in $T2$-activated murine thymocytes and peripheral T cells as well as pervanadate-treated T cells.
+Vav
+TCR
+0
+Cross-linking of 125I-$T1$ and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three $T2$ molecules.
+TNF-alpha
+TNF-R2
+0
+$T1$ can bind either $T2$ or hsp90 independently and in an ATP-independent manner.
+P60
+hsp70
+1
+An expression plasmid encoding the human 75-kDa tumor necrosis factor (TNF) type 2 receptor (TNF-R2) was constructed and used to generate a stable human cell line (293/$T1$$T2$) was constructed and used to generate a stable human cell line (293/TNF-R2) overexpressing TNF-R2.
+TNF-R2
+TNF-R2
+0
+Both the GT155-$T1$ and the $T2$-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+calnexin
+GT155
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-$T1$$T2$ do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp70
+hsp70
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/fetal liver kinase 1 ($T1$) and $T2$.
+Flk-1
+FLT-1
+0
+As observed with the homologous Drosophila proteins, $T1$ interacts directly with TBP; however, additional interactions between hTAFII20 and $T2$ or hTAFII30 were detected.
+hTAFII20
+hTAFII28
+0
+Cloning and characterization of hTAFII18, $T1$ and $T2$: three subunits of the human transcription factor TFIID.
+hTAFII20
+hTAFII28
+1
+Cloning and characterization of a specific $T1$ binding protein structurally related to the $T2$ receptor alpha chain.
+interleukin (IL)-13
+IL-5
+0
+Both the GT155-$T1$ and the GT155-$T2$ interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+calnexin
+CAP-60
+0
+Thymocyte activation induces the association of $T1$ and pp120 with $T2$.
+phosphatidylinositol 3-kinase
+CD5
+1
+$T1$ is a core hTAFII present in both of the previously described $T2$ species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTFIID
+0
+hTAFII18 also interacts with TBP, but it interacts more strongly with $T1$$T2$, but it interacts more strongly with hTAFII28 and hTAFII30.
+hTAFII28
+TBP
+0
+Human spleen tyrosine kinase $T1$ associates with the Src-family kinase $T2$/56Lyn and a 120-kDa phosphoprotein.
+p72Syk
+p53
+1
+Alanine-scanning mutagenesis was used to identify a positively charged surface in $T1$ that mediates binding to KDR/$T2$.
+VEGF
+Flk-1
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes $T1$, $T2$ and hTAFII18.
+hTAFII28
+hTAFII20
+0
+The correlation of $T1$-$T2$ binding with transcriptional activation suggests that RAP74 is a critical target for SRF-activated transcription.
+SRF
+RAP74
+1
+In contrast to hTAFII28, hTAFII18 is a $T1$$T2$ beta-specific hTAFII.
+TFIID beta
+TFIID
+0
+The interaction between Vav and c-Cbl is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of $T1$$T2$ and c-Cbl is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of c-Cbl.
+c-Cbl
+Vav
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T1$ ($T2$ and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII30
+hTFIID alpha
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T2$ and Hip (p48).
+heat shock protein 90
+hsp70
+0
+This Syk-$T1$ interaction may be dependent on the stage of B-cell differentiation, since $T2$-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+These data imply that c-Cbl is a molecular adapter that regulates the function of $T1$$T2$ is a molecular adapter that regulates the function of Vav in thymocytes and peripheral T cells.
+Vav
+c-Cbl
+0
+hTAFII18 is a novel $T1$$T2$ is a novel hTAFII which shows homology to the N-terminal region of the yeast TAFIISPT3, but has no known Drosophila counterpart.
+hTAFII
+hTAFII18
+0
+Arg82, Lys84 and His86, located in a hairpin loop, were found to be critical for binding KDR/$T1$, while negatively charged residues, Asp63, Glu64, and Glu67, were associated with $T2$ binding.
+Flk-1
+FLT-1
+0
+This suggests that $T1$ may link $T2$ activation to molecules that regulate GTP binding proteins.
+c-Cbl
+TCR
+0
+This Syk-$T1$ interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and $T2$ from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with $T1$ homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and $T2$, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Src
+Crk-L
+0
+In contrast, physical interaction is not necessary for YY1 to repress $T1$- and $T2$-mediated transcription.
+Sp1
+CREB
+0
+Concentrations of glial fibrillary acidic protein (GFAp) and $T1$$T2$) and light subunit neurofilament protein (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+light subunit neurofilament protein
+GFAp
+0
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the $T1$$T2$) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds IL-13.
+IL-2 receptor
+IL-4R
+0
+These findings indicate that B-type cyclins are multifunctional proteins that not only act as M phase regulatory subunits of the cdc2 protein kinase, but also activate the $T1$ tyrosine phosphatase, of which $T2$ is the physiological substrate.
+cdc25
+cdc2
+0
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T2$ (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTAFII30
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with $T1$$T2$-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTFIID
+TAFII30 beta
+0
+A 120-kDa phosphoprotein ($T1$) associated with $T2$ and specifically with the Y429-Y441 phosphopeptide in stimulated thymocytes.
+pp120
+CD5
+1
+Mutations within the KDR site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect $T1$$T2$ site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect KDR binding.
+KDR
+KDR
+0
+Two previously unidentified human $T1$ genes have been isolated, cdc25A and $T2$.
+cdc25
+cdc25B
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T1$$T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID beta
+0
+While the function of $T1$ is not yet clear, its structure and pattern of expression suggest a role for $T2$ in transcriptional regulation during neuronal differentiation and pathogenesis of retinoblastoma.
+RIZ
+RIZ
+0
+In contrast to hTAFII28, hTAFII18 is a TFIID beta-specific $T1$$T2$ beta-specific hTAFII.
+hTAFII
+TFIID
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T1$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T2$ and Hip (p48).
+hsp90
+hsp70
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as $T1$, Crk, and $T2$, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Grb2
+Crk-L
+0
+A $T1$ ($T2$) associated with CD5 and specifically with the Y429-Y441 phosphopeptide in stimulated thymocytes.
+120-kDa phosphoprotein
+pp120
+0
+Thymocyte activation induces the association of $T1$ and $T2$ with CD5.
+phosphatidylinositol 3-kinase
+pp120
+0
+The crystal structure of the human $T1$ inhibitory domain bound to the phosphorylated cyclin A-cyclin-dependent kinase 2 ($T2$) complex has been determined at 2.3 angstrom.
+p27Kip1 kinase
+Cdk2
+1
+Levels of $T1$ were slightly increased following $T2$ treatment (P = 0.09).
+IFN-gamma
+IFN-alpha
+0
+A $T1$ (pp120) associated with $T2$ and specifically with the Y429-Y441 phosphopeptide in stimulated thymocytes.
+120-kDa phosphoprotein
+CD5
+1
+Since $T1$ is typically found in a complex with $T2$ and hsp70, we have further characterized its interactions with these proteins.
+p60
+hsp90
+1
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell $T1$ complexes $T2$, hTAFII20 and hTAFII18.
+TFIID
+hTAFII28
+0
+The crystal structure of the human p27Kip1 kinase inhibitory domain bound to the phosphorylated $T1$-cyclin-dependent kinase 2 ($T2$) complex has been determined at 2.3 angstrom.
+cyclin A
+Cdk2
+1
+Previous studies on the assembly of progesterone receptor (PR) complexes in vitro have suggested that $T1$$T2$ (PR) complexes in vitro have suggested that PR assembly is a dynamic, ordered process involving at least eight nonreceptor proteins.
+PR
+progesterone receptor
+0
+Two proteins have been described as constituents of the $T1$ receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the $T2$, but neither of these proteins binds IL-13.
+IL-4
+IL-2 receptor
+0
+Deletion analysis indicates that TBP and $T1$$T2$ and hTAFII18 bind to distinct domains of hTAFII28.
+hTAFII18
+TBP
+0
+The purpose of the present comparative immunohistochemical study was to compare rates of cell adhesion molecule (E-cadherin) and protease [stromelysin-3 ($T1$$T2$) and protease [stromelysin-3 (ST-3)] expression in groups of de novo (n=64) and ex adenoma (n=42) lesions in order to see whether their more aggressive behavior is associated with decreased cell adhesion and increased protease expression.
+ST-3
+E-cadherin
+0
+As observed with the homologous Drosophila proteins, $T1$ interacts directly with TBP; however, additional interactions between hTAFII20 and hTAFII28 or $T2$ were detected.
+hTAFII20
+hTAFII30
+0
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain hTAFII30 ($T2$ and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID alpha
+0
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain $T2$ (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTAFII30
+0
+The correlation of SRF-RAP74 binding with transcriptional activation suggests that $T1$ is a critical target for $T2$-activated transcription.
+RAP74
+SRF
+1
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with $T1$$T2$ associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Lyn
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T2$ and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTFIID alpha
+0
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain hTAFII30 (hTFIID alpha and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID beta
+0
+These findings indicate that B-type cyclins are multifunctional proteins that not only act as M phase regulatory subunits of the $T1$ protein kinase, but also activate the $T2$ tyrosine phosphatase, of which cdc2 is the physiological substrate.
+cdc2
+cdc25
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with $T1$$T2$ is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Src
+c-Cbl
+0
+A bacterially expressed 318-amino acid fragment, $T1$ (418-736), containing the amphipathic helix region, was able to bind $T2$.
+Ht 31
+RII alpha
+1
+$T1$ and Lyn coimmunoprecipitated from mature and activated B-cell lines, and gel-purified $T2$ and Lyn reassociated in vitro, demonstrating their direct interaction.
+Syk
+Syk
+0
+$T1$ mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor ($T2$)/fetal liver kinase 1 (Flk-1) and FLT-1.
+VEGF
+KDR
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor ($T1$)/fetal liver kinase 1 ($T2$) and FLT-1.
+KDR
+Flk-1
+0
+Thus, our data show that both calnexin and $T1$ interact with $T2$ in a glycosylation-dependent manner.
+calreticulin
+Glut 1
+1
+Interaction of the regulatory subunit (RII) of cAMP-dependent protein kinase with $T1$$T2$ with RII-anchoring proteins occurs through an amphipathic helix binding motif.
+RII
+cAMP-dependent protein kinase
+0
+Mutational analysis of $T1$ indicates that the N terminus is required for hsp70 binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and $T2$.
+p60
+hsp70
+1
+We show that the physical interaction between YY1 and p300, a coactivator for CREB, is not sufficient for repression of $T1$$T2$ and p300, a coactivator for CREB, is not sufficient for repression of CREB-mediated transcription.
+CREB
+YY1
+0
+Alanine-scanning mutagenesis was used to identify a positively charged surface in $T1$ that mediates binding to $T2$/Flk-1.
+VEGF
+KDR
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T1$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T2$ (p48).
+hsp90
+Hip
+0
+In contrast to hTAFII28, hTAFII18 is a $T1$$T2$, hTAFII18 is a TFIID beta-specific hTAFII.
+TFIID
+hTAFII28
+0
+Interactions of p60, a mediator of progesterone receptor assembly, with heat shock proteins hsp90 and $T1$$T2$ assembly, with heat shock proteins hsp90 and hsp70.
+hsp70
+progesterone receptor
+0
+The $T1$-$T2$-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the hsp90-binding drug geldanamycin.
+hsp90
+p60
+1
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein ($T1$)-associated factors] from the human (h) HeLa cell $T2$ complexes hTAFII28, hTAFII20 and hTAFII18.
+TBP
+TFIID
+0
+Antibody-mediated cross-linking studies or studies on CD5 knockout mice implicate $T1$$T2$ knockout mice implicate CD5 as a co-stimulatory or negative regulatory molecule.
+CD5
+CD5
+0
+The 120-kDa serine/threonine phosphorylated protein that coprecipitated with PLC gamma 1 resembled the $T1$$T2$ resembled the Syk-associated pp120 by several criteria.
+Syk
+PLC gamma 1
+0
+Correlations between GFAp and $T1$$T2$ and NFL in CSF as markers for astrogliosis and neurodegeneration, and clinical and biological data were investigated.
+NFL
+GFAp
+0
+In contrast to hTAFII28, hTAFII18 is a $T1$$T2$ is a TFIID beta-specific hTAFII.
+TFIID beta
+hTAFII18
+0
+The crystal structure of the human p27Kip1 kinase inhibitory domain bound to the phosphorylated cyclin A-$T1$$T2$ inhibitory domain bound to the phosphorylated cyclin A-cyclin-dependent kinase 2 (Cdk2) complex has been determined at 2.3 angstrom.
+cyclin-dependent kinase 2
+p27Kip1 kinase
+0
+The interactions of $T1$ and $T2$ in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+hsp90
+1
+Cross-linking of 125I-$T1$ and 125I-TNF-beta to 293/$T2$ cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-R2
+0
+$T1$ and $T2$ coimmunoprecipitated from mature and activated B-cell lines, and gel-purified Syk and Lyn reassociated in vitro, demonstrating their direct interaction.
+Syk
+Lyn
+1
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein ($T1$)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, hTAFII20 and $T2$.
+TBP
+hTAFII18
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T1$ ($T2$).
+Hip
+p48
+0
+Mutations within the KDR site had minimal effect on FLT-1 binding, and mutants deficient in $T1$$T2$ site had minimal effect on FLT-1 binding, and mutants deficient in FLT-1 binding did not affect KDR binding.
+FLT-1
+KDR
+0
+The hsp90-p60-hsp70 multichaperone complex is highly dynamic and does not appear to be affected by the $T1$$T2$ multichaperone complex is highly dynamic and does not appear to be affected by the hsp90-binding drug geldanamycin.
+hsp90
+hsp70
+0
+We investigated the mechanism of calcium-stimulated gastrin release from gastrinoma cells in vitro with a particular focus on the $T1$$T2$ release from gastrinoma cells in vitro with a particular focus on the calcium-sensing receptor (CaR).
+calcium-sensing receptor
+gastrin
+0
+The 120-kDa serine/threonine phosphorylated protein that coprecipitated with PLC gamma 1 resembled the $T1$-associated $T2$ by several criteria.
+Syk
+pp120
+1
+Interactions of p60, a mediator of progesterone receptor assembly, with heat shock proteins $T1$$T2$ assembly, with heat shock proteins hsp90 and hsp70.
+hsp90
+progesterone receptor
+0
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins Ht 21 and $T1$$T2$, P150, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+Ht 31
+microtubule-associated protein 2
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), $T1$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip ($T2$).
+p23
+p48
+0
+Using a yeast interaction assay, we find that $T1$ binds the $T2$ subunit of TFIIF and that SRF's transcriptional activation domain is the region involved in this binding.
+SRF
+RAP74
+1
+Calreticulin, the soluble homologue of calnexin, was also shown to interact with $T1$$T2$, was also shown to interact with GT155 only when the protein bore a correctly modified oligosaccharide group.
+GT155
+calnexin
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for $T1$ and 205,000 and 244,000 for $T2$, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-beta
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain $T1$ (hTFIID alpha and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII30
+hTFIID beta
+0
+Specific binding of the transglutaminase, $T1$, to $T2$.
+platelet factor XIII
+HSP27
+1
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for $T1$$T2$ cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-beta
+TNF-R2
+0
+Mutational analysis of $T1$ indicates that the N terminus is required for $T2$ binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and hsp70.
+p60
+hsp70
+1
+Computer-aided analysis of secondary structure, performed on four $T1$-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins Ht 21 and $T2$), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+RII
+Ht 31
+0
+A GT155 mutant that was not glycosylated (AGGT155) did not associate with calnexin or $T1$$T2$ mutant that was not glycosylated (AGGT155) did not associate with calnexin or CAP-60.
+CAP-60
+GT155
+0
+Cross-linking of 125I-TNF-alpha and 125I-$T1$ to 293/$T2$ cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-beta
+TNF-R2
+0
+Kaposi's sarcoma-associated herpesvirus encodes a functional homolog of human interleukin-6 ($T1$) that activates human $T2$.
+IL-6
+gp130
+1
+In patients with a complete response to $T1$, the levels of $T2$ were higher at 24 weeks following IFN-alpha treatment than that of pre-treatment (P = 0.04), and the levels of IL-4 decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-alpha
+IFN-gamma
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since $T1$-Lyn associations were not detected in pre-B and myeloma cell lines and $T2$ from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Syk
+0
+$T1$ activity and the regulatory $T2$ subunit of PI 3-kinase associated with CD5 in pervanadate-stimulated, but not in unstimulated thymocytes.
+PI 3-kinase
+p85
+0
+Crystal structure of the p27Kip1 cyclin-dependent-kinase inhibitor bound to the $T1$-$T2$ complex.
+cyclin A
+Cdk2
+1
+Our results demonstrated that CaR was expressed in human gastrinoma cells and could be involved in the mechanism of calcium-evoked $T1$$T2$ was expressed in human gastrinoma cells and could be involved in the mechanism of calcium-evoked gastrin release.
+gastrin
+CaR
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell $T1$ complexes hTAFII28, $T2$ and hTAFII18.
+TFIID
+hTAFII20
+0
+This $T1$-$T2$ interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Lyn
+1
+Both the $T1$-calnexin and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on $T2$, a characteristic of many calnexin interactions.
+GT155
+GT155
+0
+COS-7 cells transfected with the $T1$ cDNA bind IL-13 with high affinity but do not bind $T2$.
+IL-13R
+IL-4
+0
+Two proteins have been described as constituents of the $T1$ receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds $T2$.
+IL-4
+IL-13
+0
+$T1$ ($T2$) is a cytokine secreted by activated T lymphocytes that shares many, but not all, biological activities with IL-4.
+Interleukin-13
+IL-13
+0
+We show that the physical interaction between YY1 and p300, a coactivator for CREB, is not sufficient for repression of $T1$$T2$, a coactivator for CREB, is not sufficient for repression of CREB-mediated transcription.
+CREB
+p300
+0
+Interaction with $T1$ subunit of TFIIF is required for transcriptional activation by $T2$.
+RAP74
+serum response factor
+1
+Crosslinking of cell surface IgM led to rapid activation of both tyrosine and serine/threonine protein kinase activities that resulted in phosphorylation in vitro of proteins coprecipitating with Syk--in particular, a serine/threonine phosphorylated protein 120 kDa in size ($T1$$T2$--in particular, a serine/threonine phosphorylated protein 120 kDa in size (pp120).
+pp120
+Syk
+0
+Furthermore, this mutational analysis implicates KDR, but not FLT-1, in $T1$$T2$, in VEGF induction of endothelial cell proliferation.
+VEGF
+FLT-1
+0
+In contrast to hTAFII28, hTAFII18 is a $T1$$T2$, hTAFII18 is a TFIID beta-specific hTAFII.
+TFIID beta
+hTAFII28
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of $T1$ or $T2$ binding is mediated by the E2F subunit.
+pRB
+p107
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T2$ and Hip (p48).
+p60
+hsp70
+0
+hTAFII18 is a novel hTAFII which shows homology to the N-terminal region of the yeast $T1$$T2$ is a novel hTAFII which shows homology to the N-terminal region of the yeast TAFIISPT3, but has no known Drosophila counterpart.
+TAFIISPT3
+hTAFII18
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, $T1$$T2$ and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Crk
+TCR
+0
+We investigated whether $T1$, which binds to tyrosine-phosphorylated ITAM, interacts with $T2$ following T cell activation.
+phosphatidylinositol (PI) 3-kinase
+CD5
+0
+We investigated whether $T1$, which binds to tyrosine-phosphorylated $T2$, interacts with CD5 following T cell activation.
+phosphatidylinositol (PI) 3-kinase
+ITAM
+1
+In addition, previous work indicated that $T1$ and CBP might be involved in $T2$-mediated repression.
+p300
+YY1
+0
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for $T1$ and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three $T2$ molecules.
+TNF-alpha
+TNF-R2
+0
+The interaction between Vav and c-Cbl is directly mediated via the SH2 domain of $T1$$T2$ and c-Cbl is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of c-Cbl.
+Vav
+Vav
+0
+Endothelial cell mitogenesis was abolished in mutants lacking KDR affinity; however, $T1$$T2$ affinity; however, FLT-1 deficient mutants induced normal proliferation.
+FLT-1
+KDR
+0
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, K5, and $T1$$T2$, K5, and K6.
+K6
+K2
+0
+A domain is conserved between $T1$ and the $T2$/Blimp-1 differentiation factor.
+RIZ
+PRDI-BF1
+0
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTAFII28
+TAFII30 beta
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or $T1$ in vivo, and the specificity of $T2$ or p107 binding is mediated by the E2F subunit.
+p107
+pRB
+0
+We show that $T1$ interacts with hTAFII18 both in vitro and intracellularly; in contrast to its Drosophila homologue, hTAFII28 also interacts directly with $T2$.
+hTAFII28
+TBP
+0
+Thus, $T1$ may serve as a link between Syk and $T2$, coupling the B-cell antigen receptor to the phosphatidylinositol pathway.
+pp120
+PLC gamma 1
+1
+The $T1$ glucose transporter interacts with calnexin and $T2$.
+glut 1
+calreticulin
+1
+Computer-aided analysis of secondary structure, performed on four $T1$-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins $T2$ and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+RII
+Ht 21
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T2$ (p48).
+p60
+Hip
+0
+hTAFII18 is a novel hTAFII which shows homology to the N-terminal region of the yeast $T1$$T2$ which shows homology to the N-terminal region of the yeast TAFIISPT3, but has no known Drosophila counterpart.
+TAFIISPT3
+hTAFII
+0
+COS-7 cells co-transfected with the cloned $T1$ cDNA and $T2$ cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and IL-13.
+IL-13R
+IL-4R
+0
+Human $T1$, a new cyclin that interacts with two members of the $T2$ gene family.
+cyclin E
+CDC2
+0
+Cross-linking of 125I-$T1$ and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for $T2$ and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-alpha
+TNF-alpha
+0
+Here we report the three-dimensional structure of $T1$ bound to the extracellular domain of $T2$ (s-IL1R) at 2.5 A resolution.
+IL-1beta
+IL1R
+1
+Abnormal levels of $T1$ and $T2$ were significantly associated with increasing CSF cell number and protein concentration, and with the absence of lymph nodes or the absence of trypanosomes in lymph node aspirate.
+GFAp
+NFL
+0
+Interactions of $T1$, a mediator of $T2$ assembly, with heat shock proteins hsp90 and hsp70.
+p60
+progesterone receptor
+0
+Both the GT155-calnexin and the $T1$-$T2$ interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+GT155
+CAP-60
+1
+We investigated the mechanism of calcium-stimulated gastrin release from gastrinoma cells in vitro with a particular focus on the calcium-sensing receptor ($T1$$T2$ release from gastrinoma cells in vitro with a particular focus on the calcium-sensing receptor (CaR).
+CaR
+gastrin
+0
+hTAFII28 is a core $T1$ present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTAFII
+TAFII30 beta
+0
+Human spleen tyrosine kinase p72Syk associates with the Src-family kinase p53/$T1$$T2$/56Lyn and a 120-kDa phosphoprotein.
+56Lyn
+p53
+0
+In contrast to hTAFII28, hTAFII18 is a TFIID beta-specific $T1$$T2$, hTAFII18 is a TFIID beta-specific hTAFII.
+hTAFII
+hTAFII28
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the $T1$ and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and $T2$, which interact with guanine nucleotide exchange factors specific for the Ras family.
+TCR
+Crk-L
+0
+The 72-kDa spleen tyrosine kinase (Syk) and Src-family kinase $T1$$T2$) and Src-family kinase p53/56Lyn (Lyn) contribute to signaling via the B-cell antigen receptor complex.
+p53
+Syk
+0
+Both the GT155-$T1$ and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many $T2$ interactions.
+calnexin
+calnexin
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, $T1$ (KDR)/fetal liver kinase 1 (Flk-1) and $T2$.
+kinase insert domain-containing receptor
+FLT-1
+0
+COS-7 cells transfected with the IL-13R cDNA bind $T1$ with high affinity but do not bind $T2$.
+IL-13
+IL-4
+0
+Human spleen tyrosine kinase p72Syk associates with the Src-family kinase p53/56Lyn and a $T1$$T2$/56Lyn and a 120-kDa phosphoprotein.
+120-kDa phosphoprotein
+p53
+0
+Concentrations of $T1$ (GFAp) and $T2$ (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+glial fibrillary acidic protein
+light subunit neurofilament protein
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ alpha and $T2$ respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTFIID
+hTFIID beta
+0
+An expression plasmid encoding the human 75-kDa $T1$ (TNF-R2) was constructed and used to generate a stable human cell line (293/TNF-R2) overexpressing $T2$.
+tumor necrosis factor (TNF) type 2 receptor
+TNF-R2
+0
+Both the GT155-calnexin and the GT155-$T1$ interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many $T2$ interactions.
+CAP-60
+calnexin
+0
+Both the GT155-calnexin and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on $T1$, a characteristic of many $T2$ interactions.
+GT155
+calnexin
+0
+$T1$ is the homologue of p22, an alternatively spliced form of d$T2$ (p32).
+hTAFII20
+TAFII30 alpha
+0
+Here we show that $T1$ and $T2$ form inducible molecular complexes in TCR-activated murine thymocytes and peripheral T cells as well as pervanadate-treated T cells.
+Vav
+c-Cbl
+1
+In addition, the anti-calnexin antiserum immunoprecipitated a UV-dependent cross-linking product consisting of GT155 and a protein of approximately 60 kDa designated $T1$ ($T2$ of 60 kDa).
+CAP-60
+calnexin-associated protein
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T1$ complexes containing hsp70 and $T2$ (p48).
+PR
+Hip
+0
+Mutational analysis of p60 indicates that the N terminus is required for hsp70 binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding $T1$$T2$ binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and hsp70.
+hsp90
+hsp70
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either $T1$ or p107 in vivo, and the specificity of pRB or p107 binding is mediated by the $T2$ subunit.
+pRB
+E2F
+0
+The 72-kDa spleen tyrosine kinase (Syk) and Src-family kinase p53/$T1$ ($T2$) contribute to signaling via the B-cell antigen receptor complex.
+56Lyn
+Lyn
+0
+We show that hTAFII28 interacts with $T1$ both in vitro and intracellularly; in contrast to its Drosophila homologue, $T2$ also interacts directly with TBP.
+hTAFII18
+hTAFII28
+0
+A $T1$ model based on $T2$ indicated these positively and negatively charged regions are distal in the monomer but are spatially close in the dimer.
+VEGF
+PDGFb
+0
+Both the $T1$-calnexin and the $T2$-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+GT155
+GT155
+0
+Mutation of Ala-522 to proline, which is located outside the predicted amphipathic helix region, had no effect on $T1$$T2$ binding.
+RII
+RII alpha
+0
+Two proteins have been described as constituents of the $T1$ receptor, a approximately 140-kDa glycoprotein ($T2$) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds IL-13.
+IL-4
+IL-4R
+0
+Since $T1$ and hsp70 do not readily associate on their own, it appears that $T2$ is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp90
+p60
+0
+Thus, our data show that both $T1$ and calreticulin interact with $T2$ in a glycosylation-dependent manner.
+calnexin
+Glut 1
+1
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/$T1$ (Flk-1) and $T2$.
+fetal liver kinase 1
+FLT-1
+0
+The 72-kDa spleen tyrosine kinase ($T1$) and Src-family kinase p53/56Lyn ($T2$) contribute to signaling via the B-cell antigen receptor complex.
+Syk
+Lyn
+0
+An expression plasmid encoding the human 75-kDa $T1$ ($T2$) was constructed and used to generate a stable human cell line (293/TNF-R2) overexpressing TNF-R2.
+tumor necrosis factor (TNF) type 2 receptor
+TNF-R2
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T1$ and Hip ($T2$).
+hsp70
+p48
+0
+Interaction of the regulatory subunit ($T1$) of cAMP-dependent protein kinase with $T2$-anchoring proteins occurs through an amphipathic helix binding motif.
+RII
+RII
+0
+The purpose of the present comparative immunohistochemical study was to compare rates of cell adhesion molecule (E-cadherin) and protease [$T1$ ($T2$)] expression in groups of de novo (n=64) and ex adenoma (n=42) lesions in order to see whether their more aggressive behavior is associated with decreased cell adhesion and increased protease expression.
+stromelysin-3
+ST-3
+0
+Thymocyte activation induces the association of phosphatidylinositol 3-kinase and $T1$ with $T2$.
+pp120
+CD5
+1
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds $T1$$T2$) and the gamma chain (gammac) of the IL-2 receptor, but neither of these proteins binds IL-13.
+IL-13
+IL-4R
+0
+The binding of IL-1alpha or $T1$ to $T2$ is an early step in IL-1 signal transduction and blocking this interaction may therefore be a useful target for the development of new drugs.
+IL-1beta
+IL1R
+1
+hTAFII28 is a core hTAFII present in both of the previously described $T1$ species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTFIID
+TAFII30 beta
+0
+The interaction between Vav and c-Cbl is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of $T1$$T2$ and is dependent on tyrosine phosphorylation of c-Cbl.
+c-Cbl
+Vav
+0
+In patients with a complete response to $T1$, the levels of IFN-gamma were higher at 24 weeks following $T2$ treatment than that of pre-treatment (P = 0.04), and the levels of IL-4 decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-alpha
+IFN-alpha
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 ($T2$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+PR
+hsp90
+0
+Crystal structure of the $T1$ complexed with $T2$.
+type-I interleukin-1 receptor
+interleukin-1beta
+1
+Using an in vitro transcription/translation assay method coupled with proteolysis studies, we have identified an 11-kDa $T1$-rapamycin-binding domain within $T2$.
+FKBP12
+FRAP
+1
+Computer-aided analysis of secondary structure, performed on four RII-anchoring protein sequences (the microtubule-associated protein 2, P150, and two thyroid proteins $T1$$T2$, and two thyroid proteins Ht 21 and Ht 31), has identified common regions of approximately 14 residues which display high probabilities of forming amphipathic helices.
+Ht 21
+P150
+0
+The type II cAMP-dependent protein kinase is localized to specific subcellular environments through the binding of the regulatory subunit (RII) dimer to $T1$$T2$ is localized to specific subcellular environments through the binding of the regulatory subunit (RII) dimer to RII-anchoring proteins.
+RII
+type II cAMP-dependent protein kinase
+0
+$T1$ also interacts with TBP, but it interacts more strongly with $T2$ and hTAFII30.
+hTAFII18
+hTAFII28
+1
+Arg82, Lys84 and His86, located in a hairpin loop, were found to be critical for binding $T1$/Flk-1, while negatively charged residues, Asp63, Glu64, and Glu67, were associated with $T2$ binding.
+KDR
+FLT-1
+0
+$T1$ showed genetic interactions with the $T2$ gene, suggesting that it functioned at START by interacting with the CDC28 protein.
+Cyclin E
+CDC28
+1
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor (KDR)/$T1$ ($T2$) and FLT-1.
+fetal liver kinase 1
+Flk-1
+0
+hTAFII28 is a core $T1$ present in both of the previously described $T2$ species which either lack or contain hTAFII30 (hTFIID alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII
+hTFIID
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes ($T1$$T2$ complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+PR
+0
+From these results, it appears that $T1$ is a key mediator in the chaperoned assembly and functional maturation of $T2$ complexes.
+p60
+PR
+0
+Thus, $T1$ may serve as a link between $T2$ and PLC gamma 1, coupling the B-cell antigen receptor to the phosphatidylinositol pathway.
+pp120
+Syk
+1
+The SH2/SH3-containing protein $T1$ also contains a guanine nucleotide exchange factor domain, and $T2$ has a crucial role in thymocyte development and activation of peripheral T cells following stimulation through the TCR.
+Vav
+Vav
+0
+Of these 400, interferon regulatory factor 4 (IRF4), cyclin B2, TBP-associated factor, eukaryotic elongation factor and $T1$$T2$ (IRF4), cyclin B2, TBP-associated factor, eukaryotic elongation factor and pim 2 were up-regulated more than 3.5 fold.
+pim 2
+interferon regulatory factor 4
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T1$ beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTFIID
+TAFII30 beta
+0
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T2$ and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTFIID alpha
+0
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, $T1$$T2$, K2, K5, and K6.
+K5
+K1
+0
+In patients with a complete response to $T1$, the levels of IFN-gamma were higher at 24 weeks following IFN-alpha treatment than that of pre-treatment (P = 0.04), and the levels of $T2$ decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-alpha
+IL-4
+0
+The data thus demonstrate specific binding of platelet $T1$ to $T2$ and suggest that HSP27 may participate in the cellular localization and/or enzymatic regulation of platelet FXIII.
+FXIII
+HSP27
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), $T1$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T2$ (p48).
+p23
+Hip
+0
+Previously, a mammalian protein that directly associates with $T1$-rapamycin has been identified and its encoding gene has been cloned from both human (designated $T2$) [Brown, E.J., Albers, M.W., Shin, T.B., Ichikawa, K., Keith, C.T., Lane, W.S.
+FKBP12
+FRAP
+1
+In patients with a complete response to IFN-alpha, the levels of IFN-gamma were higher at 24 weeks following $T1$ treatment than that of pre-treatment (P = 0.04), and the levels of $T2$ decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-alpha
+IL-4
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing $T1$ and $T2$ (p48).
+hsp70
+Hip
+0
+We performed cell-free in vitro infection of primary bone marrow derived $T1$+ cells using semi-purified HHV8 and a mature $T2$ dependent T cell line, KIT 225, using highly concentrated viral stocks prepared from an infectious molecular clone of HTLV-1.
+CD34
+IL-2
+0
+Both the $T1$-calnexin and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many $T2$ interactions.
+GT155
+calnexin
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein (TBP)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, $T1$ and $T2$.
+hTAFII20
+hTAFII18
+0
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T2$), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+p60
+hsp90
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the $T1$$T2$ is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+TCR
+c-Cbl
+0
+Shedding of the extracellular domain of TNF-R2 was induced by 4 beta-phorbol 12-myristate 13-acetate but not by $T1$ or $T2$.
+TNF-alpha
+TNF-beta
+0
+$T1$ is the homologue of p22, an alternatively spliced form of dTAFII30 alpha ($T2$).
+hTAFII20
+p32
+0
+Sequential immunoprecipitation identified the 72-kDa protein associated with $T1$ as $T2$.
+PLC gamma 1
+Syk
+1
+We have cloned a cDNA encoding an $T1$ binding protein ($T2$) from the Caki-1 human renal carcinoma cell line.
+IL-13
+IL-13R
+1
+Human spleen tyrosine kinase $T1$ associates with the Src-family kinase p53/56Lyn and a $T2$.
+p72Syk
+120-kDa phosphoprotein
+1
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, $T1$ ($T2$)/fetal liver kinase 1 (Flk-1) and FLT-1.
+kinase insert domain-containing receptor
+KDR
+0
+Mutational analysis of p60 indicates that the N terminus is required for hsp70 binding, and a central region containing tetratricopeptide repeat motifs is necessary for binding hsp90 and $T1$$T2$ and hsp70.
+hsp70
+hsp90
+0
+The $T1$-p60-$T2$ multichaperone complex is highly dynamic and does not appear to be affected by the hsp90-binding drug geldanamycin.
+hsp90
+hsp70
+0
+COS-7 cells co-transfected with the cloned IL-13R cDNA and IL-4R cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and $T1$$T2$ cDNA resulted in the reconstitution of a small number of receptors that recognized both IL-4 and IL-13.
+IL-13
+IL-4R
+0
+Since p60 is typically found in a complex with hsp90 and $T1$$T2$ and hsp70, we have further characterized its interactions with these proteins.
+hsp70
+hsp90
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 ($T1$), $T2$, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+hsp90
+p23
+0
+Ligand binding analysis revealed high affinity binding (Kd = 0.2 nM) with approximately 94,000 +/- 7,500 sites/cell for 125I-TNF-alpha and approximately 5-fold lower affinity for $T1$$T2$ and approximately 5-fold lower affinity for TNF-beta (Kd = 1.1 nM) with 264,000 +/- 2,000 sites/cell.
+TNF-beta
+TNF-alpha
+0
+This observation supports a model in which p60 functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking $T1$$T2$ functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking p60.
+p60
+p60
+0
+It contains an Rb-binding motif that shares an antigenic epitope with the C terminus of $T1$$T2$-binding motif that shares an antigenic epitope with the C terminus of E1A.
+E1A
+Rb
+0
+Furthermore, this mutational analysis implicates KDR, but not $T1$$T2$, but not FLT-1, in VEGF induction of endothelial cell proliferation.
+FLT-1
+KDR
+0
+We show that $T1$ interacts with $T2$ both in vitro and intracellularly; in contrast to its Drosophila homologue, hTAFII28 also interacts directly with TBP.
+hTAFII28
+hTAFII18
+1
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or $T1$ in vivo, and the specificity of pRB or $T2$ binding is mediated by the E2F subunit.
+p107
+p107
+0
+Here we show that $T1$ and $T2$ from human B lymphocytes can interact directly.
+Syk
+Lyn
+1
+The type II cAMP-dependent protein kinase is localized to specific subcellular environments through the binding of the regulatory subunit (RII) dimer to $T1$$T2$) dimer to RII-anchoring proteins.
+RII
+RII
+0
+We show that the carboxy terminal "tail" of DPI associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, K5, and $T1$$T2$, K2, K5, and K6.
+K6
+K1
+0
+$T1$ is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T2$ alpha and hTFIID beta respectively), and is the homologue of Drosophila (d)TAFII30 beta.
+hTAFII28
+hTFIID
+0
+Interactions of $T1$, a mediator of progesterone receptor assembly, with heat shock proteins $T2$ and hsp70.
+p60
+hsp90
+1
+Thus, pp120 may serve as a link between $T1$ and $T2$, coupling the B-cell antigen receptor to the phosphatidylinositol pathway.
+Syk
+PLC gamma 1
+1
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-$T1$$T2$ is the central organizing component of an hsp90-p60-hsp70 complex.
+hsp70
+p60
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 (hTFIID alpha and $T1$ respectively), and is the homologue of Drosophila (d)$T2$.
+hTFIID beta
+TAFII30 beta
+0
+Arg82, Lys84 and His86, located in a hairpin loop, were found to be critical for binding $T1$/$T2$, while negatively charged residues, Asp63, Glu64, and Glu67, were associated with FLT-1 binding.
+KDR
+Flk-1
+0
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the $T1$$T2$ receptor, but neither of these proteins binds IL-13.
+IL-2 receptor
+IL-2
+0
+The SH2/SH3-containing protein Vav also contains a guanine nucleotide exchange factor domain, and $T1$ has a crucial role in thymocyte development and activation of peripheral T cells following stimulation through the $T2$.
+Vav
+TCR
+0
+Since hsp90 and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-p60-$T1$$T2$-p60-hsp70 complex.
+hsp70
+hsp90
+0
+In addition, previous work indicated that p300 and $T1$ might be involved in $T2$-mediated repression.
+CBP
+YY1
+0
+In patients with a complete response to IFN-alpha, the levels of $T1$ were higher at 24 weeks following IFN-alpha treatment than that of pre-treatment (P = 0.04), and the levels of $T2$ decreased markedly at 12 and 24 weeks (P = 0.02, 0.03, respectively).
+IFN-gamma
+IL-4
+0
+We show that hTAFII28 interacts with hTAFII18 both in vitro and intracellularly; in contrast to its Drosophila homologue, $T1$ also interacts directly with $T2$.
+hTAFII28
+TBP
+1
+Interaction of the regulatory subunit ($T1$) of $T2$ with RII-anchoring proteins occurs through an amphipathic helix binding motif.
+RII
+cAMP-dependent protein kinase
+0
+$T1$ and Lyn coimmunoprecipitated from mature and activated B-cell lines, and gel-purified Syk and $T2$ reassociated in vitro, demonstrating their direct interaction.
+Syk
+Lyn
+0
+The molecular adapter $T1$ is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and $T2$, which interact with guanine nucleotide exchange factors specific for the Ras family.
+c-Cbl
+Crk-L
+1
+Since $T1$ and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an hsp90-$T2$-hsp70 complex.
+hsp90
+p60
+0
+The binding of hTAFII28 and $T1$$T2$ and hTAFII30 requires distinct domains of hTAFII18.
+hTAFII30
+hTAFII28
+0
+We have cloned cDNAs encoding three novel TAFIIs [TATA-binding protein ($T1$)-associated factors] from the human (h) HeLa cell TFIID complexes hTAFII28, $T2$ and hTAFII18.
+TBP
+hTAFII20
+0
+Since hsp90 and $T1$ do not readily associate on their own, it appears that p60 is the central organizing component of an $T2$-p60-hsp70 complex.
+hsp70
+hsp90
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature $T1$ complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and $T2$ (p48).
+PR
+Hip
+0
+Cloning and characterization of hTAFII18, hTAFII20 and hTAFII28: three subunits of the human transcription factor $T1$$T2$, hTAFII20 and hTAFII28: three subunits of the human transcription factor TFIID.
+TFIID
+hTAFII18
+0
+We show that the physical interaction between YY1 and p300, a coactivator for $T1$, is not sufficient for repression of $T2$-mediated transcription.
+CREB
+CREB
+0
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the $T1$ and associates with $T2$ homology domain-2 (SH2)/SH3 domain-containing adapters such as Grb2, Crk, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+TCR
+Src
+0
+Two proteins have been described as constituents of the IL-4 receptor, a approximately 140-kDa glycoprotein (IL-4R) and the gamma chain (gammac) of the $T1$, but neither of these proteins binds $T2$.
+IL-2 receptor
+IL-13
+0
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing heat shock protein 90 (hsp90), p23, and immunophilins and, on the other, enhance recovery of early $T1$ complexes containing $T2$ and Hip (p48).
+PR
+hsp70
+0
+VEGF mediates endothelial cell proliferation, angiogenesis, vascular growth, and vascular permeability via the endothelial cell receptors, kinase insert domain-containing receptor ($T1$)/fetal liver kinase 1 (Flk-1) and $T2$.
+KDR
+FLT-1
+0
+The interaction between Vav and c-Cbl is directly mediated via the SH2 domain of $T1$$T2$ is directly mediated via the SH2 domain of Vav and is dependent on tyrosine phosphorylation of c-Cbl.
+Vav
+c-Cbl
+0
+Crystal structure of the $T1$ cyclin-dependent-kinase inhibitor bound to the cyclin A-$T2$ complex.
+p27Kip1
+Cdk2
+1
+In the present study we observe that a monoclonal antibody specific for $T1$ can, on the one hand, inhibit formation of mature PR complexes containing $T2$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip (p48).
+p60
+heat shock protein 90
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or $T1$ in vivo, and the specificity of pRB or p107 binding is mediated by the $T2$ subunit.
+p107
+E2F
+0
+$T1$ activity and the regulatory p85 subunit of PI 3-kinase associated with $T2$ in pervanadate-stimulated, but not in unstimulated thymocytes.
+PI 3-kinase
+CD5
+0
+An expression plasmid encoding the human 75-kDa tumor necrosis factor (TNF) type 2 receptor (TNF-R2) was constructed and used to generate a stable human cell line (293/$T1$) overexpressing $T2$.
+TNF-R2
+TNF-R2
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early $T1$$T2$ complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+PR
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either $T1$ or p107 in vivo, and the specificity of pRB or $T2$ binding is mediated by the E2F subunit.
+pRB
+p107
+0
+A bacterially expressed 318-amino acid fragment, $T1$ (418-736), containing the amphipathic helix region, was able to bind $T2$ alpha.
+Ht 31
+RII
+0
+Proto-oncoprotein $T1$ interacts with $T2$ in activated thymocytes and peripheral T cells.
+Vav
+c-Cbl
+1
+The binding of $T1$ or IL-1beta to $T2$ is an early step in IL-1 signal transduction and blocking this interaction may therefore be a useful target for the development of new drugs.
+IL-1alpha
+IL1R
+1
+Cloning and characterization of $T1$, hTAFII20 and $T2$: three subunits of the human transcription factor TFIID.
+hTAFII18
+hTAFII28
+1
+This $T1$-Lyn interaction may be dependent on the stage of B-cell differentiation, since $T2$-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Syk
+0
+This Syk-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with $T1$$T2$-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-Lyn associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Lyn
+Syk
+0
+We conclude that stimulation of thymocytes with pervanadate induces the recruitment of PI 3-kinase and $T1$ to $T2$.
+pp120
+CD5
+1
+Interleukin-13 (IL-13) is a cytokine secreted by activated T lymphocytes that shares many, but not all, biological activities with $T1$$T2$ (IL-13) is a cytokine secreted by activated T lymphocytes that shares many, but not all, biological activities with IL-4.
+IL-4
+Interleukin-13
+0
+$T1$ binds to $T2$ with a 1:1 stoichiometry.
+IL-1beta
+s-IL1R
+1
+Unlike human IL-6 (which uses many hydrophilic residues), the viral cytokine largely uses hydrophobic amino acids to contact gp130, which enhances the complementarity of the viral $T1$-$T2$ binding interfaces.
+IL-6
+gp130
+1
+Cross-linking of 125I-TNF-alpha and 125I-TNF-beta to 293/TNF-R2 cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three $T1$$T2$ cells yielded predominant complexes with apparent molecular weights of 211,000 for TNF-alpha and 205,000 and 244,000 for TNF-beta, suggesting these complexes contain two or three TNF-R2 molecules.
+TNF-R2
+TNF-R2
+0
+One of these proteins, $T1$, appears transiently during assembly and is not a component of functionally mature $T2$ complexes.
+p60
+PR
+0
+This $T1$-Lyn interaction may be dependent on the stage of B-cell differentiation, since Syk-$T2$ associations were not detected in pre-B and myeloma cell lines and Syk from an immature B-cell line did not reassociate with Lyn in vitro.
+Syk
+Lyn
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes ($T1$$T2$ in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature PR complexes (hsp90).
+hsp70
+hsp90
+0
+Concentrations of glial fibrillary acidic protein (GFAp) and light subunit neurofilament protein ($T1$$T2$ (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+NFL
+light subunit neurofilament protein
+0
+$T1$ treatment of 293/$T2$ cells did not significantly affect the degree or pattern of phosphorylation.
+TNF-alpha
+TNF-R2
+0
+hTAFII18 also interacts with TBP, but it interacts more strongly with hTAFII28 and $T1$$T2$, but it interacts more strongly with hTAFII28 and hTAFII30.
+hTAFII30
+TBP
+0
+The $T1$ protein binds to RIZ, a zinc-finger protein that shares an epitope with the adenovirus $T2$ protein.
+retinoblastoma
+E1A
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of pRB or $T1$ binding is mediated by the $T2$ subunit.
+p107
+E2F
+0
+This observation supports a model in which p60 functions at an intermediate stage of $T1$$T2$ functions at an intermediate stage of PR assembly to facilitate formation of subsequent PR complexes lacking p60.
+PR
+p60
+0
+Concentrations of glial fibrillary acidic protein (GFAp) and light subunit neurofilament protein ($T1$$T2$ (GFAp) and light subunit neurofilament protein (NFL) in cerebrospinal fluid (CSF) were measured in patients with second-stage Trypanosoma brucei gambiense sleeping sickness.
+NFL
+glial fibrillary acidic protein
+0
+We show that the physical interaction between YY1 and p300, a coactivator for $T1$$T2$ and p300, a coactivator for CREB, is not sufficient for repression of CREB-mediated transcription.
+CREB
+YY1
+0
+A GT155 mutant that was not glycosylated (AGGT155) did not associate with $T1$$T2$ mutant that was not glycosylated (AGGT155) did not associate with calnexin or CAP-60.
+calnexin
+GT155
+0
+Both the $T1$-$T2$ and the GT155-CAP-60 interactions were dependent on the presence of a correctly modified oligosaccharide group on GT155, a characteristic of many calnexin interactions.
+GT155
+calnexin
+1
+Of these 400, $T1$ ($T2$), cyclin B2, TBP-associated factor, eukaryotic elongation factor and pim 2 were up-regulated more than 3.5 fold.
+interferon regulatory factor 4
+IRF4
+0
+$T1$ and $T2$ display endogenous tyrosine phosphatase activity that is stimulated several-fold, in the absence of cdc2, by stoichiometric addition of either cyclin B1 or B2 but not A or D1.
+cdc25A
+cdc25B
+0
+Immunoprecipitation of $T1$ from 32P-labeled 293/$T2$ cells demonstrated that the receptor is phosphorylated.
+TNF-R2
+TNF-R2
+0
+Cyclin E showed genetic interactions with the CDC28 gene, suggesting that it functioned at START by interacting with the $T1$$T2$ gene, suggesting that it functioned at START by interacting with the CDC28 protein.
+CDC28
+CDC28
+0
+Since $T1$ and hsp70 do not readily associate on their own, it appears that p60 is the central organizing component of an $T2$-p60-hsp70 complex.
+hsp90
+hsp90
+0
+hTAFII28 is a core hTAFII present in both of the previously described hTFIID species which either lack or contain hTAFII30 ($T1$ and hTFIID beta respectively), and is the homologue of Drosophila (d)$T2$.
+hTFIID alpha
+TAFII30 beta
+0
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with $T1$; however, additional interactions between hTAFII20 and hTAFII28 or $T2$ were detected.
+TBP
+hTAFII30
+0
+However, the various E2F/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of $T1$ or p107 binding is mediated by the $T2$ subunit.
+pRB
+E2F
+0
+hTAFII18 also interacts with TBP, but it interacts more strongly with hTAFII28 and $T1$$T2$ and hTAFII30.
+hTAFII30
+hTAFII28
+0
+$T1$ activity and the regulatory p85 subunit of $T2$ associated with CD5 in pervanadate-stimulated, but not in unstimulated thymocytes.
+PI 3-kinase
+PI 3-kinase
+0
+Interleukin-13 (IL-13) is a cytokine secreted by activated T lymphocytes that shares many, but not all, biological activities with $T1$$T2$) is a cytokine secreted by activated T lymphocytes that shares many, but not all, biological activities with IL-4.
+IL-4
+IL-13
+0
+hTAFII20 is the homologue of p22, an alternatively spliced form of d$T1$ ($T2$).
+TAFII30 alpha
+p32
+0
+The interactions of hsp70 and hsp90 in intermediate PR complexes are shown to be distinct from their separate interactions in early PR complexes (hsp70) or in mature $T1$$T2$ complexes (hsp70) or in mature PR complexes (hsp90).
+PR
+PR
+0
+Here we report the three-dimensional structure of $T1$ bound to the extracellular domain of IL1R ($T2$) at 2.5 A resolution.
+IL-1beta
+s-IL1R
+1
+The molecular adapter c-Cbl is rapidly tyrosine phosphorylated following stimulation through the TCR and associates with Src homology domain-2 (SH2)/SH3 domain-containing adapters such as $T1$, $T2$, and Crk-L, which interact with guanine nucleotide exchange factors specific for the Ras family.
+Grb2
+Crk
+0
+In addition, the anti-calnexin antiserum immunoprecipitated a UV-dependent cross-linking product consisting of $T1$ and a protein of approximately 60 kDa designated $T2$ (calnexin-associated protein of 60 kDa).
+GT155
+CAP-60
+1
+In the present study we observe that a monoclonal antibody specific for p60 can, on the one hand, inhibit formation of mature PR complexes containing $T1$ (hsp90), p23, and immunophilins and, on the other, enhance recovery of early PR complexes containing hsp70 and Hip ($T2$).
+heat shock protein 90
+p48
+0
+Following immunoprecipitation with an anticalnexin antiserum, a cross-linker-independent association was observed between $T1$ and $T2$.
+GT155
+calnexin
+1
+A comparative study of $T1$ and $T2$ expression in de novo and ex adenoma carcinoma of the colorectum.
+E-cadherin
+stromelysin-3
+0
+Cytokines measurements during $T1$ treatment showed a trend to decreasing levels of $T2$ at 4, 12, and 24 weeks.
+IFN-alpha
+IL-4
+0

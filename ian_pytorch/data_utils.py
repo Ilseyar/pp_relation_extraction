@@ -191,8 +191,8 @@ class ABSADatesetReader:
                 'test': './datasets/acl-14-short-data/test.raw'
             },
             'aimed' : {
-                'train': 'data/AiMed/folds/' + str(fold_num) + '/train_pytorch.txt',
-                'test': 'data/AiMed/folds/' + str(fold_num) + '/test_pytorch.txt'
+                'train': '../data/AiMed/folds/' + str(fold_num) + '/train_pytorch_short_context.txt',
+                'test': '../data/AiMed/folds/' + str(fold_num) + '/test_pytorch_short_context.txt'
             },
             'cdr' :  {
                 'train': '../data/CDR/train_short1.txt',

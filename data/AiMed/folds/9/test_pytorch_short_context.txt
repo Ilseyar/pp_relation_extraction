@@ -1,0 +1,2264 @@
+In addition, hsp90 in the lysate complexes with wild-type pp60v-src, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, pp60c-src, which has never been recovered in cytosol in the form of a native multiprotein complex with $T1$$T2$ in the lysate complexes with wild-type pp60v-src, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, pp60c-src, which has never been recovered in cytosol in the form of a native multiprotein complex with hsp90.
+hsp90
+hsp90
+0
+The death domain of tumor necrosis factor (TNF) receptor-1 ($T1$) triggers distinct signaling pathways leading to apoptosis and NF-kappa B activation through its interaction with the death domain protein $T2$.
+TNFR1
+TRADD
+1
+Associations of UBE2I with RAD52, $T1$$T2$, UBL1, p53, and RAD51 proteins in a yeast two-hybrid system.
+UBL1
+RAD52
+0
+$T1$ induces chemotaxis and adhesion by interacting with $T2$ and CCR8.
+LEC
+CCR1
+1
+These antibodies also immunoprecipitated the cloned IL-7R as a 90-kDa species from both 125-I-surface-labeled resting and activated T cells, but were unable to precipitate the 76-kDa $T1$$T2$ as a 90-kDa species from both 125-I-surface-labeled resting and activated T cells, but were unable to precipitate the 76-kDa IL-7R.
+IL-7R
+IL-7R
+0
+Here, we show that TRADD interacts strongly with $T1$, another death domain protein that was shown previously to associate with $T2$ antigen.
+RIP
+Fas
+1
+Reticulocyte lysate forms complexes between $T1$ and a temperature-sensitive mutant of Rous sarcoma virus $T2$, which is normally present in cytosol virtually entirely in the multiprotein complex form.
+hsp90
+pp60v-src
+1
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+p57
+0
+Relating the anti-viral and anti-proliferative activity of the various interferon mutants with their affinity toward ifnar2 results in linear function over the whole range of affinities investigated, suggesting that $T1$$T2$ results in linear function over the whole range of affinities investigated, suggesting that ifnar2 binding is the rate-determining step in cellular activation.
+ifnar2
+ifnar2
+0
+Our finding that HBx directly interacts with RNA polymerase II subunit 5 ($T1$), a common subunit of RNA polymerases, implies that $T2$ directly modulates the function of RNA polymerase (Cheong, J. H., Yi, M., Lin, Y., and Murakami, S. (1995) EMBO J.
+RPB5
+HBx
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+KIP2
+0
+Thus, $T1$ is likely to play a role in sorting $T2$ to lysosomes.
+SNX1
+EGFR
+0
+These results suggest that distinct domains of $T1$ participate in the TNF signaling cascades leading to apoptosis and $T2$ activation.
+RIP
+NF-kappa B
+0
+In HeLa cells, $T1$ is expressed at the G1 to S transition, and the protein forms stable complexes with $T2$.
+Cdi1
+Cdk2
+1
+Although $T1$ is thought to interact with the $T2$ receptor, the nature of the interaction has not been defined.
+IRS-1
+insulin
+0
+We now report the isolation and expression of cDNAs encoding $T1$ gamma and PTF delta, as well as functional studies with cognate antibodies that recognize the native $T2$ complex in HeLa extracts.
+PTF
+PTF
+0
+The $T1$/Jun and ATF/$T2$ families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+Fos
+CREB
+0
+$T1$ and $T2$ involvement in the osteogenic properties of the HeLa cell line.
+BMP-4
+BMP-6
+0
+Our finding that $T1$ directly interacts with RNA polymerase II subunit 5 (RPB5), a common subunit of RNA polymerases, implies that $T2$ directly modulates the function of RNA polymerase (Cheong, J. H., Yi, M., Lin, Y., and Murakami, S. (1995) EMBO J.
+HBx
+HBx
+0
+$T1$ protein interacts with $T2$ protein and with p44 protein, a subunit of the human RNA polymerase II transcription factor IIH.
+CSA
+CSB
+1
+$T1$-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the $T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+p90
+0
+Mutagenesis of the regulatory subunit ($T1$) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for $T2$ dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+RII beta
+0
+In addition, we show that in extracts depleted of $T1$ and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by $T2$ or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TFIID
+0
+Endothelin-1 (ET-1) and $T1$$T2$ (ET-1) and ET-3 had a strong positive inotropic effect in all trabeculae.
+ET-3
+Endothelin-1
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+p53
+0
+Ligation of the extracellular domain of the cell surface receptor Fas/$T1$$T2$/APO-1 (CD95) elicits a characteristic programmed death response in susceptible cells.
+APO-1
+Fas
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, $T1$$T2$, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+FLICE
+MORT
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of $T1$ to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF ($T2$) in vitro.
+Rb
+upstream binding factor
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$ with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+Although Fos/$T1$$T2$/Jun and ATF/CREB were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+Jun
+Fos
+0
+RIP: a novel protein containing a death domain that interacts with Fas/$T1$ ($T2$) in yeast and causes cell death.
+APO-1
+CD95
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Levels of $T1$(INK4a) and p57($T2$) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+p16
+KIP2
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with $T1$, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of $T2$ and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+PTF
+TBP
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ ($T2$) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+TBP
+0
+The Fos/$T1$$T2$/Jun and ATF/CREB families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+Jun
+Fos
+0
+Mutagenesis of the regulatory subunit (RII beta) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for $T1$$T2$ reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+cAMP-dependent protein kinase II beta
+0
+These results indicate that there is an additional mechanism by which $T1$ suppresses cell growth, namely that $T2$ directly represses transcription of the rRNA genes.
+Rb
+Rb
+0
+A rabbit reticulocyte lysate system that has been used to reconstitute functional complexes between steroid receptors and the 90-kDa heat shock protein (hsp90) has been used here to form complexes between the pp60src tyrosine kinase and $T1$$T2$) has been used here to form complexes between the pp60src tyrosine kinase and hsp90.
+hsp90
+hsp90
+0
+Levels of p21 protein are increased in senescent cells and $T1$$T2$ protein are increased in senescent cells and p21 overexpression blocks the growth of tumour cells.
+p21
+p21
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$$T2$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+UBE2I
+RAD52
+0
+We also show that $T1$ is a serine-threonine kinase that is recruited by $T2$ to TNFR1 in a TNF-dependent process.
+RIP
+TRADD
+0
+In yeast, $T1$ interacts with cyclin-dependent kinases, including human Cdc2, Cdk2, and $T2$, but not with Cdk4.
+Cdi1
+Cdk3
+1
+The death domain of $T1$ (TNFR1) triggers distinct signaling pathways leading to apoptosis and NF-kappa B activation through its interaction with the death domain protein $T2$.
+tumor necrosis factor (TNF) receptor-1
+TRADD
+1
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors ($T1$, FADD/$T2$, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+TRADD
+MORT
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned $T1$$T2$-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+p76
+0
+$T1$ is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins, such as the E2A gene products $T2$ and E47.
+Myogenin
+E12
+1
+Using the human $T1$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein $T2$.
+RAD52
+UBL1
+0
+We report chemotaxis and competitive binding studies that show $T1$ binds to and activates CCR1 and $T2$ transfected HEK-293 cells.
+LEC
+CCR8
+1
+Mutagenesis of the regulatory subunit (RII beta) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring $T1$$T2$) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+RII beta
+0
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a $T1$$T2$-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TBP
+0
+Associations of $T1$ with RAD52, $T2$, p53, and RAD51 proteins in a yeast two-hybrid system.
+UBE2I
+UBL1
+1
+Interaction of the protein $T1$ with $T2$, as revealed by the yeast two-hybrid system.
+nucleobindin
+G alpha i2
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of $T1$ and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+TBP
+PTF
+0
+pRB, cyclin D, p19($T1$) and p27($T2$) decrease in both cell types.
+INK4d
+KIP1
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$$T2$(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+p21
+0
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of Fas: Fas itself, and a novel 74 kDa protein we have named $T1$$T2$ itself, and a novel 74 kDa protein we have named RIP, for receptor interacting protein.
+RIP
+Fas
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and $T1$$T2$ and TFIIB.
+TFIIB
+RPB5
+0
+Lastly, in agreement with our findings for yeast cells, we show that the $T1$ is unable to phosphorylate an $T2$ protein containing a deletion of amino acids 45 to 516 when expressed in COS cells.
+insulin receptor
+IRS-1
+0
+In neurons cAMP-dependent protein kinase II beta ($T1$) is sequestered in the dendritic cytoskeleton because the regulatory subunit ($T2$) of the enzyme is tightly bound by A Kinase Anchor Proteins (AKAPs).
+PKAII beta
+RII beta
+0
+In this study, we used the two-hybrid assay of protein-protein interaction in the yeast Saccharomyces cerevisiae to study the interaction between human IRS-1 and the $T1$$T2$.
+insulin
+insulin receptor
+0
+In the yeast-based cloning system, the only strong interaction that was detected between $T1$ and the calcium effector protein, $T2$ (CaM).
+GAP-43
+calmodulin
+1
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, $T1$, and a ubiquitin-like protein $T2$.
+p53
+UBL1
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component ($T1$) identical in sequence to the $T2$ gamma reported here.
+SNAPc43
+PTF
+0
+Hepatitis B virus X protein is a transcriptional modulator that communicates with transcription factor IIB and the $T1$$T2$ and the RNA polymerase II subunit 5.
+RNA polymerase II subunit 5
+transcription factor IIB
+0
+$T1$ is a transcriptional modulator that communicates with transcription factor IIB and the $T2$.
+Hepatitis B virus X protein
+RNA polymerase II subunit 5
+0
+These results, along with other recent findings, suggest a novel role for the interaction between $T1$ and $T2$.
+GAP-43
+CaM
+1
+Characterization of the $T1$ binding proteins RBP1 and $T2$.
+retinoblastoma
+RBP2
+1
+Activity of RNA polymerase I transcription factor $T1$ blocked by $T2$ gene product.
+UBF
+Rb
+1
+The Fos/Jun and $T1$/$T2$ families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+ATF
+CREB
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/$T1$$T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MORT
+FADD
+0
+RANTES interacts with CCR5 and $T1$ with $T2$ receptors.
+SDF-1
+CXCR4
+1
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/$T1$$T2$, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MACH
+MORT
+0
+We observed that the protein $T1$ interacted with protein serine-threonine phosphatase 2A catalytic subunit (PP2AC), as well as protein phosphatase 1 ($T2$) in mammalian cells.
+HOX11
+PP1C
+1
+Antibodies to $T1$ did not affect the proportion of keratinocytes that adhered to laminin 1, type IV collagen and $T2$, but did inhibit motility of keratinocytes on tissue culture plastic.
+CD9
+fibronectin
+0
+The $T1$ agonist IRL 1620 had a positive inotropic effect only in some trabeculae, and the $T2$ antagonist BQ 788 (1 microM) almost completely blocked this effect.
+ET(B) receptor
+ET(B) receptor
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+Although Fos/Jun and $T1$$T2$/Jun and ATF/CREB were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+ATF
+Fos
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with PTF, consistent with the previous report of a $T2$-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+PTF
+0
+Several genes are involved in this process, and two have been the focus of recent interest: the $T1$ (NRAMP1) gene and the genes coding for the $T2$.
+natural resistance-associated protein
+vitamin D receptor
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with $T1$, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+PTF
+PTF
+0
+The interaction of $T1$ with RAD52 is mediated by $T2$'s self-association region.
+UBE2I
+RAD52
+0
+These results suggest that the RAD52-dependent processes, cell cycle control, p53-mediated pathway(s), and ubiquitination interact through human $T1$$T2$-mediated pathway(s), and ubiquitination interact through human UBE2I.
+UBE2I
+p53
+0
+CD9 was detected in beta 1 integrin immunoprecipitates and also in immunoprecipitates of CD44 and $T1$$T2$ was detected in beta 1 integrin immunoprecipitates and also in immunoprecipitates of CD44 and syndecan, but not of cadherins.
+syndecan
+CD9
+0
+We find that p53, p21(CIP1) and $T1$$T2$(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+p15
+p21
+0
+We previously have shown that $T1$ purified from human HeLa cells is a multisubunit complex of four polypeptides designated $T2$ alpha, -beta, -gamma, and -delta.
+PTF
+PTF
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with $T1$, $T2$, p53, and a ubiquitin-like protein UBL1.
+RAD52
+RAD51
+0
+We find that p53, p21(CIP1) and p15($T1$$T2$) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+INK4b
+CIP1
+0
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a $T1$$T2$, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TFIIIB
+0
+Mutagenesis, recombinant protein expression, and physicochemical characterization were used to investigate the structural basis for the homodimerization and $T1$ binding activities of $T2$.
+AKAP75
+RII beta
+1
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with $T1$$T2$ is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and TFIIB.
+RPB5
+HBx
+0
+For the calibration, we used two sets of proteins, the Myc-Max-$T1$$T2$-Mxi1 helix-loop-helix proteins, and wild-type and dimerization-defective versions of the lambda cI repressor.
+Mxi1
+Max
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+IL-7R
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors ($T1$, $T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+TRADD
+FADD
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and $T1$$T2$ transactivation requires the interactions of both RPB5 and TFIIB.
+TFIIB
+HBx
+0
+These proteins, $T1$ ($T2$) and 14-3-3 beta (HS1), are members of the 14-3-3 family of proteins.
+14-3-3 zeta
+PLA2
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with PTF, consistent with the previous report of a PTF-related complex ($T2$) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TBP
+SNAPc
+0
+Here we report that (1) there is an accumulation of $T1$ protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of $T2$ to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of $T1$ to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor $T2$ (upstream binding factor) in vitro.
+Rb
+UBF
+0
+SNX1 contains a region of homology to a yeast vacuolar sorting protein, and overexpression of SNX1 decreased the amount of $T1$$T2$ decreased the amount of EGFR on the cell surface as a result of enhanced rates of constitutive and ligand-induced degradation.
+EGFR
+SNX1
+0
+$T1$ and RPB5 specifically bound to $T2$ (TFIIB) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+HBx
+transcription factor IIB
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with $T2$, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+PTF
+0
+Although Fos/$T1$ and ATF/$T2$ were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+Jun
+CREB
+0
+$T1$, $T2$, p19(INK4d) and p27(KIP1) decrease in both cell types.
+pRB
+cyclin D
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and $T1$$T2$ or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+TFIIB
+TFIIB
+0
+We find that p53, p21($T1$$T2$(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+CIP1
+p21
+0
+Analysis of p53, p21(CIP1), $T1$$T2$(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p15
+p21
+0
+These analyses showed that the ability of PBMC to proliferate to $T1$ correlated with expression of the p76 IL-7R, and not with expression of the p90 $T2$.
+IL-7
+IL-7R
+0
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a $T1$$T2$ but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TBP
+0
+Furthermore, $T1$ blocks the ability of PCNA to activate $T2$, the principal replicative DNA polymerase.
+p21
+DNA polymerase delta
+0
+The protein $T1$, a key mediator of mitogenesis and differentiation, associates with $T2$ (refs 1-3).
+Raf-1
+p21ras
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component ($T2$) identical in sequence to the PTF gamma reported here.
+TBP
+SNAPc43
+0
+The Fos/$T1$ and ATF/$T2$ families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+Jun
+CREB
+0
+In the yeast-based cloning system, the only strong interaction that was detected between $T1$ and the calcium effector protein, calmodulin ($T2$).
+GAP-43
+CaM
+1
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+p21
+0
+Thus $T1$ is a cellular oncogene that targets PP2A and $T2$, both of which are targets for oncogenic viruses and chemical tumour promoters.
+HOX11
+PP1
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the $T1$$T2$-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+p76
+IL-7
+0
+Levels of p16($T1$) and p57($T2$) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+INK4a
+KIP2
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with $T1$$T2$ with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+The aim of the present study was to determine possible inotropic effects mediated by endothelin $T1$ and $T2$ receptors in human myocardial trabeculae from the right atrium and the left ventricle.
+ET(A)
+ET(B)
+0
+Characterization of the $T1$ binding proteins $T2$ and RBP2.
+retinoblastoma
+RBP1
+1
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional $T1$ pocket; and (4) $T2$ specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+p57
+0
+As previously shown with reticulocyte lysate-reconstituted steroid receptor heteroprotein complexes, the reconstituted $T1$ multiprotein complex contains hsp70, which is a major candidate for providing the protein unfoldase activity required for $T2$ association.
+pp60src
+hsp90
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, $T1$$T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+RIP
+FADD
+0
+Although Fos/Jun and ATF/$T1$$T2$/Jun and ATF/CREB were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+CREB
+Fos
+0
+Type I interferons bind to two cell surface receptors, ifnar1 and $T1$$T2$ and ifnar2, as the first step in the activation of several signal transduction pathways that elicit an anti-viral state and an anti-proliferative response.
+ifnar2
+ifnar1
+0
+$T1$: a novel protein containing a death domain that interacts with Fas/$T2$ (CD95) in yeast and causes cell death.
+RIP
+APO-1
+1
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the p76 IL-7R, and not with expression of the $T1$ $T2$.
+p90
+IL-7R
+0
+Levels of p16(INK4a) and p57($T1$) rise in HUCs during progressive passages, whereas only $T2$ increases in HPEC cultures.
+KIP2
+p16
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$ in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Using the human $T1$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, $T2$, and a ubiquitin-like protein UBL1.
+RAD52
+p53
+0
+Cross-family dimerization of transcription factors $T1$/Jun and ATF/$T2$ alters DNA binding specificity.
+Fos
+CREB
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor $T1$$T2$ pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+UBF
+Rb
+0
+GAP-43 ($T1$, B-50, F1), a protein kinase C ($T2$) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+neuromodulin
+PKC
+1
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with $T1$$T2$ through communication with RPB5 and TFIIB.
+RPB5
+TFIIB
+0
+Ligation of the extracellular domain of the cell surface receptor Fas/$T1$ ($T2$) elicits a characteristic programmed death response in susceptible cells.
+APO-1
+CD95
+0
+In addition, we show that in extracts depleted of $T1$ and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a $T2$ complex different from the one used for mRNA-encoding genes.
+TBP
+TBP
+0
+Mutagenesis of the regulatory subunit (RII beta) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring $T1$$T2$ dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+RII beta
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a $T1$-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+PTF
+PTF
+0
+Taken together these data suggest that the 76-kDa receptor is a novel high affinity IL-7R that may be necessary for $T1$$T2$ that may be necessary for IL-7 driven proliferation in human T cells.
+IL-7
+IL-7R
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both $T1$$T2$ or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+RPB5
+TFIIB
+0
+$T1$ contains an N-terminal region with homology to protein kinases and a C-terminal region containing a cytoplasmic motif (death domain) present in the $T2$ and TNFR1 intracellular domains.
+RIP
+Fas
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/$T1$$T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MACH
+FADD
+0
+RIP also interacts weakly with the p55 tumor necrosis factor receptor ($T1$) intracellular domain, but not with a mutant version of $T2$ corresponding to the murine lprcg mutation.
+TNFR1
+Fas
+0
+These interactions are UBE2I-specific, since another DNA repair-related ubiquitin-conjugating enzyme, $T1$ ($T2$), does not interact with these proteins.
+RAD6
+UBC2
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein $T1$$T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+UBL1
+UBC9
+0
+pRB, cyclin D, $T1$(INK4d) and p27($T2$) decrease in both cell types.
+p19
+KIP1
+0
+These findings indicate that the $T1$/$T2$ and ATF/CREB families of transcription factors are not as distinct as was previously thought.
+Fos
+Jun
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, $T1$$T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+p53
+UBC9
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the $T1$$T2$, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+p76
+IL-7R
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 $T1$$T2$, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+IL-7R
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+TATA-binding protein
+PTF
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+CIP1
+0
+$T1$ contains a region of homology to a yeast vacuolar sorting protein, and overexpression of $T2$ decreased the amount of EGFR on the cell surface as a result of enhanced rates of constitutive and ligand-induced degradation.
+SNX1
+SNX1
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+Associations of UBE2I with RAD52, $T1$, p53, and $T2$ proteins in a yeast two-hybrid system.
+UBL1
+RAD51
+0
+In neurons cAMP-dependent protein kinase II beta (PKAII beta) is sequestered in the dendritic cytoskeleton because the regulatory subunit ($T1$$T2$ (PKAII beta) is sequestered in the dendritic cytoskeleton because the regulatory subunit (RII beta) of the enzyme is tightly bound by A Kinase Anchor Proteins (AKAPs).
+RII beta
+cAMP-dependent protein kinase II beta
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with $T1$, consistent with the previous report of a PTF-related complex ($T2$) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+PTF
+SNAPc
+0
+We have now isolated cDNA clones that contain the full-length coding sequence of two other proteins, $T1$ and RBP2, cloned originally by their interaction with $T2$.
+RBP1
+pRB
+1
+$T1$: a novel protein containing a death domain that interacts with $T2$/APO-1 (CD95) in yeast and causes cell death.
+RIP
+Fas
+1
+Thus $T1$ is a cellular oncogene that targets $T2$ and PP1, both of which are targets for oncogenic viruses and chemical tumour promoters.
+HOX11
+PP2A
+1
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or $T1$$T2$ but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TFIIIB
+TBP
+0
+Analysis of p53, p21(CIP1), p15($T1$$T2$(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+p21
+0
+These proteins, $T1$ (PLA2) and 14-3-3 beta ($T2$), are members of the 14-3-3 family of proteins.
+14-3-3 zeta
+HS1
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/$T1$$T2$, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MACH
+TRADD
+0
+In this study, we used the two-hybrid assay of protein-protein interaction in the yeast Saccharomyces cerevisiae to study the interaction between human $T1$ and the $T2$ receptor.
+IRS-1
+insulin
+0
+Associations of $T1$ with $T2$, UBL1, p53, and RAD51 proteins in a yeast two-hybrid system.
+UBE2I
+RAD52
+1
+pRB, $T1$, $T2$(INK4d) and p27(KIP1) decrease in both cell types.
+cyclin D
+p19
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$$T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+UBE2I
+UBC9
+0
+These findings indicate that the Fos/Jun and $T1$/$T2$ families of transcription factors are not as distinct as was previously thought.
+ATF
+CREB
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a $T1$-related complex (SNAPc) containing substoichiometric levels of TBP and a component ($T2$) identical in sequence to the PTF gamma reported here.
+PTF
+SNAPc43
+0
+The induced expression of $T1$, similar to $T2$, produces a senescent-like phenotype.
+p57
+p16
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex ($T1$) containing substoichiometric levels of TBP and a component ($T2$) identical in sequence to the PTF gamma reported here.
+SNAPc
+SNAPc43
+0
+The $T1$ tumour-suppressor protein controls the expression of a gene encoding the $T2$ cyclin-dependent protein kinase (CDK) regulator.
+p53
+p21
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with $T1$, RAD51, $T2$, and a ubiquitin-like protein UBL1.
+RAD52
+p53
+0
+Levels of p16($T1$) and $T2$(KIP2) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+INK4a
+p57
+0
+$T1$ interacts with protein phosphatases $T2$ and PP1 and disrupts a G2/M cell-cycle checkpoint.
+HOX11
+PP2A
+1
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both $T1$$T2$ in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+RPB5
+RPB5
+0
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a $T1$$T2$ or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TFIID
+0
+Here, we show that $T1$ interacts strongly with $T2$, another death domain protein that was shown previously to associate with Fas antigen.
+TRADD
+RIP
+1
+Here we report that (1) there is an accumulation of $T1$ protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor $T2$ (upstream binding factor) in vitro.
+Rb
+UBF
+0
+$T1$, cyclin D, p19(INK4d) and $T2$(KIP1) decrease in both cell types.
+pRB
+p27
+0
+The results show that $T1$ heterodimerizes with $T2$ and E47 in vivo, but it does not homodimerize to a measurable extent.
+myogenin
+E12
+1
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and $T1$$T2$ is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and TFIIB.
+TFIIB
+HBx
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 $T1$$T2$-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+IL-7
+0
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of Fas: Fas itself, and a novel 74 kDa protein we have named RIP, for $T1$$T2$ itself, and a novel 74 kDa protein we have named RIP, for receptor interacting protein.
+receptor interacting protein
+Fas
+0
+Analysis of p53, $T1$(CIP1), p15(INK4b), p16(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p21
+p57
+0
+Our finding that HBx directly interacts with $T1$ (RPB5), a common subunit of RNA polymerases, implies that $T2$ directly modulates the function of RNA polymerase (Cheong, J. H., Yi, M., Lin, Y., and Murakami, S. (1995) EMBO J.
+RNA polymerase II subunit 5
+HBx
+0
+In addition, $T1$ in the lysate complexes with wild-type $T2$, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, pp60c-src, which has never been recovered in cytosol in the form of a native multiprotein complex with hsp90.
+hsp90
+pp60v-src
+1
+Substitution of Ala for Leu13 or Phe36 generates monomeric $T1$ subunits that cannot bind $T2$.
+RII beta
+AKAP75
+0
+Analysis of $T1$, p21(CIP1), p15(INK4b), p16(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p53
+p57
+0
+GAP-43 (neuromodulin, B-50, $T1$), a protein kinase C ($T2$) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+F1
+PKC
+1
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and $T1$$T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+p80
+FADD
+0
+We observed that the protein $T1$ interacted with protein serine-threonine phosphatase 2A catalytic subunit ($T2$), as well as protein phosphatase 1 (PP1C) in mammalian cells.
+HOX11
+PP2AC
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+IL-7R
+0
+We previously have shown that PTF purified from human HeLa cells is a multisubunit complex of four polypeptides designated $T1$$T2$ alpha, -beta, -gamma, and -delta.
+PTF alpha
+PTF
+0
+Characterization of an interaction between $T1$ and the $T2$ by using the two-hybrid system.
+insulin receptor substrate 1
+insulin receptor
+1
+In addition, hsp90 in the lysate complexes with wild-type $T1$, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, $T2$, which has never been recovered in cytosol in the form of a native multiprotein complex with hsp90.
+pp60v-src
+pp60c-src
+0
+The death domain of $T1$ ($T2$) triggers distinct signaling pathways leading to apoptosis and NF-kappa B activation through its interaction with the death domain protein TRADD.
+tumor necrosis factor (TNF) receptor-1
+TNFR1
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that $T1$$T2$ in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+HBx
+RPB5
+0
+Antibodies to $T1$ did not affect the proportion of keratinocytes that adhered to laminin 1, $T2$ and fibronectin, but did inhibit motility of keratinocytes on tissue culture plastic.
+CD9
+type IV collagen
+0
+Thus, $T1$ functions as a bridge between U2AF65 and the enhancer complex to recruit $T2$ to the adjacent intron.
+U2AF35
+U2AF65
+0
+The death domain of tumor necrosis factor (TNF) receptor-1 (TNFR1) triggers distinct signaling pathways leading to apoptosis and NF-kappa B activation through its interaction with the death domain protein $T1$$T2$ activation through its interaction with the death domain protein TRADD.
+TRADD
+NF-kappa B
+0
+Cross-family dimerization of transcription factors Fos/$T1$ and ATF/$T2$ alters DNA binding specificity.
+Jun
+CREB
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the $T1$$T2$, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+p76
+IL-7R
+0
+These results suggest that both $T1$ and $T2$ receptors mediate positive inotropic responses at both the atrial and ventricular level in the human heart.
+ET(A)
+ET(B)
+0
+HBx and $T1$ specifically bound to $T2$ (TFIIB) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+RPB5
+transcription factor IIB
+0
+Reconstitution of the multiprotein complex of pp60src, hsp90, and $T1$$T2$, and p50 in a cell-free system.
+p50
+hsp90
+0
+Levels of p16(INK4a) and $T1$($T2$) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+p57
+KIP2
+0
+We find that p53, p21(CIP1) and p15($T1$$T2$, p21(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+INK4b
+p53
+0
+$T1$ is a transcriptional modulator that communicates with $T2$ and the RNA polymerase II subunit 5.
+Hepatitis B virus X protein
+transcription factor IIB
+0
+To determine the role of each of these receptors in $T1$ driven proliferation, $T2$ expression and proliferative capacity were monitored during mitogenic stimulation.
+IL-7
+IL-7R
+0
+$T1$ and RPB5 specifically bound to transcription factor IIB ($T2$) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+HBx
+TFIIB
+0
+We report chemotaxis and competitive binding studies that show $T1$ binds to and activates $T2$ and CCR8 transfected HEK-293 cells.
+LEC
+CCR1
+1
+GAP-43 ($T1$, B-50, F1), a $T2$ (PKC) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+neuromodulin
+protein kinase C
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 $T1$$T2$, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+IL-7R
+0
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of $T1$: Fas itself, and a novel 74 kDa protein we have named RIP, for $T2$.
+Fas
+receptor interacting protein
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a $T1$-related complex ($T2$) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+PTF
+SNAPc
+0
+Levels of p16($T1$$T2$(INK4a) and p57(KIP2) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+INK4a
+p16
+0
+Mutagenesis of the regulatory subunit ($T1$) of $T2$ reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+cAMP-dependent protein kinase II beta
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned $T1$$T2$, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+IL-7R
+0
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned $T1$, and imply that the p90 and p76 $T2$ have different extracellular domains.
+IL-7R
+IL-7R
+0
+Temporally following this growth arrest, the cells develop a senescence morphology and express senescence-associated beta-galactosidase ($T1$$T2$ (SA-beta-gal).
+SA-beta-gal
+beta-galactosidase
+0
+pRB, $T1$, p19(INK4d) and p27($T2$) decrease in both cell types.
+cyclin D
+KIP1
+0
+IL-7-driven proliferation is mediated via high affinity $T1$, and accordingly, Scatchard analysis revealed that, like the $T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+p90
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with PTF, consistent with the previous report of a $T2$-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TBP
+PTF
+0
+$T1$ was detected in beta 1 integrin immunoprecipitates and also in immunoprecipitates of $T2$ and syndecan, but not of cadherins.
+CD9
+CD44
+0
+We also show that RIP is a serine-threonine kinase that is recruited by $T1$ to $T2$ in a TNF-dependent process.
+TRADD
+TNFR1
+0
+$T1$ also interacts weakly with the p55 tumor necrosis factor receptor ($T2$) intracellular domain, but not with a mutant version of Fas corresponding to the murine lprcg mutation.
+RIP
+TNFR1
+1
+These analyses showed that the ability of PBMC to proliferate to $T1$ correlated with expression of the p76 IL-7R, and not with expression of the $T2$ IL-7R.
+IL-7
+p90
+0
+pRB, cyclin D, p19(INK4d) and $T1$($T2$) decrease in both cell types.
+p27
+KIP1
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 $T1$$T2$, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+IL-7R
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein $T2$.
+UBE2I
+UBL1
+1
+Thus, during p53-mediated suppression of cell proliferation, p21 and $T1$$T2$ and PCNA may be important for coordinating cell-cycle progression, DNA replication and repair of damaged DNA.
+PCNA
+p21
+0
+The interaction of UBE2I with $T1$ is mediated by $T2$'s self-association region.
+RAD52
+RAD52
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$$T2$), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+CIP1
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with $T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+These interactions are $T1$-specific, since another DNA repair-related ubiquitin-conjugating enzyme, $T2$ (UBC2), does not interact with these proteins.
+UBE2I
+RAD6
+0
+Delineation of the binding regions of these three proteins revealed that $T1$, RPB5, and $T2$ each has two binding regions for the other two proteins.
+HBx
+TFIIB
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+p15
+0
+Using the human $T1$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast $T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+RAD52
+UBC9
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+p53
+0
+Interaction domains were mapped to codons 374-400 for $T1$ and to codons 106-179 for $T2$, a region including the fourth GTP-binding domain.
+PS1
+Rab11
+1
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with $T1$$T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+RAD52
+UBC9
+0
+Reconstitution of the multiprotein complex of $T1$, hsp90, and $T2$ in a cell-free system.
+pp60src
+p50
+0
+Cross-family dimerization of transcription factors $T1$/Jun and $T2$/CREB alters DNA binding specificity.
+Fos
+ATF
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 $T1$$T2$-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+IL-7
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and $T1$$T2$ in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+TFIIB
+RPB5
+0
+Insulin receptor substrate 1 ($T1$) is a major substrate of the $T2$ and has been implicated in insulin signaling.
+IRS-1
+insulin receptor
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$ bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+IL-7R
+0
+Analysis of p53, p21($T1$), p15(INK4b), p16(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+CIP1
+KIP2
+0
+GAP-43 (neuromodulin, B-50, $T1$), a $T2$ (PKC) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+F1
+protein kinase C
+1
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF ($T1$$T2$ pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+upstream binding factor
+Rb
+0
+These results suggest that the RAD52-dependent processes, cell cycle control, p53-mediated pathway(s), and ubiquitination interact through human $T1$$T2$-dependent processes, cell cycle control, p53-mediated pathway(s), and ubiquitination interact through human UBE2I.
+UBE2I
+RAD52
+0
+RIP contains an N-terminal region with homology to protein kinases and a C-terminal region containing a cytoplasmic motif (death domain) present in the $T1$ and $T2$ intracellular domains.
+Fas
+TNFR1
+0
+SNX1 contains a region of homology to a yeast vacuolar sorting protein, and overexpression of SNX1 decreased the amount of $T1$$T2$ contains a region of homology to a yeast vacuolar sorting protein, and overexpression of SNX1 decreased the amount of EGFR on the cell surface as a result of enhanced rates of constitutive and ligand-induced degradation.
+EGFR
+SNX1
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of $T2$ and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+TBP
+0
+RIP: a novel protein containing a death domain that interacts with Fas/$T1$$T2$/APO-1 (CD95) in yeast and causes cell death.
+APO-1
+Fas
+0
+Antibodies to CD9 did not affect the proportion of keratinocytes that adhered to laminin 1, $T1$ and $T2$, but did inhibit motility of keratinocytes on tissue culture plastic.
+type IV collagen
+fibronectin
+0
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the $T1$ $T2$, and not with expression of the p90 IL-7R.
+p76
+IL-7R
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+p16
+0
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the $T1$$T2$ IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 IL-7R have different extracellular domains.
+p90
+p90
+0
+The death domain of tumor necrosis factor (TNF) receptor-1 ($T1$) triggers distinct signaling pathways leading to apoptosis and $T2$ activation through its interaction with the death domain protein TRADD.
+TNFR1
+NF-kappa B
+0
+The Fos/Jun and $T1$$T2$/Jun and ATF/CREB families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+ATF
+Fos
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/$T1$$T2$/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MACH
+FLICE
+0
+In this study, we used the two-hybrid assay of protein-protein interaction in the yeast Saccharomyces cerevisiae to study the interaction between human $T1$ and the $T2$.
+IRS-1
+insulin receptor
+1
+Other NH2-terminal residues directly modulate the affinity of $T1$ dimers for the $T2$ tethering site.
+RII beta
+AKAP75
+1
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$$T2$(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+p15
+0
+In vitro protein-RNA interaction studies with pre-mRNAs containing either a constitutive or regulated splicing enhancer revealed that U2AF35 directly mediates interactions between $T1$$T2$ directly mediates interactions between U2AF65 and proteins bound to the enhancers.
+U2AF65
+U2AF35
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+$T1$ (TTR), a second major CSF protein, formed SDS-stable complexes with $T2$ and significantly decreased the rate of A beta fibril formation.
+Transthyretin
+A beta
+1
+Immunoprecipitation studies confirm that the four $T1$ subunits originally found to copurify during conventional chromatography indeed form a tightly associated complex; they further show that the $T2$ so defined, including the gamma and delta subunits specifically, is essential for transcription of both class II and class III snRNA genes.
+PTF
+PTF
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+As previously shown with reticulocyte lysate-reconstituted steroid receptor heteroprotein complexes, the reconstituted pp60src multiprotein complex contains $T1$, which is a major candidate for providing the protein unfoldase activity required for $T2$ association.
+hsp70
+hsp90
+0
+RIP: a novel protein containing a death domain that interacts with $T1$/APO-1 ($T2$) in yeast and causes cell death.
+Fas
+CD95
+0
+Analysis of $T1$, p21(CIP1), p15(INK4b), p16(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p53
+KIP2
+0
+Analysis of p53, p21(CIP1), $T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p15
+p53
+0
+These data demonstrate that the p90 $T1$$T2$ IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 IL-7R have different extracellular domains.
+IL-7R
+p90
+0
+Native $T1$ and $T2$ formed a heterodimer in solution of physiological ionic strength with a free-energy change DeltaG degrees of -8.3 kcal/mol and a dissociation constant Kd of 0.6 microM (at 20 degrees C) that was ionic strength- and temperature-dependent.
+C8
+C9
+1
+Several genes are involved in this process, and two have been the focus of recent interest: the $T1$ ($T2$) gene and the genes coding for the vitamin D receptor.
+natural resistance-associated protein
+NRAMP1
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$ with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and $T1$$T2$ substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+TFIIB
+HBx
+0
+Associations of UBE2I with RAD52, $T1$, $T2$, and RAD51 proteins in a yeast two-hybrid system.
+UBL1
+p53
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+We postulate that the mechanism of bone induction is based on the secretion of bone morphogenetic proteins BMP-4 and $T1$$T2$ and BMP-6 by the grafted HeLa cells.
+BMP-6
+BMP-4
+0
+$T1$, cyclin D, p19(INK4d) and p27($T2$) decrease in both cell types.
+pRB
+KIP1
+0
+We report an interaction between the human PS1 or $T1$ hydrophilic loop and $T2$, a small GTPase belonging to the Ras-related superfamily.
+PS2
+Rab11
+1
+The results are not due to general misfolding since mutant $T1$ monomers bind cAMP and inhibit the catalytic subunit of PKAII beta with the same affinity and efficacy as wild-type $T2$ dimers.
+RII beta
+RII beta
+0
+GAP-43 (neuromodulin, $T1$, F1), a protein kinase C ($T2$) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+B-50
+PKC
+1
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 $T1$$T2$ IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 IL-7R have different extracellular domains.
+IL-7R
+p90
+0
+These findings indicate that the $T1$/Jun and ATF/$T2$ families of transcription factors are not as distinct as was previously thought.
+Fos
+CREB
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+pRB, cyclin D, $T1$($T2$) and p27(KIP1) decrease in both cell types.
+p19
+INK4d
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+The crystal structure of the homodimeric BB isoform of human recombinant platelet-derived growth factor ($T1$$T2$ (PDGF-BB) has been determined by X-ray analysis to 3.0 A resolution.
+PDGF-BB
+BB isoform of human recombinant platelet-derived growth factor
+0
+Enhanced degradation of $T1$ receptors by a sorting nexin, $T2$.
+EGF
+SNX1
+0
+Analysis of p53, $T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p21
+p53
+0
+$T1$ protein interacts with CSB protein and with $T2$ protein, a subunit of the human RNA polymerase II transcription factor IIH.
+CSA
+p44
+1
+Enhanced degradation of EGF receptors by a sorting nexin, $T1$$T2$, SNX1.
+SNX1
+nexin
+0
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the $T1$ IL-7R, and not with expression of the $T2$ IL-7R.
+p76
+p90
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned $T1$$T2$ IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+p76
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, $T1$$T2$, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+RIP
+MORT
+0
+These findings indicate that the Fos/$T1$ and ATF/$T2$ families of transcription factors are not as distinct as was previously thought.
+Jun
+CREB
+0
+$T1$ also interacts weakly with the $T2$ tumor necrosis factor receptor (TNFR1) intracellular domain, but not with a mutant version of Fas corresponding to the murine lprcg mutation.
+RIP
+p55
+0
+In addition, $T1$ in the lysate complexes with wild-type pp60v-src, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, $T2$, which has never been recovered in cytosol in the form of a native multiprotein complex with hsp90.
+hsp90
+pp60c-src
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+p90
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+TBP
+PTF
+0
+$T1$ is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins, such as the E2A gene products E12 and $T2$.
+Myogenin
+E47
+1
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and $T1$$T2$ is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and TFIIB.
+TFIIB
+HBx
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$ IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+p76
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, $T1$$T2$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+RAD51
+RAD52
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, $T1$$T2$/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+FLICE
+FADD
+0
+Antibodies to $T1$ did not affect the proportion of keratinocytes that adhered to $T2$, type IV collagen and fibronectin, but did inhibit motility of keratinocytes on tissue culture plastic.
+CD9
+laminin 1
+0
+Cross-family dimerization of transcription factors Fos/Jun and $T1$$T2$ and ATF/CREB alters DNA binding specificity.
+ATF
+Jun
+0
+$T1$ was significantly more potent than $T2$ in both atrial (P < 0.001) and ventricular (P < 0.05) trabeculae.
+ET-1
+ET-3
+0
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of $T1$: $T2$ itself, and a novel 74 kDa protein we have named RIP, for receptor interacting protein.
+Fas
+Fas
+1
+TNF-dependent recruitment of the protein kinase $T1$ to the $T2$ signaling complex.
+RIP
+TNF receptor-1
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16(INK4a), and $T1$($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p57
+KIP2
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with $T1$$T2$ protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+RAD52
+RAD52
+0
+These data demonstrate that the p90 $T1$ is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 $T2$ have different extracellular domains.
+IL-7R
+IL-7R
+0
+As previously shown with reticulocyte lysate-reconstituted steroid receptor heteroprotein complexes, the reconstituted $T1$ multiprotein complex contains $T2$, which is a major candidate for providing the protein unfoldase activity required for hsp90 association.
+pp60src
+hsp70
+1
+We find that p53, p21(CIP1) and p15($T1$$T2$(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+INK4b
+p15
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a $T1$-related complex (SNAPc) containing substoichiometric levels of $T2$ and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+PTF
+TBP
+0
+Levels of $T1$(INK4a) and p57(KIP2) rise in HUCs during progressive passages, whereas only $T2$ increases in HPEC cultures.
+p16
+p16
+0
+These results suggest that the RAD52-dependent processes, cell cycle control, $T1$$T2$-dependent processes, cell cycle control, p53-mediated pathway(s), and ubiquitination interact through human UBE2I.
+p53
+RAD52
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+In addition, PCR analysis of $T1$-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the $T2$ IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+p76
+p76
+0
+The results show that $T1$ heterodimerizes with E12 and $T2$ in vivo, but it does not homodimerize to a measurable extent.
+myogenin
+E47
+1
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the $T1$ and p76 $T2$ have different extracellular domains.
+p90
+IL-7R
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$ and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+The protein encoded by the $T1$ ($T2$) functions as a tumour suppressor and negative growth regulator.
+retinoblastoma susceptibility gene
+Rb
+0
+Analysis of p53, p21(CIP1), p15(INK4b), $T1$$T2$), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p16
+INK4b
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both $T1$$T2$ substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+RPB5
+HBx
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+Characterization of a novel high affinity human $T1$$T2$.
+IL-7
+IL-7 receptor
+0
+$T1$ interacts with protein phosphatases PP2A and $T2$ and disrupts a G2/M cell-cycle checkpoint.
+HOX11
+PP1
+1
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$ in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+$T1$ and $T2$ specifically bound to transcription factor IIB (TFIIB) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+HBx
+RPB5
+0
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and $T1$$T2$ through communication with RPB5 and TFIIB.
+TFIIB
+TFIIB
+0
+As $T1$ forms complexes with beta 1 integrins and the integrins are known to regulate keratinocyte behaviour, we investigated $T2$ expression and function in human epidermal keratinocytes.
+CD9
+CD9
+0
+Preincubation with the $T1$ antagonist FR139317 (1 microM) decreased significantly (P < 0.005) the potency of $T2$ in both atrial and ventricular trabeculae, without any significant changes in Emax (maximum effect obtained with an agonist).
+ET(A) receptor
+ET- I
+0
+These proteins, 14-3-3 zeta ($T1$) and $T2$ (HS1), are members of the 14-3-3 family of proteins.
+PLA2
+14-3-3 beta
+0
+Analysis of p53, $T1$(CIP1), p15(INK4b), p16(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p21
+KIP2
+0
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned $T1$$T2$ IL-7R is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 IL-7R have different extracellular domains.
+IL-7R
+p90
+0
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the p76 $T1$, and not with expression of the $T2$ IL-7R.
+IL-7R
+p90
+0
+We find that p53, p21(CIP1) and p15($T1$$T2$(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+INK4b
+p21
+0
+Native $T1$ also formed a heterodimer with $T2$,and low concentrations of polyionic ligands such as protamine and suramin inhibited the interaction.
+C8
+C5
+1
+Levels of p16(INK4a) and $T1$$T2$(INK4a) and p57(KIP2) rise in HUCs during progressive passages, whereas only p16 increases in HPEC cultures.
+p57
+p16
+0
+Several genes are involved in this process, and two have been the focus of recent interest: the natural resistance-associated protein (NRAMP1) gene and the genes coding for the $T1$$T2$) gene and the genes coding for the vitamin D receptor.
+vitamin D receptor
+NRAMP1
+0
+Here we report that (1) there is an accumulation of $T1$ protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF ($T2$) in vitro.
+Rb
+upstream binding factor
+0
+We now report the isolation and expression of cDNAs encoding $T1$ gamma and $T2$ delta, as well as functional studies with cognate antibodies that recognize the native PTF complex in HeLa extracts.
+PTF
+PTF
+0
+Thus, during p53-mediated suppression of cell proliferation, p21 and $T1$$T2$-mediated suppression of cell proliferation, p21 and PCNA may be important for coordinating cell-cycle progression, DNA replication and repair of damaged DNA.
+PCNA
+p53
+0
+We find that p53, p21(CIP1) and $T1$$T2$, p21(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+p15
+p53
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or $T1$$T2$ or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+RPB5
+TFIIB
+0
+We demonstrate that $T1$ forms a specific complex with the cytoplasmic domain of the $T2$ when both are expressed as hybrid proteins in yeast cells.
+IRS-1
+insulin receptor
+1
+Associations of $T1$ with RAD52, UBL1, p53, and $T2$ proteins in a yeast two-hybrid system.
+UBE2I
+RAD51
+1
+In addition, hsp90 in the lysate complexes with wild-type $T1$, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, pp60c-src, which has never been recovered in cytosol in the form of a native multiprotein complex with $T2$.
+pp60v-src
+hsp90
+0
+$T1$, cyclin D, $T2$(INK4d) and p27(KIP1) decrease in both cell types.
+pRB
+p19
+0
+Here we report that (1) there is an accumulation of $T1$ protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) $T2$ specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+Here we report that (1) there is an accumulation of $T1$ protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional $T2$ pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+Mutagenesis of the regulatory subunit (RII beta) of cAMP-dependent protein kinase II beta reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring $T1$$T2$ reveals hydrophobic amino acids that are essential for RII beta dimerization and/or anchoring RII beta to the cytoskeleton.
+RII beta
+cAMP-dependent protein kinase II beta
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, $T1$, $T2$, and a ubiquitin-like protein UBL1.
+RAD51
+p53
+0
+Here, we quantitatively mapped the complete binding region of $T1$ on $T2$ by 35 individual mutations to alanine and isosteric residues.
+ifnar2
+interferon (IFN)alpha2
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound $T1$$T2$-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+IL-7
+0
+We observed that the protein $T1$ interacted with protein $T2$ (PP2AC), as well as protein phosphatase 1 (PP1C) in mammalian cells.
+HOX11
+serine-threonine phosphatase 2A catalytic subunit
+1
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$, that interacts with $T2$, RAD51, p53, and a ubiquitin-like protein UBL1.
+UBE2I
+RAD52
+1
+These findings indicate that the $T1$/Jun and $T2$/CREB families of transcription factors are not as distinct as was previously thought.
+Fos
+ATF
+0
+There was extensive co-localisation of $T1$ and beta 1 integrins on microvilli and at cell-cell borders of basal keratinocytes; however, in contrast to the integrins, $T2$ was not found in focal adhesions.
+CD9
+CD9
+0
+A rabbit reticulocyte lysate system that has been used to reconstitute functional complexes between steroid receptors and the 90-kDa heat shock protein ($T1$) has been used here to form complexes between the $T2$ tyrosine kinase and hsp90.
+hsp90
+pp60src
+0
+Analysis of p53, p21($T1$), p15(INK4b), p16(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+CIP1
+p57
+0
+A secondary consequence of destabilizing RII beta dimers is the loss of intracellular targeting/anchoring capacity because monomers fail to bind $T1$$T2$ dimers is the loss of intracellular targeting/anchoring capacity because monomers fail to bind AKAP75.
+AKAP75
+RII beta
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Temporally following this growth arrest, the cells develop a senescence morphology and express $T1$$T2$ (SA-beta-gal).
+senescence-associated beta-galactosidase
+beta-galactosidase
+0
+Expression of 14-3-3 proteins in Xenopus oocytes enhanced $T1$ activity and promoted $T2$-dependent oocyte maturation.
+Raf-1
+Raf-1
+0
+$T1$ (IRS-1) is a major substrate of the $T2$ and has been implicated in insulin signaling.
+Insulin receptor substrate 1
+insulin receptor
+1
+Analysis of p53, p21(CIP1), $T1$(INK4b), p16(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p15
+p57
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, $T1$, FLICE/MACH, and TRAFs) associated with both of the p60 and $T2$ forms of the TNF receptor and with other members of the TNF receptor superfamily.
+RIP
+p80
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex ($T1$) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the $T2$ gamma reported here.
+SNAPc
+PTF
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of $T1$ to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) $T2$ specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+These results indicated that HBx is a novel virus modulator that facilitates transcriptional initiation by stabilizing the association between RNA polymerase and TFIIB through communication with RPB5 and $T1$$T2$ and TFIIB.
+TFIIB
+RPB5
+0
+pRB, cyclin D, $T1$(INK4d) and $T2$(KIP1) decrease in both cell types.
+p19
+p27
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with $T2$, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TBP
+PTF
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$, that interacts with RAD52, RAD51, $T2$, and a ubiquitin-like protein UBL1.
+UBE2I
+p53
+1
+GAP-43 (neuromodulin, $T1$, F1), a $T2$ (PKC) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+B-50
+protein kinase C
+1
+For the calibration, we used two sets of proteins, the $T1$-$T2$-Mxi1 helix-loop-helix proteins, and wild-type and dimerization-defective versions of the lambda cI repressor.
+Myc
+Max
+0
+$T1$ induces chemotaxis and adhesion by interacting with CCR1 and $T2$.
+LEC
+CCR8
+1
+$T1$: a novel protein containing a death domain that interacts with Fas/APO-1 ($T2$) in yeast and causes cell death.
+RIP
+CD95
+1
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with $T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with $T1$, RAD51, p53, and a ubiquitin-like protein $T2$.
+RAD52
+UBL1
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the $T1$$T2$, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+p76
+IL-7R
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+Associations of UBE2I with RAD52, UBL1, $T1$, and $T2$ proteins in a yeast two-hybrid system.
+p53
+RAD51
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of $T1$ to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional $T2$ pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor UBF (upstream binding factor) in vitro.
+Rb
+Rb
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that $T1$$T2$ or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+HBx
+TFIIB
+0
+Surprisingly, the N-terminal third of $T1$ alone bound $T2$ more strongly than did intact GAP-43, suggesting that the protein's C-terminus may play a role in modulating the interaction with CaM.
+GAP-43
+CaM
+1
+Analysis of p53, p21($T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+CIP1
+p53
+0
+In neurons cAMP-dependent protein kinase II beta ($T1$$T2$ (PKAII beta) is sequestered in the dendritic cytoskeleton because the regulatory subunit (RII beta) of the enzyme is tightly bound by A Kinase Anchor Proteins (AKAPs).
+PKAII beta
+cAMP-dependent protein kinase II beta
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable $T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, $T1$$T2$, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+RIP
+TRADD
+0
+Associations of UBE2I with $T1$, UBL1, p53, and $T2$ proteins in a yeast two-hybrid system.
+RAD52
+RAD51
+0
+Analysis of p53, p21(CIP1), $T1$(INK4b), p16(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p15
+KIP2
+0
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either $T1$$T2$ substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+TFIIB
+HBx
+0
+Endothelin-1 ($T1$$T2$ (ET-1) and ET-3 had a strong positive inotropic effect in all trabeculae.
+ET-1
+Endothelin-1
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned $T1$$T2$ is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+IL-7R
+0
+We observed that the protein $T1$ interacted with protein serine-threonine phosphatase 2A catalytic subunit (PP2AC), as well as $T2$ (PP1C) in mammalian cells.
+HOX11
+protein phosphatase 1
+1
+Evidently, large hydrophobic side chains of Leu13 and Phe36 play pivotal roles in stabilizing $T1$-$T2$ interactions.
+RII beta
+RII beta
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of $T1$ and a component ($T2$) identical in sequence to the PTF gamma reported here.
+TBP
+SNAPc43
+0
+pRB, $T1$, p19($T2$) and p27(KIP1) decrease in both cell types.
+cyclin D
+INK4d
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with $T1$, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component ($T2$) identical in sequence to the PTF gamma reported here.
+PTF
+SNAPc43
+0
+Here we report that (1) there is an accumulation of Rb protein in the nucleoli of differentiated U937 cells which correlates with inhibition of rDNA transcription; (2) addition of Rb to an in vitro transcription system inhibits transcription by RNA polymerase I; (3) this inhibition requires a functional Rb pocket; and (4) Rb specifically inhibits the activity of the RNA polymerase I transcription factor $T1$ ($T2$) in vitro.
+UBF
+upstream binding factor
+0
+These proteins, $T1$ (PLA2) and $T2$ (HS1), are members of the 14-3-3 family of proteins.
+14-3-3 zeta
+14-3-3 beta
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, $T1$$T2$, designated UBE2I, that interacts with RAD52, RAD51, p53, and a ubiquitin-like protein UBL1.
+RAD51
+UBC9
+0
+Interestingly, the $T1$ binding site overlaps the largest continuous hydrophobic patch on $T2$.
+ifnar2
+IFNalpha2
+1
+These proteins, 14-3-3 zeta (PLA2) and $T1$ ($T2$), are members of the 14-3-3 family of proteins.
+14-3-3 beta
+HS1
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein ($T1$) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of $T2$ and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TBP
+TBP
+0
+In addition, we show that in extracts depleted of $T1$ and $T2$-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TBP
+0
+$T1$ was associated with alpha 3 beta 1 but not alpha 5 beta 1; small amounts of $T2$ also co-immunoprecipitated with antibodies to alpha 2 beta 1 and alpha 6 beta 4.
+CD9
+CD9
+0
+HBx and RPB5 specifically bound to $T1$ ($T2$) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+transcription factor IIB
+TFIIB
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$ delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable $T1$$T2$ with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+These analyses showed that the ability of PBMC to proliferate to $T1$ correlated with expression of the $T2$ IL-7R, and not with expression of the p90 IL-7R.
+IL-7
+p76
+0
+$T1$ ($T2$) is a major substrate of the insulin receptor and has been implicated in insulin signaling.
+Insulin receptor substrate 1
+IRS-1
+0
+The native and reconstituted $T1$-$T2$ complexes have similar thermal stability and, like steroid receptor heterocomplexes, they are stabilized by molybdate.
+pp60src
+hsp90
+1
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 $T1$$T2$, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+IL-7R
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of $T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+For the calibration, we used two sets of proteins, the $T1$-Max-$T2$ helix-loop-helix proteins, and wild-type and dimerization-defective versions of the lambda cI repressor.
+Myc
+Mxi1
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$ gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/$T1$$T2$, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+MACH
+RIP
+0
+$T1$ (neuromodulin, B-50, F1), a protein kinase C ($T2$) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+GAP-43
+PKC
+1
+Associations of $T1$ with RAD52, UBL1, $T2$, and RAD51 proteins in a yeast two-hybrid system.
+UBE2I
+p53
+1
+Enhanced degradation of $T1$ receptors by a sorting $T2$, SNX1.
+EGF
+nexin
+0
+The specificity of intehraction between $T1$ and $T2$ was confirmed by an in vitro binding assay using recombinant proteins.
+G alpha i2
+nucleobindin
+1
+In this context, we examined the possibility that $T1$ and $T2$ interact with other general transcription factors.
+HBx
+RPB5
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 $T1$$T2$ IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+p76
+0
+These findings indicate that the Fos/$T1$ and $T2$/CREB families of transcription factors are not as distinct as was previously thought.
+Jun
+ATF
+0
+Replacement of Val20-Leu21 with Ala-Ala produced a dimeric RII beta protein that binds AKAP75 approximately 4% as avidly as wild-type $T1$$T2$ protein that binds AKAP75 approximately 4% as avidly as wild-type RII beta.
+RII beta
+RII beta
+0
+Insulin receptor substrate 1 (IRS-1) is a major substrate of the insulin receptor and has been implicated in $T1$$T2$) is a major substrate of the insulin receptor and has been implicated in insulin signaling.
+insulin
+IRS-1
+0
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the $T1$ IL-7R, and not with expression of the p90 $T2$.
+p76
+IL-7R
+0
+The prototypic neuronal anchor protein $T1$ has a COOH-terminal 22-residue $T2$ binding (tethering) site.
+AKAP75
+RII beta
+1
+Associations of UBE2I with $T1$, UBL1, $T2$, and RAD51 proteins in a yeast two-hybrid system.
+RAD52
+p53
+0
+The pleiotropic biological activities of $T1$ (IL-1) are mediated by its type I receptor ($T2$).
+interleukin-1
+IL-1RI
+1
+Positive inotropic responses mediated by endothelin $T1$ and $T2$ receptors in human myocardial trabeculae.
+ET(A)
+ET(B)
+0
+$T1$ binds specifically to 3' splice sites, but previous studies failed to demonstrate a function for $T2$.
+U2AF65
+U2AF35
+0
+$T1$ (IRS-1) is a major substrate of the insulin receptor and has been implicated in $T2$ signaling.
+Insulin receptor substrate 1
+insulin
+0
+$T1$ phosphorylates $T2$ on serine 41.
+PKC
+GAP-43
+1
+In normal human cells, but not in many tumour cells, p21 exists in a quaternary complex with a cyclin, a CDK, and the $T1$ ($T2$).
+proliferating-cell nuclear antigen
+PCNA
+0
+The results are not due to general misfolding since mutant RII beta monomers bind cAMP and inhibit the catalytic subunit of $T1$ with the same affinity and efficacy as wild-type $T2$ dimers.
+PKAII beta
+RII beta
+0
+The interaction of $T1$ with $T2$ is mediated by RAD52's self-association region.
+UBE2I
+RAD52
+1
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of Fas: Fas itself, and a novel 74 kDa protein we have named $T1$, for $T2$.
+RIP
+receptor interacting protein
+0
+Although IRS-1 is thought to interact with the $T1$$T2$, the nature of the interaction has not been defined.
+insulin
+insulin receptor
+0
+Endothelin-1 ($T1$) and $T2$ had a strong positive inotropic effect in all trabeculae.
+ET-1
+ET-3
+0
+A protein, sorting nexin-1 (SNX1), was identified in a human cell line that bound to a region of the $T1$ ($T2$) containing the lysosomal targeting code.
+epidermal growth factor receptor
+EGFR
+0
+This overview summarizes the current knowledge on $T1$ ($T2$) in the progression of atherosclerosis and the influence of MMPs in aneurysm formation.
+plasminogen activator inhibitor-1
+PAI-1
+0
+Our finding that HBx directly interacts with $T1$ ($T2$), a common subunit of RNA polymerases, implies that HBx directly modulates the function of RNA polymerase (Cheong, J. H., Yi, M., Lin, Y., and Murakami, S. (1995) EMBO J.
+RNA polymerase II subunit 5
+RPB5
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$ in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+PTF
+0
+$T1$ also interacts weakly with the p55 tumor necrosis factor receptor (TNFR1) intracellular domain, but not with a mutant version of $T2$ corresponding to the murine lprcg mutation.
+RIP
+Fas
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$$T2$), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+INK4b
+0
+We now report the isolation and expression of cDNAs encoding PTF gamma and $T1$ delta, as well as functional studies with cognate antibodies that recognize the native $T2$ complex in HeLa extracts.
+PTF
+PTF
+0
+$T1$n ($T2$) transactivates viral and cellular genes through a wide variety of cis-elements.
+Hepatitis B virus X protei
+HBx
+0
+Using site-directed mutagenesis and computer-assisted modelling, we identified amino acid residues on the surface of the $T1$ monomer that interact with $T2$.
+TTR
+A beta
+1
+These proteins, 14-3-3 zeta ($T1$) and 14-3-3 beta ($T2$), are members of the 14-3-3 family of proteins.
+PLA2
+HS1
+0
+Thus, $T1$ functions as a bridge between $T2$ and the enhancer complex to recruit U2AF65 to the adjacent intron.
+U2AF35
+U2AF65
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound $T1$$T2$-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+PTF
+TBP
+0
+We find that p53, p21($T1$$T2$, p21(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+CIP1
+p53
+0
+We previously have shown that PTF purified from human HeLa cells is a multisubunit complex of four polypeptides designated $T1$$T2$ purified from human HeLa cells is a multisubunit complex of four polypeptides designated PTF alpha, -beta, -gamma, and -delta.
+PTF alpha
+PTF
+0
+In addition, a possible role for Gas6, the product of $T1$$T2$, the product of growth arrest-specific gene 6, in atherosclerotic lesion development is put into perspective.
+growth arrest-specific gene 6
+Gas6
+0
+Nuclear extracts deficient in $T1$ were inactive; however, both constitutive and enhancer-dependent splicing could be restored by the addition of purified recombinant $T2$.
+U2AF35
+U2AF35
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-$T1$$T2$ with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+The results are not due to general misfolding since mutant $T1$ monomers bind cAMP and inhibit the catalytic subunit of $T2$ with the same affinity and efficacy as wild-type RII beta dimers.
+RII beta
+PKAII beta
+0
+$T1$ contains an N-terminal region with homology to protein kinases and a C-terminal region containing a cytoplasmic motif (death domain) present in the Fas and $T2$ intracellular domains.
+RIP
+TNFR1
+0
+$T1$-driven proliferation is mediated via high affinity $T2$, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7
+IL-7R
+0
+These data demonstrate that the p90 IL-7R is the T-cell homologue of the cloned $T1$$T2$ is the T-cell homologue of the cloned IL-7R, and imply that the p90 and p76 IL-7R have different extracellular domains.
+IL-7R
+IL-7R
+0
+Levels of p16($T1$) and p57(KIP2) rise in HUCs during progressive passages, whereas only $T2$ increases in HPEC cultures.
+INK4a
+p16
+0
+Analysis of p53, p21(CIP1), p15($T1$$T2$, p21(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+p53
+0
+Analysis of p53, p21($T1$$T2$(CIP1), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+CIP1
+p21
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with PTF, consistent with the previous report of a PTF-related complex ($T2$) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+SNAPc
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the $T1$ and $T2$ forms of the TNF receptor and with other members of the TNF receptor superfamily.
+p60
+p80
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable $T1$$T2$ in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+PTF
+0
+Thus, U2AF35 functions as a bridge between $T1$ and the enhancer complex to recruit $T2$ to the adjacent intron.
+U2AF65
+U2AF65
+0
+In addition, PCR analysis of $T1$-expressing cells could not detect splicing of the extracellular domain of the cloned $T2$, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+p76
+IL-7R
+0
+A protein, $T1$ ($T2$), was identified in a human cell line that bound to a region of the epidermal growth factor receptor (EGFR) containing the lysosomal targeting code.
+sorting nexin-1
+SNX1
+0
+Like antibodies to the $T1$ subunit, anti-$T2$ inhibited suspension-induced terminal differentiation.
+beta 1 integrin
+CD9
+0
+We find that $T1$, $T2$(CIP1) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+p53
+p21
+0
+Reconstitution of the multiprotein complex of $T1$, $T2$, and p50 in a cell-free system.
+pp60src
+hsp90
+1
+Here, we show that $T1$ interacts strongly with RIP, another death domain protein that was shown previously to associate with $T2$ antigen.
+TRADD
+Fas
+0
+$T1$ controls CDK activity, thereby affecting cell-cycle control, whereas $T2$ functions in both DNA replication and repair.
+p21
+PCNA
+0
+Analysis of p53, p21(CIP1), p15(INK4b), p16($T1$), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4a
+KIP2
+0
+In agreement, mAb to the previously cloned IL-7R were found to stain unstimulated T cells that express only the p90 IL-7R but not T-cell clones that express predominantly the $T1$ $T2$.
+p76
+IL-7R
+0
+In addition, we show that in extracts depleted of TBP and $T1$-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by $T2$ or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TFIID
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 $T1$$T2$ IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+p76
+0
+Replacement of Val20-Leu21 with Ala-Ala produced a dimeric $T1$ protein that binds $T2$ approximately 4% as avidly as wild-type RII beta.
+RII beta
+AKAP75
+1
+Although Fos/Jun and $T1$/$T2$ were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+ATF
+CREB
+0
+The proximal sequence element (PSE)-binding transcription factor ($T1$$T2$ (PTF) specifically recognizes the PSEs of both RNA polymerase II- and RNA polymerase III-transcribed small nuclear RNA (snRNA) genes.
+PTF
+proximal sequence element (PSE)-binding transcription factor
+0
+$T1$ (neuromodulin, B-50, F1), a $T2$ (PKC) substrate important for the growth and plasticity of neuronal connections, has been implicated in vitro in several signal transduction pathways.
+GAP-43
+protein kinase C
+1
+Temporally following this growth arrest, the cells develop a senescence morphology and express senescence-associated beta-galactosidase ($T1$$T2$ (SA-beta-gal).
+SA-beta-gal
+senescence-associated beta-galactosidase
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, $T1$, $T2$/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+RIP
+FLICE
+0
+The Fos/$T1$ and $T2$/CREB families of transcription factors function in coupling extracellular signals to alterations in expression of specific target genes.
+Jun
+ATF
+0
+Overexpression of the intact $T1$ protein induces both $T2$ activation and apoptosis.
+RIP
+NF-kappa B
+0
+In addition we have been able to identify complexes of $T1$ and $T2$ in vivo that are dissociated in the presence of purified human papillomavirus E7 protein.
+pRB
+RBP1
+1
+pRB, $T1$, p19(INK4d) and $T2$(KIP1) decrease in both cell types.
+cyclin D
+p27
+0
+Thus, during $T1$-mediated suppression of cell proliferation, $T2$ and PCNA may be important for coordinating cell-cycle progression, DNA replication and repair of damaged DNA.
+p53
+p21
+0
+RIP also interacts weakly with the $T1$ tumor necrosis factor receptor (TNFR1) intracellular domain, but not with a mutant version of $T2$ corresponding to the murine lprcg mutation.
+p55
+Fas
+0
+$T1$, cyclin D, p19($T2$) and p27(KIP1) decrease in both cell types.
+pRB
+INK4d
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the p76 $T1$$T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+p90
+0
+These interactions are $T1$-specific, since another DNA repair-related ubiquitin-conjugating enzyme, RAD6 ($T2$), does not interact with these proteins.
+UBE2I
+UBC2
+0
+Analysis of p53, p21(CIP1), p15($T1$), p16(INK4a), and $T2$(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+p57
+0
+When human embryonic kidney cells (cell line 293) over-expressing IL-1RI or HeLa cells were exposed to IL-1, $T1$ rapidly associated with the $T2$ complex and was phosphorylated.
+IRAK
+IL-1RI
+1
+Ligation of the extracellular domain of the cell surface receptor Fas/APO-1 ($T1$$T2$/APO-1 (CD95) elicits a characteristic programmed death response in susceptible cells.
+CD95
+Fas
+0
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with $T1$, consistent with the previous report of a $T2$-related complex (SNAPc) containing substoichiometric levels of TBP and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+PTF
+PTF
+0
+Interaction of $T1$ with $T2$: binding and inhibition of amyloid formation.
+transthyretin
+amyloid beta-protein
+1
+A rabbit reticulocyte lysate system that has been used to reconstitute functional complexes between steroid receptors and the 90-kDa heat shock protein (hsp90) has been used here to form complexes between the $T1$ tyrosine kinase and $T2$.
+pp60src
+hsp90
+1
+Analysis of p53, p21(CIP1), p15($T1$), p16(INK4a), and p57($T2$) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+KIP2
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 $T1$$T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+IL-7R
+p90
+0
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated $T1$, that interacts with RAD52, $T2$, p53, and a ubiquitin-like protein UBL1.
+UBE2I
+RAD51
+1
+Replacement of Val20-Leu21 with Ala-Ala produced a dimeric RII beta protein that binds AKAP75 approximately 4% as avidly as wild-type $T1$$T2$ approximately 4% as avidly as wild-type RII beta.
+RII beta
+AKAP75
+0
+Using a genetic selection based on protein-protein interaction in yeast, we have identified two gene products that associate with the intracellular domain of $T1$: Fas itself, and a novel 74 kDa protein we have named $T2$, for receptor interacting protein.
+Fas
+RIP
+1
+Analysis of p53, p21(CIP1), $T1$$T2$), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+p15
+CIP1
+0
+Although $T1$ is thought to interact with the $T2$, the nature of the interaction has not been defined.
+IRS-1
+insulin receptor
+1
+Using the human RAD52 protein as the "bait" in a yeast two-hybrid system, we have identified a human homolog of yeast UBC9, designated UBE2I, that interacts with RAD52, $T1$, p53, and a ubiquitin-like protein $T2$.
+RAD51
+UBL1
+0
+We have now isolated cDNA clones that contain the full-length coding sequence of two other proteins, RBP1 and $T1$, cloned originally by their interaction with $T2$.
+RBP2
+pRB
+1
+The death domain of $T1$ (TNFR1) triggers distinct signaling pathways leading to apoptosis and $T2$ activation through its interaction with the death domain protein TRADD.
+tumor necrosis factor (TNF) receptor-1
+NF-kappa B
+0
+A van't Hoff plot of the change in Kd was linear between 10 and 37 degrees C and yielded values of DeltaH degrees = -12.9 kcal/mol and DeltaS degrees = -15.9 cal mol-1 deg-1, suggesting that electrostatic forces play a prominent role in the interaction of $T1$ with $T2$.
+C8
+C9
+1
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or $T1$$T2$ or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TFIIIB
+TFIID
+0
+$T1$: a kinase associated with the $T2$.
+IRAK
+interleukin-1 receptor
+1
+These analyses showed that the ability of PBMC to proliferate to IL-7 correlated with expression of the p76 $T1$, and not with expression of the p90 $T2$.
+IL-7R
+IL-7R
+0
+Insulin receptor substrate 1 (IRS-1) is a major substrate of the insulin receptor and has been implicated in $T1$$T2$ and has been implicated in insulin signaling.
+insulin
+insulin receptor
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, $T1$$T2$, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+FLICE
+TRADD
+0
+Levels of p16(INK4a) and $T1$(KIP2) rise in HUCs during progressive passages, whereas only $T2$ increases in HPEC cultures.
+p57
+p16
+0
+We also show that $T1$ is a serine-threonine kinase that is recruited by TRADD to $T2$ in a TNF-dependent process.
+RIP
+TNFR1
+0
+However, expression of the death domain of $T1$ Induces apoptosis, but potently inhibits $T2$ activation by TNF.
+RIP
+NF-kappa B
+0
+Antibodies to CD9 did not affect the proportion of keratinocytes that adhered to $T1$, type IV collagen and $T2$, but did inhibit motility of keratinocytes on tissue culture plastic.
+laminin 1
+fibronectin
+0
+Surprisingly, the N-terminal third of GAP-43 alone bound $T1$ more strongly than did intact $T2$, suggesting that the protein's C-terminus may play a role in modulating the interaction with CaM.
+CaM
+GAP-43
+1
+In addition, we show that in extracts depleted of TBP and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or $T1$$T2$-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TFIIIB
+TBP
+0
+pRB, cyclin D, p19($T1$) and $T2$(KIP1) decrease in both cell types.
+INK4d
+p27
+0
+The pleiotropic biological activities of interleukin-1 ($T1$) are mediated by its type I receptor ($T2$).
+IL-1
+IL-1RI
+1
+Analysis of p53, p21(CIP1), p15($T1$$T2$(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+p15
+0
+In addition, hsp90 in the lysate complexes with wild-type pp60v-src, of which only a small portion is normally recovered in cytosol in the native multiprotein complex, and with the cellular homolog, $T1$, which has never been recovered in cytosol in the form of a native multiprotein complex with $T2$.
+pp60c-src
+hsp90
+0
+$T1$ interacts with $T2$ and SDF-1 with CXCR4 receptors.
+RANTES
+CCR5
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the $T1$ (TBP) with PTF, consistent with the previous report of a PTF-related complex (SNAPc) containing substoichiometric levels of TBP and a component ($T2$) identical in sequence to the PTF gamma reported here.
+TATA-binding protein
+SNAPc43
+0
+Glutathione S-transferase pulldown assays further indicate relatively strong direct interactions of both recombinant PTF gamma and PTF delta with TBP, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound $T1$$T2$, consistent either with the natural association of TBP with PTF in a semistable TBP-TBP-associated factor complex or with possible functional interactions between PSE-bound PTF and TATA-bound TBP during promoter activation.
+TBP
+TBP
+0
+We report an interaction between the human $T1$ or PS2 hydrophilic loop and $T2$, a small GTPase belonging to the Ras-related superfamily.
+PS1
+Rab11
+1
+Immunoprecipitation assays also show a weak substoichiometric association of the TATA-binding protein (TBP) with PTF, consistent with the previous report of a PTF-related complex ($T1$) containing substoichiometric levels of $T2$ and a component (SNAPc43) identical in sequence to the PTF gamma reported here.
+SNAPc
+TBP
+0
+Although Fos/$T1$ and $T2$/CREB were previously thought to interact preferentially with different DNA regulatory elements (the AP-1/TRE and ATF/CRE sites, respectively), we find that members of these two families form selective cross-family heterodimers.
+Jun
+ATF
+0
+In addition, we show that in extracts depleted of $T1$ and TBP-associated factors, transcription from the U1 promoter is restored by recombinant TBP but not by TFIID or $T2$, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TFIIIB
+0
+IL-7-driven proliferation is mediated via high affinity IL-7R, and accordingly, Scatchard analysis revealed that, like the p90 IL-7R, the $T1$$T2$ IL-7R, the p76 IL-7R bound IL-7 with dual (high; Kd 38 pM and low; Kd 360 pM) affinity.
+p76
+p90
+0
+In addition, PCR analysis of p76-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 $T1$$T2$-expressing cells could not detect splicing of the extracellular domain of the cloned IL-7R, thereby excluding the possibility that the p76 IL-7R is a previously undescribed splice variant of the cloned IL-7R.
+IL-7R
+p76
+0
+Endogenous $T1$-$T2$ complexes were detected in human CSF by immunoprecipitation.
+TTR
+A beta
+1
+Some HBx substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that $T1$$T2$ substitution mutants, which had severely impaired transacting activity, exhibited reduced binding affinity with either TFIIB or RPB5 in a mutually exclusive manner, suggesting that HBx transactivation requires the interactions of both RPB5 and TFIIB.
+HBx
+HBx
+0
+Antibodies to CD9 did not affect the proportion of keratinocytes that adhered to $T1$, $T2$ and fibronectin, but did inhibit motility of keratinocytes on tissue culture plastic.
+laminin 1
+type IV collagen
+0
+Delineation of the binding regions of these three proteins revealed that HBx, $T1$, and $T2$ each has two binding regions for the other two proteins.
+RPB5
+TFIIB
+0
+RIP also interacts weakly with the $T1$ tumor necrosis factor receptor ($T2$) intracellular domain, but not with a mutant version of Fas corresponding to the murine lprcg mutation.
+p55
+TNFR1
+0
+These analyses showed that the ability of PBMC to proliferate to $T1$ correlated with expression of the p76 $T2$, and not with expression of the p90 IL-7R.
+IL-7
+IL-7R
+0
+Transthyretin ($T1$), a second major CSF protein, formed SDS-stable complexes with $T2$ and significantly decreased the rate of A beta fibril formation.
+TTR
+A beta
+1
+We find that p53, p21(CIP1) and $T1$$T2$) and p15(INK4b) are transiently elevated in HPECs and HUCs at the pre-senescent growth arrest, then return to low proliferating levels at terminal senescence.
+p15
+CIP1
+0
+In addition, we show that in extracts depleted of $T1$ and TBP-associated factors, transcription from the U1 promoter is restored by recombinant $T2$ but not by TFIID or TFIIIB, indicating that transcription of class II snRNA genes requires a TBP complex different from the one used for mRNA-encoding genes.
+TBP
+TBP
+0
+HBx and $T1$ specifically bound to transcription factor IIB ($T2$) in vitro, both of which were detected by either far-Western blotting or the glutathione S-transferase-resin pull-down assay.
+RPB5
+TFIIB
+0
+Analysis of p53, p21(CIP1), p15($T1$$T2$), p15(INK4b), p16(INK4a), and p57(KIP2) reveals altered expression in immortalized, non-tumorigenic HPV16 E6 and E7 prostate lines and in tumorigenic prostate cancer cells.
+INK4b
+CIP1
+0
+CD9 was detected in beta 1 integrin immunoprecipitates and also in immunoprecipitates of CD44 and $T1$$T2$ and syndecan, but not of cadherins.
+syndecan
+CD44
+0
+The cloning of members of these gene families and the identification of the protein-interaction motifs found within their gene products has initiated the molecular identity of factors (TRADD, FADD/MORT, RIP, FLICE/MACH, and TRAFs) associated with both of the $T1$$T2$, FLICE/MACH, and TRAFs) associated with both of the p60 and p80 forms of the TNF receptor and with other members of the TNF receptor superfamily.
+p60
+RIP
+0

@@ -584,8 +584,60 @@ def load_word2vec(path, word2idx = None):
     print("In vocabulary = %s, all words = %s", in_vocb, len(word2idx.keys()))
     return word_vec
 
-fname = '/media/ilseyar/Disk_D/Ilseyar/Projects/vectors/'
-word_vec = load_word2vec(fname)
+def count_relation_statistic():
+    f = open("data/AiMed/folds/2/train_pytorch.txt")
+    lines = f.readlines()
+    not_in_one_sent_num = 0
+    max_sent_len = 0
+    for i in range(0, len(lines), 4):
+        is_in_one_sent = False
+        text = lines[i]
+        sentences = nltk.sent_tokenize(text)
+        for sent in sentences:
+            if "$T1$" in sent and "$T2$" in sent:
+                is_in_one_sent = True
+
+                words = nltk.word_tokenize(sent)
+                if len(words) > max_sent_len:
+                    max_sent_len = len(words)
+                break
+
+        if not is_in_one_sent:
+            not_in_one_sent_num += 1
+            print(text)
+            print(lines[i + 3])
+    print(not_in_one_sent_num)
+    print(max_sent_len)
+
+"data/AiMed/folds/1/train.txt"
+
+def cut_the_context_by_sent(input_file_name, output_file_name):
+    f = open(input_file_name)
+    out = open(output_file_name, "w")
+    lines = f.readlines()
+    for i in range(0, len(lines), 4):
+        text = lines[i]
+        new_text = ""
+        sentences = nltk.sent_tokenize(text)
+        for sent in sentences:
+            if "$T1$" in sent and "$T2$" in sent:
+                new_text = sent
+        if new_text != "":
+            out.write(new_text.strip() + "\n")
+            out.write(lines[i + 1])
+            out.write(lines[i + 2])
+            out.write(lines[i + 3])
+
+def cut_the_context_by_sent_for_folds():
+    for i in range(1, 11):
+        cut_the_context_by_sent("data/AiMed/folds/" + str(i) + "/train_pytorch.txt",
+                                "data/AiMed/folds/" + str(i) + "/train_pytorch_short_context.txt")
+        cut_the_context_by_sent("data/AiMed/folds/" + str(i) + "/test_pytorch.txt",
+                                "data/AiMed/folds/" + str(i) + "/test_pytorch_short_context.txt")
+
+
+# cut_the_context_by_sent_for_folds()
+# count_relation_statistic()
 
 # create_folds_cross_valid("LLL")
 # count_class_statistic("LLL")

@@ -1,0 +1,566 @@
+1	A large epitope 1 for high-affinity PROTEIN1 binding was detected spanning the interface of the PROTEIN2 dimer .
+0	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN binding protein , PROTEIN ) of the PROTEIN1PROTEIN2 , PROTEIN ) of the PROTEIN .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN1PROTEIN2 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	Here we report the cDNA cloning and characterization of a human type II receptor for BMPs ( PROTEIN1 ) , which is distantly related to PROTEIN , a PROTEIN2 from Caenorhabditis elegans .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN1 , PROTEIN , and PROTEIN2 , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN products .
+0	PROTEIN binds to the PROTEIN1 receptor ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN2 .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN ) , as well as PROTEIN1PROTEIN2 ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN1PROTEIN2 catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	In yeast , PROTEIN1 interacts with cyclin-dependent kinases , including human PROTEIN , PROTEIN , and PROTEIN , but not with PROTEIN2 .
+1	The precise function of PROTEIN in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN1 is a negative regulator of the PROTEIN2 .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN1 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN2 and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of PROTEIN1 to PROTEIN ; however , the PROTEIN2-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	Biochemical studies established that some coactivators are associated with the PROTEIN1 ( PROTEIN ) to form the PROTEIN2 complex .
+0	The death-inducing receptor PROTEIN1 is activated when cross-linked by the type II membrane protein PROTEIN2 ligand ( PROTEIN ) .
+1	The PROTEIN1-PROTEIN2 complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator Swi/PROTEIN1PROTEIN2 gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator Swi/Snf .
+0	PROTEIN protein interacts with PROTEIN1 protein and with PROTEIN2 protein , a subunit of the human RNA polymerase II transcription factor IIH .
+0	The death-inducing receptor PROTEIN is activated when cross-linked by the type II membrane protein PROTEIN1PROTEIN2 ( PROTEIN ) .
+0	PROTEIN is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins , such as the PROTEIN1 gene products PROTEIN2 and PROTEIN .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN1 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN2 and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	PROTEIN1 ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN2 , and PROTEIN .
+1	PROTEIN1 binds to the PROTEIN2 ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	After a brief historical incursion regarding PROTEIN1 of renal origin , we present the main extrarenal PROTEIN2-forming enzymes , starting with PROTEIN , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	PROTEIN1PROTEIN2 : a ligand and specific activator of the tyrosine kinase receptor PROTEIN .
+0	The molar concentration of PROTEIN1 required to induce maximum cell migration is 20- to 200-fold greater than that required for PROTEIN2 or PROTEIN , respectively .
+0	We recently reported that PROTEIN interaction with the PROTEIN1 ( PROTEIN , residues 139-184 ) may be required for PROTEIN2 activation .
+0	PROTEIN1 , PROTEIN , and complement factors PROTEIN2 and PROTEIN concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN or PROTEIN1 ( type II ) were characterized using PROTEIN2 mutant proteins for analysis of interactions with receptor ectodomains .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN1PROTEIN2 associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	These observations suggest that the products of the PROTEIN1 and PROTEIN2 genes are involved in transcription .
+0	Transfection of PROTEIN1 and PROTEIN in COS cells increased PROTEIN2 expression relative to cells transfected with G alpha i2 and mock vector .
+1	In transfected COS-1 cells , PROTEIN1/BMP-7 , and less efficiently PROTEIN , bound to PROTEIN2 .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of G beta gamma to PROTEIN1 ; however , the PROTEIN2-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	When human embryonic kidney cells ( cell line 293 ) over-expressing PROTEIN1 or HeLa cells were exposed to PROTEIN , PROTEIN2 rapidly associated with the PROTEIN complex and was phosphorylated .
+0	Characterization of PROTEIN1 ( PROTEIN , PROTEIN2 ) -Fas ligand interaction .
+0	PROTEIN1 , PROTEIN2 , and complement factors PROTEIN and PROTEIN concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN1 , PROTEIN2 , and PROTEIN , but not with PROTEIN .
+0	The precise function of PROTEIN in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN1 is a negative regulator of the PROTEIN2 receptor .
+1	PROTEIN1 negatively regulates PROTEIN2 activity by interactions with the PROTEIN cysteine-rich domain .
+1	Moreover , a transcriptional activation signal was transduced by PROTEIN1 in the presence of type I receptors after stimulation by OP-1/PROTEIN2 .
+0	PROTEIN , a small protein comprising one SH2 domain and two SH3 domains , represents the human homologue of the Caenorhabditis elegans protein , PROTEIN1PROTEIN2 , a small protein comprising one SH2 domain and two SH3 domains , represents the human homologue of the Caenorhabditis elegans protein , PROTEIN .
+0	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN binding protein , PROTEIN1PROTEIN2 , PROTEIN ) of the PROTEIN .
+0	PROTEIN induced maximal migration of PROTEIN1 and PROTEIN2 transfected cells at 89.3 nmol/L and cell adhesion at 5.6 nmol/L .
+0	Transcriptional synergy with NF-IL6 beta ( C/PROTEIN1PROTEIN2 ( C/EBP delta , PROTEIN ) .
+0	Presenilin 1 ( PROTEIN1PROTEIN2 ( PROTEIN ) mutations account for the majority of early-onset dominant cases of familial Alzheimer 's disease .
+0	Transfection of G alpha i2 and PROTEIN in COS cells increased PROTEIN1 expression relative to cells transfected with PROTEIN2 and mock vector .
+1	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of PROTEIN1 to PROTEIN2 ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	The gamma chain of the PROTEIN ( PROTEIN ) receptor is shared with the functional PROTEIN1PROTEIN2 and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+1	PROTEIN1 specifically interacts with PROTEIN2 but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	When human embryonic kidney cells ( cell line 293 ) over-expressing PROTEIN or HeLa cells were exposed to PROTEIN1 , PROTEIN rapidly associated with the PROTEIN2 complex and was phosphorylated .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN1PROTEIN2 specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	This protein , designated PROTEIN1 ( PROTEIN2 ) , specifically binds to the extracellular domain of PROTEIN , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	PROTEIN1 is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins , such as the PROTEIN2 gene products PROTEIN and PROTEIN .
+0	Their order of selection was PROTEIN effusion , PROTEIN1 serum , TNFalpha-effusion , and PROTEIN2 effusion .
+0	The gamma chain of the PROTEIN1PROTEIN2 ( PROTEIN ) receptor is shared with the functional PROTEIN receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	Scatchard analysis of in vitro binding between PROTEIN and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between PROTEIN1PROTEIN2 revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and beta ARK ( Kd = 87 +/- 24 nM ) .
+0	The products of the PROTEIN and PROTEIN1 genes are ubiquitously expressed , large ( 200 kDa for PROTEIN and 195 kDa for PROTEIN2 ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	We have now isolated cDNA clones that contain the full-length coding sequence of two other proteins , PROTEIN1 and PROTEIN2 , cloned originally by their interaction with PROTEIN .
+0	Analysis of sedimentation equilibria and also of the fluorescence enhancement of suramin when bound to protein provided evidence for two suramin-binding sites on each PROTEIN1 and three on each PROTEIN2 in the oligomers .
+0	Both PROTEIN and PROTEIN1 have been implicated in a highly conserved mechanism that regulates PROTEIN2 signalling by receptor tyrosine kinases .
+0	PROTEIN ( PROTEIN , PROTEIN , PROTEIN1PROTEIN2 , PROTEIN ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	Determination of PROTEIN1 , complement factors PROTEIN2 and PROTEIN , and PROTEIN may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+0	PROTEIN ( PROTEIN ) , a second major CSF protein , formed SDS-stable complexes with A beta and significantly decreased the rate of PROTEIN1PROTEIN2 ( PROTEIN ) , a second major CSF protein , formed SDS-stable complexes with A beta and significantly decreased the rate of A beta fibril formation .
+1	Crystal structure of the hereditary haemochromatosis protein PROTEIN1 complexed with PROTEIN2 .
+0	In competition experiments , the carboxyl terminus of PROTEIN1 ( beta ARK ) blocked the binding of G beta gamma to PROTEIN2 ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	Association of PROTEIN with both PROTEIN1 and PROTEIN2 may also imply a mechanistic link between the functions of PROTEIN and PROTEIN .
+1	Crystal structure of the heterodimeric bZIP transcription factor PROTEIN1-PROTEIN2 bound to DNA .
+0	The products of the PROTEIN and PROTEIN genes are ubiquitously expressed , large ( 200 kDa for PROTEIN1 and 195 kDa for PROTEIN2 ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( PROTEIN1 ) blocked the binding of G beta gamma to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN2 and 14-3-3 , had no effect .
+0	Although PROTEIN is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN1PROTEIN2 signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN activation is complex and remains poorly understood .
+0	PROTEIN1 interacts with PROTEIN and PROTEIN with PROTEIN2 receptors .
+0	When the ligand binds , PROTEIN initiates a signaling cascade that results in the activation of the transcription regulator PROTEIN1 ( PROTEIN2 ) .
+0	PROTEIN , PROTEIN , and complement factors PROTEIN1 and PROTEIN2 concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+0	PROTEIN induces chemotaxis and adhesion by interacting with PROTEIN and PROTEIN1PROTEIN2 and PROTEIN .
+0	Characterization of PROTEIN ( PROTEIN , PROTEIN ) -PROTEIN1PROTEIN2 interaction .
+0	Based on the structure of the closely related lymphotoxin alpha-PROTEIN1 complex , a molecular model of the PROTEIN homotrimer bound to three PROTEIN2 molecules was generated using knowledge-based protein modeling methods .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN1 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN2 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN1PROTEIN2 function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN .
+0	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN binding protein , PROTEIN ) of the PROTEIN1PROTEIN2 binding protein , PROTEIN ) of the PROTEIN .
+0	Physical interaction of mammalian PROTEIN1 with PROTEIN PROTEIN2 was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN with cyclins .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN1 , PROTEIN , and PROTEIN2 , but not with PROTEIN .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN1PROTEIN2 ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN .
+0	Overexpression of wild-type PROTEIN1 delays progression through the cell cycle in yeast and HeLa cells ; delay is dependent on PROTEIN2 phosphatase activity .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN1 , PROTEIN2 , and PROTEIN .
+0	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN , PROTEIN and PROTEIN1PROTEIN2 and PROTEIN , which specifically binds the SH2 domain of PROTEIN with high affinity .
+0	Transfection of G alpha i2 and PROTEIN1 in COS cells increased PROTEIN2 expression relative to cells transfected with G alpha i2 and mock vector .
+0	Site-specific mutants were expressed in Escherichia coli as soluble PROTEIN1 and analyzed for PROTEIN2 binding in several different assay formats .
+0	Transfection of PROTEIN1 and PROTEIN in COS cells increased G alpha i2 expression relative to cells transfected with PROTEIN2 and mock vector .
+0	The molar concentration of PROTEIN1 required to induce maximum cell migration is 20- to 200-fold greater than that required for PROTEIN or PROTEIN2 , respectively .
+0	We observed that the protein PROTEIN interacted with protein PROTEIN1PROTEIN2 ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	Expression of exogenous PROTEIN1 led to a decrease in PROTEIN2-dependent transcription in F9 cells .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( PROTEIN1 ) blocked the binding of G beta gamma to PROTEIN ; however , the PROTEIN2-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	PROTEIN binds to the PROTEIN1 ( PROTEIN2 ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	When human embryonic kidney cells ( cell line 293 ) over-expressing PROTEIN or HeLa cells were exposed to PROTEIN1 , PROTEIN2 rapidly associated with the PROTEIN complex and was phosphorylated .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN1 , PROTEIN , PROTEIN , and PROTEIN2 .
+0	The tyrosine kinases PROTEIN1 , PROTEIN2 , and PROTEIN ( or PROTEIN ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	Characterization of PROTEIN1 ( PROTEIN2 , PROTEIN ) -Fas ligand interaction .
+1	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN , PROTEIN and PROTEIN1 , which specifically binds the SH2 domain of PROTEIN2 with high affinity .
+0	In the yeast-based cloning system , the only strong interaction that was detected between PROTEIN and the PROTEIN1 , PROTEIN ( PROTEIN2 ) .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN1 , PROTEIN , and PROTEIN , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN2 products .
+0	PROTEIN ( PROTEIN ) , a second major CSF protein , formed SDS-stable complexes with A beta and significantly decreased the rate of PROTEIN1PROTEIN2 ) , a second major CSF protein , formed SDS-stable complexes with A beta and significantly decreased the rate of A beta fibril formation .
+0	This protein , designated PROTEIN1-related protein ( PROTEIN ) , specifically binds to the extracellular domain of PROTEIN2 , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN1PROTEIN2 ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	Recent studies indicate that the structural integrity of the PROTEIN1 is also critical for PROTEIN2 interaction with 14-3-3 proteins .
+0	Unlabeled PROTEIN and PROTEIN were equally effective at displacing the binding of labeled PROTEIN1PROTEIN2 and PROTEIN were equally effective at displacing the binding of labeled PROTEIN to TNF-R expressing cells .
+0	PROTEIN ( PROTEIN ) , a second major CSF protein , formed SDS-stable complexes with PROTEIN1 and significantly decreased the rate of PROTEIN2 fibril formation .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN1 , or with PROTEIN2 .
+0	The tyrosine kinases PROTEIN , PROTEIN , and PROTEIN ( or PROTEIN1PROTEIN2 , PROTEIN , and PROTEIN ( or PROTEIN ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN or PROTEIN1PROTEIN2 ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	PROTEIN1 specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN2 .
+1	The death-inducing receptor PROTEIN1 is activated when cross-linked by the type II membrane protein PROTEIN2 ( PROTEIN ) .
+0	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN1 and PROTEIN2 .
+0	PROTEIN is a serine/threonine protein kinase positioned downstream of PROTEIN1PROTEIN2 is a serine/threonine protein kinase positioned downstream of PROTEIN in the mitogen-activated protein kinase cascade .
+0	Crystal structure of the hereditary haemochromatosis protein PROTEIN complexed with PROTEIN1PROTEIN2 receptor .
+0	The gamma chain of the PROTEIN1 is shared with the functional PROTEIN2 and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN , PROTEIN1 , and PROTEIN2 , but not with PROTEIN .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN1PROTEIN2 ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN1PROTEIN2 associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN1 , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN2 .
+0	Determination of PROTEIN1 , complement factors PROTEIN and PROTEIN , and PROTEIN2 may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+0	Cross-family interaction between the bHLHZip PROTEIN and bZip PROTEIN proteins results in down-regulation of PROTEIN1PROTEIN2 proteins results in down-regulation of PROTEIN activity .
+0	The molar concentration of PROTEIN required to induce maximum cell migration is 20- to 200-fold greater than that required for PROTEIN1 or PROTEIN2 , respectively .
+0	Electrophoretic mobility shift assays showed that PROTEIN and PROTEIN1PROTEIN2 and NF-IL6 beta can simultaneously bind to adjacent DNA binding sites , but apparently do not influence the kinetics or affinity of each other 's DNA binding .
+0	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN1 and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN and PROTEIN2 .
+0	We recently reported that PROTEIN interaction with the PROTEIN1 cysteine-rich domain ( PROTEIN , residues 139-184 ) may be required for PROTEIN2 activation .
+0	PROTEIN is a homodimeric cysteine knot protein that , as a member of the transforming growth factor-beta ( PROTEIN1PROTEIN2 is a homodimeric cysteine knot protein that , as a member of the transforming growth factor-beta ( PROTEIN ) superfamily , signals by oligomerizing type I and type II receptor serine-kinases in the cell membrane .
+0	Analysis of the oligomerization of PROTEIN1 and PROTEIN2 products in vivo using a two-hybrid assay system .
+0	Functional participation of the PROTEIN receptor gamma chain in PROTEIN1PROTEIN2 chain in PROTEIN receptor complexes .
+0	We used the interaction trap , a yeast genetic selection for interacting proteins , to isolate human PROTEIN1 ( PROTEIN2 ) .
+1	Binding of PROTEIN1/BMP-7 to PROTEIN2 was also observed in nontransfected cell lines .
+0	We propose that PROTEIN1 binding proteins play a key role in the modulation of PROTEIN2 aggregation and normally prevent amyloid formation in biological fluids and in the brain .
+0	Association of PROTEIN with both PROTEIN1 and PROTEIN may also imply a mechanistic link between the functions of PROTEIN and PROTEIN2 .
+1	Binding of OP-1/PROTEIN1 to PROTEIN2 was also observed in nontransfected cell lines .
+0	This protein , designated PROTEIN1-related protein ( PROTEIN ) , specifically binds to the extracellular domain of PROTEIN , stimulates the tyrosine phosphorylation of PROTEIN2 expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	Liver-expressed chemokine ( PROTEIN1 ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN2 .
+0	Aggregated PROTEIN1 ( PROTEIN2 ) is a key component of the amyloid depositions found in the brains of patients with Alzheimer 's disease .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN1 , PROTEIN , PROTEIN2 , and PROTEIN .
+1	Based on the structure of the closely related lymphotoxin alpha-tumor necrosis factor receptor I complex , a molecular model of the PROTEIN1 homotrimer bound to three PROTEIN2 molecules was generated using knowledge-based protein modeling methods .
+0	The HFE-TfR complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN1PROTEIN2-TfR complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+1	We have detected a specific association of PROTEIN1 with the molecular chaperon PROTEIN2 and a 44-kDa protein that we identify as mammalian PROTEIN .
+0	We report chemotaxis and competitive binding studies that show PROTEIN binds to and activates PROTEIN1 and PROTEIN2 transfected HEK-293 cells .
+0	PROTEIN is a homodimeric cysteine knot protein that , as a member of the PROTEIN1PROTEIN2 is a homodimeric cysteine knot protein that , as a member of the transforming growth factor-beta ( PROTEIN ) superfamily , signals by oligomerizing type I and type II receptor serine-kinases in the cell membrane .
+0	The protein product of PROTEIN proto-oncogene is known to interact with several proteins , including PROTEIN1 , PROTEIN2 and PI3 kinase , and is thought to regulate signalling by many cell surface receptors .
+1	A direct interaction between PROTEIN1 subunits and the PROTEIN2 .
+0	This protein , designated PROTEIN1-related protein ( PROTEIN2 ) , specifically binds to the extracellular domain of PROTEIN , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN and PROTEIN1 shows two PROTEIN molecules which grasp each side of a twofold symmetric PROTEIN2 dimer .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN1 , D and PROTEIN2 and ending with the conversion enzyme and PROTEIN .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN1 ) , and complement factors PROTEIN and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+1	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN1 and PROTEIN2 shows two PROTEIN molecules which grasp each side of a twofold symmetric PROTEIN dimer .
+0	It does not contain a tyrosine kinase domain nor show homology with members of the immunoglobulin super gene family , but does show some significant sequence homologies with receptors for several other haemopoietic growth factors , including those for PROTEIN , PROTEIN and PROTEIN1PROTEIN2 , PROTEIN and PROTEIN ( beta-chain ) and also to the prolactin receptor .
+0	The analysis of complexes of PROTEIN1 with CSF proteins in a KBr gradient revealed an association of PROTEIN2 only with free proteins and not with lipoprotein particles .
+0	The tyrosine kinases PROTEIN , PROTEIN , and PROTEIN ( or PROTEIN1PROTEIN2 , and PROTEIN ( or PROTEIN ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	Three of these clones encode DNA binding proteins ( NF-IL6 beta , PROTEIN1PROTEIN2 , HMG I/Y , and PROTEIN ) , one clone encodes a chaperone protein , and another clone encodes a multifunctional phosphatase .
+0	PROTEIN1 binds to the PROTEIN receptor ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN2 .
+0	Tumor necrosis factor ( TNF ) and PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN ) are members of a family of secreted and cell surface cytokines that participate in the regulation of immune and inflammatory responses .
+0	The tyrosine kinases PROTEIN , PROTEIN , and PROTEIN1PROTEIN2 , and PROTEIN ( or PROTEIN ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	The results show that PROTEIN heterodimerizes with PROTEIN and PROTEIN1PROTEIN2 and PROTEIN in vivo , but it does not homodimerize to a measurable extent .
+0	Here we report the cDNA cloning and characterization of a human type II receptor for BMPs ( PROTEIN ) , which is distantly related to PROTEIN1PROTEIN2 ) , which is distantly related to PROTEIN , a BMP type II receptor from Caenorhabditis elegans .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN1PROTEIN2 to promote subsequent events necessary for full activation of PROTEIN .
+1	The PROTEIN1 and PROTEIN2 families of eukaryotic transcription factors heterodimerize to form complexes capable of binding 5'-TGAGTCA-3 ' DNA elements .
+0	Surprisingly , the N-terminal third of PROTEIN1 alone bound PROTEIN more strongly than did intact PROTEIN , suggesting that the protein 's C-terminus may play a role in modulating the interaction with PROTEIN2 .
+1	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN1 to phosphotyrosines on both PROTEIN2 and PROTEIN .
+0	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN binding protein , PROTEIN1 ) of the PROTEIN2 .
+1	In vivo complexes of PROTEIN1 and PROTEIN2 were isolated from human embryonic kidney 293-T cells transfected with epitope-tagged G beta 2 .
+0	A physical interaction between PROTEIN1 and PROTEIN suggests that PROTEIN may regulate the mammalian cell cycle through a direct effect on PROTEIN2 .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN1PROTEIN2 , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	Characterization of PROTEIN ( PROTEIN1 , PROTEIN ) -PROTEIN2 ligand interaction .
+0	Association of PROTEIN with both PROTEIN and PROTEIN may also imply a mechanistic link between the functions of PROTEIN1 and PROTEIN2 .
+1	Association of PROTEIN1 with both PROTEIN and PROTEIN2 may also imply a mechanistic link between the functions of PROTEIN and PROTEIN .
+0	This protein , designated PROTEIN1PROTEIN2 ( PROTEIN ) , specifically binds to the extracellular domain of PROTEIN , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	The HFE-TfR complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN1PROTEIN2 and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+0	When transfected into COS cells the cloned cDNA directed the expression of a PROTEIN showing a single class of affinity ( KD = 2 ( -8 ) nM ) and specificity for human PROTEIN1 but not PROTEIN2 .
+1	The binding epitopes of PROTEIN1 for PROTEIN2 ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	Crystal structure of the hereditary haemochromatosis protein PROTEIN1 complexed with PROTEIN2 receptor .
+0	It does not contain a tyrosine kinase domain nor show homology with members of the immunoglobulin super gene family , but does show some significant sequence homologies with receptors for several other haemopoietic growth factors , including those for PROTEIN1 , PROTEIN2 and PROTEIN ( beta-chain ) and also to the prolactin receptor .
+0	PROTEIN1 antagonists emerge from alterations in the low-affinity binding epitope for receptor PROTEIN2 .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+1	Association of PROTEIN1 with both PROTEIN2 and PROTEIN may also imply a mechanistic link between the functions of PROTEIN and PROTEIN .
+0	Mutagenesis of the PROTEIN1 receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN2 ) binding .
+0	The death-inducing receptor PROTEIN is activated when cross-linked by the type II membrane protein PROTEIN1 ( PROTEIN2 ) .
+1	PROTEIN1 , a human G1 and S phase protein phosphatase that associates with PROTEIN2 .
+0	Mutants P206R , P206D , and P206F displayed reduced cytotoxicity toward PROTEIN1-positive cells with a concomitant decrease in the binding affinity for the recombinant PROTEIN2-immunoglobulin Fc fusion proteins .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN1PROTEIN2 specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	A physical interaction between PROTEIN and PROTEIN1 suggests that PROTEIN2 may regulate the mammalian cell cycle through a direct effect on PROTEIN .
+0	The extracellular cysteine-rich domain of the TNF-R is homologous to the nerve growth factor receptor and the PROTEIN1 PROTEIN2 .
+1	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN1 , PROTEIN and PROTEIN , which specifically binds the SH2 domain of PROTEIN2 with high affinity .
+0	The tyrosine kinases PROTEIN , PROTEIN , and PROTEIN1PROTEIN2 , PROTEIN , and PROTEIN ( or PROTEIN ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	PROTEIN binds to the PROTEIN1 receptor ( PROTEIN2 ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	In addition we have been able to identify complexes of PROTEIN1 and PROTEIN in vivo that are dissociated in the presence of purified human papillomavirus PROTEIN2 protein .
+0	Their order of selection was PROTEIN effusion , PROTEIN1 serum , PROTEIN2-effusion , and PROTEIN effusion .
+0	Interestingly , both PROTEIN and PROTEIN1PROTEIN2 and phosphatidylinositol-3 ( PI-3 ) kinase can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN molecule , suggesting a mechanism whereby PROTEIN could provide the core for a large signalling complex .
+1	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN and PROTEIN shows two PROTEIN1 molecules which grasp each side of a twofold symmetric PROTEIN2 dimer .
+1	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN , PROTEIN1 and PROTEIN , which specifically binds the SH2 domain of PROTEIN2 with high affinity .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN1 , PROTEIN , PROTEIN2 , or with PROTEIN .
+1	In vitro , purified PROTEIN1 subunits specifically bound to a GST fusion protein encoding amino acids 1-330 of PROTEIN2 ( PROTEIN ) .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN1PROTEIN2 ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN .
+0	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN1 and PROTEIN shows two PROTEIN molecules which grasp each side of a twofold symmetric PROTEIN2 dimer .
+0	In physiological buffers and CSF , PROTEIN1 exclusively decreased the level of PROTEIN2 pentamers .
+0	Physical interaction of mammalian PROTEIN with PROTEIN PROTEIN1 was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN2 with cyclins .
+0	In the end we refer to the relations between circulating PROTEIN1 of renal origin and the extrarenal PROTEIN2 specific to tissue underlying the fact that the two PROTEIN components cooperate and constitute a unitary hormonal system , regulating the major functions of the organism and maintaining the main homeostatic equilibria .
+0	Surprisingly , the N-terminal third of PROTEIN alone bound PROTEIN1 more strongly than did intact PROTEIN , suggesting that the protein 's C-terminus may play a role in modulating the interaction with PROTEIN2 .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal PROTEIN1-forming enzymes , starting with PROTEIN2 , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+1	In transfected COS-1 cells , osteogenic protein ( OP ) -1/BMP-7 , and less efficiently PROTEIN1 , bound to PROTEIN2 .
+1	The death-inducing receptor PROTEIN is activated when cross-linked by the type II membrane protein PROTEIN1 ligand ( PROTEIN2 ) .
+0	A protein kinase designated PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN receptor-associated kinase ) was purified , and its complementary DNA was molecularly cloned .
+0	In transient expression assays , we found that PROTEIN1 and PROTEIN2 can functionally cooperate to synergistically activate transcription .
+0	Moreover , mutation of PROTEIN residues 143-145 impairs binding of 14-3-3 , but not PROTEIN , to the PROTEIN1PROTEIN2 , to the PROTEIN .
+0	Mutagenesis studies of the human PROTEIN1PROTEIN2 .
+0	We recently reported that PROTEIN interaction with the PROTEIN cysteine-rich domain ( PROTEIN1 , residues 139-184 ) may be required for PROTEIN2 activation .
+1	Although the cytotoxic activity of mutant Y218D was unaltered , mutant Y218R was inactive , correlating with the prediction that Tyr-218 of PROTEIN1 interacts with a cluster of three basic amino acid side chains of PROTEIN2 .
+0	In transfected COS-1 cells , osteogenic protein ( OP ) -1/PROTEIN1PROTEIN2/BMP-7 , and less efficiently PROTEIN , bound to PROTEIN .
+0	Determination of PROTEIN , complement factors PROTEIN and PROTEIN , and PROTEIN1PROTEIN2 , and PROTEIN may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+1	The screen identified interactions involving PROTEIN1 and two 14-3-3 isoforms , PROTEIN2 , human unconventional myosin IC , and a recently identified SH3 domain containing protein , SH3 P17 .
+0	The structures of PROTEIN1 alone and complexed with PROTEIN differ in their domain arrangement and dimer interfaces , providing a mechanism for communicating binding events between PROTEIN2 chains .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN1PROTEIN2 may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN .
+0	After a brief historical incursion regarding PROTEIN1 of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN , D and PROTEIN2 and ending with the conversion enzyme and PROTEIN .
+0	The PROTEIN1 is located in the NH2-terminal negative regulatory domain of PROTEIN2 and is highly homologous to cysteine-rich domains found in protein kinase C family members .
+1	In transfected COS-1 cells , osteogenic protein ( OP ) -1/PROTEIN1 , and less efficiently PROTEIN , bound to PROTEIN2 .
+0	The formation of native heterotrimeric G alpha beta gamma complexes , as measured by pertussis toxin ADP-ribosylation of G alpha , could be disrupted by increasing amounts of PROTEIN1PROTEIN2 complexes , as measured by pertussis toxin ADP-ribosylation of G alpha , could be disrupted by increasing amounts of PROTEIN , with an EC50 of approximately 200 nM , in close agreement with the estimated binding affinity .
+0	To further examine the function of the bHLHZip protein , PROTEIN1 , we screened for cellular proteins which could directly interact with PROTEIN2 using the yeast two-hybrid system .
+1	This protein , designated PROTEIN1 ( PROTEIN ) , specifically binds to the extracellular domain of PROTEIN2 , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN , PROTEIN , and PROTEIN1 , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN2 products .
+0	Physical interaction of mammalian PROTEIN with PROTEIN PROTEIN1PROTEIN2 PROTEIN was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN with cyclins .
+0	This protein , designated PROTEIN1 ( PROTEIN ) , specifically binds to the extracellular domain of PROTEIN , stimulates the tyrosine phosphorylation of PROTEIN2 expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	Here we report the cDNA cloning and characterization of a human type II receptor for BMPs ( PROTEIN ) , which is distantly related to PROTEIN1 , a PROTEIN2 from Caenorhabditis elegans .
+0	PROTEIN binds to the PROTEIN1 ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN2 .
+0	We found that deletion of the carboxyl-terminal 28 amino acids of PROTEIN1 disrupted PROTEIN2-NF-IL6 beta physical interaction .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN1PROTEIN2 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN1PROTEIN2 specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	Assaying of PROTEIN1 , complement factors , and PROTEIN2 in the diagnosis of malignant serous effusions .
+1	Cross-family interaction between the bHLHZip PROTEIN1 and bZip PROTEIN2 proteins results in down-regulation of PROTEIN activity .
+0	On a cell membrane containing both proteins , PROTEIN1 would 'lie down ' parallel to the membrane , such that the PROTEIN helices that delineate the counterpart of the MHC peptide-binding groove make extensive contacts with helices in the PROTEIN2 dimerization domain .
+1	Secreted PROTEIN is a homotrimer that binds to distinct TNF receptors of 60 and 80 kilodaltons ; however , these receptors do not recognize the major cell surface PROTEIN1-PROTEIN2 complex .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN1 , PROTEIN2 , PROTEIN , or with PROTEIN .
+0	In the end we refer to the relations between circulating PROTEIN1 of renal origin and the extrarenal PROTEIN specific to tissue underlying the fact that the two PROTEIN2 components cooperate and constitute a unitary hormonal system , regulating the major functions of the organism and maintaining the main homeostatic equilibria .
+0	Thus PROTEIN is a cellular oncogene that targets PROTEIN1 and PROTEIN2 , both of which are targets for oncogenic viruses and chemical tumour promoters .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN1PROTEIN2 ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	Biochemical studies established that some coactivators are associated with the PROTEIN1 ( PROTEIN2 ) to form the PROTEIN complex .
+0	The HFE-TfR complex suggests a binding site for PROTEIN on PROTEIN1PROTEIN2 complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+0	In competition experiments , the carboxyl terminus of PROTEIN1 ( beta ARK ) blocked the binding of G beta gamma to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN2 and 14-3-3 , had no effect .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN1PROTEIN2 may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN .
+0	PROTEIN1 ( PROTEIN2 ) , a second major CSF protein , formed SDS-stable complexes with A beta and significantly decreased the rate of A beta fibril formation .
+1	Both the bHLHZip and the N-terminal regions of PROTEIN1 are required for efficient interaction with PROTEIN2 .
+0	Moreover , a transcriptional activation signal was transduced by PROTEIN in the presence of type I receptors after stimulation by PROTEIN1/PROTEIN2 .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN1 , PROTEIN2 , PROTEIN , and PROTEIN .
+0	A receptor specific for human PROTEIN1 was identified , which suggests that cell surface LT may have functions that are distinct from those of secreted PROTEIN2 .
+0	PROTEIN1-related protein : a ligand and specific activator of the tyrosine kinase receptor PROTEIN2 .
+0	Cross-family interaction between the bHLHZip PROTEIN1 and bZip PROTEIN proteins results in down-regulation of PROTEIN2 activity .
+1	A physical interaction between PROTEIN1 and PROTEIN2 suggests that PROTEIN may regulate the mammalian cell cycle through a direct effect on PROTEIN .
+0	Both PROTEIN1 and PROTEIN2 have been implicated in a highly conserved mechanism that regulates PROTEIN signalling by receptor tyrosine kinases .
+0	When human soluble PROTEIN1 ( sFasL , containing the extracellular portion ) was expressed in human embryo kidney 293 cells , the three N-linked glycans of each PROTEIN2 monomer were found to be essential for efficient secretion .
+1	We have characterized the physical and functional interactions between PROTEIN1 and PROTEIN2 , a leucine zipper transcription factor implicated in inflammatory responses .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN1PROTEIN2 but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN2 ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	The SH2/SH3 domain-containing protein PROTEIN interacts with tyrosine-phosphorylated PROTEIN and PROTEIN : implications for PROTEIN control of PROTEIN1PROTEIN2 and PROTEIN : implications for PROTEIN control of PROTEIN signalling .
+0	Mutagenesis of the PROTEIN1PROTEIN2 ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+1	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of G beta gamma to PROTEIN ; however , the PROTEIN1-binding proteins , PROTEIN2 and 14-3-3 , had no effect .
+0	We found that deletion of the carboxyl-terminal 28 amino acids of PROTEIN1 disrupted PU.1-PROTEIN2 physical interaction .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN1PROTEIN2 but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	PROTEIN interacts with PROTEIN1 and PROTEIN2 with PROTEIN receptors .
+0	Liver-expressed chemokine ( PROTEIN1 ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN2 , and PROTEIN .
+0	Using radiolabeled PROTEIN1 protein as a probe , we screened a B cell cDNA expression library and isolated a number of clones encoding PROTEIN2 interacting proteins .
+0	We propose a model whereby PROTEIN stimulation leads to formation of multiple protein -- protein interactions between PROTEIN and the two targets PROTEIN and PROTEIN1PROTEIN2 and PROTEIN .
+0	PROTEIN interacts with PROTEIN1 and PROTEIN with PROTEIN2 receptors .
+0	The products of the PROTEIN1 and PROTEIN genes are ubiquitously expressed , large ( 200 kDa for PROTEIN and 195 kDa for PROTEIN2 ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	Association of PROTEIN1 with both PROTEIN and PROTEIN may also imply a mechanistic link between the functions of PROTEIN2 and PROTEIN .
+1	Interestingly , both PROTEIN1 and phosphatidylinositol-3 ( PI-3 ) kinase can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN2 molecule , suggesting a mechanism whereby PROTEIN could provide the core for a large signalling complex .
+0	Determination of PROTEIN1 , complement factors PROTEIN and PROTEIN2 , and PROTEIN may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+1	On a cell membrane containing both proteins , PROTEIN would 'lie down ' parallel to the membrane , such that the PROTEIN1 helices that delineate the counterpart of the MHC peptide-binding groove make extensive contacts with helices in the PROTEIN2 dimerization domain .
+0	PROTEIN1 and PROTEIN2 have been shown to play key roles in vascular development ; these two receptors bind and are activated by vascular endothelial growth factor ( PROTEIN ) .
+0	Although PROTEIN is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN1 promotes PROTEIN2 activation is complex and remains poorly understood .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN1PROTEIN2 may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN1PROTEIN2 stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	The interactions between PROTEIN1 and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN2 and PROTEIN .
+0	PROTEIN is a serine/threonine protein kinase positioned downstream of PROTEIN1 in the PROTEIN2 cascade .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN1PROTEIN2 , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	The protein product of PROTEIN proto-oncogene is known to interact with several proteins , including PROTEIN , PROTEIN1 and PROTEIN2 , and is thought to regulate signalling by many cell surface receptors .
+1	Moreover , mutation of PROTEIN1 residues 143-145 impairs binding of 14-3-3 , but not PROTEIN , to the PROTEIN2 .
+0	The cell surface form of PROTEIN is assembled during biosynthesis as a heteromeric complex with PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN ) , a type II transmembrane protein that is another member of the TNF ligand family .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN2 and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	PROTEIN ( PROTEIN , PROTEIN , PROTEIN ) , a PROTEIN1 ( PROTEIN2 ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	The precise function of PROTEIN1 in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN2 is a negative regulator of the epidermal growth factor receptor .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN1 , PROTEIN , or with PROTEIN2 .
+1	Moreover , mutation of PROTEIN1 residues 143-145 impairs binding of 14-3-3 , but not PROTEIN2 , to the PROTEIN .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN1PROTEIN2 and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+1	Recombinant PROTEIN1 binds directly to PROTEIN2 both in vitro and in yeast , and participates in the formation of the PROTEIN complex .
+1	Characterization of PROTEIN ( PROTEIN , PROTEIN1 ) -PROTEIN2 interaction .
+1	PROTEIN1 negatively regulates PROTEIN activity by interactions with the PROTEIN2 cysteine-rich domain .
+1	A physical interaction between PROTEIN and PROTEIN suggests that PROTEIN1 may regulate the mammalian cell cycle through a direct effect on PROTEIN2 .
+0	In addition we have been able to identify complexes of PROTEIN and PROTEIN1 in vivo that are dissociated in the presence of purified human papillomavirus PROTEIN2 protein .
+0	In this report we show that in response to PROTEIN1 , PROTEIN2 forms a stable complex with two tyrosine-phosphorylated proteins .
+0	PROTEIN1 is a PROTEIN2 that controls progression through G1 of the mammalian cell cycle .
+0	Although PROTEIN is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN1PROTEIN2 is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN activation is complex and remains poorly understood .
+1	PROTEIN and PROTEIN1 have been shown to play key roles in vascular development ; these two receptors bind and are activated by vascular endothelial growth factor ( PROTEIN2 ) .
+0	PROTEIN binds to the PROTEIN1PROTEIN2 ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	Co-expression of exogenous PROTEIN restored the PROTEIN1PROTEIN2 restored the PROTEIN activity in a dose-dependent manner .
+0	The precise function of PROTEIN1 in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN is a negative regulator of the PROTEIN2 .
+0	On a cell membrane containing both proteins , PROTEIN1 would 'lie down ' parallel to the membrane , such that the PROTEIN2 helices that delineate the counterpart of the MHC peptide-binding groove make extensive contacts with helices in the PROTEIN dimerization domain .
+0	Mutagenesis of the PROTEIN1 receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN2 ( PROTEIN ) binding .
+0	14-3-3 zeta negatively regulates PROTEIN activity by interactions with the PROTEIN1PROTEIN2 activity by interactions with the PROTEIN cysteine-rich domain .
+0	PROTEIN ( PROTEIN , PROTEIN , PROTEIN1PROTEIN2 , PROTEIN , PROTEIN ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	PROTEIN is a serine/threonine protein kinase positioned downstream of PROTEIN in the PROTEIN1PROTEIN2 is a serine/threonine protein kinase positioned downstream of PROTEIN in the mitogen-activated protein kinase cascade .
+0	A protein kinase designated PROTEIN ( PROTEIN1PROTEIN2 ) was purified , and its complementary DNA was molecularly cloned .
+1	Based on the structure of the closely related PROTEIN1-PROTEIN2 complex , a molecular model of the PROTEIN homotrimer bound to three PROTEIN molecules was generated using knowledge-based protein modeling methods .
+0	Biochemical studies established that some coactivators are associated with the TATA-binding protein ( PROTEIN1 ) to form the PROTEIN2 complex .
+0	Recombinant PROTEIN1 binds directly to PROTEIN both in vitro and in yeast , and participates in the formation of the PROTEIN2 complex .
+0	While the circulating PROTEIN1 of renal origin is acutely activated to contribute to the accomplishment of short term homeostatic reactions , tissue PROTEIN2 , in paracrine or autocrine ways , exerts local-regional adaptive actions of long duration .
+0	PROTEIN1 ( PROTEIN , PROTEIN , PROTEIN2 ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	PROTEIN interacts with protein phosphatases PROTEIN and PROTEIN1PROTEIN2 and PROTEIN and disrupts a G2/M cell-cycle checkpoint .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN , PROTEIN1 , and PROTEIN , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN2 products .
+0	The pleiotropic biological activities of PROTEIN1 ( PROTEIN2 ) are mediated by its type I receptor ( PROTEIN ) .
+0	We now find that HIV-1 begins reverse transcription much more efficiently in DCs than T cells , even though T cells have higher levels of PROTEIN1 and PROTEIN2 binding .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN1 , PROTEIN , and PROTEIN , but not with PROTEIN2 .
+1	We propose a model whereby PROTEIN stimulation leads to formation of multiple protein -- protein interactions between PROTEIN1 and the two targets PROTEIN2 and PROTEIN .
+0	Although PROTEIN is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN1PROTEIN2 signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN activation is complex and remains poorly understood .
+1	In yeast , PROTEIN1 interacts with cyclin-dependent kinases , including human PROTEIN , PROTEIN2 , and PROTEIN , but not with PROTEIN .
+0	Mutagenesis of the PROTEIN receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN1PROTEIN2 ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+0	Mutagenesis of the PROTEIN receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN1PROTEIN2 ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN1 , PROTEIN2 , or with PROTEIN .
+0	In the end we refer to the relations between circulating PROTEIN of renal origin and the extrarenal PROTEIN1 specific to tissue underlying the fact that the two PROTEIN2 components cooperate and constitute a unitary hormonal system , regulating the major functions of the organism and maintaining the main homeostatic equilibria .
+0	Transfection of G alpha i2 and PROTEIN1 in COS cells increased G alpha i2 expression relative to cells transfected with PROTEIN2 and mock vector .
+0	In the yeast-based cloning system , the only strong interaction that was detected between PROTEIN and the calcium effector protein , PROTEIN1 ( PROTEIN2 ) .
+1	We have detected a specific association of PROTEIN1 with the molecular chaperon PROTEIN and a 44-kDa protein that we identify as mammalian PROTEIN2 .
+0	Interestingly , both PROTEIN and PROTEIN1 can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN molecule , suggesting a mechanism whereby PROTEIN2 could provide the core for a large signalling complex .
+0	The gamma chain of the PROTEIN1 ( PROTEIN ) receptor is shared with the functional PROTEIN2 and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+1	Scatchard analysis of in vitro binding between PROTEIN1 and PROTEIN2 revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and beta ARK ( Kd = 87 +/- 24 nM ) .
+1	The SH2/SH3 domain-containing protein PROTEIN1 interacts with tyrosine-phosphorylated PROTEIN2 and PROTEIN : implications for PROTEIN control of PROTEIN signalling .
+0	Secreted PROTEIN1 is a homotrimer that binds to distinct TNF receptors of 60 and 80 kilodaltons ; however , these receptors do not recognize the major cell surface PROTEIN2-LT-beta complex .
+0	Characterization of PROTEIN ( PROTEIN , PROTEIN1PROTEIN2 , PROTEIN ) -Fas ligand interaction .
+1	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN1 to phosphotyrosines on both PROTEIN and PROTEIN2 .
+0	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN , PROTEIN1PROTEIN2 , PROTEIN and PROTEIN , which specifically binds the SH2 domain of PROTEIN with high affinity .
+0	The SH2/SH3 domain-containing protein PROTEIN interacts with tyrosine-phosphorylated PROTEIN and PROTEIN1PROTEIN2 and PROTEIN : implications for PROTEIN control of PROTEIN signalling .
+0	We report an interaction between the human PROTEIN1 or PROTEIN2 hydrophilic loop and Rab11 , a small GTPase belonging to the Ras-related superfamily .
+0	When human embryonic kidney cells ( cell line 293 ) over-expressing PROTEIN1 or HeLa cells were exposed to PROTEIN2 , PROTEIN rapidly associated with the PROTEIN complex and was phosphorylated .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN1 , PROTEIN , PROTEIN , or with PROTEIN2 .
+1	Although PROTEIN1 associates with PROTEIN and PROTEIN2 , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	Present data concerning the PROTEIN1-PROTEIN2 system of extrarenal origin .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN1PROTEIN2 for PROTEIN ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+1	The cell surface form of PROTEIN1 is assembled during biosynthesis as a heteromeric complex with PROTEIN ( PROTEIN2 ) , a type II transmembrane protein that is another member of the TNF ligand family .
+0	PROTEIN , PROTEIN1 , and complement factors PROTEIN and PROTEIN2 concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+0	In vivo complexes of PROTEIN and G beta gamma were isolated from human embryonic kidney 293-T cells transfected with epitope-tagged PROTEIN1PROTEIN2 and G beta gamma were isolated from human embryonic kidney 293-T cells transfected with epitope-tagged G beta 2 .
+0	Mutagenesis of the PROTEIN receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN1PROTEIN2 ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN2 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	When transfected into COS cells the cloned cDNA directed the expression of a PROTEIN1 showing a single class of affinity ( KD = 2 ( -8 ) nM ) and specificity for human PROTEIN but not PROTEIN2 .
+0	In transfected COS-1 cells , osteogenic protein ( OP ) -1/PROTEIN1 , and less efficiently PROTEIN2 , bound to PROTEIN .
+0	PROTEIN1 induced maximal migration of PROTEIN2 and PROTEIN transfected cells at 89.3 nmol/L and cell adhesion at 5.6 nmol/L .
+0	The gamma chain of the PROTEIN ( PROTEIN1 ) receptor is shared with the functional PROTEIN2 and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN , D and PROTEIN1PROTEIN2 , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	This largest TAF may therefore play a central role in PROTEIN1 assembly by interacting with both PROTEIN2 and other TAFs , as well as serving to link the control of transcription to the cell cycle .
+1	We recently reported that PROTEIN1 interaction with the PROTEIN cysteine-rich domain ( PROTEIN2 , residues 139-184 ) may be required for PROTEIN activation .
+0	In vivo complexes of PROTEIN and G beta gamma were isolated from human embryonic kidney 293-T cells transfected with epitope-tagged PROTEIN1PROTEIN2 were isolated from human embryonic kidney 293-T cells transfected with epitope-tagged G beta 2 .
+0	Three of these clones encode DNA binding proteins ( NF-IL6 beta , HMG I/Y , and PROTEIN1PROTEIN2 , HMG I/Y , and PROTEIN ) , one clone encodes a chaperone protein , and another clone encodes a multifunctional phosphatase .
+1	A bZip protein , PROTEIN1 , was found to efficiently interact with PROTEIN2 .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN1PROTEIN2 but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	The SH2/SH3 domain-containing protein PROTEIN interacts with tyrosine-phosphorylated PROTEIN and PROTEIN : implications for PROTEIN control of PROTEIN1PROTEIN2 : implications for PROTEIN control of PROTEIN signalling .
+1	The protein product of PROTEIN1 proto-oncogene is known to interact with several proteins , including PROTEIN , PROTEIN2 and PI3 kinase , and is thought to regulate signalling by many cell surface receptors .
+0	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN1 and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN2 and PROTEIN .
+0	PROTEIN1 ( PROTEIN2 , PROTEIN , PROTEIN ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN1PROTEIN2 gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator Swi/Snf .
+1	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN1 binding protein , PROTEIN2 ) of the PROTEIN .
+0	Transcriptional synergy with PROTEIN1 ( C/EBP delta , PROTEIN2 ) .
+0	Although PROTEIN1 is a critical effector of PROTEIN2 signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN activation is complex and remains poorly understood .
+0	Using these methods , we have identified residues that appear to be involved in PROTEIN1 binding as well as other residues , most of which are conserved in receptors of the cytokine receptor family , that appear to be necessary for the proper folding and/or stability of the PROTEIN2 .
+0	PROTEIN1 ( PROTEIN , PROTEIN2 , PROTEIN ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+0	Functional participation of the PROTEIN receptor gamma chain in PROTEIN1PROTEIN2 receptor complexes .
+0	Scatchard analysis of in vitro binding between PROTEIN and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between PROTEIN1PROTEIN2 and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and beta ARK ( Kd = 87 +/- 24 nM ) .
+0	The HFE-TfR complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN1PROTEIN2 complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+0	The interactions between PROTEIN1 and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN2 to phosphotyrosines on both PROTEIN and PROTEIN .
+1	The binding epitopes of PROTEIN1 for PROTEIN ( type I ) and PROTEIN2 or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	PROTEIN1 induced maximal migration of PROTEIN and PROTEIN2 transfected cells at 89.3 nmol/L and cell adhesion at 5.6 nmol/L .
+0	In addition , we show that in extracts depleted of PROTEIN and TBP-associated factors , transcription from the U1 promoter is restored by recombinant PROTEIN but not by PROTEIN1PROTEIN2 but not by PROTEIN or TFIIIB , indicating that transcription of class II snRNA genes requires a PROTEIN complex different from the one used for mRNA-encoding genes .
+0	It does not contain a tyrosine kinase domain nor show homology with members of the immunoglobulin super gene family , but does show some significant sequence homologies with receptors for several other haemopoietic growth factors , including those for PROTEIN , PROTEIN and PROTEIN1PROTEIN2 and PROTEIN ( beta-chain ) and also to the prolactin receptor .
+0	Interestingly , both PROTEIN1 and phosphatidylinositol-3 ( PI-3 ) kinase can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN molecule , suggesting a mechanism whereby PROTEIN2 could provide the core for a large signalling complex .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN , PROTEIN , and PROTEIN1 , but not with PROTEIN2 .
+0	The primary amino acid sequence of PROTEIN1 shares similarity with that of pelle , a protein kinase that is essential for the activation of a PROTEIN2 homolog in Drosophila .
+0	Thus , 14-3-3 interaction with the PROTEIN may serve in negative regulation of PROTEIN function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN1PROTEIN2 function by facilitating dissociation of 14-3-3 from the NH2 terminus of PROTEIN to promote subsequent events necessary for full activation of PROTEIN .
+0	Mutagenesis of the PROTEIN receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN1 ) , as well as PROTEIN2 ( PROTEIN ) in mammalian cells .
+1	PROTEIN1 and PROTEIN have been shown to play key roles in vascular development ; these two receptors bind and are activated by PROTEIN2 ( PROTEIN ) .
+1	The SH2/SH3 domain-containing protein PROTEIN1 interacts with tyrosine-phosphorylated PROTEIN and PROTEIN2 : implications for PROTEIN control of PROTEIN signalling .
+0	After a brief historical incursion regarding PROTEIN1 of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN2 , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	Although PROTEIN is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN1PROTEIN2 is a critical effector of PROTEIN signaling and transformation , the mechanism by which PROTEIN promotes PROTEIN activation is complex and remains poorly understood .
+1	We recently reported that PROTEIN1 interaction with the PROTEIN2 ( PROTEIN , residues 139-184 ) may be required for PROTEIN activation .
+1	Mutagenesis of the PROTEIN1 receptor ( PROTEIN2 ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+0	In addition , we show that in extracts depleted of PROTEIN and PROTEIN1-associated factors , transcription from the U1 promoter is restored by recombinant PROTEIN2 but not by PROTEIN or TFIIIB , indicating that transcription of class II snRNA genes requires a PROTEIN complex different from the one used for mRNA-encoding genes .
+0	We recently reported that PROTEIN interaction with the PROTEIN1 cysteine-rich domain ( PROTEIN2 , residues 139-184 ) may be required for PROTEIN activation .
+0	Secreted PROTEIN1 is a homotrimer that binds to distinct TNF receptors of 60 and 80 kilodaltons ; however , these receptors do not recognize the major cell surface LT-alpha-PROTEIN2 complex .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of G beta gamma to PROTEIN1 ; however , the Raf-1-binding proteins , PROTEIN2 and 14-3-3 , had no effect .
+1	In the present study , we demonstrate that PROTEIN1 binds directly to the isolated PROTEIN2 .
+1	PROTEIN and PROTEIN1 have been shown to play key roles in vascular development ; these two receptors bind and are activated by PROTEIN2 ( PROTEIN ) .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN1PROTEIN2 ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	Characterization of PROTEIN1 ( PROTEIN , PROTEIN ) -PROTEIN2 ligand interaction .
+0	A protein kinase designated PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN receptor-associated kinase ) was purified , and its complementary DNA was molecularly cloned .
+0	Unlabeled PROTEIN1 and PROTEIN2 were equally effective at displacing the binding of labeled PROTEIN to TNF-R expressing cells .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN1 or PROTEIN2 ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	Based on the structure of the closely related PROTEIN1-tumor necrosis factor receptor I complex , a molecular model of the PROTEIN2 homotrimer bound to three PROTEIN molecules was generated using knowledge-based protein modeling methods .
+0	PROTEIN is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins , such as the PROTEIN gene products PROTEIN and PROTEIN1PROTEIN2 gene products PROTEIN and PROTEIN .
+0	The PROTEIN1 gene product , PROTEIN2 , regulates cell proliferation by binding to and inhibiting the activity of key growth promoting proteins .
+0	The structures of PROTEIN alone and complexed with PROTEIN1 differ in their domain arrangement and dimer interfaces , providing a mechanism for communicating binding events between PROTEIN2 chains .
+0	A neutralizing polyclonal antibody to PROTEIN was developed to demonstrate that the unusually high concentration of PROTEIN1PROTEIN2 was developed to demonstrate that the unusually high concentration of PROTEIN required to induce chemotaxis was a property of PROTEIN and not as a result of an irrelevant protein contamination .
+0	In competition experiments , the carboxyl terminus of PROTEIN1 ( beta ARK ) blocked the binding of G beta gamma to PROTEIN ; however , the PROTEIN2-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN1PROTEIN2 , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	We employed both random and site-specific mutagenesis to determine the function of amino acid residues in the extracellular domain ( referred to as PROTEIN1PROTEIN2 , PROTEIN ) of the PROTEIN .
+1	The screen identified interactions involving PROTEIN1 and two 14-3-3 isoforms , cytokeratin 18 , human unconventional myosin IC , and a recently identified SH3 domain containing protein , PROTEIN2 .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN1 ( PROTEIN2 ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	In addition , selected mutant proteins were expressed as full-length PROTEIN1 on the surface of COS cells and analyzed for 125I-PROTEIN2 binding in receptor binding assays .
+0	Mutagenesis of the PROTEIN receptor ( PROTEIN ) permits analysis of the contribution that individual amino acid residues make to PROTEIN1 ( PROTEIN2 ) binding .
+0	Functional participation of the PROTEIN1 receptor gamma chain in PROTEIN2 receptor complexes .
+1	Interestingly , both PROTEIN and PROTEIN1 can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN2 molecule , suggesting a mechanism whereby PROTEIN could provide the core for a large signalling complex .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN1PROTEIN2 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	Determination of PROTEIN , complement factors PROTEIN1 and PROTEIN2 , and PROTEIN may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+1	This protein , designated VEGF-related protein ( PROTEIN1 ) , specifically binds to the extracellular domain of PROTEIN2 , stimulates the tyrosine phosphorylation of PROTEIN expressed in mammalian cells , and promotes the mitogenesis of human lung endothelial cells .
+0	Three of these clones encode DNA binding proteins ( NF-IL6 beta , PROTEIN1 , and PROTEIN2 ) , one clone encodes a chaperone protein , and another clone encodes a multifunctional phosphatase .
+0	PROTEIN specifically interacts with PROTEIN but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN1PROTEIN2 but not with other closely related family members , PROTEIN , PROTEIN , PROTEIN , or with PROTEIN .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN1 and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+0	Their order of selection was PROTEIN effusion , PROTEIN serum , PROTEIN1-effusion , and PROTEIN2 effusion .
+0	The gamma chain of the PROTEIN1 is shared with the functional PROTEIN2 receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( beta ARK ) blocked the binding of PROTEIN1 to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN2 and 14-3-3 , had no effect .
+1	Moreover , a transcriptional activation signal was transduced by PROTEIN1 in the presence of type I receptors after stimulation by PROTEIN2/BMP-7 .
+0	PROTEIN is a muscle-specific HLH protein that binds DNA in vitro as a heterodimer with several widely expressed HLH proteins , such as the PROTEIN gene products PROTEIN and PROTEIN1PROTEIN2 and PROTEIN .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN , D and PROTEIN1PROTEIN2-forming enzymes , starting with PROTEIN , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+1	Comparison of the two crystallographically distinct protein-DNA complexes show that the coiled-coil is flexibly joined to the basic regions and that the PROTEIN1-PROTEIN2 heterodimer does not recognize the asymmetric 5'-TGAGTCA-3 ' recognition element in a unique orientation .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN1PROTEIN2 catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	The HFE-TfR complex suggests a binding site for PROTEIN on PROTEIN1PROTEIN2-TfR complex suggests a binding site for PROTEIN on PROTEIN and sheds light upon the function of PROTEIN in regulating iron homeostasis .
+0	One protein is the major PROTEIN receptor substrate PROTEIN1 and the second is the SH2 domain-containing oncogenic protein , PROTEIN2 .
+0	PROTEIN1 ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN2 .
+0	The gamma chain of the PROTEIN ( PROTEIN1PROTEIN2 is shared with the functional PROTEIN receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	PROTEIN ( PROTEIN1 , PROTEIN2 , PROTEIN ) , a protein kinase C ( PROTEIN ) substrate important for the growth and plasticity of neuronal connections , has been implicated in vitro in several signal transduction pathways .
+1	The structures of PROTEIN1 alone and complexed with PROTEIN2 differ in their domain arrangement and dimer interfaces , providing a mechanism for communicating binding events between PROTEIN chains .
+1	The protein product of PROTEIN1 proto-oncogene is known to interact with several proteins , including PROTEIN2 , PROTEIN and PI3 kinase , and is thought to regulate signalling by many cell surface receptors .
+0	The interactions between PROTEIN1 and these two proteins require ligand activation of the PROTEIN receptor and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN and PROTEIN2 .
+0	Functional participation of the PROTEIN receptor gamma chain in PROTEIN1PROTEIN2 chain in PROTEIN receptor complexes .
+1	We have determined the X-ray crystal structure of a heterodimer of the bZIP regions of PROTEIN1 and PROTEIN2 bound to DNA .
+0	Surprisingly , the N-terminal third of PROTEIN alone bound PROTEIN more strongly than did intact PROTEIN1 , suggesting that the protein 's C-terminus may play a role in modulating the interaction with PROTEIN2 .
+0	The SH2/SH3 domain-containing protein PROTEIN interacts with tyrosine-phosphorylated PROTEIN and PROTEIN : implications for PROTEIN control of PROTEIN1PROTEIN2 interacts with tyrosine-phosphorylated PROTEIN and PROTEIN : implications for PROTEIN control of PROTEIN signalling .
+0	When the ligand binds , PROTEIN1 initiates a signaling cascade that results in the activation of the transcription regulator PROTEIN2 ( NF-kappa B ) .
+0	Association of PROTEIN with both PROTEIN and PROTEIN1 may also imply a mechanistic link between the functions of PROTEIN and PROTEIN2 .
+0	The products of the PROTEIN1 and PROTEIN2 genes are ubiquitously expressed , large ( 200 kDa for PROTEIN and 195 kDa for PROTEIN ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	The tyrosine kinases PROTEIN , PROTEIN , and PROTEIN1 ( or PROTEIN2 ) constitute a family of endothelial cell-specific receptors with seven immunoglobulin-like domains and a split kinase domain .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN ) , as well as PROTEIN1PROTEIN2 catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	Determination of PROTEIN , complement factors PROTEIN and PROTEIN , and PROTEIN1PROTEIN2 and PROTEIN , and PROTEIN may be a significant parameter in the differential diagnosis of serous effusions , particularly in those patients with malignant disease .
+0	The gamma chain of the PROTEIN ( PROTEIN1PROTEIN2 ( PROTEIN ) receptor is shared with the functional PROTEIN receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	Binding of PROTEIN1/PROTEIN2 to PROTEIN was also observed in nontransfected cell lines .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN1PROTEIN2 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	We recently reported that PROTEIN interaction with the PROTEIN1 ( PROTEIN2 , residues 139-184 ) may be required for PROTEIN activation .
+1	Characterization of PROTEIN1 ( PROTEIN , PROTEIN ) -PROTEIN2 interaction .
+0	The interactions between PROTEIN and these two proteins require ligand activation of the PROTEIN1 and are mediated by the binding of the SH2 domain of PROTEIN2 to phosphotyrosines on both PROTEIN and PROTEIN .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN1 ( PROTEIN ) , and complement factors PROTEIN and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+0	Physical interaction of mammalian PROTEIN1 with PROTEIN PROTEIN was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN2 with cyclins .
+0	PROTEIN1 ( PROTEIN2 ) induces bone formation and regeneration in adult vertebrates and regulates important developmental processes in all animals .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN1PROTEIN2 ( type I ) and PROTEIN or PROTEIN ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	Transcriptional synergy with NF-IL6 beta ( C/PROTEIN1 , PROTEIN2 ) .
+0	Their order of selection was PROTEIN1 effusion , PROTEIN serum , PROTEIN2-effusion , and PROTEIN effusion .
+0	After a brief historical incursion regarding PROTEIN1 of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN2 .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN1 ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+1	Although PROTEIN1 associates with PROTEIN2 and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+1	PROTEIN1 : a ligand and specific activator of the tyrosine kinase receptor PROTEIN2 .
+0	A physical interaction between PROTEIN and PROTEIN1 suggests that PROTEIN may regulate the mammalian cell cycle through a direct effect on PROTEIN2 .
+0	Association of PROTEIN with both PROTEIN1 and PROTEIN may also imply a mechanistic link between the functions of PROTEIN2 and PROTEIN .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator PROTEIN1PROTEIN2 gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator Swi/Snf .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator Swi/PROTEIN1PROTEIN2 protein , a component of the transcriptional regulator Swi/Snf .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN1 , PROTEIN , and PROTEIN2 .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( PROTEIN1 ) blocked the binding of PROTEIN2 to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	Interestingly , both PROTEIN and phosphatidylinositol-3 ( PI-3 ) kinase can simultaneously bind distinct tyrosine phosphorylated regions on the same PROTEIN1 molecule , suggesting a mechanism whereby PROTEIN2 could provide the core for a large signalling complex .
+0	The products of the PROTEIN1 and PROTEIN genes are ubiquitously expressed , large ( 200 kDa for PROTEIN2 and 195 kDa for PROTEIN ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN1 ( PROTEIN ) , and complement factors PROTEIN2 and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN1 ) , and complement factors PROTEIN2 and PROTEIN can be used in the differential diagnosis of serous effusion .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN1 , D and G cathepsin and ending with the conversion enzyme and PROTEIN2 .
+0	PROTEIN is a homodimeric cysteine knot protein that , as a member of the PROTEIN1 ( PROTEIN2 ) superfamily , signals by oligomerizing type I and type II receptor serine-kinases in the cell membrane .
+1	The protein product of PROTEIN1 proto-oncogene is known to interact with several proteins , including PROTEIN , PROTEIN and PROTEIN2 , and is thought to regulate signalling by many cell surface receptors .
+0	Scatchard analysis of in vitro binding between PROTEIN and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and PROTEIN1PROTEIN2 revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and beta ARK ( Kd = 87 +/- 24 nM ) .
+1	Physical interaction of mammalian PROTEIN1 with PROTEIN2 PROTEIN was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN with cyclins .
+0	A physical interaction between PROTEIN1 and PROTEIN suggests that PROTEIN2 may regulate the mammalian cell cycle through a direct effect on PROTEIN .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN1PROTEIN2-forming enzymes , starting with PROTEIN , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN1 ) , as well as protein phosphatase 1 ( PROTEIN2 ) in mammalian cells .
+1	The cell surface form of PROTEIN1 is assembled during biosynthesis as a heteromeric complex with PROTEIN2 ( PROTEIN ) , a type II transmembrane protein that is another member of the TNF ligand family .
+0	Studies with monoclonal antibodies specific for the PROTEIN1 receptor gamma chain showed that the gamma chain participates in the functional high-affinity receptor complexes for PROTEIN2 that are involved in the differentiation of T and B cells .
+0	The binding epitopes of PROTEIN for PROTEIN ( type I ) and PROTEIN1 or PROTEIN ( type II ) were characterized using PROTEIN2 mutant proteins for analysis of interactions with receptor ectodomains .
+0	Association of PROTEIN with both PROTEIN and PROTEIN1 may also imply a mechanistic link between the functions of PROTEIN2 and PROTEIN .
+0	PROTEIN binds to the PROTEIN1PROTEIN2 binds to the PROTEIN receptor ( PROTEIN ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	We observed that the protein PROTEIN1 interacted with protein PROTEIN2 catalytic subunit ( PROTEIN ) , as well as protein phosphatase 1 ( PROTEIN ) in mammalian cells .
+0	The precise function of PROTEIN1 in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN is a negative regulator of the PROTEIN2 receptor .
+0	We recently reported that PROTEIN interaction with the PROTEIN1PROTEIN2 ( PROTEIN , residues 139-184 ) may be required for PROTEIN activation .
+0	A neutralizing polyclonal antibody to PROTEIN was developed to demonstrate that the unusually high concentration of PROTEIN required to induce chemotaxis was a property of PROTEIN1PROTEIN2 required to induce chemotaxis was a property of PROTEIN and not as a result of an irrelevant protein contamination .
+0	In transfected COS-1 cells , osteogenic protein ( OP ) -1/BMP-7 , and less efficiently PROTEIN1PROTEIN2/BMP-7 , and less efficiently PROTEIN , bound to PROTEIN .
+0	Both PROTEIN1 and PROTEIN have been implicated in a highly conserved mechanism that regulates PROTEIN2 signalling by receptor tyrosine kinases .
+0	Based on the structure of the closely related PROTEIN1-tumor necrosis factor receptor I complex , a molecular model of the PROTEIN homotrimer bound to three PROTEIN2 molecules was generated using knowledge-based protein modeling methods .
+0	In the yeast-based cloning system , the only strong interaction that was detected between PROTEIN and the PROTEIN1PROTEIN2 and the calcium effector protein , PROTEIN ( PROTEIN ) .
+0	PROTEIN , PROTEIN1 , and complement factors PROTEIN2 and PROTEIN concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+1	The death-inducing receptor PROTEIN1 is activated when cross-linked by the type II membrane protein PROTEIN ligand ( PROTEIN2 ) .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator PROTEIN1PROTEIN2 protein , a component of the transcriptional regulator Swi/Snf .
+0	Although PROTEIN associates with PROTEIN and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN1PROTEIN2 and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN1PROTEIN2 ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN .
+0	Recombinant PROTEIN binds directly to PROTEIN1 both in vitro and in yeast , and participates in the formation of the PROTEIN2 complex .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN , PROTEIN , D and PROTEIN1 and ending with the conversion enzyme and PROTEIN2 .
+0	Their order of selection was PROTEIN1 effusion , PROTEIN serum , TNFalpha-effusion , and PROTEIN2 effusion .
+0	Physical interaction of mammalian PROTEIN with PROTEIN1 PROTEIN was originally identified as a Start gene in budding yeast and has been shown to be required for association of PROTEIN2 with cyclins .
+0	Mutagenesis of the PROTEIN1 ( PROTEIN2 ) permits analysis of the contribution that individual amino acid residues make to PROTEIN ( PROTEIN ) binding .
+1	The binding epitopes of PROTEIN1 for PROTEIN ( type I ) and PROTEIN or PROTEIN2 ( type II ) were characterized using PROTEIN mutant proteins for analysis of interactions with receptor ectodomains .
+0	Unlabeled PROTEIN and PROTEIN were equally effective at displacing the binding of labeled PROTEIN1PROTEIN2 were equally effective at displacing the binding of labeled PROTEIN to TNF-R expressing cells .
+0	PROTEIN interacts with PROTEIN and PROTEIN1PROTEIN2 interacts with PROTEIN and PROTEIN with PROTEIN receptors .
+0	We recently reported that PROTEIN1 interaction with the PROTEIN cysteine-rich domain ( PROTEIN , residues 139-184 ) may be required for PROTEIN2 activation .
+1	PROTEIN1 and PROTEIN have been shown to play key roles in vascular development ; these two receptors bind and are activated by vascular endothelial growth factor ( PROTEIN2 ) .
+0	Characterization of the PROTEIN binding proteins PROTEIN and PROTEIN1PROTEIN2 and PROTEIN .
+0	Based on the structure of the closely related lymphotoxin alpha-PROTEIN1 complex , a molecular model of the PROTEIN2 homotrimer bound to three PROTEIN molecules was generated using knowledge-based protein modeling methods .
+0	In vitro , purified G beta gamma subunits specifically bound to a GST fusion protein encoding amino acids 1-330 of PROTEIN1 ( PROTEIN2 ) .
+0	We have detected a specific association of PROTEIN with the molecular chaperon PROTEIN and a 44-kDa protein that we identify as mammalian PROTEIN1PROTEIN2 and a 44-kDa protein that we identify as mammalian PROTEIN .
+0	Liver-expressed chemokine ( PROTEIN ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN1 , and PROTEIN2 .
+1	Using a yeast two-hybrid strategy to identify other proteins that interact with and potentially regulate PROTEIN1 , we isolated a clone encoding the carboxyl-terminal half of the PROTEIN2 of heterotrimeric G-proteins .
+0	The precise function of PROTEIN in these pathways is not clear , although a genetic analysis in Caenorhabditis elegans suggests that PROTEIN is a negative regulator of the PROTEIN1PROTEIN2 .
+0	The cloned PROTEIN gene encodes a member of a protein family that includes the yeast PROTEIN protein , a component of the transcriptional regulator PROTEIN1/PROTEIN2 .
+0	Although PROTEIN associates with PROTEIN and PROTEIN1PROTEIN2 and PROTEIN , it is not tyrosine-phosphorylated after PROTEIN stimulation , implying that PROTEIN is not a substrate for the PROTEIN receptor .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN , PROTEIN ( PROTEIN2 ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+1	In vitro , purified PROTEIN1 subunits specifically bound to a GST fusion protein encoding amino acids 1-330 of PROTEIN ( PROTEIN2 ) .
+0	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN1 and PROTEIN shows two PROTEIN2 molecules which grasp each side of a twofold symmetric PROTEIN dimer .
+0	After a brief historical incursion regarding PROTEIN of renal origin , we present the main extrarenal PROTEIN1-forming enzymes , starting with PROTEIN , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN2 .
+0	DCs express more PROTEIN1 and PROTEIN2 mRNA than T cells .
+0	When human embryonic kidney cells ( cell line 293 ) over-expressing PROTEIN1 or HeLa cells were exposed to PROTEIN , PROTEIN rapidly associated with the PROTEIN2 complex and was phosphorylated .
+0	In the yeast-based cloning system , the only strong interaction that was detected between PROTEIN and the PROTEIN1 , PROTEIN2 ( PROTEIN ) .
+0	PROTEIN binds to the PROTEIN receptor ( PROTEIN1 ) , a receptor by which cells acquire iron-loaded PROTEIN2 .
+0	In competition experiments , the carboxyl terminus of beta-adrenergic receptor kinase ( PROTEIN1 ) blocked the binding of G beta gamma to PROTEIN2 ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	The gamma chain of the PROTEIN1 ( PROTEIN ) receptor is shared with the functional PROTEIN2 receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+1	When transfected into COS cells the cloned cDNA directed the expression of a PROTEIN1 showing a single class of affinity ( KD = 2 ( -8 ) nM ) and specificity for human PROTEIN2 but not PROTEIN .
+0	We observed that the protein PROTEIN interacted with protein serine-threonine phosphatase 2A catalytic subunit ( PROTEIN ) , as well as PROTEIN1 ( PROTEIN2 ) in mammalian cells .
+0	The 2.8 A crystal structure of a complex between the extracellular portions of PROTEIN and PROTEIN1 shows two PROTEIN2 molecules which grasp each side of a twofold symmetric PROTEIN dimer .
+0	PROTEIN1 , PROTEIN , and complement factors PROTEIN and PROTEIN2 concentrations were measured simultaneously in blood and serous effusion using commercially available methods .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN1 , PROTEIN2 , and PROTEIN , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN products .
+1	We propose a model whereby PROTEIN stimulation leads to formation of multiple protein -- protein interactions between PROTEIN1 and the two targets PROTEIN and PROTEIN2 .
+0	PROTEIN1 ( PROTEIN2 ) is an unusually large CC chemokine , which is also known as PROTEIN , PROTEIN , PROTEIN , and PROTEIN .
+0	Binding assays with truncation mutants of GST-PROTEIN1 indicate that the region located between amino acids 136 and 239 is a primary determinant for interaction with PROTEIN2 .
+0	The products of the PROTEIN and PROTEIN1 genes are ubiquitously expressed , large ( 200 kDa for PROTEIN2 and 195 kDa for PROTEIN ) nuclear phosphoproteins with structural motifs that suggest a role in transcriptional regulation .
+0	Scatchard analysis of in vitro binding between PROTEIN and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and PROTEIN1PROTEIN2 and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between G beta gamma and beta ARK ( Kd = 87 +/- 24 nM ) .
+0	In competition experiments , the carboxyl terminus of PROTEIN1 ( beta ARK ) blocked the binding of PROTEIN2 to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	Surprisingly , the N-terminal third of PROTEIN1 alone bound PROTEIN more strongly than did intact PROTEIN2 , suggesting that the protein 's C-terminus may play a role in modulating the interaction with PROTEIN .
+0	Suramin induced high-affinity trimerization of PROTEIN1 ( Kd = 0.10 microM at 20 degrees C ) and dimerization of PROTEIN2 ( Kd = 0.86 microM at 20 degrees C ) .
+1	These data show that PROTEIN1 and PROTEIN2 physically and functionally interact demonstrating that cross-talk occurs between factors of distantly related transcription families .
+1	We found that deletion of the carboxyl-terminal 28 amino acids of PROTEIN disrupted PROTEIN1-PROTEIN2 physical interaction .
+0	However , whether 14-3-3 proteins interact directly with the PROTEIN1 and how this interaction may mediate PROTEIN2 function has not been determined .
+1	Characterization of PROTEIN ( PROTEIN1 , PROTEIN ) -PROTEIN2 interaction .
+1	In yeast , PROTEIN1 interacts with cyclin-dependent kinases , including human PROTEIN2 , PROTEIN , and PROTEIN , but not with PROTEIN .
+0	The objective of this study was to measure the concentrations of PROTEIN1 ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN2 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN can be used in the differential diagnosis of serous effusion .
+1	In vivo association between PROTEIN1 and PROTEIN2 has been demonstrated by co-immunoprecipitation .
+0	Transfection of PROTEIN1 and PROTEIN2 in COS cells increased G alpha i2 expression relative to cells transfected with G alpha i2 and mock vector .
+0	In yeast , PROTEIN interacts with cyclin-dependent kinases , including human PROTEIN , PROTEIN1 , and PROTEIN , but not with PROTEIN2 .
+0	After a brief historical incursion regarding PROTEIN1 of renal origin , we present the main extrarenal angiotensin-forming enzymes , starting with PROTEIN2 , PROTEIN , D and G cathepsin and ending with the conversion enzyme and PROTEIN .
+0	Functional participation of the PROTEIN1PROTEIN2 chain in PROTEIN receptor complexes .
+0	A neutralizing polyclonal antibody to PROTEIN was developed to demonstrate that the unusually high concentration of PROTEIN required to induce chemotaxis was a property of PROTEIN1PROTEIN2 was developed to demonstrate that the unusually high concentration of PROTEIN required to induce chemotaxis was a property of PROTEIN and not as a result of an irrelevant protein contamination .
+0	Characterization of PROTEIN ( PROTEIN , PROTEIN1 ) -PROTEIN2 ligand interaction .
+0	Association of PROTEIN1 with both PROTEIN and PROTEIN may also imply a mechanistic link between the functions of PROTEIN and PROTEIN2 .
+0	We recently reported that PROTEIN1 interaction with the PROTEIN2 cysteine-rich domain ( PROTEIN , residues 139-184 ) may be required for PROTEIN activation .
+0	The gamma chain of the PROTEIN ( PROTEIN1 ) receptor is shared with the functional PROTEIN2 receptor and is causatively related to X-linked severe combined immunodeficiency ( XSCID ) , which is ascribed to a profound T cell defect .
+0	Functional participation of the PROTEIN receptor gamma chain in PROTEIN1PROTEIN2 receptor gamma chain in PROTEIN receptor complexes .
+0	Their order of selection was PROTEIN1 effusion , PROTEIN2 serum , TNFalpha-effusion , and PROTEIN effusion .
+1	PROTEIN1 binds to the PROTEIN receptor ( PROTEIN2 ) , a receptor by which cells acquire iron-loaded PROTEIN .
+0	In competition experiments , the carboxyl terminus of PROTEIN1 ( PROTEIN2 ) blocked the binding of G beta gamma to PROTEIN ; however , the Raf-1-binding proteins , PROTEIN and 14-3-3 , had no effect .
+0	The protein product of PROTEIN proto-oncogene is known to interact with several proteins , including PROTEIN1 , PROTEIN and PROTEIN2 , and is thought to regulate signalling by many cell surface receptors .
+0	Peptide growth factors , as well as the immediate early gene products PROTEIN , PROTEIN1 , and PROTEIN2 , inhibit the activity of PROTEIN through a mechanism independent of its association with PROTEIN products .
+0	The interactions between PROTEIN1 and these two proteins require ligand activation of the PROTEIN2 and are mediated by the binding of the SH2 domain of PROTEIN to phosphotyrosines on both PROTEIN and PROTEIN .
+0	When the ligand binds , PROTEIN1 initiates a signaling cascade that results in the activation of the transcription regulator nuclear factor kappa B ( PROTEIN2 ) .
+0	The objective of this study was to measure the concentrations of tumor necrosis factor-alpha ( PROTEIN ) in pleural and peritoneal effusions of different causes and to verify whether PROTEIN1 , PROTEIN ( PROTEIN ) , and complement factors PROTEIN and PROTEIN2 can be used in the differential diagnosis of serous effusion .
+0	The screen identified interactions involving PROTEIN and two 14-3-3 isoforms , PROTEIN1 , human unconventional myosin IC , and a recently identified SH3 domain containing protein , PROTEIN2 .
+0	Furthermore , we have identified a short sequence motif ( YV/IN ) present in PROTEIN , PROTEIN and PROTEIN1PROTEIN2 , PROTEIN and PROTEIN , which specifically binds the SH2 domain of PROTEIN with high affinity .
+0	PROTEIN and PROTEIN have been shown to play key roles in vascular development ; these two receptors bind and are activated by PROTEIN1 ( PROTEIN2 ) .
+1	Scatchard analysis of in vitro binding between PROTEIN and G beta gamma revealed an affinity of interaction ( Kd = 163 +/- 36 nM ) , similar to that seen between PROTEIN1 and PROTEIN2 ( Kd = 87 +/- 24 nM ) .
+1	Two cDNA clones encoding a receptor for human PROTEIN1 ( PROTEIN2 ) were isolated by expression screening of a library made from human placental mRNA .
+0	The PROTEIN1 gene is identical to a gene , PROTEIN2 , ( ref 7,8 ) , implicated in cell-cycle progression .

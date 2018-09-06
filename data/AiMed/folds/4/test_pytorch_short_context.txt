@@ -1,0 +1,2264 @@
+The pattern of CD30L binding inhibition shows only limited correspondence to the functional capacity of some anti-CD30 MAb to trigger $T1$$T2$ binding inhibition shows only limited correspondence to the functional capacity of some anti-CD30 MAb to trigger CD30 signaling.
+CD30
+CD30L
+0
+The interface relies on the steric complementarity between the $T1$ cleft and the hydrophobic face of the p53 alpha helix and, in particular, on a triad of $T2$ amino acids-Phe19, Trp23, and Leu26-which insert deep into the MDM2 cleft.
+MDM2
+p53
+0
+The $T1$ and $T2$ receptors (hGHR and hPRLR, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hGH
+hPRL
+0
+CD5 associates with the $T1$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/$T2$ ligation.
+T-cell receptor zeta chain (TcR zeta)/CD3
+CD3
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator ($T1$$T2$) and Fas ligand (FasL/CD95L).
+HVEM
+herpes virus entry mediator (HVEM)-L
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and $T1$ (FasL/$T2$).
+Fas ligand
+CD95L
+0
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the interleukin 10 ($T1$$T2$, the STAT proteins activated by IL-10 in different cell populations were first defined using electrophoretic mobility shift assays.
+IL-10
+interleukin 10 (IL-10) receptor
+0
+A potential interaction of p75 and trkA $T1$$T2$ NGF receptors revealed by affinity crosslinking and immunoprecipitation.
+NGF
+trkA
+0
+We found that $T1$ and $T2$ can form a physical complex.
+YY1
+Sp1
+1
+CD5 associates with the $T1$ (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/$T2$ ligation.
+T-cell receptor zeta chain
+CD3
+0
+$T1$ and its counter-receptor CD30 ligand (CD30L) are members of the TNF-receptor/$T2$ superfamily and function to regulate lymphocyte survival and differentiation.
+CD30
+TNFalpha
+0
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ and the p140trk ($T2$) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75 neurotrophin receptor
+trkA
+0
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for MPIF-2/$T1$ (SCYA24) and have identified a novel CC chemokine termed $T2$.
+eotaxin-2
+eotaxin-3
+0
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as p16 and p21 and regulators of apoptosis such as $T1$$T2$ and p21 and regulators of apoptosis such as p53 and members of the bcl-2 family.
+p53
+p16
+0
+In certain cancers, $T1$ amplification is a common event and contributes to the inactivation of $T2$.
+MDM2
+p53
+0
+CD5 associates with the T-cell receptor zeta chain ($T1$$T2$ associates with the T-cell receptor zeta chain (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+TcR zeta
+CD5
+0
+Molecular determinants of the interaction between the C-terminal domain of Alzheimer's $T1$ and $T2$ alpha-helices.
+beta-amyloid peptide
+apolipoprotein E
+1
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the $T1$$T2$ (IL-10) receptor, the STAT proteins activated by IL-10 in different cell populations were first defined using electrophoretic mobility shift assays.
+interleukin 10 (IL-10) receptor
+interleukin 10
+0
+We found that ADA was associated with $T1$ on T cell lines lacking either ADA or $T2$ enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+CD26
+dipeptidyl peptidase IV
+0
+If current models of chaperonin mechanism are correct, $T1$ undergoes more rebinding and release cycles than does $T2$.
+rhodanese
+GS
+0
+The genes for $T1$/eotaxin-2 (SCYA24) and eotaxin-3 ($T2$) are localized within a region of approximately 40 kilobases.
+MPIF-2
+SCYA26
+0
+In contrast, tyrosine-phosphorylated peptides containing Tyr374 or Tyr396 did not interact with Stat3 or block $T1$$T2$ or block Stat3 activation.
+Stat3
+Stat3
+0
+The binding properties of these variants in vitro, and the result of using a neutralizing monoclonal antibody directed against site 3, lead to the conclusion that $T1$ dimer is formed through direct binding at two independent and differently oriented sites on $T2$.
+gp130
+IL-6
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and Fas ligand ($T1$/$T2$).
+FasL
+CD95L
+0
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as p16 and p21 and regulators of apoptosis such as p53 and members of the $T1$$T2$ and regulators of apoptosis such as p53 and members of the bcl-2 family.
+bcl-2
+p21
+0
+The POU domains of the $T1$ and $T2$ transcription factors mediate specific interaction with TBP.
+Oct1
+Oct2
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator ($T1$)-L) and Fas ligand (FasL/$T2$).
+HVEM
+CD95L
+0
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T1$$T2$ complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+NGF
+NGF-receptor
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of $T2$, utrophin/dystrophin related protein, and the Torpedo 87K protein.
+beta 1-syntrophin
+dystrophin
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist ($T1$$T2$ and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+IL 1ra
+transforming growth factors (TGF) beta1
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the $T1$$T2$ stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+p85
+gastrin
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), $T1$$T2$ and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+CD14
+transforming growth factors (TGF) beta1
+0
+These data demonstrate that $T1$ but not Stat1 or Stat5 is directly recruited to the ligand-activated $T2$ by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat3
+IL-10 receptor
+1
+The extracellular domain of the human neurotrophin $T1$ receptor expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for brain-derived neurotrophic factor ($T2$).
+TRKB
+BDNF
+0
+The genes for MPIF-2/eotaxin-2 ($T1$) and $T2$ (SCYA26) are localized within a region of approximately 40 kilobases.
+SCYA24
+eotaxin-3
+0
+$T1$, a T cell activation Ag, also known as dipeptidyl peptidase IV,is directly associated with adenosine deaminase ($T2$) on the surface of T cells and T cell lines.
+CD26
+ADA
+1
+We found that $T1$ was associated with CD26 on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between $T2$ and ADA did not require enzymatic activity.
+ADA
+dipeptidyl peptidase IV
+0
+CD5 associates with the $T1$$T2$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+T-cell receptor zeta chain
+T-cell receptor zeta chain (TcR zeta)/CD3
+0
+These data suggest that ADA on the cell surface is involved in an important immunoregulatory mechanism by which released $T1$ binds to cell surface $T2$, and this complex is capable of reducing the local concentration of adenosine.
+ADA
+CD26
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist ($T1$$T2$ and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+IL 1ra
+tumour necrosis factors (TNF) alpha
+0
+We found that $T1$ was associated with CD26 on T cell lines lacking either ADA or $T2$ enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+ADA
+dipeptidyl peptidase IV
+0
+The resulting Trk variant recruited binding of NGF equivalent to $T1$, maintained neurotrophin-3 binding equivalent to $T2$, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+TrkA
+TrkC
+0
+Our results indicate that the trkA and p75 receptors can potentially interact, and that such an association may be responsible for the generation of high affinity $T1$$T2$ receptors can potentially interact, and that such an association may be responsible for the generation of high affinity NGF binding sites.
+NGF
+p75
+0
+The $T1$ POU domain, which is highly homologous to the Oct2 POU domain, likewise mediates interaction with $T2$.
+Oct1
+TBP
+1
+We found that ADA was associated with CD26 on T cell lines lacking either $T1$ or dipeptidyl peptidase IV enzymatic activity, indicating that the association between $T2$ and ADA did not require enzymatic activity.
+ADA
+dipeptidyl peptidase IV
+0
+$T1$ also activated Stat5 in Ba/F3 cells that stably expressed the murine $T2$.
+IL-10
+IL-10 receptor
+0
+We have therefore investigated whether the octamer binding proteins might physically interact with $T1$, the TATA box binding protein component of the $T2$ factor.
+TBP
+TFIID
+0
+We found that ADA was associated with CD26 on T cell lines lacking either ADA or $T1$ enzymatic activity, indicating that the association between dipeptidyl peptidase IV and $T2$ did not require enzymatic activity.
+dipeptidyl peptidase IV
+ADA
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with $T1$/TR2 and $T2$, thereby suppressing LIGHT- mediated HT29 cell death.
+HVEM
+LTbetaR
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist ($T1$), $T2$ (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+IL 1ra
+CD14
+0
+We demonstrate here that both the site 2 and site 3 IL-6 variants complexed with IL-6R alpha bind a single $T1$ molecule but are unable to dimerize it, whereas the combined site 2/3 variants lose the ability to interact with $T2$.
+gp130
+gp130
+0
+Further investigation indicated that the $T1$/MyoD heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by $T2$/HLH462.
+ITF-2b
+Id3
+0
+As expected, overexpression of either Id3/$T1$ or $T2$ effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+HLH462
+ITF-2b
+0
+The potency of eotaxin-3 as a $T1$ ligand seems, however, to be approximately 10-fold less than that of $T2$.
+CCR3
+eotaxin
+1
+Although the individual amino acids in TrkA involved in binding to nerve growth factor ($T1$) and those in $T2$ involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+NGF
+TrkC
+0
+Additional analysis revealed the presence of transcripts for both the activating ($T1$) and inhibitory ($T2$) isoforms in differentiating C2C12 cultures, suggesting that both isoforms might participate in regulating the differentiation process.
+ITF-2a
+ITF-2b
+0
+The resulting Trk variant recruited binding of NGF equivalent to $T1$, maintained neurotrophin-3 binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with $T2$.
+TrkA
+TrkB
+0
+Evidence for physical interaction between the zinc-finger transcription factors $T1$ and $T2$.
+YY1
+Sp1
+1
+Although multimeric complexes of $T1$ and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T2$ complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+trkA
+NGF-receptor
+0
+$T1$ binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+Nerve growth factor
+p140trk (trkA) tyrosine kinase receptor
+1
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and Fas ligand ($T2$/CD95L).
+TR6
+FasL
+1
+Comparisons with the hGH-hGHR complex reveal how $T1$$T2$ complex reveal how hGH can bind to the two distinctly different receptor binding surfaces.
+hGH
+hGHR
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with $T1$$T2$ inhibits the interactions of LIGHT with HVEM/TR2 and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+HVEM
+TR6
+0
+Physical and functional interactions between the transcriptional inhibitors $T1$ and $T2$.
+Id3
+ITF-2b
+1
+Thus, TR6 may play a regulatory role for suppressing in FasL- and $T1$$T2$ may play a regulatory role for suppressing in FasL- and LIGHT-mediated cell death.
+LIGHT
+TR6
+0
+CD5 associates with the $T1$ (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T2$/CD3 ligation.
+T-cell receptor zeta chain
+TcR zeta
+0
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T1$ complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked $T2$.
+NGF-receptor
+p75
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T1$ related protein, and the $T2$.
+dystrophin
+Torpedo 87K protein
+0
+We found that ADA was associated with $T1$ on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and $T2$ did not require enzymatic activity.
+CD26
+ADA
+0
+$T1$ and its counter-receptor $T2$ ligand (CD30L) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30
+CD30
+0
+We found that $T1$ was associated with CD26 on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and $T2$ did not require enzymatic activity.
+ADA
+ADA
+0
+By using several different experimental systems we show that TBP efficiently associates with $T1$ and $T2$.
+Oct1
+Oct2
+0
+To study the mechanism underlying the apparent functional cooperation between $T1$ and $T2$, we explored the possibility of protein-protein interactions between these two transcription factors.
+YY1
+Sp1
+0
+The human pituitary hormones, $T1$ (hGH) and prolactin ($T2$), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+growth hormone
+hPRL
+0
+$T1$ and its counter-receptor CD30 ligand ($T2$) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30
+CD30L
+1
+The helical cytokine $T1$ and its specific binding subunit IL-6R alpha form a 1:1 complex which, by promoting homodimerization of the signalling subunit $T2$ on the surface of target cells, triggers intracellular responses.
+interleukin (IL) 6
+gp130
+0
+The Oct1 POU domain, which is highly homologous to the $T1$ POU domain, likewise mediates interaction with $T2$.
+Oct2
+TBP
+0
+These data demonstrate that Stat3 but not $T1$$T2$ but not Stat1 or Stat5 is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat1
+Stat3
+0
+We have used an interaction cloning strategy to identify an inhibitory isoform of the ITF-2 transcription factor, $T1$, that interacts with the transcriptional inhibitor $T2$/HLH462.
+ITF-2b
+Id3
+1
+We have therefore investigated whether the octamer binding proteins might physically interact with $T1$, the $T2$ component of the TFIID factor.
+TBP
+TATA box binding protein
+0
+Finally, we demonstrate that the anti-CD30L MAb M81 also completely inhibits $T1$$T2$ MAb M81 also completely inhibits CD30/CD30L interaction.
+CD30
+CD30L
+0
+This information is useful for applying these MAbs in functional studies to further investigate the CD30/$T1$$T2$/CD30L system and for designing assays for soluble CD30L.
+CD30L
+CD30
+0
+We found that ADA was associated with CD26 on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between $T1$ and $T2$ did not require enzymatic activity.
+dipeptidyl peptidase IV
+ADA
+1
+The crystal structure of the 109-residue amino-terminal domain of MDM2 bound to a 15-residue transactivation domain peptide of p53 revealed that $T1$$T2$ bound to a 15-residue transactivation domain peptide of p53 revealed that MDM2 has a deep hydrophobic cleft on which the p53 peptide binds as an amphipathic alpha helix.
+MDM2
+MDM2
+0
+Therefore, we suggested that this fragment is implicated in the neurotoxicity of $T1$ and in the protective effects of $T2$ in Alzheimer's disease.
+Abeta
+apolipoprotein E
+0
+Because cells lacking the protein tyrosine kinase c-Abl are also defective in radiation-induced G1 arrest, we investigated the possibility that $T1$$T2$ are also defective in radiation-induced G1 arrest, we investigated the possibility that ATM might interact with c-Abl in response to radiation damage.
+ATM
+c-Abl
+0
+The hGH and $T1$ receptors ($T2$ and hPRLR, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hPRL
+hGHR
+0
+TR6 ($T1$ ($T2$)) is a new member of the tumor necrosis factor receptor (TNFR) family.
+decoy receptor 3
+DcR3
+0
+Using a soluble CD30L/CD8alpha chimeric protein, we assessed the ability of anti-$T1$ MAb to inhibit the binding of CD30L to $T2$ expressed by the CD30+ Karpas 299 cell line.
+CD30
+CD30
+0
+As expected, overexpression of either Id3/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor $T1$$T2$ effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+MyoD
+ITF-2b
+0
+Characterization of the $T1$ binding domain on the human $T2$ molecule using anti-CD30 antibodies.
+CD30L
+CD30
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules $T1$ and beta, transforming growth factors (TGF) beta1 and 2, $T2$ and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+tumour necrosis factors (TNF) alpha
+interleukin (IL) 1
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ receptor substrate 1 ($T2$), the major cytoplasmic substrate of the insulin receptor.
+insulin
+IRS-1
+0
+In addition, activation of PI 3-kinase was detected in anti-IRS-1 immunoprecipitates from gastrin-treated cells, suggesting that tyrosine phosphorylation of IRS-1, which leads to the rapid recruitment of p85, might be one mechanism used by $T1$ to activate $T2$.
+gastrin
+PI 3-kinase
+0
+hPRL does not bind to the hGH receptor, but hGH binds to both the $T1$ and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on $T2$ overlap.
+hGHR
+hGH
+0
+Using a soluble $T1$/CD8alpha chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of CD30L to $T2$ expressed by the CD30+ Karpas 299 cell line.
+CD30L
+CD30
+0
+Although multimeric complexes of $T1$ and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked $T2$.
+trkA
+p75
+0
+Co-transfection of human TBP and $T1$$T2$ and Oct2 expression vectors into B cells resulted in a synergistic activation of an octamer motif containing promoter.
+Oct2
+TBP
+0
+In all cells tested, $T1$ activated $T2$ and Stat3 and induced the formation of three distinct DNA binding complexes that contained different combinations of these two transcription factors.
+IL-10
+Stat1
+1
+We found that ADA was associated with CD26 on T cell lines lacking either ADA or $T1$ enzymatic activity, indicating that the association between $T2$ and ADA did not require enzymatic activity.
+dipeptidyl peptidase IV
+dipeptidyl peptidase IV
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT ($T1$) and Fas ligand (FasL/$T2$).
+herpes virus entry mediator (HVEM)-L
+CD95L
+0
+Further investigation indicated that the ITF-2b/MyoD heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by $T1$/$T2$.
+Id3
+HLH462
+0
+We further demonstrated that apolipoprotein E2 and E3 but not $T1$$T2$ and E3 but not apolipoprotein E4 can decrease the fusogenic activity of Abeta(29-42) via a direct interaction.
+apolipoprotein E4
+apolipoprotein E2
+0
+We found that ADA was associated with $T1$ on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between $T2$ and ADA did not require enzymatic activity.
+CD26
+dipeptidyl peptidase IV
+0
+These data demonstrate that Stat3 but not Stat1 or $T1$$T2$ or Stat5 is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat5
+Stat1
+0
+Although multimeric complexes of trkA and $T1$ were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T2$ complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+p75
+NGF-receptor
+0
+In this study, a minimum set of residues in the human TrkC second immunoglobulin-like domain, which does not bind $T1$ ($T2$), were substituted with those from human TrkA.
+nerve growth factor
+NGF
+0
+CD5 interaction with $T1$$T2$ p56lck represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+p56lck
+ith
+0
+We have cloned and characterized human $T1$ and a second isoform of human $T2$.
+acidic (alpha 1-) syntrophin
+basic (beta 2-) syntrophin
+0
+IL-10 also activated $T1$ in Ba/F3 cells that stably expressed the murine $T2$ receptor.
+Stat5
+IL-10
+0
+As expected, overexpression of either Id3/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific $T1$ promoter by the myogenic transcription factor $T2$.
+creatine kinase
+MyoD
+0
+Using a soluble CD30L/$T1$ chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of CD30L to $T2$ expressed by the CD30+ Karpas 299 cell line.
+CD8alpha
+CD30
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with HVEM/TR2 and $T1$, thereby suppressing $T2$- mediated HT29 cell death.
+LTbetaR
+LIGHT
+0
+By using several different experimental systems we show that $T1$ efficiently associates with Oct1 and $T2$.
+TBP
+Oct2
+1
+The genes for MPIF-2/$T1$ (SCYA24) and $T2$ (SCYA26) are localized within a region of approximately 40 kilobases.
+eotaxin-2
+eotaxin-3
+0
+$T1$ does not bind to the $T2$ receptor, but hGH binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hPRL
+hGH
+0
+hPRL does not bind to the $T1$ receptor, but hGH binds to both the $T2$ and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGH
+hGHR
+0
+CD5 interaction with p56lck represents a novel variant of a receptor-kinas$T1$$T2$ represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+e compl
+p56lck
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the $T1$-Sos complex may contribute to the activation of the $T2$ pathway by gastrin.
+Grb2
+mitogen-activated protein kinase
+0
+CD30 and its counter-receptor CD30 ligand ($T1$) are members of the TNF-receptor/$T2$ superfamily and function to regulate lymphocyte survival and differentiation.
+CD30L
+TNFalpha
+0
+The rates of commitment to renaturation of $T1$ and $T2$ in the presence of the groE chaperonins.
+rhodanese
+glutamine synthetase
+0
+We report here that Grb2 also interacts with tyrosine-phosphorylated $T1$ in response to $T2$.
+IRS-1
+gastrin
+0
+In this study, a minimum set of residues in the human $T1$ second immunoglobulin-like domain, which does not bind nerve growth factor ($T2$), were substituted with those from human TrkA.
+TrkC
+NGF
+0
+Although the individual amino acids in $T1$ involved in binding to nerve growth factor ($T2$) and those in TrkC involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+TrkA
+NGF
+1
+CD30 and its counter-receptor $T1$ (CD30L) are members of the TNF-receptor/$T2$ superfamily and function to regulate lymphocyte survival and differentiation.
+CD30 ligand
+TNFalpha
+0
+Our results indicate that the trkA and p75 receptors can potentially interact, and that such an association may be responsible for the generation of high affinity $T1$$T2$ and p75 receptors can potentially interact, and that such an association may be responsible for the generation of high affinity NGF binding sites.
+NGF
+trkA
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT ($T1$) and Fas ligand ($T2$/CD95L).
+herpes virus entry mediator (HVEM)-L
+FasL
+0
+The $T1$ oncoprotein is a cellular inhibitor of the $T2$ tumor suppressor in that it can bind the transactivation domain of p53 and downregulate its ability to activate transcription.
+MDM2
+p53
+1
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained $T1$ binding equivalent to TrkC, and also bound $T2$, although with lower affinity compared with TrkB.
+neurotrophin-3
+brain-derived neurotrophin
+0
+The interaction can also be observed in vivo, as $T1$ can be co-precipitated with Oct2 from co-transfected Cos1 cells and TBP co-immunoprecipitates with the endogenous $T2$ from HeLa cells.
+TBP
+Oct1
+0
+The ability of $T1$ to initiate transcription is augmented by the presence of a TATA motif or binding sites for transcription factor $T2$.
+YY1
+Sp1
+0
+We demonstrate here that both the site 2 and site 3 IL-6 variants complexed with $T1$ bind a single gp130 molecule but are unable to dimerize it, whereas the combined site 2/3 variants lose the ability to interact with $T2$.
+IL-6R alpha
+gp130
+0
+As expected, overexpression of either $T1$/$T2$ or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+Id3
+HLH462
+0
+Our data suggest that $T1$ inhibits the interactions of LIGHT with HVEM/TR2 and LTbetaR, thereby suppressing $T2$- mediated HT29 cell death.
+TR6
+LIGHT
+0
+Collectively, $T1$ is yet another functional ligand for $T2$.
+eotaxin-3
+CCR3
+1
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T1$ ($T2$) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p140trk
+trkA
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/$T1$$T2$ (LTbetaR) and HVEM/TR2 receptors.
+TR2
+lymphotoxin beta receptor
+0
+Previously, we mapped the novel CC chemokine myeloid progenitor inhibitory factor 2 ($T1$$T2$ (MPIF-2)/eotaxin-2 to chromosome 7q11.23 (Nomiyama, H., Osborne, L. R., Imai, T., Kusuda, J., Miura, R., Tsui, L.-C., and Yoshie, O.
+MPIF-2
+myeloid progenitor inhibitory factor 2
+0
+The resulting Trk variant recruited binding of $T1$ equivalent to TrkA, maintained neurotrophin-3 binding equivalent to TrkC, and also bound $T2$, although with lower affinity compared with TrkB.
+NGF
+brain-derived neurotrophin
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$$T2$ (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I
+insulin-like growth factor-I receptor
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both $T1$ receptor ($T2$) and HVEM/TR2 receptors.
+lymphotoxin beta
+LTbetaR
+1
+Further investigation indicated that the $T1$/$T2$ heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by Id3/HLH462.
+ITF-2b
+MyoD
+1
+$T1$, a T cell activation Ag, also known as dipeptidyl peptidase IV,is directly associated with $T2$ (ADA) on the surface of T cells and T cell lines.
+CD26
+adenosine deaminase
+1
+IL-10 also activated Stat5 in Ba/F3 cells that stably expressed the murine $T1$$T2$.
+IL-10
+IL-10 receptor
+0
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the interleukin 10 ($T1$) receptor, the STAT proteins activated by $T2$ in different cell populations were first defined using electrophoretic mobility shift assays.
+IL-10
+IL-10
+0
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T1$ complexes with $T2$-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+NGF-receptor
+trk
+0
+Following linkage studies which were most consistent with a beta spectrin gene mutation, a nucleotide change was identified in codon 2018, resulting in an Ala-->Gly substitution in the first helical domain of $T1$$T2$ gene mutation, a nucleotide change was identified in codon 2018, resulting in an Ala-->Gly substitution in the first helical domain of beta spectrin repeat 17.
+beta spectrin
+beta spectrin
+0
+Using a soluble $T1$/CD8alpha chimeric protein, we assessed the ability of anti-$T2$ MAb to inhibit the binding of CD30L to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD30L
+CD30
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with HVEM/$T1$$T2$ inhibits the interactions of LIGHT with HVEM/TR2 and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+TR2
+TR6
+0
+The genes for MPIF-2/$T1$ (SCYA24) and eotaxin-3 ($T2$) are localized within a region of approximately 40 kilobases.
+eotaxin-2
+SCYA26
+0
+CD5 associates with the $T1$$T2$ associates with the T-cell receptor zeta chain (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+T-cell receptor zeta chain
+CD5
+0
+Although the individual amino acids in TrkA involved in binding to $T1$ (NGF) and those in TrkC involved in binding to $T2$ have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+nerve growth factor
+neurotrophin-3
+0
+Cloning of the complete coding region for human $T1$ using the two hybrid system and expression of $T2$ in E. coli.
+protein phosphatase inhibitor 2
+inhibitor 2
+0
+The resulting Trk variant recruited binding of $T1$ equivalent to TrkA, maintained neurotrophin-3 binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with $T2$.
+NGF
+TrkB
+0
+Molecular cloning of a novel human CC chemokine ($T1$) that is a functional ligand of $T2$.
+Eotaxin-3
+CC chemokine receptor 3
+1
+Coexpression of $T1$ with $T2$ in the baculovirus expression system resulted in the phosphorylation of CD5 on tyrosine residues.
+CD5
+p56lck
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of $T1$$T2$ regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+phosphatidylinositol 3-kinase
+p85
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of $T1$, utrophin/dystrophin related protein, and the $T2$.
+dystrophin
+Torpedo 87K protein
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor ($T1$$T2$ (LTbetaR) and HVEM/TR2 receptors.
+LTbetaR
+lymphotoxin beta receptor
+0
+A newly identified member of tumor necrosis factor receptor superfamily ($T1$) suppresses $T2$-mediated apoptosis.
+TR6
+LIGHT
+0
+In the present study, we demonstrate that $T1$ stimulates tyrosine phosphorylation of $T2$ receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the insulin receptor.
+gastrin
+insulin
+0
+CD5 interaction with p56lck represents a novel variant of a receptor-kinas$T1$$T2$ p56lck represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+e compl
+ith
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase ($T1$$T2$ regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+PI 3-kinase
+p85
+0
+$T1$ interaction with $T2$ represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+CD5
+p56lck
+1
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ neurotrophin receptor and the $T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75
+p140trk (trkA) tyrosine kinase receptor
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the $T1$$T2$ with the p85 regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+p85
+IRS-1
+0
+The extracellular domain of the human neurotrophin TRKB receptor expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for $T1$$T2$ receptor expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for brain-derived neurotrophic factor (BDNF).
+brain-derived neurotrophic factor
+TRKB
+0
+Because cells lacking the protein tyrosine kinase c-Abl are also defective in radiation-induced G1 arrest, we investigated the possibility that ATM might interact with $T1$$T2$ are also defective in radiation-induced G1 arrest, we investigated the possibility that ATM might interact with c-Abl in response to radiation damage.
+c-Abl
+c-Abl
+0
+Coexpression of CD5 with $T1$ in the baculovirus expression system resulted in the phosphorylation of $T2$ on tyrosine residues.
+p56lck
+CD5
+0
+$T1$ associates with the $T2$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+CD5
+T-cell receptor zeta chain (TcR zeta)/CD3
+1
+These data demonstrate that Stat3 but not Stat1 or $T1$$T2$ but not Stat1 or Stat5 is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat5
+Stat3
+0
+Using immunoprecipitation techniques, we have determined the rates at which $T1$ and glutamine synthetase ($T2$) are released from groEL in a form committed to refold to active enzyme.
+rhodanese
+GS
+0
+The $T1$ oncoprotein is a cellular inhibitor of the p53 tumor suppressor in that it can bind the transactivation domain of $T2$ and downregulate its ability to activate transcription.
+MDM2
+p53
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and $T1$$T2$ (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+platelet endothelial cell adhesion molecule (PECAM) 1
+CD14
+0
+Although the individual amino acids in $T1$ involved in binding to nerve growth factor (NGF) and those in TrkC involved in binding to $T2$ have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+TrkA
+neurotrophin-3
+0
+Interactions between $T1$ and the $T2$ receptor.
+brain-derived neurotrophic factor
+TRKB
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and $T1$$T2$ and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+platelet endothelial cell adhesion molecule (PECAM) 1
+transforming growth factors (TGF) beta1
+0
+Using immunoprecipitation techniques, we have determined the rates at which rhodanese and $T1$ ($T2$) are released from groEL in a form committed to refold to active enzyme.
+glutamine synthetase
+GS
+0
+The human pituitary hormones, growth hormone ($T1$) and $T2$ (hPRL), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+hGH
+prolactin
+0
+Coexpression of $T1$ with p56lck in the baculovirus expression system resulted in the phosphorylation of $T2$ on tyrosine residues.
+CD5
+CD5
+0
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained $T1$ binding equivalent to $T2$, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+neurotrophin-3
+TrkC
+1
+These same $T1$ residues are also involved in transactivation, supporting the hypothesis that MDM2 inactivates $T2$ by concealing its transactivation domain.
+p53
+p53
+0
+Our data suggest that TR6 inhibits the interactions of $T1$ with HVEM/$T2$ and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+LIGHT
+TR2
+1
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained neurotrophin-3 binding equivalent to $T1$, and also bound $T2$, although with lower affinity compared with TrkB.
+TrkC
+brain-derived neurotrophin
+0
+The $T1$ and hPRL receptors (hGHR and $T2$, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hGH
+hPRLR
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and $T1$$T2$ and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+platelet endothelial cell adhesion molecule (PECAM) 1
+tumour necrosis factors (TNF) alpha
+0
+More importantly, adenosine in the absence of cell surface ADA inhibited T cell proliferation and $T1$$T2$ inhibited T cell proliferation and IL-2 production induced by various stimuli.
+IL-2
+ADA
+0
+These data demonstrate that Stat3 but not Stat1 or $T1$ is directly recruited to the ligand-activated $T2$ by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat5
+IL-10 receptor
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the Grb2-$T1$ complex may contribute to the activation of the $T2$ pathway by gastrin.
+Sos
+mitogen-activated protein kinase
+0
+No binding between p59fyn(T) and $T1$$T2$(T) and CD5 was detected in T cells.
+CD5
+p59fyn
+0
+The genes for MPIF-2/eotaxin-2 ($T1$) and eotaxin-3 ($T2$) are localized within a region of approximately 40 kilobases.
+SCYA24
+SCYA26
+0
+In keeping with this observation, we showed that human CD26-transfected murine pre-B cell lines lacking human $T1$$T2$-transfected murine pre-B cell lines lacking human ADA acquired ADA from an extracellular source.
+ADA
+CD26
+0
+$T1$ binds independently to two transmembrane receptors, the $T2$ and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+Nerve growth factor
+p75 neurotrophin receptor
+1
+We found that $T1$ was associated with $T2$ on T cell lines lacking either ADA or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+ADA
+CD26
+1
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, LIGHT ($T2$) and Fas ligand (FasL/CD95L).
+TR6
+herpes virus entry mediator (HVEM)-L
+1
+$T1$ does not bind to the hGH receptor, but hGH binds to both the $T2$ and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hPRL
+hGHR
+0
+Using a soluble $T1$/CD8alpha chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of $T2$ to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD30L
+CD30L
+0
+Although multimeric complexes of $T1$ and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T2$-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+trkA
+NGF
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and $T1$$T2$ receptor (LTbetaR) and HVEM/TR2 receptors.
+HVEM
+lymphotoxin beta
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or $T1$$T2$ also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or CD4.
+CD4
+CD5
+0
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T1$-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked $T2$.
+NGF
+p75
+0
+CD5 interaction with p56lck represents a novel variant of a receptor-kinas$T1$$T2$ interaction with p56lck represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+e compl
+CD5
+0
+CD5 associates with the T-cell receptor zeta chain ($T1$)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T2$/CD3 ligation.
+TcR zeta
+TcR zeta
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of $T1$, utrophin/$T2$ related protein, and the Torpedo 87K protein.
+dystrophin
+dystrophin
+0
+$T1$ associates with the T-cell receptor zeta chain (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/$T2$ ligation.
+CD5
+CD3
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and $T1$ interact with peptides encoding the syntrophin-binding region of dystrophin, $T2$/dystrophin related protein, and the Torpedo 87K protein.
+alpha 1-syntrophin
+utrophin
+1
+Although multimeric complexes of $T1$ and $T2$ were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+trkA
+p75
+0
+The recently cloned $T1$ is such an $T2$.
+YY1
+Inr-binding protein
+0
+The genes for MPIF-2/eotaxin-2 (SCYA24) and $T1$ ($T2$) are localized within a region of approximately 40 kilobases.
+eotaxin-3
+SCYA26
+0
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not $T1$$T2$ but not Stat1 and blocked IL-10-induced Stat3 phosphorylation in a cell-free system.
+Stat1
+Stat3
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/$T1$$T2$/TR2 receptors.
+TR2
+HVEM
+0
+We have therefore investigated whether the octamer binding proteins might physically interact with TBP, the $T1$ component of the $T2$ factor.
+TATA box binding protein
+TFIID
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor ($T2$) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I
+IGF-IR
+0
+We found that ADA was associated with CD26 on T cell lines lacking either $T1$ or $T2$ enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+ADA
+dipeptidyl peptidase IV
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist ($T1$$T2$ and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+IL 1ra
+interleukin (IL) 1
+0
+These results, obtained from a variety of experimental techniques, highlight the importance of two distinct regions of the extracellular domain of the $T1$ in binding $T2$.
+TRKB receptor
+BDNF
+1
+The hGH and hPRL receptors (hGHR and $T1$$T2$ and hPRLR, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hPRLR
+hGHR
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with HVEM/$T1$$T2$/TR2 and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+TR2
+HVEM
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T1$$T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p140trk
+p140trk (trkA) tyrosine kinase receptor
+0
+Comparisons with the hGH-hGHR complex reveal how $T1$$T2$-hGHR complex reveal how hGH can bind to the two distinctly different receptor binding surfaces.
+hGH
+hGH
+0
+The resulting Trk variant recruited binding of $T1$ equivalent to TrkA, maintained neurotrophin-3 binding equivalent to $T2$, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+NGF
+TrkC
+0
+Finally, we demonstrate that the anti-CD30L MAb M81 also completely inhibits $T1$/$T2$ interaction.
+CD30
+CD30L
+1
+The genes for $T1$/eotaxin-2 ($T2$) and eotaxin-3 (SCYA26) are localized within a region of approximately 40 kilobases.
+MPIF-2
+SCYA24
+0
+The genes for $T1$/$T2$ (SCYA24) and eotaxin-3 (SCYA26) are localized within a region of approximately 40 kilobases.
+MPIF-2
+eotaxin-2
+0
+Moreover, using immunoelectron microscopy, we demonstrated that CD26 and $T1$ co-localized on the cell surface, but not inside cells, suggesting that $T2$ did not transport ADA to the surface.
+ADA
+CD26
+0
+The deduced amino acid sequences of human alpha 1- and $T1$ are nearly identical to their homologues in mouse, suggesting a strong functional conservation among the individual isoforms, Much like beta 1-syntrophin, human $T2$ has multiple transcript classes and is expressed widely, although in a distinct pattern of relative abundance.
+beta 2-syntrophin
+beta 2-syntrophin
+0
+Our data suggest that TR6 inhibits the interactions of $T1$$T2$ inhibits the interactions of LIGHT with HVEM/TR2 and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+LIGHT
+TR6
+0
+$T1$ stimulates tyrosine phosphorylation of $T2$ substrate 1 and its association with Grb2 and the phosphatidylinositol 3-kinase.
+Gastrin
+insulin receptor
+0
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and $T2$ (FasL/CD95L).
+TR6
+Fas ligand
+1
+Here, we demonstrate that TR6 specifically binds two cellular ligands, $T1$ (herpes virus entry mediator (HVEM)-L) and $T2$ (FasL/CD95L).
+LIGHT
+Fas ligand
+0
+The physical interaction between $T1$ and $T2$ may thus form the basis for the functional interplay observed previously.
+YY1
+Sp1
+1
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T1$$T2$ binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p140trk
+Nerve growth factor
+0
+The interaction can also be observed in vivo, as $T1$ can be co-precipitated with Oct2 from co-transfected Cos1 cells and $T2$ co-immunoprecipitates with the endogenous Oct1 from HeLa cells.
+TBP
+TBP
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and $T1$ interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T2$ related protein, and the Torpedo 87K protein.
+alpha 1-syntrophin
+dystrophin
+0
+Thus, TR6 may play a regulatory role for suppressing in $T1$$T2$ may play a regulatory role for suppressing in FasL- and LIGHT-mediated cell death.
+FasL
+TR6
+0
+Although the individual amino acids in $T1$ involved in binding to $T2$ (NGF) and those in TrkC involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+TrkA
+nerve growth factor
+1
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ and the $T2$ (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75 neurotrophin receptor
+p140trk
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/$T1$$T2$ receptor (LTbetaR) and HVEM/TR2 receptors.
+TR2
+lymphotoxin beta
+0
+In this study, we simulated interactions of all amphipathic helices of $T1$ and A-I with $T2$ and simian immunodeficiency virus (SIV) fusogenic fragments by molecular modeling.
+apolipoproteins E
+Abeta
+0
+We expressed differently tagged forms of $T1$ and used them in solution-phase binding assays to show that the soluble extracellular domains of $T2$ undergo dimerization in the absence of membranes.
+gp130
+gp130
+0
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for $T1$/eotaxin-2 ($T2$) and have identified a novel CC chemokine termed eotaxin-3.
+MPIF-2
+SCYA24
+0
+$T1$ does not bind to the hGH receptor, but hGH binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on $T2$ overlap.
+hPRL
+hGH
+0
+We demonstrate here that both the site 2 and site 3 $T1$ variants complexed with IL-6R alpha bind a single gp130 molecule but are unable to dimerize it, whereas the combined site 2/3 variants lose the ability to interact with $T2$.
+IL-6
+gp130
+0
+Taken together, our results suggest that $T1$ may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the gastrin/CCKB G protein-coupled receptor and the $T2$.
+IRS-1
+insulin receptor
+0
+As expected, overexpression of either $T1$/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific $T2$ promoter by the myogenic transcription factor MyoD.
+Id3
+creatine kinase
+0
+We found that ADA was associated with CD26 on T cell lines lacking either $T1$ or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and $T2$ did not require enzymatic activity.
+ADA
+ADA
+0
+In addition, we identified domains within $T1$ and $T2$ that mediate their interactions with each other.
+YY1
+Sp1
+1
+The interface relies on the steric complementarity between the MDM2 cleft and the hydrophobic face of the p53 alpha helix and, in particular, on a triad of $T1$ amino acids-Phe19, Trp23, and Leu26-which insert deep into the $T2$ cleft.
+p53
+MDM2
+1
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T1$-receptor complexes with $T2$-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+NGF
+trk
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$ (IGF-I) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I (IGF-I) receptor
+insulin-like growth factor-I
+0
+The interface relies on the steric complementarity between the $T1$ cleft and the hydrophobic face of the p53 alpha helix and, in particular, on a triad of p53 amino acids-Phe19, Trp23, and Leu26-which insert deep into the $T2$ cleft.
+MDM2
+MDM2
+0
+The crystal structure of the 109-residue amino-terminal domain of MDM2 bound to a 15-residue transactivation domain peptide of p53 revealed that $T1$$T2$ revealed that MDM2 has a deep hydrophobic cleft on which the p53 peptide binds as an amphipathic alpha helix.
+MDM2
+p53
+0
+The human pituitary hormones, growth hormone (hGH) and prolactin ($T1$$T2$ (hPRL), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+hPRL
+prolactin
+0
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ neurotrophin receptor and the p140trk ($T2$) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75
+trkA
+0
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the $T1$ (IL-10) receptor, the STAT proteins activated by $T2$ in different cell populations were first defined using electrophoretic mobility shift assays.
+interleukin 10
+IL-10
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/$T1$$T2$) and HVEM/TR2 receptors.
+TR2
+LTbetaR
+0
+We had previously shown that the ubiquitous $T1$ and the lymphoid-specific $T2$ transcription factors stimulate transcription at the level of stable preinitiation complex formation.
+Oct1
+Oct2
+0
+The deduced amino acid sequences of human alpha 1- and $T1$ are nearly identical to their homologues in mouse, suggesting a strong functional conservation among the individual isoforms, Much like $T2$, human beta 2-syntrophin has multiple transcript classes and is expressed widely, although in a distinct pattern of relative abundance.
+beta 2-syntrophin
+beta 1-syntrophin
+0
+The extracellular domain of the human $T1$ expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for brain-derived neurotrophic factor ($T2$).
+neurotrophin TRKB receptor
+BDNF
+1
+Although multimeric complexes of trkA and $T1$ were not detected by affinity crosslinking, immunoprecipitation of cross-linked $T2$-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+p75
+NGF
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, $T1$/$T2$ related protein, and the Torpedo 87K protein.
+utrophin
+dystrophin
+0
+We report here that $T1$ also interacts with tyrosine-phosphorylated IRS-1 in response to $T2$.
+Grb2
+gastrin
+0
+The hGH and $T1$ receptors (hGHR and $T2$, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hPRL
+hPRLR
+1
+Two distinct ligand binding domains of TRKB were isolated from proteolytic digests of the receptor by affinity separation on immobilized $T1$$T2$ were isolated from proteolytic digests of the receptor by affinity separation on immobilized BDNF.
+BDNF
+TRKB
+0
+The genes for MPIF-2/$T1$ ($T2$) and eotaxin-3 (SCYA26) are localized within a region of approximately 40 kilobases.
+eotaxin-2
+SCYA24
+0
+IL-10 also activated $T1$ in Ba/F3 cells that stably expressed the murine $T2$.
+Stat5
+IL-10 receptor
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, $T2$/dystrophin related protein, and the Torpedo 87K protein.
+beta 1-syntrophin
+utrophin
+1
+A potential interaction of $T1$ and trkA $T2$ receptors revealed by affinity crosslinking and immunoprecipitation.
+p75
+NGF
+0
+The genes for $T1$/eotaxin-2 (SCYA24) and $T2$ (SCYA26) are localized within a region of approximately 40 kilobases.
+MPIF-2
+eotaxin-3
+0
+These findings indicate that $T1$ is involved in the activation of $T2$ by DNA damage and this interaction may in part mediate radiation-induced G1 arrest.
+ATM
+c-Abl
+1
+As expected, overexpression of either Id3/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific $T1$$T2$ or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+creatine kinase
+HLH462
+0
+$T1$ recruitment by two distinct ligand-induced, tyrosine-phosphorylated docking sites in the $T2$ receptor intracellular domain.
+Stat3
+interleukin-10
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with HVEM/$T1$ and LTbetaR, thereby suppressing $T2$- mediated HT29 cell death.
+TR2
+LIGHT
+0
+We further demonstrated that $T1$ and E3 but not apolipoprotein E4 can decrease the fusogenic activity of $T2$(29-42) via a direct interaction.
+apolipoprotein E2
+Abeta
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and $T1$$T2$ and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+platelet endothelial cell adhesion molecule (PECAM) 1
+interleukin (IL) 1
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of insulin receptor substrate 1 ($T1$), the major cytoplasmic substrate of the $T2$.
+IRS-1
+insulin receptor
+0
+$T1$ induced transient calcium mobilization specifically in $T2$ (CCR3)-expressing L1.2 cells with an EC(50) of 3 nM.
+Eotaxin-3
+CC chemokine receptor 3
+0
+In this study, a minimum set of residues in the human TrkC second immunoglobulin-like domain, which does not bind nerve growth factor (NGF), were substituted with those from human $T1$$T2$), were substituted with those from human TrkA.
+TrkA
+NGF
+0
+Taken together, our results suggest that $T1$ may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the gastrin/CCKB G protein-coupled receptor and the $T2$ receptor.
+IRS-1
+insulin
+0
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the $T1$, the STAT proteins activated by $T2$ in different cell populations were first defined using electrophoretic mobility shift assays.
+interleukin 10 (IL-10) receptor
+IL-10
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, $T1$ ($T2$) and Fas ligand (FasL/CD95L).
+LIGHT
+herpes virus entry mediator (HVEM)-L
+0
+Further investigation indicated that the ITF-2b/$T1$ heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by Id3/$T2$.
+MyoD
+HLH462
+0
+Although the individual amino acids in TrkA involved in binding to $T1$ (NGF) and those in $T2$ involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+nerve growth factor
+TrkC
+0
+Although multimeric complexes of trkA and $T1$ were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with trk-specific antibodies resulted in selective immunoprecipitation of crosslinked $T2$.
+p75
+p75
+0
+Stat3 recruitment by two distinct ligand-induced, tyrosine-phosphorylated docking sites in the $T1$$T2$ receptor intracellular domain.
+interleukin-10 receptor
+interleukin-10
+0
+CD26, a T cell activation Ag, also known as $T1$,is directly associated with $T2$ (ADA) on the surface of T cells and T cell lines.
+dipeptidyl peptidase IV
+adenosine deaminase
+1
+Interaction between $T1$ protein and $T2$ in response to DNA damage.
+ATM
+c-Abl
+1
+Taken together, our results suggest that IRS-1 may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the $T1$$T2$ may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the gastrin/CCKB G protein-coupled receptor and the insulin receptor.
+gastrin
+IRS-1
+0
+These same p53 residues are also involved in transactivation, supporting the hypothesis that $T1$ inactivates $T2$ by concealing its transactivation domain.
+MDM2
+p53
+1
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I (IGF-I) receptor
+IGF-I
+0
+The interface relies on the steric complementarity between the $T1$ cleft and the hydrophobic face of the $T2$ alpha helix and, in particular, on a triad of p53 amino acids-Phe19, Trp23, and Leu26-which insert deep into the MDM2 cleft.
+MDM2
+p53
+0
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not Stat1 and blocked IL-10-induced $T1$$T2$-induced Stat3 phosphorylation in a cell-free system.
+Stat3
+IL-10
+0
+The T-cell antigen $T1$ acts as a receptor and substrate for the protein-tyrosine kinase $T2$.
+CD5
+p56lck
+1
+Our results demonstrate that the SH3 domain of $T1$ interacts with a DPAPNPPHFP motif (residues 1,373-1,382) of $T2$.
+c-Abl
+ATM
+1
+Moreover, using immunoelectron microscopy, we demonstrated that CD26 and $T1$ co-localized on the cell surface, but not inside cells, suggesting that CD26 did not transport $T2$ to the surface.
+ADA
+ADA
+0
+On the other hand, cells expressing ADA and $T1$$T2$ and CD26 on the surface were much more resistant to the inhibitory effect of adenosine.
+CD26
+ADA
+0
+The $T1$ and hPRL receptors ($T2$ and hPRLR, respectively) are single-pass transmembrane receptors from class 1 of the haematopoietic receptor superfamily.
+hGH
+hGHR
+1
+The crystal structure of the human cyclinA-$T1$ ($T2$)-ATP complex has been determined at 2.3 A resolution.
+cyclin-dependent kinase2
+CDK2
+0
+$T1$ binding by $T2$ is blocked by MAb that recognize epitopes belonging to cluster Group A (like Ber-H2, Ber-H8, and HRS-4) as well as cluster Group C (like HeFi-1 and M44).
+CD30L
+CD30
+1
+We have used an interaction cloning strategy to identify an inhibitory isoform of the ITF-2 transcription factor, $T1$, that interacts with the transcriptional inhibitor Id3/$T2$.
+ITF-2b
+HLH462
+1
+The pattern of CD30L binding inhibition shows only limited correspondence to the functional capacity of some anti-CD30 MAb to trigger $T1$$T2$ MAb to trigger CD30 signaling.
+CD30
+CD30
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, $T1$/dystrophin related protein, and the $T2$.
+utrophin
+Torpedo 87K protein
+0
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for $T1$/eotaxin-2 (SCYA24) and have identified a novel CC chemokine termed $T2$.
+MPIF-2
+eotaxin-3
+0
+The crystal structure of the human $T1$-cyclin-dependent kinase2 ($T2$)-ATP complex has been determined at 2.3 A resolution.
+cyclinA
+CDK2
+1
+Activin A, a member of the $T1$$T2$, a member of the TGFbeta superfamily, has various effects on diverse biological systems, including cell growth inhibition in many cell types.
+TGFbeta
+Activin A
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of $T1$$T2$ also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or CD4.
+TcR zeta
+CD5
+0
+$T1$ associates with the T-cell receptor zeta chain (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T2$/CD3 ligation.
+CD5
+TcR zeta
+0
+The resulting Trk variant recruited binding of NGF equivalent to $T1$, maintained $T2$ binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+TrkA
+neurotrophin-3
+0
+Previously, we mapped the novel CC chemokine myeloid progenitor inhibitory factor 2 (MPIF-2)/$T1$$T2$ (MPIF-2)/eotaxin-2 to chromosome 7q11.23 (Nomiyama, H., Osborne, L. R., Imai, T., Kusuda, J., Miura, R., Tsui, L.-C., and Yoshie, O.
+eotaxin-2
+myeloid progenitor inhibitory factor 2
+0
+The helical cytokine interleukin (IL) 6 and its specific binding subunit $T1$ form a 1:1 complex which, by promoting homodimerization of the signalling subunit $T2$ on the surface of target cells, triggers intracellular responses.
+IL-6R alpha
+gp130
+0
+Our data suggest that TR6 inhibits the interactions of $T1$ with HVEM/TR2 and LTbetaR, thereby suppressing $T2$- mediated HT29 cell death.
+LIGHT
+LIGHT
+0
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as $T1$ and $T2$ and regulators of apoptosis such as p53 and members of the bcl-2 family.
+p16
+p21
+0
+We have used an interaction cloning strategy to identify an inhibitory isoform of the ITF-2 transcription factor, ITF-2b, that interacts with the transcriptional inhibitor Id3/$T1$$T2$/HLH462.
+HLH462
+Id3
+0
+We further demonstrated that apolipoprotein E2 and E3 but not $T1$ can decrease the fusogenic activity of $T2$(29-42) via a direct interaction.
+apolipoprotein E4
+Abeta
+0
+The potency of eotaxin-3 as a CCR3 ligand seems, however, to be approximately 10-fold less than that of $T1$$T2$ as a CCR3 ligand seems, however, to be approximately 10-fold less than that of eotaxin.
+eotaxin
+eotaxin-3
+0
+$T1$ also activated $T2$ in Ba/F3 cells that stably expressed the murine IL-10 receptor.
+IL-10
+Stat5
+1
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$$T2$ neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75 neurotrophin receptor
+p75
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T2$ related protein, and the Torpedo 87K protein.
+beta 1-syntrophin
+dystrophin
+0
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T2$.
+p75
+NGF
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), $T1$$T2$ and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+CD14
+tumour necrosis factors (TNF) alpha
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator ($T1$)-L) and $T2$ (FasL/CD95L).
+HVEM
+Fas ligand
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$ and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I (IGF-I) receptor
+SHC
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and $T2$ interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/dystrophin related protein, and the Torpedo 87K protein.
+beta 1-syntrophin
+alpha 1-syntrophin
+0
+hPRL does not bind to the $T1$ receptor, but $T2$ binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGH
+hGH
+0
+$T1$ induced transient calcium mobilization specifically in CC chemokine receptor 3 ($T2$)-expressing L1.2 cells with an EC(50) of 3 nM.
+Eotaxin-3
+CCR3
+0
+These data demonstrate that Stat3 but not Stat1 or Stat5 is directly recruited to the ligand-activated $T1$$T2$ is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+IL-10
+Stat5
+0
+Our data suggest that $T1$ inhibits the interactions of LIGHT with HVEM/TR2 and $T2$, thereby suppressing LIGHT- mediated HT29 cell death.
+TR6
+LTbetaR
+0
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T2$.
+p75 neurotrophin receptor
+NGF
+0
+Using a soluble CD30L/$T1$ chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of $T2$ to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD8alpha
+CD30L
+0
+Our results indicate that the trkA and $T1$$T2$ and p75 receptors can potentially interact, and that such an association may be responsible for the generation of high affinity NGF binding sites.
+p75
+trkA
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/dystrophin related protein, and the $T2$.
+beta 1-syntrophin
+Torpedo 87K protein
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules $T1$ and beta, $T2$ and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+tumour necrosis factors (TNF) alpha
+transforming growth factors (TGF) beta1
+0
+A potential interaction of $T1$ and $T2$ NGF receptors revealed by affinity crosslinking and immunoprecipitation.
+p75
+trkA
+0
+$T1$ and $T2$ were chosen as substrates because they exhibit different solution requirements for the chaperonin system and they form stable "folding arrested" complexes with groEL.
+Rhodanese
+glutamine synthetase
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of $T1$$T2$ stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+IRS-1
+gastrin
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and $T1$$T2$), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+platelet endothelial cell adhesion molecule (PECAM) 1
+IL 1ra
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the $T1$-Sos complex may contribute to the activation of the mitogen-activated protein kinase pathway by $T2$.
+Grb2
+gastrin
+0
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not Stat1 and blocked IL-10-induced $T1$$T2$ but not Stat1 and blocked IL-10-induced Stat3 phosphorylation in a cell-free system.
+Stat3
+Stat3
+0
+Characterization of the CD30L binding domain on the human CD30 molecule using anti-$T1$$T2$ molecule using anti-CD30 antibodies.
+CD30
+CD30
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and $T1$ ($T2$/CD95L).
+Fas ligand
+FasL
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ ($T2$), the major cytoplasmic substrate of the insulin receptor.
+insulin receptor substrate 1
+IRS-1
+0
+Somatic cell hybrids and fluorescent in situ hybridization were both used to determine their chromosomal locations: $T1$ to chromosome 16q22-23 and $T2$ to chromosome 20q11.2.
+beta 2-syntrophin
+alpha 1-syntrophin
+0
+We have used an interaction cloning strategy to identify an inhibitory isoform of the $T1$ transcription factor, ITF-2b, that interacts with the transcriptional inhibitor Id3/$T2$.
+ITF-2
+HLH462
+0
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as p16 and p21 and regulators of apoptosis such as $T1$$T2$ and regulators of apoptosis such as p53 and members of the bcl-2 family.
+p53
+p21
+0
+The MDM2 oncoprotein is a cellular inhibitor of the $T1$ tumor suppressor in that it can bind the transactivation domain of $T2$ and downregulate its ability to activate transcription.
+p53
+p53
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$$T2$ (IRS-1), the major cytoplasmic substrate of the insulin receptor.
+insulin
+insulin receptor substrate 1
+0
+As expected, overexpression of either $T1$/HLH462 or $T2$ effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+Id3
+ITF-2b
+0
+Further investigation indicated that the $T1$/MyoD heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by Id3/$T2$.
+ITF-2b
+HLH462
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and $T1$$T2$ (LTbetaR) and HVEM/TR2 receptors.
+HVEM
+lymphotoxin beta receptor
+0
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), $T1$$T2$ and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+CD14
+interleukin (IL) 1
+0
+hPRL does not bind to the $T1$ receptor, but hGH binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on $T2$ overlap.
+hGH
+hGH
+0
+As expected, overexpression of either Id3/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific $T1$$T2$ effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+creatine kinase
+ITF-2b
+0
+The gene mutated in the autosomal recessive disorder ataxia telangiectasia (AT), designated $T1$ (for '$T2$'), is a member of a family of phosphatidylinositol-3-kinase-like enzymes that are involved in cell-cycle control, meiotic recombination, telomere length monitoring and DNA-damage response.
+ATM
+AT mutated
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/$T1$$T2$/CD3 or CD4.
+CD3
+TcR zeta
+0
+The human pituitary hormones, $T1$ (hGH) and $T2$ (hPRL), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+growth hormone
+prolactin
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with HVEM/$T1$ and $T2$, thereby suppressing LIGHT- mediated HT29 cell death.
+TR2
+LTbetaR
+0
+The crystal structure of the 109-residue amino-terminal domain of MDM2 bound to a 15-residue transactivation domain peptide of p53 revealed that MDM2 has a deep hydrophobic cleft on which the $T1$$T2$ revealed that MDM2 has a deep hydrophobic cleft on which the p53 peptide binds as an amphipathic alpha helix.
+p53
+p53
+0
+In all cells tested, $T1$ activated Stat1 and $T2$ and induced the formation of three distinct DNA binding complexes that contained different combinations of these two transcription factors.
+IL-10
+Stat3
+1
+These data demonstrate that Stat3 but not Stat1 or Stat5 is directly recruited to the ligand-activated $T1$$T2$ or Stat5 is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+IL-10
+Stat1
+0
+Eotaxin-3 competed the binding of (125)$T1$$T2$ competed the binding of (125)I-eotaxin to CCR3-expressing L1.2 cells with an IC(50) of 13 nM.
+I-eotaxin
+Eotaxin-3
+0
+Structure of the $T1$ oncoprotein bound to the $T2$ tumor suppressor transactivation domain.
+MDM2
+p53
+1
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, LIGHT (herpes virus entry mediator (HVEM)-L) and Fas ligand (FasL/$T2$).
+TR6
+CD95L
+1
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not Stat1 and blocked $T1$$T2$ but not Stat1 and blocked IL-10-induced Stat3 phosphorylation in a cell-free system.
+IL-10
+Stat3
+0
+$T1$ does not bind to the hGH receptor, but $T2$ binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hPRL
+hGH
+0
+Eotaxin-3 induced transient calcium mobilization specifically in $T1$ ($T2$)-expressing L1.2 cells with an EC(50) of 3 nM.
+CC chemokine receptor 3
+CCR3
+0
+In all cells tested, IL-10 activated $T1$ and $T2$ and induced the formation of three distinct DNA binding complexes that contained different combinations of these two transcription factors.
+Stat1
+Stat3
+0
+The extracellular domain of the human $T1$ expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for $T2$ (BDNF).
+neurotrophin TRKB receptor
+brain-derived neurotrophic factor
+1
+hPRL does not bind to the hGH receptor, but $T1$ binds to both the $T2$ and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGH
+hGHR
+1
+TR6 ($T1$$T2$ (decoy receptor 3 (DcR3)) is a new member of the tumor necrosis factor receptor (TNFR) family.
+decoy receptor 3
+TR6
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, $T1$ (herpes virus entry mediator (HVEM)-L) and Fas ligand ($T2$/CD95L).
+LIGHT
+FasL
+0
+Moreover, using immunoelectron microscopy, we demonstrated that $T1$ and $T2$ co-localized on the cell surface, but not inside cells, suggesting that CD26 did not transport ADA to the surface.
+CD26
+ADA
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of insulin receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the $T1$$T2$.
+insulin
+insulin receptor
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T1$ (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T2$.
+p140trk
+NGF
+0
+Moreover, using immunoelectron microscopy, we demonstrated that CD26 and ADA co-localized on the cell surface, but not inside cells, suggesting that $T1$ did not transport $T2$ to the surface.
+CD26
+ADA
+0
+Here we show that $T1$ binds $T2$ constitutively in control cells but not in AT cells.
+ATM
+c-Abl
+1
+The resulting Trk variant recruited binding of $T1$ equivalent to TrkA, maintained $T2$ binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+NGF
+neurotrophin-3
+0
+The resulting Trk variant recruited binding of $T1$ equivalent to $T2$, maintained neurotrophin-3 binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with TrkB.
+NGF
+TrkA
+1
+hPRL does not bind to the hGH receptor, but hGH binds to both the hGHR and $T1$, and mutagenesis studies have shown that the receptor-binding sites on $T2$ overlap.
+hPRLR
+hGH
+0
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, LIGHT (herpes virus entry mediator ($T2$)-L) and Fas ligand (FasL/CD95L).
+TR6
+HVEM
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor ($T1$$T2$ triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/TR2 receptors.
+LTbetaR
+LIGHT
+0
+In this study, a minimum set of residues in the human $T1$ second immunoglobulin-like domain, which does not bind nerve growth factor (NGF), were substituted with those from human $T2$.
+TrkC
+TrkA
+0
+Moreover, using immunoelectron microscopy, we demonstrated that $T1$ and ADA co-localized on the cell surface, but not inside cells, suggesting that $T2$ did not transport ADA to the surface.
+CD26
+CD26
+0
+Identification of $T1$ will further promote our understanding of the control of eosinophil trafficking and other $T2$-mediated biological phenomena.
+eotaxin-3
+CCR3
+0
+Moreover, while $T1$ inhibited the $T2$ promoter, it acted as a weak transactivator on an artificial promoter consisting of three tandem copies of the consensus myogenic factor DNA binding site.
+ITF-2b
+creatine kinase
+0
+Thus, TR6 may play a regulatory role for suppressing in FasL- and $T1$$T2$- and LIGHT-mediated cell death.
+LIGHT
+FasL
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk ($T1$$T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+trkA
+p140trk (trkA) tyrosine kinase receptor
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T1$$T2$) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+NGF
+trkA
+0
+These data demonstrate that Stat3 but not Stat1 or Stat5 is directly recruited to the ligand-activated $T1$$T2$ by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+IL-10
+IL-10 receptor
+0
+In the present study, we examined both the binding of $T1$ and $T2$ and the functional consequences of this interaction.
+ADA
+CD26
+1
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as p16 and p21 and regulators of apoptosis such as p53 and members of the $T1$$T2$ and p21 and regulators of apoptosis such as p53 and members of the bcl-2 family.
+bcl-2
+p16
+0
+Because cells lacking the protein tyrosine kinase c-Abl are also defective in radiation-induced G1 arrest, we investigated the possibility that $T1$ might interact with $T2$ in response to radiation damage.
+ATM
+c-Abl
+1
+Although the individual amino acids in TrkA involved in binding to nerve growth factor (NGF) and those in TrkC involved in binding to $T1$$T2$) and those in TrkC involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+neurotrophin-3
+NGF
+0
+In this study, we demonstrate that CD5 is coupled to the protein-tyrosine kinase $T1$ and can act as a substrate for $T2$.
+p56lck
+p56lck
+0
+The pattern of CD30L binding inhibition shows only limited correspondence to the functional capacity of some anti-$T1$$T2$ binding inhibition shows only limited correspondence to the functional capacity of some anti-CD30 MAb to trigger CD30 signaling.
+CD30
+CD30L
+0
+Previously, we mapped the novel CC chemokine myeloid progenitor inhibitory factor 2 ($T1$)/$T2$ to chromosome 7q11.23 (Nomiyama, H., Osborne, L. R., Imai, T., Kusuda, J., Miura, R., Tsui, L.-C., and Yoshie, O.
+MPIF-2
+eotaxin-2
+0
+These data suggest that ADA on the cell surface is involved in an important immunoregulatory mechanism by which released ADA binds to cell surface $T1$$T2$ on the cell surface is involved in an important immunoregulatory mechanism by which released ADA binds to cell surface CD26, and this complex is capable of reducing the local concentration of adenosine.
+CD26
+ADA
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of $T1$, $T2$/dystrophin related protein, and the Torpedo 87K protein.
+dystrophin
+utrophin
+0
+Taken together, our results suggest that IRS-1 may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the $T1$/CCKB G protein-coupled receptor and the $T2$ receptor.
+gastrin
+insulin
+0
+Using a soluble CD30L/CD8alpha chimeric protein, we assessed the ability of anti-$T1$ MAb to inhibit the binding of $T2$ to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD30
+CD30L
+0
+CD30 and its counter-receptor CD30 ligand ($T1$$T2$ ligand (CD30L) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30L
+CD30
+0
+Finally, we demonstrate that the anti-CD30L MAb M81 also completely inhibits CD30/$T1$$T2$ MAb M81 also completely inhibits CD30/CD30L interaction.
+CD30L
+CD30L
+0
+These data suggest that ADA on the cell surface is involved in an important immunoregulatory mechanism by which released $T1$$T2$ on the cell surface is involved in an important immunoregulatory mechanism by which released ADA binds to cell surface CD26, and this complex is capable of reducing the local concentration of adenosine.
+ADA
+ADA
+0
+In the present study, we demonstrate that $T1$ stimulates tyrosine phosphorylation of insulin receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the $T2$.
+gastrin
+insulin receptor
+0
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained $T1$ binding equivalent to TrkC, and also bound brain-derived neurotrophin, although with lower affinity compared with $T2$.
+neurotrophin-3
+TrkB
+0
+The binding of p56lck to CD5 induced a 10- to 15-fold increase in $T1$$T2$ to CD5 induced a 10- to 15-fold increase in p56lck catalytic activity, as measured by in vitro kinase analysis.
+p56lck
+p56lck
+0
+TR6 (decoy receptor 3 ($T1$$T2$ (decoy receptor 3 (DcR3)) is a new member of the tumor necrosis factor receptor (TNFR) family.
+DcR3
+TR6
+0
+CD5 associates with the T-cell receptor zeta chain ($T1$$T2$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+TcR zeta
+T-cell receptor zeta chain (TcR zeta)/CD3
+0
+Interactions between $T1$ and the $T2$.
+brain-derived neurotrophic factor
+TRKB receptor
+1
+The conformers that are committed to the native state remained in the supernatant and were assayed after 1 h. At 25 degrees C, the rate profiles indicate the release and commitment to folding of $T1$ to its native state occurs far earlier (t1/2 < 1 min) than for $T2$ (t1/2 = 5 min).
+GS
+rhodanese
+0
+In contrast, the renaturation rate for $T1$ with the groE chaperonins mirrored the committed renaturation rates following $T2$ depletion.
+rhodanese
+groEL
+0
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained neurotrophin-3 binding equivalent to TrkC, and also bound $T1$, although with lower affinity compared with $T2$.
+brain-derived neurotrophin
+TrkB
+1
+We found that ADA was associated with $T1$ on T cell lines lacking either $T2$ or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+CD26
+ADA
+0
+We have used an interaction cloning strategy to identify an inhibitory isoform of the $T1$ transcription factor, ITF-2b, that interacts with the transcriptional inhibitor $T2$/HLH462.
+ITF-2
+Id3
+0
+The interaction can also be observed in vivo, as $T1$ can be co-precipitated with $T2$ from co-transfected Cos1 cells and TBP co-immunoprecipitates with the endogenous Oct1 from HeLa cells.
+TBP
+Oct2
+1
+Accordingly, a number of population studies have explored the association of ischaemic heart disease with gene polymorphisms of the inflammatory molecules tumour necrosis factors (TNF) alpha and beta, transforming growth factors (TGF) beta1 and 2, $T1$$T2$ and 2, interleukin (IL) 1 and its receptor antagonist (IL 1ra), CD14 (the receptor for lipopolysaccharide), P and E selectins, and platelet endothelial cell adhesion molecule (PECAM) 1.
+interleukin (IL) 1
+transforming growth factors (TGF) beta1
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ (IRS-1), the major cytoplasmic substrate of the $T2$.
+insulin receptor substrate 1
+insulin receptor
+0
+The extracellular domain of the human neurotrophin TRKB receptor expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for $T1$ ($T2$).
+brain-derived neurotrophic factor
+BDNF
+0
+Interactions between brain-derived neurotrophic factor and the $T1$$T2$ receptor.
+TRKB receptor
+TRKB
+0
+Here we have utilized affinity crosslinking agents with 125I-NGF to detect an association of $T1$ and $T2$ receptors in embryonic spinal cord and brain tissues enriched in the two receptors.
+trkA
+p75
+0
+The resulting Trk variant recruited binding of NGF equivalent to TrkA, maintained neurotrophin-3 binding equivalent to $T1$, and also bound brain-derived neurotrophin, although with lower affinity compared with $T2$.
+TrkC
+TrkB
+0
+$T1$ binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk ($T2$) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+Nerve growth factor
+trkA
+0
+$T1$ binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T2$.
+Nerve growth factor
+NGF
+0
+CD30 and its counter-receptor $T1$ ligand (CD30L) are members of the TNF-receptor/$T2$ superfamily and function to regulate lymphocyte survival and differentiation.
+CD30
+TNFalpha
+0
+We show that the POU homeodomain of $T1$ and the evolutionarily conserved C-terminal core domain of $T2$ are both required and sufficient for the interaction.
+Oct2
+TBP
+1
+Although the individual amino acids in $T1$ involved in binding to nerve growth factor (NGF) and those in $T2$ involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+TrkA
+TrkC
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine $T1$ were found to be redundantly required for receptor function and for activation of Stat3 but not for $T2$ or Stat5.
+IL-10 receptor
+Stat1
+0
+The interaction can also be observed in vivo, as TBP can be co-precipitated with $T1$ from co-transfected Cos1 cells and TBP co-immunoprecipitates with the endogenous $T2$ from HeLa cells.
+Oct2
+Oct1
+0
+By using several different experimental systems we show that $T1$ efficiently associates with $T2$ and Oct2.
+TBP
+Oct1
+1
+Here, we demonstrate that $T1$ specifically binds two cellular ligands, $T2$ (herpes virus entry mediator (HVEM)-L) and Fas ligand (FasL/CD95L).
+TR6
+LIGHT
+1
+The potency of $T1$ as a $T2$ ligand seems, however, to be approximately 10-fold less than that of eotaxin.
+eotaxin-3
+CCR3
+1
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for $T1$/$T2$ (SCYA24) and have identified a novel CC chemokine termed eotaxin-3.
+MPIF-2
+eotaxin-2
+0
+$T1$ binds independently to two transmembrane receptors, the $T2$ neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+Nerve growth factor
+p75
+0
+These results, obtained from a variety of experimental techniques, highlight the importance of two distinct regions of the extracellular domain of the $T1$$T2$ in binding BDNF.
+TRKB
+TRKB receptor
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of insulin receptor substrate 1 ($T1$), the major cytoplasmic substrate of the $T2$ receptor.
+IRS-1
+insulin
+0
+Characterization of $T1$ binding to human $T2$ on T cells and its biologic role in immune response.
+adenosine deaminase
+CD26
+1
+Based on the experiences of all the authors, we emphasized cell cycle inhibitors such as p16 and p21 and regulators of apoptosis such as $T1$ and members of the $T2$ family.
+p53
+bcl-2
+0
+CD5 associates with the T-cell receptor zeta chain (TcR zeta)/$T1$$T2$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+CD3
+T-cell receptor zeta chain (TcR zeta)/CD3
+0
+The use of glutathione S-transferase-Lck fusion proteins in precipitation analysis showed that the SH2 domain of $T1$ could recognize $T2$ as expressed in the baculovirus expression system.
+p56lck
+CD5
+1
+Using a soluble $T1$/$T2$ chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of CD30L to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD30L
+CD8alpha
+0
+$T1$ also activated Stat5 in Ba/F3 cells that stably expressed the murine $T2$ receptor.
+IL-10
+IL-10
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or $T1$$T2$/CD3 or CD4.
+CD4
+TcR zeta
+0
+CD26, a T cell activation Ag, also known as $T1$,is directly associated with adenosine deaminase ($T2$) on the surface of T cells and T cell lines.
+dipeptidyl peptidase IV
+ADA
+1
+In keeping with this observation, we showed that human CD26-transfected murine pre-B cell lines lacking human ADA acquired $T1$$T2$-transfected murine pre-B cell lines lacking human ADA acquired ADA from an extracellular source.
+ADA
+CD26
+0
+The deduced amino acid sequences of human alpha 1- and beta 2-syntrophin are nearly identical to their homologues in mouse, suggesting a strong functional conservation among the individual isoforms, Much like $T1$, human $T2$ has multiple transcript classes and is expressed widely, although in a distinct pattern of relative abundance.
+beta 1-syntrophin
+beta 2-syntrophin
+0
+The POU domains of the Oct1 and $T1$ transcription factors mediate specific interaction with $T2$.
+Oct2
+TBP
+1
+The crystal structure of the 109-residue amino-terminal domain of $T1$ bound to a 15-residue transactivation domain peptide of $T2$ revealed that MDM2 has a deep hydrophobic cleft on which the p53 peptide binds as an amphipathic alpha helix.
+MDM2
+p53
+1
+Taken together, our results suggest that IRS-1 may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the gastrin/$T1$ G protein-coupled receptor and the $T2$ receptor.
+CCKB
+insulin
+0
+As expected, overexpression of either $T1$/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor $T2$.
+Id3
+MyoD
+0
+The interaction can also be observed in vivo, as TBP can be co-precipitated with Oct2 from co-transfected Cos1 cells and $T1$ co-immunoprecipitates with the endogenous $T2$ from HeLa cells.
+TBP
+Oct1
+1
+hPRL does not bind to the hGH receptor, but $T1$ binds to both the hGHR and $T2$, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGH
+hPRLR
+1
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of $T1$$T2$ stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+phosphatidylinositol 3-kinase
+gastrin
+0
+Taken together, our results suggest that IRS-1 may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the gastrin/CCKB G protein-coupled receptor and the $T1$$T2$ receptor.
+insulin receptor
+insulin
+0
+Using a soluble CD30L/$T1$ chimeric protein, we assessed the ability of anti-$T2$ MAb to inhibit the binding of CD30L to CD30 expressed by the CD30+ Karpas 299 cell line.
+CD8alpha
+CD30
+0
+Further, anti-CD5 and anti-$T1$$T2$ and anti-p56lck coprecipitated each other in a variety of detergents, including Nonidet P-40 and Triton X-100.
+p56lck
+CD5
+0
+In keeping with this observation, we showed that human CD26-transfected murine pre-B cell lines lacking human ADA acquired $T1$$T2$ acquired ADA from an extracellular source.
+ADA
+ADA
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine IL-10 receptor were found to be redundantly required for receptor function and for activation of $T1$ but not for $T2$ or Stat5.
+Stat3
+Stat1
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both $T1$$T2$ receptor (LTbetaR) and HVEM/TR2 receptors.
+lymphotoxin beta receptor
+lymphotoxin beta
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and $T1$$T2$ triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/TR2 receptors.
+HVEM
+LIGHT
+0
+hPRL does not bind to the hGH receptor, but $T1$ binds to both the hGHR and hPRLR, and mutagenesis studies have shown that the receptor-binding sites on $T2$ overlap.
+hGH
+hGH
+0
+The crystal structure of the 109-residue amino-terminal domain of MDM2 bound to a 15-residue transactivation domain peptide of p53 revealed that $T1$ has a deep hydrophobic cleft on which the $T2$ peptide binds as an amphipathic alpha helix.
+MDM2
+p53
+1
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the $T2$.
+insulin
+insulin receptor
+0
+CD5 associates with the T-cell receptor zeta chain ($T1$)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/$T2$ ligation.
+TcR zeta
+CD3
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, $T1$/$T2$, and the Torpedo 87K protein.
+utrophin
+dystrophin related protein
+0
+As expected, overexpression of either Id3/HLH462 or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor $T1$$T2$ or ITF-2b effectively inhibited the activation of the muscle-specific creatine kinase promoter by the myogenic transcription factor MyoD.
+MyoD
+HLH462
+0
+CD5 associates with the T-cell receptor zeta chain (TcR zeta)/$T1$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/$T2$ ligation.
+CD3
+CD3
+0
+Although multimeric complexes of trkA and $T1$ were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with $T2$-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+p75
+trk
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both $T1$$T2$ triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/TR2 receptors.
+lymphotoxin beta receptor
+LIGHT
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or $T1$$T2$ or CD4.
+CD4
+CD3
+0
+The human pituitary hormones, $T1$ ($T2$) and prolactin (hPRL), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+growth hormone
+hGH
+0
+The binding of p56lck to CD5 induced a 10- to 15-fold increase in $T1$$T2$ induced a 10- to 15-fold increase in p56lck catalytic activity, as measured by in vitro kinase analysis.
+p56lck
+CD5
+0
+The interaction can also be observed in vivo, as TBP can be co-precipitated with $T1$ from co-transfected Cos1 cells and $T2$ co-immunoprecipitates with the endogenous Oct1 from HeLa cells.
+Oct2
+TBP
+0
+Anti-CD5 also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/$T1$$T2$ also precipitated the kinase from various T cells irrespective of the expression of TcR zeta/CD3 or CD4.
+CD3
+CD5
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase ($T1$$T2$ stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase (PI 3-kinase).
+PI 3-kinase
+gastrin
+0
+These data demonstrate that Stat3 but not Stat1 or Stat5 is directly recruited to the ligand-activated $T1$$T2$ but not Stat1 or Stat5 is directly recruited to the ligand-activated IL-10 receptor by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+IL-10
+Stat3
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine $T1$$T2$ were found to be redundantly required for receptor function and for activation of Stat3 but not for Stat1 or Stat5.
+IL-10
+IL-10 receptor
+0
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not Stat1 and blocked $T1$$T2$ and blocked IL-10-induced Stat3 phosphorylation in a cell-free system.
+IL-10
+Stat1
+0
+The extracellular domain of the human $T1$$T2$ receptor expressed in Chinese hamster ovary cells is a highly glycosylated protein, possessing binding ability for brain-derived neurotrophic factor (BDNF).
+neurotrophin TRKB receptor
+TRKB
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T1$$T2$, and the Torpedo 87K protein.
+dystrophin
+dystrophin related protein
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the Grb2-Sos complex may contribute to the activation of the mitogen-activated protein kinase pathway by $T1$$T2$ pathway by gastrin.
+gastrin
+mitogen-activated protein kinase
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the $T1$$T2$ neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p140trk
+p75
+0
+CD26, a T cell activation Ag, also known as $T1$$T2$, a T cell activation Ag, also known as dipeptidyl peptidase IV,is directly associated with adenosine deaminase (ADA) on the surface of T cells and T cell lines.
+dipeptidyl peptidase IV
+CD26
+0
+Using immunoprecipitation techniques, we have determined the rates at which $T1$ and $T2$ (GS) are released from groEL in a form committed to refold to active enzyme.
+rhodanese
+glutamine synthetase
+0
+Characterization of the $T1$ binding domain on the human CD30 molecule using anti-$T2$ antibodies.
+CD30L
+CD30
+0
+The human pituitary hormones, growth hormone (hGH) and prolactin ($T1$$T2$) and prolactin (hPRL), regulate a large variety of physiological processes, among which are growth and differentiation of muscle, bone and cartilage cells, and lactation.
+hPRL
+hGH
+0
+Following gastrin stimulation, we observed a time- and dose-dependent association of IRS-1 with the p85 regulatory subunit of phosphatidylinositol 3-kinase ($T1$$T2$ (PI 3-kinase).
+PI 3-kinase
+phosphatidylinositol 3-kinase
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and $T1$ interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/dystrophin related protein, and the $T2$.
+alpha 1-syntrophin
+Torpedo 87K protein
+1
+Although the individual amino acids in TrkA involved in binding to nerve growth factor (NGF) and those in $T1$ involved in binding to $T2$ have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+TrkC
+neurotrophin-3
+1
+Here, we demonstrate that TR6 specifically binds two cellular ligands, $T1$ (herpes virus entry mediator ($T2$)-L) and Fas ligand (FasL/CD95L).
+LIGHT
+HVEM
+0
+hPRL does not bind to the hGH receptor, but hGH binds to both the $T1$ and $T2$, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGHR
+hPRLR
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT (herpes virus entry mediator ($T1$)-L) and Fas ligand ($T2$/CD95L).
+HVEM
+FasL
+0
+In this study, a minimum set of residues in the human TrkC second immunoglobulin-like domain, which does not bind nerve growth factor (NGF), were substituted with those from human $T1$$T2$ (NGF), were substituted with those from human TrkA.
+TrkA
+nerve growth factor
+0
+We found that $T1$ was associated with CD26 on T cell lines lacking either $T2$ or dipeptidyl peptidase IV enzymatic activity, indicating that the association between dipeptidyl peptidase IV and ADA did not require enzymatic activity.
+ADA
+ADA
+0
+CD30 and its counter-receptor $T1$ ($T2$) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30 ligand
+CD30L
+0
+Mechanism of CDK activation revealed by the structure of a $T1$-$T2$ complex.
+cyclinA
+CDK2
+1
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and $T1$ interact with peptides encoding the syntrophin-binding region of $T2$, utrophin/dystrophin related protein, and the Torpedo 87K protein.
+alpha 1-syntrophin
+dystrophin
+1
+In the present study, we demonstrate that $T1$ stimulates tyrosine phosphorylation of insulin receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the $T2$ receptor.
+gastrin
+insulin
+0
+Nerve growth factor binds independently to two transmembrane receptors, the p75 neurotrophin receptor and the p140trk (trkA) tyrosine kinase receptor, which are both co-expressed in the majority of neuronal cells that respond to $T1$$T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+NGF
+p140trk (trkA) tyrosine kinase receptor
+0
+CD30 and its counter-receptor $T1$$T2$ ligand (CD30L) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30 ligand
+CD30
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the Grb2-Sos complex may contribute to the activation of the $T1$$T2$ and its association with the Grb2-Sos complex may contribute to the activation of the mitogen-activated protein kinase pathway by gastrin.
+mitogen-activated protein kinase
+Shc
+0
+$T1$ stimulates tyrosine phosphorylation of $T2$ receptor substrate 1 and its association with Grb2 and the phosphatidylinositol 3-kinase.
+Gastrin
+insulin
+0
+Moreover, using immunoelectron microscopy, we demonstrated that $T1$ and ADA co-localized on the cell surface, but not inside cells, suggesting that CD26 did not transport $T2$ to the surface.
+CD26
+ADA
+0
+Although multimeric complexes of $T1$ and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with $T2$-specific antibodies resulted in selective immunoprecipitation of crosslinked p75.
+trkA
+trk
+0
+$T1$ and its counter-receptor $T2$ (CD30L) are members of the TNF-receptor/TNFalpha superfamily and function to regulate lymphocyte survival and differentiation.
+CD30
+CD30 ligand
+1
+CD5 associates with the T-cell receptor zeta chain (TcR zeta)/$T1$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T2$/CD3 ligation.
+CD3
+TcR zeta
+0
+The interface relies on the steric complementarity between the MDM2 cleft and the hydrophobic face of the $T1$ alpha helix and, in particular, on a triad of p53 amino acids-Phe19, Trp23, and Leu26-which insert deep into the $T2$ cleft.
+p53
+MDM2
+0
+The $T1$ POU domain, which is highly homologous to the $T2$ POU domain, likewise mediates interaction with TBP.
+Oct1
+Oct2
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and $T1$ interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T2$, and the Torpedo 87K protein.
+alpha 1-syntrophin
+dystrophin related protein
+1
+We have previously reported that tyrosine phosphorylation of Shc and its association with the Grb2-$T1$ complex may contribute to the activation of the mitogen-activated protein kinase pathway by $T2$.
+Sos
+gastrin
+0
+These data demonstrate that Stat3 but not $T1$ or Stat5 is directly recruited to the ligand-activated $T2$ by binding to specific but redundant receptor intracellular domain sequences containing phosphotyrosine.
+Stat1
+IL-10 receptor
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and $T1$$T2$) and HVEM/TR2 receptors.
+HVEM
+LTbetaR
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine $T1$ were found to be redundantly required for receptor function and for activation of $T2$ but not for Stat1 or Stat5.
+IL-10 receptor
+Stat3
+1
+The novel fold of the TNF receptor structure is likely to be representative of the nerve growth factor ($T1$$T2$ (NGF)/TNF receptor family as a whole.
+NGF
+nerve growth factor
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of $T1$, utrophin/$T2$, and the Torpedo 87K protein.
+dystrophin
+dystrophin related protein
+0
+$T1$ competed the binding of (125)I-eotaxin to $T2$-expressing L1.2 cells with an IC(50) of 13 nM.
+Eotaxin-3
+CCR3
+1
+$T1$ associates with the T-cell receptor zeta chain (TcR zeta)/$T2$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+CD5
+CD3
+0
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for MPIF-2/eotaxin-2 ($T1$) and have identified a novel CC chemokine termed $T2$.
+SCYA24
+eotaxin-3
+0
+This information is useful for applying these MAbs in functional studies to further investigate the CD30/CD30L system and for designing assays for soluble $T1$$T2$ system and for designing assays for soluble CD30L.
+CD30L
+CD30L
+0
+Nerve growth factor binds independently to two transmembrane receptors, the $T1$ and the $T2$, which are both co-expressed in the majority of neuronal cells that respond to NGF.
+p75 neurotrophin receptor
+p140trk (trkA) tyrosine kinase receptor
+0
+$T1$ does not bind to the hGH receptor, but hGH binds to both the hGHR and $T2$, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hPRL
+hPRLR
+0
+We have previously reported that tyrosine phosphorylation of Shc and its association with the Grb2-Sos complex may contribute to the activation of the mitogen-activated protein kinase pathway by $T1$$T2$ and its association with the Grb2-Sos complex may contribute to the activation of the mitogen-activated protein kinase pathway by gastrin.
+gastrin
+Shc
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/$T1$$T2$ triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/TR2 receptors.
+TR2
+LIGHT
+0
+The self-association site appears to be formed by interactions between helices 1 and 2 of $T1$ repeat 17 of one dimer with helix 3 of $T2$ repeat 1 of the other dimer to form two combined alpha-beta triple-helical segments.
+beta spectrin
+alpha spectrin
+1
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like $T1$, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T2$, and the Torpedo 87K protein.
+beta 1-syntrophin
+dystrophin related protein
+1
+Taken together, our results suggest that IRS-1 may serve as a converging target in the signaling pathways stimulated by receptors that belong to different families, such as the $T1$/CCKB G protein-coupled receptor and the $T2$.
+gastrin
+insulin receptor
+0
+The interface relies on the steric complementarity between the MDM2 cleft and the hydrophobic face of the $T1$ alpha helix and, in particular, on a triad of $T2$ amino acids-Phe19, Trp23, and Leu26-which insert deep into the MDM2 cleft.
+p53
+p53
+0
+Our data suggest that TR6 inhibits the interactions of $T1$ with HVEM/TR2 and $T2$, thereby suppressing LIGHT- mediated HT29 cell death.
+LIGHT
+LTbetaR
+1
+Further investigation indicated that the ITF-2b/$T1$ heterodimer bound to its specific DNA binding site in vitro, and the DNA binding was effectively blocked by $T2$/HLH462.
+MyoD
+Id3
+0
+It has been shown that LIGHT triggers apoptosis of various tumor cells including HT29 cells that express both $T1$$T2$ triggers apoptosis of various tumor cells including HT29 cells that express both lymphotoxin beta receptor (LTbetaR) and HVEM/TR2 receptors.
+lymphotoxin beta
+LIGHT
+0
+CD5 associates with the $T1$ ($T2$)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of TcR zeta/CD3 ligation.
+T-cell receptor zeta chain
+TcR zeta
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ receptor substrate 1 (IRS-1), the major cytoplasmic substrate of the $T2$ receptor.
+insulin
+insulin
+0
+Prompted by this hypothesis, we analyzed the genomic region containing the gene for MPIF-2/$T1$ ($T2$) and have identified a novel CC chemokine termed eotaxin-3.
+eotaxin-2
+SCYA24
+0
+Gastrin stimulates tyrosine phosphorylation of $T1$$T2$ receptor substrate 1 and its association with Grb2 and the phosphatidylinositol 3-kinase.
+insulin receptor
+insulin
+0
+In the present study, we demonstrate that gastrin stimulates tyrosine phosphorylation of $T1$ (IRS-1), the major cytoplasmic substrate of the $T2$ receptor.
+insulin receptor substrate 1
+insulin
+0
+We present here the crystal structure of the 1:1 complex of $T1$ bound to the extracellular domain of the $T2$.
+hGH
+hPRLR
+1
+Using a soluble CD30L/CD8alpha chimeric protein, we assessed the ability of anti-CD30 MAb to inhibit the binding of $T1$ to $T2$ expressed by the CD30+ Karpas 299 cell line.
+CD30L
+CD30
+1
+Although multimeric complexes of trkA and p75 were not detected by affinity crosslinking, immunoprecipitation of cross-linked NGF-receptor complexes with $T1$-specific antibodies resulted in selective immunoprecipitation of crosslinked $T2$.
+trk
+p75
+0
+CD5 associates with the T-cell receptor zeta chain (TcR zeta)/CD3 complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T1$/$T2$ ligation.
+TcR zeta
+CD3
+0
+Here, we demonstrate that TR6 specifically binds two cellular ligands, $T1$ (herpes virus entry mediator (HVEM)-L) and Fas ligand (FasL/$T2$).
+LIGHT
+CD95L
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine $T1$ receptor were found to be redundantly required for receptor function and for activation of Stat3 but not for $T2$ or Stat5.
+IL-10
+Stat1
+0
+In this study, a minimum set of residues in the human $T1$ second immunoglobulin-like domain, which does not bind $T2$ (NGF), were substituted with those from human TrkA.
+TrkC
+nerve growth factor
+0
+Although the individual amino acids in TrkA involved in binding to $T1$ ($T2$) and those in TrkC involved in binding to neurotrophin-3 have been mapped in this domain, the Trk amino acids that provide specificity remained unclear.
+nerve growth factor
+NGF
+0
+Cluster Group B antibodies, including M67 and Ki-1, do not affect $T1$ binding to $T2$.
+CD30L
+CD30
+1
+$T1$ interaction w$T2$ p56lck represents a novel variant of a receptor-kinase complex in which receptor can also serve as substrate.
+CD5
+ith
+0
+hPRL does not bind to the $T1$ receptor, but hGH binds to both the hGHR and $T2$, and mutagenesis studies have shown that the receptor-binding sites on hGH overlap.
+hGH
+hPRLR
+0
+Twelve amino acid peptides encompassing either of these two tyrosine residues in phosphorylated form coprecipitated Stat3 but not Stat1 and blocked IL-10-induced $T1$$T2$ and blocked IL-10-induced Stat3 phosphorylation in a cell-free system.
+Stat3
+Stat1
+0
+Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/$T1$, and the $T2$.
+dystrophin related protein
+Torpedo 87K protein
+0
+Using a structure-function mutagenesis approach, two tyrosine residues (Tyr427 and Tyr477) in the intracellular domain of the murine $T1$ receptor were found to be redundantly required for receptor function and for activation of $T2$ but not for Stat1 or Stat5.
+IL-10
+Stat3
+0
+Comparisons with the $T1$-$T2$ complex reveal how hGH can bind to the two distinctly different receptor binding surfaces.
+hGH
+hGHR
+1
+The X-ray structure of a $T1$-$T2$ receptor complex.
+growth hormone
+prolactin
+0
+In a previous work, we predicted and demonstrated that the 29-42-residue fragment of $T1$ ($T2$) has in vitro capacities close to those of the tilted fragment of viral fusion proteins.
+beta-amyloid peptide
+Abeta peptide
+0
+The crystal structure of the 109-residue amino-terminal domain of MDM2 bound to a 15-residue transactivation domain peptide of p53 revealed that MDM2 has a deep hydrophobic cleft on which the $T1$$T2$ bound to a 15-residue transactivation domain peptide of p53 revealed that MDM2 has a deep hydrophobic cleft on which the p53 peptide binds as an amphipathic alpha helix.
+p53
+MDM2
+0
+$T1$ inhibited $T2$-induced cytotoxicity in HT29 cells.
+TR6
+LIGHT
+0
+This information is useful for applying these MAbs in functional studies to further investigate the CD30/CD30L system and for designing assays for soluble $T1$$T2$/CD30L system and for designing assays for soluble CD30L.
+CD30L
+CD30
+0
+To define the mechanism underlying signal transducer and activator of transcription (STAT) protein recruitment to the interleukin 10 ($T1$$T2$ (IL-10) receptor, the STAT proteins activated by IL-10 in different cell populations were first defined using electrophoretic mobility shift assays.
+IL-10
+interleukin 10
+0
+Our data suggest that TR6 inhibits the interactions of $T1$ with $T2$/TR2 and LTbetaR, thereby suppressing LIGHT- mediated HT29 cell death.
+LIGHT
+HVEM
+1
+The POU domains of the $T1$ and Oct2 transcription factors mediate specific interaction with $T2$.
+Oct1
+TBP
+1
+Here, we demonstrate that TR6 specifically binds two cellular ligands, LIGHT ($T1$) and $T2$ (FasL/CD95L).
+herpes virus entry mediator (HVEM)-L
+Fas ligand
+0
+These same $T1$ residues are also involved in transactivation, supporting the hypothesis that $T2$ inactivates p53 by concealing its transactivation domain.
+p53
+MDM2
+0
+Our data suggest that TR6 inhibits the interactions of LIGHT with $T1$/TR2 and LTbetaR, thereby suppressing $T2$- mediated HT29 cell death.
+HVEM
+LIGHT
+0
+Eotaxin-3 competed the binding of (125)$T1$ to $T2$-expressing L1.2 cells with an IC(50) of 13 nM.
+I-eotaxin
+CCR3
+1
+CD5 associates with the $T1$ complex and is rapidly phosphosphorylated on tyrosine residues as a result of $T2$/CD3 ligation.
+T-cell receptor zeta chain (TcR zeta)/CD3
+TcR zeta
+0
+CD26, a T cell activation Ag, also known as dipeptidyl peptidase IV,is directly associated with adenosine deaminase ($T1$$T2$ (ADA) on the surface of T cells and T cell lines.
+ADA
+adenosine deaminase
+0
+These results, obtained from a variety of experimental techniques, highlight the importance of two distinct regions of the extracellular domain of the $T1$ receptor in binding $T2$.
+TRKB
+BDNF
+0
+The crystal structure of the human $T1$-$T2$ (CDK2)-ATP complex has been determined at 2.3 A resolution.
+cyclinA
+cyclin-dependent kinase2
+1
+The resulting Trk variant recruited binding of NGF equivalent to $T1$, maintained neurotrophin-3 binding equivalent to TrkC, and also bound $T2$, although with lower affinity compared with TrkB.
+TrkA
+brain-derived neurotrophin
+0
+We have used an interaction cloning strategy to identify an inhibitory isoform of the $T1$ transcription factor, $T2$, that interacts with the transcriptional inhibitor Id3/HLH462.
+ITF-2
+ITF-2b
+0

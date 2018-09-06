@@ -26,7 +26,7 @@ from ian_pytorch.lstm import LSTM
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 context_dict = {
-    'aimed': 74,
+    'aimed': 100,
     'cdr': 178
 }
 
@@ -167,7 +167,7 @@ class Instructor:
 if __name__ == '__main__':
     # Hyper Parameters
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model_name', default='lstm', type=str)
+    parser.add_argument('--model_name', default='ian', type=str)
     parser.add_argument('--dataset', default='aimed', type=str, help='twitter, restaurant, laptop')
     parser.add_argument('--optimizer', default='adam', type=str)
     parser.add_argument('--initializer', default='xavier_uniform_', type=str)

@@ -1,0 +1,2252 @@
+The cloning of a complementary DNA encoding a human TFIID TAF, $T1$, that has no known homolog in Drosophila $T2$ is now described.
+TAFII55
+TFIID
+0
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+CTF
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+In resting human epithelial and fibroblastic cells, $T1$ is phosphorylated on serine and threonine at five sites, three of which are phosphorylated in vitro by glycogen synthase kinase 3 ($T2$).
+c-Jun
+GSK-3
+1
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. $T1$ displayed the same pattern of combinatorial interactions with $T2$ family proteins as Bcl-2.
+Bcl-X-L
+Bcl-2
+0
+Expressed in a murine myeloma, $T1$ was identified as a ligand for CD40 by binding to a soluble $T2$ construct.
+TRAP
+CD40
+1
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein $T1$ and the pocket proteins pRb, p107 and pRb2/$T2$.
+MyoD
+p130
+0
+The six most frequently observed $T1$ mutations disrupt $T2$ binding in vitro.
+p53
+53BP2
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+Estrogen Receptor
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+E1A
+0
+The $T1$-interacting region of $T2$ was localized to its DNA-binding domain, which is distinct from the glutamine-rich activation domains previously shown to interact with Drosophila TAFII110.
+TAFII55
+Sp1
+1
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T2$-LPR and Fas-FD8.
+FADD
+Fas
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$ in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+interleukin-1 beta
+FADD
+0
+Residues in human leukemia inhibitory factor ($T1$) crucial for binding to both the human LIF receptor (R) and $T2$ were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+hLIF
+gp130
+1
+We further showed that $T1$ was comodulated on the T cell surface with $T2$, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating CD45 from T cell lysates.
+CD26
+CD45
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T1$, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+Sp1
+Tat
+0
+Bcl-2 also interacted with Bcl-X-L and $T1$ and with the dominant inhibitors Bax and $T2$.
+Mcl-1
+Bcl-X-S
+0
+Thus, during myogenic differentiation, formation of $T1$ and pRb2/$T2$ containing complexes is an early event, but not enough on its own to prevent the reactivation of DNA synthesis.
+E2F4
+p130
+1
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor (IR) and the $T1$ receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IGF-1
+IGF-1R
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$ complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+Interaction of the p85 subunit of $T1$ with the insulin receptor (IR) and the $T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+IGF-1 receptor
+1
+Interaction of p85 subunit of PI 3-kinase with insulin and $T1$$T2$ with insulin and IGF-1 receptors analysed by using the two-hybrid system.
+IGF-1
+PI 3-kinase
+0
+Using the cytoplasmic domain of $T1$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+Fas
+FD8
+0
+Activation of lacZ upon interaction of p85 with IR beta(delta C-43) was 4-fold less as compared to $T1$$T2$) was 4-fold less as compared to IR beta.
+IR beta
+delta C-43
+0
+The results of his3 activation indicated that $T1$, N + C-SH2 and C-SH2 interact with both IR beta and $T2$, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+p85
+IGF-1R beta
+1
+TAFII55 is shown to interact with the largest subunit ($T1$) of human $T2$ through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+TFIID
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/$T1$$T2$ and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cdk2
+E2F4
+0
+Interaction of p85 and N+C-SH2 with IR beta ($T1$$T2$ and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+p85
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the $T1$ (bHLH) protein MyoD and the pocket proteins pRb, p107 and $T2$/p130.
+myogenic basic helix-loop-helix
+pRb2
+0
+An E2F complex containing mainly E2F4 and $T1$/$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+pRb2
+p130
+0
+Residues in human leukemia inhibitory factor ($T1$) crucial for binding to both the human $T2$ (R) and gp130 were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+hLIF
+LIF receptor
+1
+$T1$ binds exclusively to the underphosphorylated form of Rb and fails to bind to $T2$ mutants derived from patients with retinoblastoma.
+Elf-1
+Rb
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, Mcl-1, and $T1$$T2$ family, including Bcl-X-L, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bax
+Bcl-2
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both $T1$ and $T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+IGF-1R
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ beta (delta C-43).
+delta C-4
+IGF-1R
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain ($T1$) for IL-4 signaling, it could not replace the function of $T2$ in allowing enhanced IL-2 binding activity.
+gammac
+gammac
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+delta C-4
+p85
+0
+Thus, $T1$ encodes a human FGF receptor with high affinity for both aFGF and $T2$.
+phFGFR
+bFGF
+1
+MyoD prevents cyclinA/cdk2 containing $T1$$T2$/cdk2 containing E2F complexes formation in terminally differentiated myocytes.
+E2F
+cyclinA
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$ in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+interleukin-1 beta-converting enzyme
+FADD
+0
+The region of $T1$ most important for binding to the $T2$ is composed of residues from the amino terminus of the D-helix, carboxyl terminus of the B-helix, and C-D loop.
+hLIF
+hLIF-R
+1
+An E2F complex containing mainly E2F4 and pRb2/$T1$ ($T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+p130
+E2F
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing $T1$$T2$ amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+$T1$ contains a death domain homologous to the death domains of Fas and $T2$.
+FADD
+TNFR-1
+0
+$T1$ is shown to interact with the largest subunit ($T2$) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+TAFII230
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronidase
+elastin
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$ and Fas-FD5, a mutant of $T2$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+Thus, the C-terminal domain in $T1$ appears to exert a negative control on binding of p85 thereby providing a possible regulatory mechanism for direct activation of the $T2$ pathway.
+IGF-1R
+PI 3-kinase
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, $T1$, and $T2$) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibromodulin
+decorin
+0
+In the present report, we demonstrated that modulation of CD26 from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased $T1$$T2$ (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased CD4 associated p56lck tyrosine kinase activity.
+CD4
+CD26
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, Mcl-1, and $T1$$T2$, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bax
+Bcl-X-L
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R
+p85
+0
+These findings strongly suggest that $T1$ may be closely associated with the CD45 protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of $T2$ with CD45 results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD26
+CD26
+0
+Interaction of $T1$ subunit of PI 3-kinase with $T2$ and IGF-1 receptors analysed by using the two-hybrid system.
+p85
+insulin
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or Mcl-1 but not those containing $T1$$T2$, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Bcl-X-S
+Bcl-X-L
+0
+Bcl-2 also interacted with $T1$ and Mcl-1 and with the dominant inhibitors Bax and $T2$.
+Bcl-X-L
+Bcl-X-S
+0
+From Scatchard analyses, the Kd:s for binding of $T1$ and bFGF to $T2$ were estimated to 25 pM and 41 pM, respectively.
+aFGF
+hFGFR-1
+1
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including $T1$, $T2$, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-X-L
+Bcl-X-S
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-$T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+Estrogen Receptor
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of $T1$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+Fas
+LPR
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and $T1$$T2$ beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IGF-1R beta
+IR
+0
+Bcl-2 also interacted with $T1$ and $T2$ and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-X-L
+Mcl-1
+0
+Interaction of the p85 subunit of $T1$ with the insulin receptor (IR) and the IGF-1 receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+IGF-1R
+1
+Interaction of p85 subunit of PI 3-kinase with insulin and $T1$$T2$ and IGF-1 receptors analysed by using the two-hybrid system.
+IGF-1
+insulin
+0
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor (IR) and the $T1$$T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IGF-1
+IGF-1 receptor
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta($T1$$T2$ (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+IR beta
+0
+Interaction of the p85 subunit of $T1$$T2$ subunit of PI 3-kinase with the insulin receptor (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+p85
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+elastin
+0
+Use of deletion mutants of $T1$ suggested that $T2$ homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$$T2$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+TAFII55
+0
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor $T1$$T2$ DNA binding activity and the cdks inhibitor MyoD downstream effector p21 are induced.
+MyoD
+MyoD
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+MyoD
+0
+Interactions of the $T1$ protein with itself and other members of the Bcl-2 family, including Bcl-X-L, $T2$, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-2
+Bcl-X-S
+1
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/$T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bax
+Bax
+0
+Interaction of $T1$ and N+C-SH2 with IR beta (delta C-43) or $T2$(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+p85
+IGF-1R beta
+1
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$) protein MyoD and the pocket proteins pRb, p107 and $T2$/p130.
+bHLH
+pRb2
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing $T1$$T2$ protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Phosphorylation of recombinant human $T1$ proteins in vitro by $T2$ decreases their DNA-binding activity.
+c-Jun
+GSK-3
+1
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for $T1$$T2$ heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and gammac are similar, and like $T1$$T2$ are similar, and like gammac, IL-13Ralpha is located on chromosome X.
+gammac
+gammac
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/$T1$$T2$ heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, $T1$, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of $T2$ that lacks a well-conserved 63-amino acid region).
+Bcl-X-L
+Bcl-X
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+delta C-4
+IR beta
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$$T2$, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+hyaluronic acid synthase 2
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta($T1$$T2$ and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+p85
+0
+The results of his3 activation indicated that $T1$, N + C-SH2 and C-SH2 interact with both IR beta and $T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+p85
+IGF-1R
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IGF-1R
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+MyoD
+0
+A cDNA encoding part of the $T1$ protein sequence interacted with the $T2$ basic-helix-loop-helix only when fused to a beta-galactosidase tag.
+nucleolin
+E47
+1
+The crystal structure of the $T1$ core domain bound to the $T2$ protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of p53 in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of p53.
+p53
+53BP2
+1
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and $T1$$T2$ and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IGF-1R beta
+IR beta
+0
+An $T1$ complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cyclinA
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed $T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+Estrogen Receptor
+0
+Interaction of p85 and N+C-SH2 with IR beta ($T1$$T2$ (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+IR beta
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+MyoD
+0
+$T1$ associates with the $T2$ after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+SHPTP2
+platelet-derived growth factor (PDGF) receptor
+1
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$ (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R
+IR beta
+0
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including Sp1, YY1, $T2$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+USF
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$$T2$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FD5
+Fas
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing $T1$$T2$ amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Regulation of the $T1$-related transcription factor Elf-1 by binding to the $T2$ protein.
+Ets
+retinoblastoma
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$$T2$ (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+insulin receptor
+0
+In the present report, we demonstrated that modulation of CD26 from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of $T1$ zeta tyrosine residues and increased $T2$ associated p56lck tyrosine kinase activity.
+CD3
+CD4
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ ($T2$) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin receptor
+IR
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-$T1$) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T2$/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+cyclinA
+0
+A second region of $T1$ that includes residues from the carboxyl terminus of the D-helix and A-B loop also had a weak influence on $T2$ binding.
+hLIF
+hLIF-R
+1
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/$T1$$T2$ differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-X-S
+0
+The structure of the $T1$-$T2$-heparin ternary complex provides a structural basis for the essential role of heparan sulphate in FGF signalling.
+FGF1
+FGFR2
+1
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, $T2$, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+YY1
+1
+Structure of the $T1$ tumor suppressor bound to the ankyrin and SH3 domains of $T2$.
+p53
+53BP2
+1
+Interactions of the $T1$ protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, Mcl-1, and $T2$, were explored with a yeast two-hybrid system.
+Bcl-2
+Bax
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/$T1$$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cdk2
+p130
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$$T2$ (bHLH) protein MyoD and the pocket proteins pRb, p107 and pRb2/p130.
+bHLH
+myogenic basic helix-loop-helix
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the $T1$ (bHLH) protein MyoD and the pocket proteins pRb, $T2$ and pRb2/p130.
+myogenic basic helix-loop-helix
+p107
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R
+IGF-1R
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of $T1$ possessing enhanced killing activity, but not the functionally inactive mutants $T2$-LPR and Fas-FD8.
+Fas
+Fas
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IGF-1R beta
+0
+An $T1$ complex containing mainly E2F4 and pRb2/p130 ($T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+Activation of lacZ upon interaction of $T1$ with $T2$(delta C-43) was 4-fold less as compared to IR beta.
+p85
+IR beta
+1
+Using epitope-tagging, interaction of $T1$ basic-helix-loop-helix protein with the $T2$ protein encoded by this novel cDNA was confirmed by immunoprecipitation experiments in COS7 cells.
+E47
+eip1
+1
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including Sp1, YY1, USF, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+CTF
+0
+From Scatchard analyses, the Kd:s for binding of aFGF and $T1$ to $T2$ were estimated to 25 pM and 41 pM, respectively.
+bFGF
+hFGFR-1
+1
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+TAFII230
+Tat
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+ER
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T2$-LPR and Fas-FD8.
+Fas
+Fas
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$ containing complex following serum stimulation and this correlates with suppression of $T2$ activity and the inability of cells to re-enter the cell cycle.
+E2F4
+E2F
+0
+In this report, it is demonstrated that $T1$ contains a sequence motif that is highly related to the Rb binding sites of several viral oncoproteins and binds to the pocket region of $T2$ both in vitro and in vivo.
+Elf-1
+Rb
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+cyclinA
+0
+This activation with p85 and $T1$$T2$ beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R beta
+IGF-1R
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+MyoD
+0
+Overexpression of a phosphorylation-defective form of $T1$ inhibited $T2$-dependent transcription during T cell activation.
+Rb
+Elf-1
+0
+The structure of the complex shows that the $T1$ binding site on the $T2$ core domain consists of evolutionarily conserved regions that are frequently mutated in cancer and that it overlaps the site of DNA binding.
+53BP2
+p53
+1
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ beta.
+IR beta
+IR
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, $T1$$T2$, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Mcl-1
+Bcl-X-L
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for $T1$$T2$ function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-2
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T1$, YY1, USF, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+Sp1
+CTF
+0
+Using a protein interaction cloning technique, we identified cDNAs that encode a novel $T1$-binding protein, termed $T2$.
+Bcl-2
+BAG-1
+1
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common $T1$ (gammac) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced $T2$ binding activity.
+cytokine receptor gamma chain
+IL-2
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein $T1$ and the pocket proteins pRb, $T2$ and pRb2/p130.
+MyoD
+p107
+0
+Interaction of the $T1$ subunit of PI 3-kinase with the insulin receptor (IR) and the IGF-1 receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+p85
+IGF-1R
+0
+Here we show that beta:$T1$ binds to the activin type II receptor kinase ($T2$) which induces activin binding to the type I receptor kinase SKR2 to form ActRII.beta:beta.
+beta activin
+ActRII
+1
+Interaction of the p85 subunit of $T1$ with the $T2$ receptor (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+insulin
+0
+An $T1$ complex containing mainly $T2$ and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F4
+0
+The crystal structure of the p53 core domain bound to the 53BP2 protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of $T1$ in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of $T2$.
+p53
+p53
+0
+Thus, the C-terminal domain in IGF-1R appears to exert a negative control on binding of $T1$ thereby providing a possible regulatory mechanism for direct activation of the $T2$ pathway.
+p85
+PI 3-kinase
+0
+An E2F complex containing mainly E2F4 and $T1$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+pRb2
+cyclinA
+0
+These results demonstrate that Rb interacts specifically with a lineage-restricted $T1$$T2$ interacts specifically with a lineage-restricted Ets transcription factor.
+Ets
+Rb
+0
+We further showed that CD26 was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating $T1$$T2$, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating CD45 from T cell lysates.
+CD45
+CD45
+0
+The catalytic domain of activated collagenase I ($T1$) is absolutely required for interaction with its specific inhibitor, $T2$ (TIMP-1).
+MMP-1
+tissue inhibitor of metalloproteinases-1
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-$T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+Estrogen Receptor
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or $T1$$T2$, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Mcl-1
+Bcl-X-L
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate $T1$ function, and indicate that requirements for Bcl-2/$T2$ heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+TRAP is highly similar to an identified murine CD40 ligand both at the cDNA (82.8% identity) and the protein (77.4% identity) levels, and related to tumor necrosis factor/$T1$$T2$ is highly similar to an identified murine CD40 ligand both at the cDNA (82.8% identity) and the protein (77.4% identity) levels, and related to tumor necrosis factor/lymphotoxin.
+lymphotoxin
+TRAP
+0
+After T cell activation, the phosphorylation of $T1$ results in the release of $T2$, which is correlated temporally with the activation of Elf-1-mediated transcription.
+Rb
+Elf-1
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds $T2$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FADD
+Fas
+1
+After T cell activation, the phosphorylation of $T1$ results in the release of Elf-1, which is correlated temporally with the activation of $T2$-mediated transcription.
+Rb
+Elf-1
+0
+265, 21561-21566) we have shown that dimerization of $T1$ was required for interaction with the cytoskeletal component $T2$.
+RII alpha
+microtubule-associated protein 2
+1
+The results of his3 activation indicated that $T1$, N + C-SH2 and C-SH2 interact with both $T2$ beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+p85
+IR
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T1$ and $T2$-FD8.
+LPR
+Fas
+0
+MyoD prevents cyclinA/cdk2 containing $T1$$T2$ containing E2F complexes formation in terminally differentiated myocytes.
+E2F
+cdk2
+0
+This activation with $T1$ and IGF-1R beta was 4-fold less as compared to $T2$ and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+p85
+IR beta
+1
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T2$, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+Sp1
+1
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the $T1$ (bHLH) protein MyoD and the pocket proteins pRb, p107 and pRb2/$T2$.
+myogenic basic helix-loop-helix
+p130
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/$T1$$T2$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cdk2
+pRb2
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate $T1$ function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for $T2$/Bcl-2 homodimerization.
+Bcl-2
+Bcl-2
+0
+Bcl-2 also interacted with $T1$ and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as $T2$.
+Bcl-X-L
+Bcl-2
+0
+Therefore, 1) the presence of GRs and COX-2 in nasal polyps from nonallergic patients, as well as upregulation of $T1$$T2$ in nasal polyps from nonallergic patients, as well as upregulation of COX-2 expression, suggests that inflammation may play an important role in the pathophysiology of nasal polyps; and 2) glucocorticoid could be a potential treatment method for suppressing inflammatory processes.
+COX-2
+COX-2
+0
+Activation of lacZ upon interaction of p85 with IR beta($T1$$T2$ with IR beta(delta C-43) was 4-fold less as compared to IR beta.
+delta C-43
+p85
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$, $T2$, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+cd44
+0
+Bcl-2 also interacted with $T1$ and Mcl-1 and with the dominant inhibitors $T2$ and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-X-L
+Bax
+0
+Regulation of the $T1$-related transcription factor $T2$ by binding to the retinoblastoma protein.
+Ets
+Elf-1
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$ containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cdk2
+0
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector $T1$$T2$ downstream effector p21 are induced.
+p21
+MyoD
+0
+Measurement of $T1$ I3A,I5A interaction with the human thyroid AKAP, $T2$, by two independent methods suggests that mutation of isoleucines 3 and 5 decreases affinity by at least 6-fold.
+RII alpha
+Ht 31
+1
+An $T1$ complex containing mainly E2F4 and $T2$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+pRb2
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ receptor (IR) and the $T2$ receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+IGF-1
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the $T1$ (bHLH) protein MyoD and the pocket proteins $T2$, p107 and pRb2/p130.
+myogenic basic helix-loop-helix
+pRb
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-$T1$$T2$-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+ER
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the $T1$$T2$ suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+TRAP is highly similar to an identified murine $T1$ both at the cDNA (82.8% identity) and the protein (77.4% identity) levels, and related to tumor necrosis factor/$T2$.
+CD40 ligand
+lymphotoxin
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+FADD
+LPR
+0
+Using SHPTP2 as bait and supplying an exogenous tyrosine kinase gene to the yeast cells, we have found that $T1$ interacts with another signaling protein, $T2$.
+SHPTP2
+Grb7
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+pRb2
+0
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, $T2$, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+CTF
+1
+Coassociation of $T1$ (dipeptidyl peptidase IV) with $T2$ on the surface of human T lymphocytes.
+CD26
+CD45
+1
+In the present study, we examined the presence of glucocorticoid receptors (GRs) and cyclooxygenase-2 ($T1$$T2$ (COX-2) in the nasal polyps of nonallergic patients as compared with normal controls.
+COX-2
+cyclooxygenase-2
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+IGF-1R beta
+0
+In the present report, we demonstrated that modulation of CD26 from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of $T1$$T2$ (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased CD4 associated p56lck tyrosine kinase activity.
+CD3
+CD26
+0
+This activation with $T1$ and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T2$ (delta C-43).
+p85
+IGF-1R beta
+1
+MyoD prevents $T1$/$T2$ containing E2F complexes formation in terminally differentiated myocytes.
+cyclinA
+cdk2
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibromodulin
+collagenase
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD ($T1$-MyoD) chimerae, we found that estrogen directed $T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+ER
+MyoD
+0
+Regulation of the Ets-related transcription factor $T1$ by binding to the $T2$ protein.
+Elf-1
+retinoblastoma
+1
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and $T2$-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FADD
+Fas
+1
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, $T1$$T2$, Bcl-X-L, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Bcl-X-L
+Bcl-2
+0
+The cloning of a complementary DNA encoding a human $T1$ TAF, $T2$, that has no known homolog in Drosophila TFIID is now described.
+TFIID
+TAFII55
+0
+An E2F complex containing mainly $T1$ and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F4
+cyclinA
+0
+The present study has shown that cell surface $T1$ binds to the $T2$ mediating its mitogenic activity.
+calreticulin
+B beta chain of fibrinogen
+1
+The structure provides evidence that the $T1$-p53 complex forms in vivo and may have a critical role in the $T2$ pathway of tumor suppression.
+53BP2
+p53
+0
+Using the cytoplasmic domain of $T1$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+Fas
+Fas
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$ (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R beta
+IR beta
+0
+Our data indicate that, in differentiating myocytes, one mechanism through which MyoD induces permanent cell cycle arrest involves p21 upregulation and suppression of the proliferation-associated cdks-containing $T1$$T2$ induces permanent cell cycle arrest involves p21 upregulation and suppression of the proliferation-associated cdks-containing E2F complexes formation.
+E2F
+MyoD
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for $T1$ signaling, it could not replace the function of gammac in allowing enhanced $T2$ binding activity.
+IL-4
+IL-2
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing $T1$$T2$ suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$, hyaluronidase, fibronectin, cd44, $T2$, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+fibromodulin
+0
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+E1A
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$) protein $T2$ and the pocket proteins pRb, p107 and pRb2/p130.
+bHLH
+MyoD
+0
+The putative activation domain of SREBP was shown to bind specifically to amino-terminal domains of recombinant $T1$ and $T2$ (a CBP-related protein).
+CBP
+p300
+0
+In contrast to LexA/Bcl-2 fusion proteins, expression of a LexA/$T1$$T2$ fusion proteins, expression of a LexA/Bax protein was lethal to yeast.
+Bax
+Bcl-2
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R beta
+IR beta
+0
+$T1$ also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with $T2$ family proteins as Bcl-2.
+Bcl-2
+Bcl-2
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+IR
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by $T1$$T2$ in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+CrmA
+FADD
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing $T1$$T2$ homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Interaction of the $T1$ subunit of PI 3-kinase with the $T2$ (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+p85
+insulin receptor
+0
+In contrast, in normal nasal tissues, $T1$ labeling was only found in the vascular wall, and the expression was weaker--a finding demonstrating that $T2$ is upregulated in nasal polyps.
+COX-2
+COX-2
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/$T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+IGF-1R
+0
+FADD contains a death domain homologous to the death domains of $T1$ and $T2$.
+Fas
+TNFR-1
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$) protein MyoD and the pocket proteins pRb, p107 and pRb2/$T2$.
+bHLH
+p130
+0
+Co-immunoprecipitation experiments demonstrated an association between $T1$ and $T2$ in resting normal human T cells.
+Elf-1
+Rb
+1
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including Sp1, $T2$, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+YY1
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$$T2$, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+hyaluronidase
+0
+Activation of lacZ upon interaction of $T1$ with IR beta(delta C-43) was 4-fold less as compared to $T2$.
+p85
+IR beta
+1
+$T1$ also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. $T2$ displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-2
+Bcl-X-L
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or Mcl-1 but not those containing $T1$ (an alternatively spliced form of $T2$ that lacks a well-conserved 63-amino acid region).
+Bcl-X-S
+Bcl-X
+0
+The structure provides evidence that the 53BP2-$T1$ complex forms in vivo and may have a critical role in the $T2$ pathway of tumor suppression.
+p53
+p53
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein $T1$ and the pocket proteins pRb, p107 and $T2$/p130.
+MyoD
+pRb2
+0
+$T1$ contains a death domain homologous to the death domains of $T2$ and TNFR-1.
+FADD
+Fas
+0
+Peptide sequencing and Western blot analysis established that the 265-kD protein was $T1$ ($T2$),a recently identified transcriptional coactivator.
+CBP
+CREB-binding protein
+0
+$T1$ also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors $T2$ and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-2
+Bax
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cyclinA
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing $T1$$T2$ homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+$T1$ prevents cyclinA/$T2$ containing E2F complexes formation in terminally differentiated myocytes.
+MyoD
+cdk2
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, $T1$$T2$, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Mcl-1
+Bcl-X-S
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common $T1$ (gammac) for $T2$ signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+cytokine receptor gamma chain
+IL-4
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cyclinA
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common $T1$ (gammac) for IL-4 signaling, it could not replace the function of $T2$ in allowing enhanced IL-2 binding activity.
+cytokine receptor gamma chain
+gammac
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+interleukin-1 beta
+Fas
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins $T1$, p107 and $T2$/p130.
+pRb
+pRb2
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$ beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R beta
+IGF-1R
+0
+Activation of lacZ upon interaction of p85 with IR beta(delta C-43) was 4-fold less as compared to $T1$$T2$(delta C-43) was 4-fold less as compared to IR beta.
+IR beta
+IR beta
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for $T1$/Bax heterodimerization may be different from those for $T2$/Bcl-2 homodimerization.
+Bcl-2
+Bcl-2
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R beta
+IGF-1R beta
+0
+$T1$ also interacted with Bcl-X-L and $T2$ and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-2
+Mcl-1
+1
+Expressed in a murine myeloma, $T1$ was identified as a ligand for $T2$ by binding to a soluble CD40 construct.
+TRAP
+CD40
+1
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or Mcl-1 but not those containing $T1$$T2$ but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Bcl-X-S
+Mcl-1
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-$T1$) chimerae, we found that estrogen directed $T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+MyoD
+0
+An E2F complex containing mainly $T1$ and pRb2/$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F4
+p130
+1
+Interaction of p85 subunit of PI 3-kinase with $T1$$T2$ with insulin and IGF-1 receptors analysed by using the two-hybrid system.
+insulin
+PI 3-kinase
+0
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor ($T1$) and the $T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IR
+IGF-1 receptor
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+p130
+0
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+E1A
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, $T1$$T2$ family, including Bcl-X-L, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Mcl-1
+Bcl-2
+0
+We further showed that CD26 was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-$T1$ was capable of precipitating $T2$ from T cell lysates.
+CD26
+CD45
+0
+Interactions of the $T1$ protein with itself and other members of the Bcl-2 family, including $T2$, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-2
+Bcl-X-L
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T1$/$T2$ containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cyclinA
+cdk2
+1
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, $T1$$T2$ family, including Bcl-X-L, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-X-S
+Bcl-2
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ (IR) and the IGF-1 receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin receptor
+IGF-1R
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$$T2$, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+hyaluronic acid synthase 2
+0
+The crystal structure of the p53 core domain bound to the $T1$ protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of p53 in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of $T2$.
+53BP2
+p53
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for $T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+A point mutation in FADD, analogous to the lpr mutation of $T1$, abolishes its ability to bind $T2$, suggesting a death domain to death domain interaction.
+Fas
+Fas
+0
+An E2F complex containing mainly $T1$ and $T2$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F4
+pRb2
+1
+Use of the two hybrid system to detect the association of the protein-tyrosine-phosphatase, $T1$, with another SH2-containing protein, $T2$.
+SHPTP2
+Grb7
+1
+In the present report, we demonstrated that modulation of $T1$ from T cell surface induced by anti$T2$ (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased CD4 associated p56lck tyrosine kinase activity.
+CD26
+CD26
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins ($T1$, collagenase, $T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+procollagen I
+elastin
+0
+The structure provides evidence that the $T1$-$T2$ complex forms in vivo and may have a critical role in the p53 pathway of tumor suppression.
+53BP2
+p53
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+decorin
+elastin
+0
+The two residues of $T1$ that contribute the majority of free energy for $T2$ binding, Phe-156 and Lys-159 are surrounded by other residues which have only a moderate impact.
+hLIF
+hLIF-R
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+collagenase
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$ and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F4
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-$T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+MyoD
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T1$-LPR and $T2$-FD8.
+Fas
+Fas
+0
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors $T1$ and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with $T2$ family proteins as Bcl-2.
+Bax
+Bcl-2
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for $T1$/$T2$ homodimerization.
+Bcl-2
+Bcl-2
+1
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-$T2$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+FD5
+0
+Whereas $T1$ serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for $T2$ signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+IL-13Ralpha
+IL-4
+1
+A point mutation in $T1$, analogous to the lpr mutation of $T2$, abolishes its ability to bind Fas, suggesting a death domain to death domain interaction.
+FADD
+Fas
+0
+The internal binding site thus revealed was not altered by further mutating Y960/F for $T1$ or Y950/F for $T2$.
+IR
+IGF-1R
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T1$, YY1, $T2$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+Sp1
+USF
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$$T2$ subunit of PI 3-kinase with the insulin receptor (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+p85
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for IL-4 signaling, it could not replace the function of $T1$ in allowing enhanced $T2$ binding activity.
+gammac
+IL-2
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T1$, $T2$, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+Sp1
+YY1
+0
+$T1$ is a multisubunit protein complex comprised of the TATA-binding protein ($T2$) and multiple TBP-associated factors (TAFs).
+TFIID
+TBP
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$, hyaluronidase, fibronectin, cd44, fibromodulin, and $T2$) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+decorin
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+Estrogen Receptor
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+p85
+0
+Interaction of the p85 subunit of $T1$ with the $T2$ (IR) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+insulin receptor
+1
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing $T1$$T2$ suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of $T1$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+Fas
+FD8
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing $T1$, Bcl-X-L, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of $T2$ that lacks a well-conserved 63-amino acid region).
+Bcl-2
+Bcl-X
+0
+These findings strongly suggest that $T1$ may be closely associated with the CD45 protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of CD26 with $T2$ results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD26
+CD45
+0
+The $T1$ gene product ($T2$) is a nuclear phosphoprotein that regulates cell cycle progression.
+retinoblastoma
+Rb
+0
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors $T1$ and $T2$.
+Bax
+Bcl-X-S
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$ and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F4
+0
+A cDNA clone, designated TRAP ($T1$$T2$ (TNF-related activation protein) was isolated from a collection of T cell activation genes.
+TNF-related activation protein
+TRAP
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+pRb2
+0
+Bcl-2 also interacted with Bcl-X-L and $T1$ and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as $T2$.
+Mcl-1
+Bcl-2
+0
+Interaction of the $T1$ subunit of PI 3-kinase with the insulin receptor (IR) and the $T2$ receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+p85
+IGF-1
+0
+Thus, $T1$ encodes a human FGF receptor with high affinity for both $T2$ and bFGF.
+phFGFR
+aFGF
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+collagenase
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, $T1$, $T2$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+YY1
+USF
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cdk2
+MyoD
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for $T1$ signaling, it could not replace the function of $T2$ in allowing enhanced IL-2 binding activity.
+IL-4
+gammac
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or Mcl-1 but not those containing $T1$$T2$, Bcl-X-L, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Bcl-X-S
+Bcl-2
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for $T1$$T2$ differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-X-S
+0
+Elf-1 binds exclusively to the underphosphorylated form of $T1$ and fails to bind to $T2$ mutants derived from patients with retinoblastoma.
+Rb
+Rb
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+Cloning of $T1$, a ligand for $T2$ on human T cells.
+TRAP
+CD40
+1
+SREBP transcriptional activity is mediated through an interaction with the $T1$$T2$.
+CREB
+CREB-binding protein
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+FD5
+FD8
+0
+TFIID is a multisubunit protein complex comprised of the $T1$$T2$ is a multisubunit protein complex comprised of the TATA-binding protein (TBP) and multiple TBP-associated factors (TAFs).
+TATA-binding protein
+TFIID
+0
+The crystal structure of the $T1$ core domain bound to the 53BP2 protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of p53 in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of $T2$.
+p53
+p53
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+elastin
+0
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors $T1$ and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as $T2$.
+Bax
+Bcl-2
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins pRb, p107 and $T1$/$T2$.
+pRb2
+p130
+0
+Thus, the C-terminal domain in $T1$ appears to exert a negative control on binding of $T2$ thereby providing a possible regulatory mechanism for direct activation of the PI 3-kinase pathway.
+IGF-1R
+p85
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$ to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T2$ activity and the inability of cells to re-enter the cell cycle.
+cdk2
+E2F
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for $T1$/$T2$ heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+1
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including Sp1, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 $T2$ proteins--through a distinct amino-terminal domain.
+TFIID
+Tat
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for $T1$$T2$ differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-X-S
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate $T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+The core domain contains the sequence-specific DNA binding activity and the in vitro $T1$ protein binding activity of $T2$.
+53BP2
+p53
+1
+The cloning of a complementary DNA encoding a human $T1$ TAF, TAFII55, that has no known homolog in Drosophila $T2$ is now described.
+TFIID
+TFIID
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronidase
+procollagen I
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+MyoD
+0
+A point mutation in $T1$, analogous to the lpr mutation of Fas, abolishes its ability to bind $T2$, suggesting a death domain to death domain interaction.
+FADD
+Fas
+1
+Interaction of the p85 subunit of $T1$ with the insulin receptor ($T2$) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+IR
+1
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ (delta C-43).
+delta C-4
+IGF-1R beta
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain ($T1$) for $T2$ signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+gammac
+IL-4
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing $T1$$T2$ homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of $T1$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+Fas
+Fas
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both $T1$ beta and $T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IGF-1R
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+decorin
+collagenase
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/$T1$$T2$/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-2
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+decorin
+procollagen I
+0
+Abolition of the $T1$ binding site in $T2$ created antagonists of LIF action.
+gp130
+hLIF
+1
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, $T1$, and $T2$, were explored with a yeast two-hybrid system.
+Mcl-1
+Bax
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$ complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the $T1$$T2$ homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/$T1$$T2$ function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-2
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including $T2$, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+Sp1
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$-converting enzyme.
+interleukin-1 beta-converting enzyme
+interleukin-1 beta
+0
+This activation with p85 and $T1$$T2$ and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R
+p85
+0
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and gammac are similar, and like gammac, $T1$$T2$, IL-13Ralpha is located on chromosome X.
+IL-13Ralpha
+gammac
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$ and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R
+p85
+0
+$T1$ also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and $T2$.
+Bcl-2
+Bcl-X-S
+1
+Interaction of the p85 subunit of $T1$ with the insulin receptor (IR) and the $T2$ receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+PI 3-kinase
+IGF-1
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein $T1$ and the pocket proteins $T2$, p107 and pRb2/p130.
+MyoD
+pRb
+0
+$T1$ prevents $T2$/cdk2 containing E2F complexes formation in terminally differentiated myocytes.
+MyoD
+cyclinA
+0
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and gammac are similar, and like gammac, $T1$$T2$ and gammac are similar, and like gammac, IL-13Ralpha is located on chromosome X.
+IL-13Ralpha
+IL-13Ralpha
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$, fibromodulin, and $T2$) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+decorin
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T1$-$T2$ and Fas-FD8.
+Fas
+LPR
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ (IR) and the $T2$ receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin receptor
+IGF-1
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T2$-LPR and Fas-FD8.
+Fas
+Fas
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibromodulin
+procollagen I
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to $T1$$T2$ was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IR beta
+IGF-1R beta
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$ containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cdk2
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibromodulin
+elastin
+0
+Activation of lacZ upon interaction of p85 with IR beta($T1$$T2$(delta C-43) was 4-fold less as compared to IR beta.
+delta C-43
+IR beta
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing $T1$$T2$ suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+Fas
+Fas
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins $T1$, $T2$ and pRb2/p130.
+pRb
+p107
+0
+Activation of $T1$ results in rapid, site-specific dephosphorylation of $T2$ at one or more of these three sites and is coincident with increased AP-1-binding activity.
+protein kinase C
+c-Jun
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins ($T1$, $T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+procollagen I
+collagenase
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ receptor ($T2$) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+IR
+0
+The carboxy-terminal region of $T1$ has previously been shown to interact directly with $T2$, a cytoplasmic component of the dystrophin-glycoprotein complex, by in vitro biochemical studies such as overlay assay or immunoprecipitation.
+dystrophin
+alpha1 syntrophin
+1
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR beta
+IR beta
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/$T1$$T2$ complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cdk2
+E2F
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD ($T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+ER
+MyoD
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$ complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+The putative activation domain of SREBP was shown to bind specifically to amino-terminal domains of recombinant CBP and p300 (a $T1$$T2$ and p300 (a CBP-related protein).
+CBP
+CBP
+0
+Interaction of $T1$ subunit of $T2$ with insulin and IGF-1 receptors analysed by using the two-hybrid system.
+p85
+PI 3-kinase
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing $T1$$T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+E2F
+0
+Interaction of the $T1$ subunit of PI 3-kinase with the insulin receptor ($T2$) and the IGF-1 receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+p85
+IR
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the $T1$$T2$ to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F4
+cdk2
+0
+Bcl-2 also interacted with $T1$ and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. $T2$ displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-X-L
+Bcl-X-L
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T1$$T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cyclinA
+MyoD
+0
+In this report, it is demonstrated that Elf-1 contains a sequence motif that is highly related to the Rb binding sites of several viral oncoproteins and binds to the pocket region of $T1$$T2$ binding sites of several viral oncoproteins and binds to the pocket region of Rb both in vitro and in vivo.
+Rb
+Rb
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$, $T2$, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+hyaluronidase
+0
+The results of his3 activation indicated that $T1$, N + C-SH2 and C-SH2 interact with both $T2$ and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+p85
+IR beta
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$$T2$) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cdk2
+MyoD
+0
+Residues in human $T1$ (hLIF) crucial for binding to both the human LIF receptor (R) and $T2$ were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+leukemia inhibitory factor
+gp130
+1
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/$T1$$T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+cdk2
+E2F
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both $T1$$T2$ and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IR beta
+0
+An E2F complex containing mainly E2F4 and pRb2/$T1$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+p130
+cyclinA
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+procollagen I
+0
+These findings strongly suggest that CD26 may be closely associated with the $T1$ protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of $T2$ with CD45 results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD45
+CD26
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins $T1$, p107 and pRb2/$T2$.
+pRb
+p130
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+FADD
+FD8
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including Sp1, YY1, $T2$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+USF
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+procollagen I
+0
+The mitogenic effects of the $T1$ are mediated through cell surface $T2$.
+B beta chain of fibrinogen
+calreticulin
+1
+Interaction of the $T1$ subunit of PI 3-kinase with the insulin receptor (IR) and the $T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+p85
+IGF-1 receptor
+0
+Interaction of p85 subunit of PI 3-kinase with insulin and $T1$$T2$ subunit of PI 3-kinase with insulin and IGF-1 receptors analysed by using the two-hybrid system.
+IGF-1
+p85
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ receptor (IR) and the IGF-1 receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+IGF-1R
+0
+Measurement of $T1$ I3A,I5A interaction with the human $T2$, Ht 31, by two independent methods suggests that mutation of isoleucines 3 and 5 decreases affinity by at least 6-fold.
+RII alpha
+thyroid AKAP
+1
+This activation with p85 and IGF-1R beta was 4-fold less as compared to $T1$$T2$ beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IR beta
+IGF-1R
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronidase
+collagenase
+0
+$T1$ also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as $T2$.
+Bcl-2
+Bcl-2
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+elastin
+collagenase
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T2$-LPR and Fas-FD8.
+FD5
+Fas
+0
+Bcl-2 also interacted with Bcl-X-L and $T1$ and with the dominant inhibitors $T2$ and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Mcl-1
+Bax
+0
+In resting human epithelial and fibroblastic cells, $T1$ is phosphorylated on serine and threonine at five sites, three of which are phosphorylated in vitro by $T2$ (GSK-3).
+c-Jun
+glycogen synthase kinase 3
+1
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common cytokine receptor gamma chain ($T1$) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced $T2$ binding activity.
+gammac
+IL-2
+0
+We further showed that CD26 was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating $T1$$T2$ was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating CD45 from T cell lysates.
+CD45
+CD26
+0
+Thus, during myogenic differentiation, formation of $T1$ and $T2$/p130 containing complexes is an early event, but not enough on its own to prevent the reactivation of DNA synthesis.
+E2F4
+pRb2
+1
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with $T1$ family proteins as $T2$.
+Bcl-2
+Bcl-2
+0
+Using the cytoplasmic domain of $T1$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+Fas
+LPR
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T1$ and Fas-$T2$.
+LPR
+FD8
+0
+Residues in human $T1$ (hLIF) crucial for binding to both the human $T2$ (R) and gp130 were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+leukemia inhibitory factor
+LIF receptor
+1
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor ($T1$) and the $T2$ receptor (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IR
+IGF-1
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 ($T1$-G0/G1 complex) appears when DNA synthesis arrests, replacing the $T2$/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+cyclinA
+0
+An E2F complex containing mainly E2F4 and pRb2/p130 (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts ($T1$$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+p130
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$) protein MyoD and the pocket proteins $T2$, p107 and pRb2/p130.
+bHLH
+pRb
+0
+Cloning and functional analysis of $T1$: a novel $T2$-binding protein with anti-cell death activity.
+BAG-1
+Bcl-2
+1
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or $T1$ but not those containing Bcl-X-S (an alternatively spliced form of $T2$ that lacks a well-conserved 63-amino acid region).
+Mcl-1
+Bcl-X
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$$T2$-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cdk2
+ER
+0
+An $T1$ complex containing mainly E2F4 and pRb2/$T2$ (E2F-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F
+p130
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$, $T2$, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+fibromodulin
+0
+$T1$ also interacted with $T2$ and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bcl-2
+Bcl-X-L
+1
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-$T2$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FADD
+FD5
+1
+In the present report, we demonstrated that modulation of CD26 from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased $T1$$T2$ from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased CD4 associated p56lck tyrosine kinase activity.
+CD4
+CD26
+0
+TFIID is a multisubunit protein complex comprised of the $T1$ ($T2$) and multiple TBP-associated factors (TAFs).
+TATA-binding protein
+TBP
+0
+TRAP is highly similar to an identified murine $T1$$T2$ is highly similar to an identified murine CD40 ligand both at the cDNA (82.8% identity) and the protein (77.4% identity) levels, and related to tumor necrosis factor/lymphotoxin.
+CD40 ligand
+TRAP
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$, cd44, $T2$, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+fibromodulin
+0
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and $T1$$T2$ and gammac are similar, and like gammac, IL-13Ralpha is located on chromosome X.
+gammac
+IL-13Ralpha
+0
+The crystal structure of the p53 core domain bound to the $T1$ protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of $T2$ in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of p53.
+53BP2
+p53
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing $T1$$T2$ amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to $T1$ and was somewhat increased (2-fold) for $T2$ beta (delta C-43).
+IR beta
+IGF-1R
+0
+$T1$ is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including Sp1, YY1, $T2$, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII55
+USF
+1
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and gammac are similar, and like gammac, $T1$$T2$ are similar, and like gammac, IL-13Ralpha is located on chromosome X.
+IL-13Ralpha
+gammac
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for $T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bax
+0
+The experiments were performed with the cytoplasmic beta domain (wild type or mutated) of $T1$ and IGF-1R and $T2$ or its subdomains (N + C-SH2, N-SH2, C-SH2, SH3 + N-SH2).
+IR
+p85
+0
+In this report, it is demonstrated that $T1$ contains a sequence motif that is highly related to the $T2$ binding sites of several viral oncoproteins and binds to the pocket region of Rb both in vitro and in vivo.
+Elf-1
+Rb
+0
+The experiments were performed with the cytoplasmic beta domain (wild type or mutated) of IR and $T1$ and $T2$ or its subdomains (N + C-SH2, N-SH2, C-SH2, SH3 + N-SH2).
+IGF-1R
+p85
+0
+The findings suggest a model whereby Bax and $T1$$T2$ and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-X-S
+Bax
+0
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor ($T1$) and the IGF-1 receptor ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IR
+IGF-1R
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing $T1$$T2$ protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cyclinA
+Estrogen Receptor
+0
+In an unbiased search for potential coactivators of SREBP, we isolated a protein of 265 kD from HeLa cells that directly bound $T1$ and $T2$.
+SREBP-1
+SREBP-2
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ (IR) and the $T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin receptor
+IGF-1 receptor
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+IGF-1R beta
+IGF-1R
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T1$$T2$ beta (delta C-43).
+IGF-1R beta
+IGF-1R
+0
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors $T1$ and Bcl-X-S. $T2$ displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Bax
+Bcl-X-L
+0
+Only weak $T1$ binding activity was found in cells transfected with only $T2$; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13
+IL-13Ralpha
+1
+Bcl-2 also interacted with $T1$ and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with $T2$ family proteins as Bcl-2.
+Bcl-X-L
+Bcl-2
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R beta
+delta C-43
+0
+We further showed that CD26 was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-$T1$$T2$, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating CD45 from T cell lysates.
+CD26
+CD45
+0
+These findings strongly suggest that CD26 may be closely associated with the $T1$ protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of CD26 with $T2$ results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD45
+CD45
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix ($T1$) protein MyoD and the pocket proteins pRb, $T2$ and pRb2/p130.
+bHLH
+p107
+0
+Residues in $T1$ from both the A- and C-helices are involved in binding the $T2$ co-receptor.
+hLIF
+gp130
+1
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by $T1$$T2$-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+CrmA
+Fas
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T1$-$T2$.
+Fas
+FD8
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$, cd44, fibromodulin, and $T2$) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+decorin
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants $T1$-LPR and Fas-$T2$.
+Fas
+FD8
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+delta C-4
+IGF-1R beta
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+Fas
+FD8
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta($T1$$T2$) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+delta C-43
+0
+We further showed that CD26 was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-$T1$$T2$ was comodulated on the T cell surface with CD45, a known membrane-linked protein tyrosine phosphatase and that anti-CD26 was capable of precipitating CD45 from T cell lysates.
+CD26
+CD26
+0
+Thus, during myogenic differentiation, formation of E2F4 and $T1$/$T2$ containing complexes is an early event, but not enough on its own to prevent the reactivation of DNA synthesis.
+pRb2
+p130
+0
+TAFII55 is shown to interact with the largest subunit ($T1$) of human TFIID through its central region and with multiple activators--including $T2$, YY1, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TAFII230
+Sp1
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-FD5, a mutant of $T2$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FADD
+Fas
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+ER
+0
+In the present report, we demonstrated that modulation of CD26 from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of $T1$$T2$ from T cell surface induced by antiCD26 (1F7) led to enhanced phosphorylation of CD3 zeta tyrosine residues and increased CD4 associated p56lck tyrosine kinase activity.
+CD3
+CD26
+0
+These findings suggest that FADD may play an important role in the proximal signal transduction of $T1$$T2$ may play an important role in the proximal signal transduction of Fas.
+Fas
+FADD
+0
+Expressed in a murine myeloma, TRAP was identified as a ligand for CD40 by binding to a soluble $T1$$T2$ by binding to a soluble CD40 construct.
+CD40
+CD40
+0
+We propose that $T1$ is present in resting cells in a latent, phosphorylated form that can be activated by site-specific dephosphorylation in response to $T2$ activation.
+c-Jun
+protein kinase C
+1
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when $T1$$T2$ complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector p21 are induced.
+MyoD
+E2F
+0
+$T1$ binds exclusively to the underphosphorylated form of $T2$ and fails to bind to Rb mutants derived from patients with retinoblastoma.
+Elf-1
+Rb
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins pRb, $T1$ and pRb2/$T2$.
+p107
+p130
+0
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human $T1$ through its central region and with multiple activators--including Sp1, $T2$, USF, CTF, adenoviral E1A, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+TFIID
+YY1
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+Fas
+LPR
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+interleukin-1 beta
+CrmA
+0
+We demonstrate that $T1$ binds to $T2$ in vitro under conditions where the latter is tyrosine-phosphorylated.
+Grb7
+SHPTP2
+1
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate $T1$$T2$ differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bcl-2
+Bcl-X-S
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-$T2$.
+Fas
+FD8
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including $T1$$T2$ family, including Bcl-X-L, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-X-L
+Bcl-2
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, $T1$, fibronectin, cd44, fibromodulin, and $T2$) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronidase
+decorin
+0
+Only the activated and not the latent forms of wild-type and C-terminal mutant des-(248-450)-$T1$ proteins are able to form complexes with $T2$.
+MMP-1
+TIMP
+1
+Nevertheless, the overall size and length of the cytoplasmic domain of IL-13Ralpha and gammac are similar, and like $T1$$T2$ and gammac are similar, and like gammac, IL-13Ralpha is located on chromosome X.
+gammac
+IL-13Ralpha
+0
+Interaction of $T1$ and N+C-SH2 with $T2$ (delta C-43) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+p85
+IR beta
+1
+These findings strongly suggest that CD26 may be closely associated with the CD45 protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of $T1$ with $T2$ results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD26
+CD45
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed $T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+MyoD
+MyoD
+0
+Whereas IL-13Ralpha serves as an alternative accessory protein to the common $T1$ ($T2$) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+cytokine receptor gamma chain
+gammac
+0
+This activation with p85 and $T1$ was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for $T2$ beta (delta C-43).
+IGF-1R beta
+IGF-1R
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or $T1$$T2$) or IGF-1R beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+IGF-1R
+delta C-43
+0
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector $T1$$T2$ complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector p21 are induced.
+p21
+E2F
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T1$$T2$ (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cyclinA
+MyoD
+0
+Measurement of RII alpha I3A,I5A interaction with the human $T1$, $T2$, by two independent methods suggests that mutation of isoleucines 3 and 5 decreases affinity by at least 6-fold.
+thyroid AKAP
+Ht 31
+0
+Bcl-2 also interacted with Bcl-X-L and Mcl-1 and with the dominant inhibitors Bax and Bcl-X-S. $T1$ displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as $T2$.
+Bcl-X-L
+Bcl-2
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD ($T1$-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T2$/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+ER
+cyclinA
+0
+These findings strongly suggest that $T1$ may be closely associated with the $T2$ protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of CD26 with CD45 results in enhanced tyrosine kinase activity, zeta chain phosphorylation, and T cell activation.
+CD26
+CD45
+0
+MyoD prevents cyclinA/cdk2 containing $T1$$T2$ prevents cyclinA/cdk2 containing E2F complexes formation in terminally differentiated myocytes.
+E2F
+MyoD
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and $T1$$T2$ beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IGF-1R beta
+IGF-1R
+0
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta($T1$$T2$ beta(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+IGF-1R
+0
+Interactions of the Bcl-2 protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, Mcl-1, and $T1$$T2$, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bax
+Bcl-X-S
+0
+Use of deletion mutants of Bcl-2 suggested that Bcl-2 homodimerization involves interactions between two distinct regions within the Bcl-2 protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing $T1$$T2$ protein, since a LexA protein containing Bcl-2 amino acids 83-218 mediated functional interactions with a B42 fusion protein containing Bcl-2 amino acids 1-81 but did not complement a B42 fusion protein containing Bcl-2 amino acids 83-218.
+Bcl-2
+Bcl-2
+0
+Whereas $T1$ serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced $T2$ binding activity.
+IL-13Ralpha
+IL-2
+0
+This activation with p85 and IGF-1R beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta ($T1$$T2$ beta was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+delta C-4
+IGF-1R
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FADD
+Fas
+0
+Our data indicate that, in differentiating myocytes, one mechanism through which MyoD induces permanent cell cycle arrest involves p21 upregulation and suppression of the proliferation-associated cdks-containing $T1$$T2$ upregulation and suppression of the proliferation-associated cdks-containing E2F complexes formation.
+E2F
+p21
+0
+Interaction of the p85 subunit of PI 3-kinase with the $T1$ receptor (IR) and the $T2$ (IGF-1R) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+insulin
+IGF-1 receptor
+0
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector $T1$$T2$ DNA binding activity and the cdks inhibitor MyoD downstream effector p21 are induced.
+p21
+MyoD
+0
+This cytotoxicity could be abrogated by B42 fusion proteins containing Bcl-2, Bcl-X-L, or $T1$$T2$, Bcl-X-L, or Mcl-1 but not those containing Bcl-X-S (an alternatively spliced form of Bcl-X that lacks a well-conserved 63-amino acid region).
+Mcl-1
+Bcl-2
+0
+In differentiating C2C12 cells, E2F complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor $T1$$T2$ complexes switch and DNA synthesis in response to serum are prevented when MyoD DNA binding activity and the cdks inhibitor MyoD downstream effector p21 are induced.
+MyoD
+E2F
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, $T1$, fibronectin, cd44, $T2$, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronidase
+fibromodulin
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FD5
+Fas
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+Fas
+LPR
+0
+Interactions of the Bcl-2 protein with itself and other members of the $T1$$T2$ protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, Mcl-1, and Bax, were explored with a yeast two-hybrid system.
+Bcl-2
+Bcl-2
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of $T1$$T2$ in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+Here we report the crystal structure of the $T1$ ectodomain in a dimeric form that is induced by simultaneous binding to $T2$ and a heparin decasaccharide.
+FGFR2
+FGF1
+1
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$$T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cdk2
+MyoD
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$, a mutant of $T2$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+FD5
+Fas
+0
+The experiments were performed with the cytoplasmic beta domain (wild type or mutated) of $T1$ and $T2$ and p85 or its subdomains (N + C-SH2, N-SH2, C-SH2, SH3 + N-SH2).
+IR
+IGF-1R
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+p85
+0
+An E2F complex containing mainly $T1$ and pRb2/p130 ($T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+E2F4
+E2F
+0
+Interaction of the p85 subunit of PI 3-kinase with the insulin receptor (IR) and the $T1$ ($T2$) was investigated using the two-hybrid system by assessing for his3 and lacZ activation in S. cerevisiae.
+IGF-1 receptor
+IGF-1R
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$$T2$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, $T1$$T2$, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+cd44
+hyaluronidase
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by $T1$, a specific inhibitor of the $T2$.
+CrmA
+interleukin-1 beta-converting enzyme
+1
+Interaction of p85 and N+C-SH2 with IR beta (delta C-43) or IGF-1R beta($T1$$T2$(delta C-43) in which the C-terminal 43 amino acids (including the YXXM motif) were deleted, persisted.
+delta C-43
+IGF-1R beta
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and $T1$-FD5, a mutant of $T2$ possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and Fas-FD8.
+Fas
+Fas
+0
+The TAFII55-interacting region of $T1$ was localized to its DNA-binding domain, which is distinct from the glutamine-rich activation domains previously shown to interact with Drosophila $T2$.
+Sp1
+TAFII110
+1
+$T1$, a novel death domain-containing protein, interacts with the death domain of $T2$ and initiates apoptosis.
+FADD
+Fas
+1
+The putative activation domain of SREBP was shown to bind specifically to amino-terminal domains of recombinant CBP and p300 (a $T1$$T2$ (a CBP-related protein).
+CBP
+p300
+0
+Bcl-2 also interacted with Bcl-X-L and $T1$ and with the dominant inhibitors Bax and Bcl-X-S. $T2$ displayed the same pattern of combinatorial interactions with Bcl-2 family proteins as Bcl-2.
+Mcl-1
+Bcl-X-L
+0
+Interactions of the $T1$ protein with itself and other members of the Bcl-2 family, including Bcl-X-L, Bcl-X-S, $T2$, and Bax, were explored with a yeast two-hybrid system.
+Bcl-2
+Mcl-1
+1
+$T1$ is a lymphoid-specific $T2$ transcription factor that regulates inducible gene expression during T cell activation.
+Elf-1
+Ets
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of $T1$/$T2$ to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cyclinA
+cdk2
+1
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$$T2$, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+elastin
+0
+The crystal structure of the $T1$ core domain bound to the 53BP2 protein, which contains an SH3 (Src homology 3) domain and four ankyrin repeats, revealed that (i) the SH3 domain binds the L3 loop of $T2$ in a manner distinct from that of previously characterized SH3-polyproline peptide complexes, and (ii) an ankyrin repeat, which forms an L-shaped structure consisting of a beta hairpin and two alpha helices, binds the L2 loop of p53.
+p53
+p53
+0
+After T cell activation, the phosphorylation of Rb results in the release of $T1$, which is correlated temporally with the activation of $T2$-mediated transcription.
+Elf-1
+Elf-1
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the $T1$$T2$-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+interleukin-1 beta-converting enzyme
+Fas
+0
+The findings suggest a model whereby Bax and Bcl-X-S differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/$T1$$T2$ differentially regulate Bcl-2 function, and indicate that requirements for Bcl-2/Bax heterodimerization may be different from those for Bcl-2/Bcl-2 homodimerization.
+Bax
+Bcl-X-S
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, $T1$$T2$, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+hyaluronic acid synthase 2
+procollagen I
+0
+The carboxy-terminal region of dystrophin has previously been shown to interact directly with alpha1 syntrophin, a cytoplasmic component of the $T1$$T2$, a cytoplasmic component of the dystrophin-glycoprotein complex, by in vitro biochemical studies such as overlay assay or immunoprecipitation.
+dystrophin
+alpha1 syntrophin
+0
+This activation with $T1$ and $T2$ was 4-fold less as compared to IR beta and was somewhat increased (2-fold) for IGF-1R beta (delta C-43).
+p85
+IGF-1R beta
+1
+TAFII55 is shown to interact with the largest subunit (TAFII230) of human TFIID through its central region and with multiple activators--including $T1$, YY1, USF, CTF, adenoviral $T2$, and human immunodeficiency virus-type 1 Tat proteins--through a distinct amino-terminal domain.
+Sp1
+E1A
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$ activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+MyoD
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of $T1$$T2$/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+E2F
+cyclinA
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IR
+0
+Activation of $T1$ decreases phosphorylation of $T2$ at sites that negatively regulate its DNA-binding activity.
+protein kinase C
+c-Jun
+1
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, $T1$, which binds Fas and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+FADD
+Fas
+0
+Coassociation of CD26 ($T1$) with $T2$ on the surface of human T lymphocytes.
+dipeptidyl peptidase IV
+CD45
+1
+Coassociation of $T1$ ($T2$) with CD45 on the surface of human T lymphocytes.
+CD26
+dipeptidyl peptidase IV
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-$T2$ and Fas-FD8.
+FD5
+LPR
+0
+Our data indicate that, in differentiating myocytes, one mechanism through which MyoD induces permanent cell cycle arrest involves $T1$$T2$ induces permanent cell cycle arrest involves p21 upregulation and suppression of the proliferation-associated cdks-containing E2F complexes formation.
+p21
+MyoD
+0
+The results of his3 activation indicated that p85, N + C-SH2 and C-SH2 interact with both IR beta and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with $T1$$T2$ and IGF-1R beta, whereas N-SH2 and SH3 + N-SH2 interact only with IR beta.
+IR
+IR beta
+0
+Bcl-2 also interacted with Bcl-X-L and $T1$ and with the dominant inhibitors Bax and Bcl-X-S. Bcl-X-L displayed the same pattern of combinatorial interactions with $T2$ family proteins as Bcl-2.
+Mcl-1
+Bcl-2
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein MyoD and the pocket proteins pRb, $T1$ and $T2$/p130.
+p107
+pRb2
+0
+The carboxy-terminal region of dystrophin has previously been shown to interact directly with alpha1 syntrophin, a cytoplasmic component of the $T1$$T2$ has previously been shown to interact directly with alpha1 syntrophin, a cytoplasmic component of the dystrophin-glycoprotein complex, by in vitro biochemical studies such as overlay assay or immunoprecipitation.
+dystrophin
+dystrophin
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD ($T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+ER
+Estrogen Receptor
+0
+Overexpression of FADD in MCF7 and BJAB cells induces apoptosis, which, like $T1$$T2$ in MCF7 and BJAB cells induces apoptosis, which, like Fas-induced apoptosis, is blocked by CrmA, a specific inhibitor of the interleukin-1 beta-converting enzyme.
+Fas
+FADD
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds Fas and Fas-$T1$, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+FD5
+Fas
+0
+Comparison of messenger RNA gene expression of extracellular matrix proteins (procollagen I, collagenase, elastin, hyaluronic acid synthase 2, hyaluronidase, $T1$$T2$, elastin, hyaluronic acid synthase 2, hyaluronidase, fibronectin, cd44, fibromodulin, and decorin) across cell passages (3, 4, 5, 6, 10, and 12 fornormal laminapropria and 3, 4, 5, 6, and 10 for tracheal scar) revealed varied growth patterns.
+fibronectin
+collagenase
+0
+Withdrawal from the cell cycle of differentiating myocytes is regulated by the myogenic basic helix-loop-helix (bHLH) protein $T1$$T2$ (bHLH) protein MyoD and the pocket proteins pRb, p107 and pRb2/p130.
+MyoD
+myogenic basic helix-loop-helix
+0
+Using a subclone of C3H10T1/2 mouse fibroblasts stably expressing Estrogen Receptor-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/$T1$$T2$-MyoD (ER-MyoD) chimerae, we found that estrogen directed MyoD activation prevents the reassociation of cyclinA/cdk2 to the E2F4 containing complex following serum stimulation and this correlates with suppression of E2F activity and the inability of cells to re-enter the cell cycle.
+cdk2
+Estrogen Receptor
+0
+An E2F complex containing mainly E2F4 and $T1$/p130 ($T2$-G0/G1 complex) appears when DNA synthesis arrests, replacing the cyclinA/cdk2 containing E2F complex of proliferating myoblasts (E2F-G1/S complex).
+pRb2
+E2F
+0
+Using the cytoplasmic domain of Fas in the yeast two-hybrid system, we have identified a novel interacting protein, FADD, which binds $T1$ and Fas-FD5, a mutant of Fas possessing enhanced killing activity, but not the functionally inactive mutants Fas-LPR and $T2$-FD8.
+Fas
+Fas
+0

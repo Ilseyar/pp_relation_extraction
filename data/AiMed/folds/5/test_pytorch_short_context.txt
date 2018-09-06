@@ -1,0 +1,2264 @@
+Human CC chemokine liver-expressed chemokine/CCL16 is a functional ligand for CCR1, $T1$$T2$, CCR2 and CCR5, and constitutively expressed by hepatocytes.
+CCR2
+CCR1
+0
+Deletion of the complete active-site [des-(161-228)-MMP-1] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of MMP-1 proteins which are unable to digest $T1$ or $T2$.
+collagen type I
+beta-casein
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I ($T1$$T2$) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+IGF-I
+IRS-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+SHPTP2 associates with the platelet-derived growth factor ($T1$$T2$ after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+PDGF
+platelet-derived growth factor (PDGF) receptor
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IGF-IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and $T2$.
+FGF7
+FGF9
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds $T1$ at a site distinct from those bound by PKA or $T2$.
+AKAP79
+CaN
+0
+Taken together, $T1$ is a new low-affinity functional ligand for CCR1, $T2$ and CCR5, and is constitutively expressed by liver parenchymal cells.
+LEC
+CCR2
+1
+A new cytokine-receptor binding mode revealed by the crystal structure of the $T1$$T2$ with an antagonist.
+IL-1
+IL-1 receptor
+0
+While injection of GRB2 or H-ras proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of GRB2 together with $T1$$T2$ together with H-ras protein stimulated DNA synthesis.
+H-ras
+GRB2
+0
+Activation of $T1$ by $T2$ in NIH 3T3 cells and in vitro.
+mitogen-activated protein kinase kinase
+v-Raf
+1
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ($T1$ or utrophin) and the $T2$ from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+DRP
+87K postsynaptic protein
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+$T1$ associates with the platelet-derived growth factor (PDGF) receptor after ligand stimulation, and binding of $T2$ to this receptor promotes tyrosine phosphorylation of SHPTP2.
+SHPTP2
+SHPTP2
+0
+These cell lines showed mutations in $T1$ and $T2$ at frequencies of 91% and 95%, respectively.
+K-ras
+p53
+0
+Deletion of the complete active-site [des-(161-228)-MMP-1] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of $T1$ proteins which are unable to digest $T2$ or beta-casein.
+MMP-1
+collagen type I
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human $T1$ are both required for trans-activation activity, binding to the adenovirus $T2$ 55-kD protein and the human mdm-2-p53 protein in vitro.
+p53
+E1B
+1
+Residues in human leukemia inhibitory factor ($T1$$T2$ (hLIF) crucial for binding to both the human LIF receptor (R) and gp130 were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+hLIF
+leukemia inhibitory factor
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T1$, $T2$, and FGF9.
+FGF2
+FGF6
+0
+Identification of a critical ligand binding determinant of the human $T1$$T2$.
+erythropoietin
+erythropoietin receptor
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$-receptor antagonist IL1RA (ref.
+IL-1 receptor
+IL-1
+0
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely interleukin (IL)-8, $T1$$T2$, interferon-gamma and IL-2 versus IL-10.
+interferon-gamma
+interleukin (IL)-8
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$$T2$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IRS-1
+IR
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and $T1$$T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1beta
+IL-1alpha
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+The acidic amino terminus of the $T1$ protein has been shown to contain this trans-activation activity as well as the domains for $T2$ and adenovirus 5 E1B 55-kD protein binding.
+p53
+mdm-2
+1
+We have found a COOH-terminal 37-kD fragment of beta 1-syntrophin sufficient to interact with translated dystrophin and its homologues, suggesting that the $T1$ binding site on $T2$ occurs on a region that is conserved among the three syntrophin homologues.
+dystrophin
+beta 1-syntrophin
+1
+We have cloned cDNAs corresponding to the human interleukin 13 receptor alpha chain ($T1$$T2$ receptor alpha chain (IL-13Ralpha).
+IL-13Ralpha
+interleukin 13
+0
+Neither mutation of His199, nor deletion mutants des-(161-228)-MMP-1 and des-(161-228/248-450)-MMP-1, interact with $T1$$T2$, interact with TIMP.
+TIMP
+MMP-1
+0
+The most typical mutational profile involved K-ras, $T1$, and $T2$, concurrently aberrated in 20 cases (91%).
+p53
+p16INK4a
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor ($T1$) with their two known substrates p52Shc and the $T2$ (IRS-1).
+IR
+insulin receptor substrate-1
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IGF-IR
+0
+Analysis of $T1$, p53, $T2$ and DPC4/Smad4.
+K-ras
+p16
+0
+SHPTP2 associates with the platelet-derived growth factor ($T1$) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of $T2$.
+PDGF
+SHPTP2
+0
+The subcellular distributions of $T1$ and $T2$ were similar in neurons.
+PKC
+AKAP79
+0
+The v-Raf proteins purified from cells infected with EC12 or 22W viruses activated $T1$$T2$ from skeletal muscle in vitro.
+MAP kinase
+MAP kinase kinase
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the $T1$ (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 ($T2$).
+insulin receptor
+IRS-1
+1
+cDNA cloning and characterization of the human $T1$$T2$.
+interleukin 13
+interleukin 13 receptor alpha chain
+0
+Several hydrophobic amino acids in the $T1$ amino-terminal domain are required for transcriptional activation, binding to $T2$ and the adenovirus 5 E1B 55-kD protein.
+p53
+mdm-2
+1
+MAIN OUTCOME MEASURES: Measurement of soluble interleukin (IL) 2 receptor ($T1$$T2$ (sIL-2R) and IL-1alpha in serum samples and fluid of recent blisters.
+sIL-2R
+interleukin (IL) 2 receptor
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I ($T1$$T2$ and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+IGF-I
+SHC
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ receptor subtypes A (CXCR1) and B ($T2$) and to the Duffy antigen.
+IL-8
+CXCR2
+1
+The $T1$ protein shares no significant homology with $T2$ or other Bcl-2 family proteins, which can form homo- and heterodimers.
+BAG-1
+Bcl-2
+0
+The most typical mutational profile involved $T1$, $T2$, and p16INK4a, concurrently aberrated in 20 cases (91%).
+K-ras
+p53
+0
+The catalytic domain of activated collagenase I ($T1$) is absolutely required for interaction with its specific inhibitor, tissue inhibitor of metalloproteinases-1 ($T2$).
+MMP-1
+TIMP-1
+1
+No significant differences were found in serum samples of patients with TEN and burns, in either $T1$ or $T2$.
+sIL-2R
+IL-1alpha
+0
+Human $T1$/CCL16 is a functional ligand for CCR1, CCR2 and $T2$, and constitutively expressed by hepatocytes.
+CC chemokine liver-expressed chemokine
+CCR5
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$ and the epithelial splice form of $T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF10
+FGFR2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IGF-IR
+0
+Residues in human $T1$ (hLIF) crucial for binding to both the human LIF receptor (R) and gp130 were identified by analysis of alanine scanning mutants of $T2$ in assays for both receptor binding and bioactivity.
+leukemia inhibitory factor
+hLIF
+0
+The $T1$, $T2$, p16 and DPC4 genes are among those most frequently altered in pancreatic ductal carcinoma.
+K-ras
+p53
+0
+Inflammation, regardless of whether it is provoked by infection or by tissue damage, starts with the activation of macrophages which initiate a cascade of inflammatory responses by producing the cytokines $T1$ (IL-1) and $T2$ (ref.
+interleukin-1
+tumour necrosis factor-alpha
+0
+MATERIALS AND METHODS: We measured levels of IL-8, $T1$, $T2$ and IL-10 in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+interferon-gamma
+IL-2
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL1R
+0
+In summary, we have shown that the integrity of the catalytic domain of $T1$ and its ability to bind Zn2+ is absolutely required for complex formation with TIMP-1, which further underlines the importance of this region for proper regulation of enzymatic activity of $T2$.
+MMP-1
+MMP-1
+0
+Activation of $T1$ kinase by $T2$ in NIH 3T3 cells and in vitro.
+mitogen-activated protein kinase
+v-Raf
+0
+We have found a COOH-terminal 37-kD fragment of beta 1-syntrophin sufficient to interact with translated $T1$ and its homologues, suggesting that the $T2$ binding site on beta 1-syntrophin occurs on a region that is conserved among the three syntrophin homologues.
+dystrophin
+dystrophin
+0
+Here we describe the crystal structure at 2.7 A resolution of the soluble extracellular part of $T1$ complexed with $T2$.
+type-I IL1R
+IL1RA
+1
+We have found a COOH-terminal 37-kD fragment of $T1$ sufficient to interact with translated $T2$ and its homologues, suggesting that the dystrophin binding site on beta 1-syntrophin occurs on a region that is conserved among the three syntrophin homologues.
+beta 1-syntrophin
+dystrophin
+1
+Human CC chemokine liver-expressed chemokine/$T1$ is a functional ligand for CCR1, $T2$ and CCR5, and constitutively expressed by hepatocytes.
+CCL16
+CCR2
+1
+Activation of $T1$ results in rapid, site-specific dephosphorylation of c-Jun at one or more of these three sites and is coincident with increased $T2$-binding activity.
+protein kinase C
+AP-1
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ (DRP or utrophin) and the $T2$ from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin related protein
+87K postsynaptic protein
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and $T1$ resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$.
+IL-4Ralpha
+IL-13 receptor
+0
+Three naturally occurring ligands for the IL-1 receptor ($T1$) exist: the agonists IL-1alpha and $T2$ and the IL-1-receptor antagonist IL1RA (ref.
+IL1R
+IL-1beta
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or FGF10 and the epithelial splice form of FGFR2 ($T2$) to be activated by FGF2, FGF6, and FGF9.
+FGF7
+FGFR2b
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$ $T2$ (ref.
+IL-1-receptor antagonist
+IL1RA
+0
+Whereas $T1$ serves as an alternative accessory protein to the common cytokine receptor gamma chain ($T2$) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+IL-13Ralpha
+gammac
+0
+We demonstrate that the 53 amino acids encoded on exon 74 of $T1$, an alternatively spliced exon, are necessary and sufficient for interaction with translated $T2$ in our assay.
+dystrophin
+beta 1-syntrophin
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 ($T2$) to be activated by FGF2, FGF6, and FGF9.
+FGFR2c
+FGFR2b
+0
+Deletion of the complete active-site [des-(161-228)-MMP-1] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of $T1$ proteins which are unable to digest collagen type I or $T2$.
+MMP-1
+beta-casein
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ substrate-1 (IRS-1).
+IGF-IR
+insulin receptor
+0
+Activation of $T1$$T2$ by v-Raf in NIH 3T3 cells and in vitro.
+mitogen-activated protein kinase
+mitogen-activated protein kinase kinase
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the $T1$$T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+p52Shc
+0
+In this recombinant expression system, the $T1$ relatives, human dystrophin related protein ($T2$ or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+DRP
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I ($T1$$T2$ (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+IGF-I
+insulin receptor substrate-1
+0
+This study describes the distributions of bone morphogenetic protein (BMP)-2 as well as mRNAs for BMP receptor type IB ($T1$$T2$ as well as mRNAs for BMP receptor type IB (BMPRIB).
+BMPRIB
+bone morphogenetic protein (BMP)-2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+p52Shc
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist $T2$ (ref.
+IL-1 receptor
+IL1RA
+0
+The K-ras, p53, $T1$ and $T2$ genes are among those most frequently altered in pancreatic ductal carcinoma.
+p16
+DPC4
+0
+In this recombinant expression system, the $T1$ relatives, human $T2$ (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+dystrophin related protein
+0
+We propose that (i) the $T1$ and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and $T2$, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+IRS-1
+1
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 ($T2$).
+insulin-like growth factor-I
+IRS-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+The $T1$ ($T2$) is a member of a family of cytokine and growth factor receptors that share conserved features in their extracellular and cytoplasmic domains.
+erythropoietin receptor
+EPOR
+0
+A cDNA clone encoding a novel, widely expressed protein (called growth factor receptor-bound protein 2 or $T1$$T2$ or GRB2) containing one src homology 2 (SH2) domain and two SH3 domains was isolated.
+GRB2
+growth factor receptor-bound protein 2
+0
+The catalytic domain of activated $T1$ ($T2$) is absolutely required for interaction with its specific inhibitor, tissue inhibitor of metalloproteinases-1 (TIMP-1).
+collagenase I
+MMP-1
+0
+Three naturally occurring ligands for the IL-1 receptor ($T1$) exist: the agonists $T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL1R
+IL-1alpha
+0
+Here, we describe the production of recombinant human tissue inhibitor of metalloproteinases-1 ($T1$) and wild-type and mutant human $T2$ (rMMP-1) proteins in SF9 cells by the baculovirus expression system.
+rTIMP-1
+collagenase type I
+0
+This suggests that $T1$ must interact with $T2$ throughout most of its folding reaction before it acquires a folding competent (groE independent) state.
+rhodanese
+groEL
+1
+These very same hydrophobic residues contact the hdm-2 and Ad5 $T1$$T2$ and Ad5 E1B 55-kD oncogene products.
+E1B
+hdm-2
+0
+The K-ras, $T1$, $T2$ and DPC4 genes are among those most frequently altered in pancreatic ductal carcinoma.
+p53
+p16
+0
+Wild-type $T1$, as well as the MMP-1 mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-MMP-1], exhibit enzymatic activity upon cleavage of the prodomain by treatment with $T2$ or 4-aminophenylmercuric acetate.
+MMP-1
+trypsin
+0
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely $T1$, interferon-gamma and $T2$ versus IL-10.
+interleukin (IL)-8
+IL-2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+$T1$ was detected in mesenchymal cells in the outer fibrous layer and chondrocytes in the inner cartilaginous matrix, positive for Col III and $T2$, respectively.
+BMP-2
+Col II
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human $T1$ are both required for trans-activation activity, binding to the adenovirus E1B 55-kD protein and the human mdm-2-$T2$ protein in vitro.
+p53
+p53
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists $T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL-1alpha
+0
+We have probed an epitope sequence (His18-Pro19-Lys20-Phe21) in interleukin-8 ($T1$$T2$ (IL-8) by site-directed mutagenesis.
+IL-8
+interleukin-8
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or FGF10 and the epithelial splice form of $T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF7
+FGFR2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+Evidence for a differential interaction of $T1$ and the insulin receptor substrate-1 ($T2$) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+SHC
+IRS-1
+0
+BMP-2 was detected in mesenchymal cells in the outer fibrous layer and chondrocytes in the inner cartilaginous matrix, positive for $T1$ and $T2$, respectively.
+Col III
+Col II
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the $T1$ (IR) with their two known substrates p52Shc and the $T2$ (IRS-1).
+insulin receptor
+insulin receptor substrate-1
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor ($T1$) with $T2$ and not with the beta-components, gp130 and LIFR.
+CNTF
+CNTFR alpha
+1
+At relatively high concentrations, $T1$ induced calcium mobilization and chemotaxis via $T2$ and CCR2.
+LEC
+CCR1
+1
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C ($T1$), binds AKAP79 at a site distinct from those bound by PKA or $T2$.
+PKC
+CaN
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase ($T1$) and phosphatase 2B [calcineurin (CaN)] are complexed by an A kinase anchoring protein, $T2$.
+PKA
+AKAP79
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin (CaN)] are complexed by an $T1$, $T2$.
+A kinase anchoring protein
+AKAP79
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both $T1$ and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$.
+IL-13Ralpha
+IL-13 receptor
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$$T2$ (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+dystrophin related protein
+0
+Deletion of the complete active-site [des-(161-228)-$T1$] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of $T2$ proteins which are unable to digest collagen type I or beta-casein.
+MMP-1
+MMP-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ (CXCR1) and B ($T2$) and to the Duffy antigen.
+IL-8 receptor subtypes A
+CXCR2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$ binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T2$, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IGF-IR
+1
+Analysis of $T1$, $T2$, p16 and DPC4/Smad4.
+K-ras
+p53
+0
+Human CC chemokine liver-expressed chemokine/$T1$ is a functional ligand for $T2$, CCR2 and CCR5, and constitutively expressed by hepatocytes.
+CCL16
+CCR1
+1
+SHPTP2 associates with the $T1$ after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of $T2$.
+platelet-derived growth factor (PDGF) receptor
+SHPTP2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 ($T1$) to be activated by FGF2, FGF6, and $T2$.
+FGFR2b
+FGF9
+1
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C ($T1$$T2$ (PKC), binds AKAP79 at a site distinct from those bound by PKA or CaN.
+PKC
+protein kinase C
+0
+Activation of protein kinase C results in rapid, site-specific dephosphorylation of $T1$ at one or more of these three sites and is coincident with increased $T2$-binding activity.
+c-Jun
+AP-1
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of $T1$ and Bcl-2 provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either $T2$ or Bcl-2 protein alone.
+BAG-1
+BAG-1
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the insulin receptor ($T2$) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I receptor
+IR
+0
+Cloning and functional analysis of BAG-1: a novel $T1$$T2$-binding protein with anti-cell death activity.
+Bcl-2-binding protein
+Bcl-2
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T1$$T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF6
+FGFR2
+0
+Soluble interleukin 2 receptor and $T1$$T2$ and interleukin 1alpha in toxic epidermal necrolysis: a comparative analysis of serum and blister fluid samples.
+interleukin 1alpha
+interleukin 2 receptor
+0
+Several hydrophobic amino acids in the p53 amino-terminal domain are required for transcriptional activation, binding to $T1$ and the adenovirus $T2$ 55-kD protein.
+mdm-2
+5 E1B
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds AKAP79 at a site distinct from those bound by PKA or $T1$$T2$ (PKC), binds AKAP79 at a site distinct from those bound by PKA or CaN.
+CaN
+protein kinase C
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by $T1$$T2$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+p52Shc
+IR
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 ($T1$$T2$ (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+IRS-1
+insulin receptor substrate-1
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and $T1$ resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$ receptor.
+IL-4Ralpha
+IL-13
+0
+Whereas $T1$ serves as an alternative accessory protein to the common cytokine receptor gamma chain (gammac) for IL-4 signaling, it could not replace the function of $T2$ in allowing enhanced IL-2 binding activity.
+IL-13Ralpha
+gammac
+0
+Here we describe the crystal structure at 2.7 A resolution of the soluble extracellular part of type-I $T1$$T2$ complexed with IL1RA.
+IL1R
+type-I IL1R
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, $T1$$T2$ and not with the beta-components, gp130 and LIFR.
+gp130
+CNTFR alpha
+0
+The acidic amino terminus of the p53 protein has been shown to contain this trans-activation activity as well as the domains for $T1$ and adenovirus 5 $T2$ 55-kD protein binding.
+mdm-2
+E1B
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase ($T1$) and $T2$ [calcineurin (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+PKA
+phosphatase 2B
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin ($T1$)] are complexed by an A kinase anchoring protein, $T2$.
+CaN
+AKAP79
+0
+Taken together, LEC is a new low-affinity functional ligand for CCR1, CCR2 and $T1$$T2$, CCR2 and CCR5, and is constitutively expressed by liver parenchymal cells.
+CCR5
+CCR1
+0
+Here, we describe the production of recombinant human tissue inhibitor of metalloproteinases-1 (rTIMP-1) and wild-type and mutant human $T1$ ($T2$) proteins in SF9 cells by the baculovirus expression system.
+collagenase type I
+rMMP-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+The most typical mutational profile involved $T1$, p53, and $T2$, concurrently aberrated in 20 cases (91%).
+K-ras
+p16INK4a
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the $T1$ in a fashion that is different from that used by $T2$.
+IGF-IR
+p52Shc
+1
+$T1$ (LEC)/$T2$ is a human CC chemokine selectively expressed in the liver.
+Liver-expressed chemokine
+CCL16
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+SHPTP2 associates with the $T1$ (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of $T2$.
+platelet-derived growth factor
+SHPTP2
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$ and the insulin receptor substrate-1 (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I
+SHC
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ substrate-1 (IRS-1).
+insulin-like growth factor-I receptor
+insulin receptor
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ ($T2$) and B (CXCR2) and to the Duffy antigen.
+IL-8 receptor subtypes A
+CXCR1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+Human $T1$/CCL16 is a functional ligand for CCR1, $T2$ and CCR5, and constitutively expressed by hepatocytes.
+CC chemokine liver-expressed chemokine
+CCR2
+1
+We have found a COOH-terminal 37-kD fragment of beta 1-syntrophin sufficient to interact with translated $T1$ and its homologues, suggesting that the dystrophin binding site on $T2$ occurs on a region that is conserved among the three syntrophin homologues.
+dystrophin
+beta 1-syntrophin
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ and the IGF-IR.
+IGF-IR
+IR
+0
+Here, we describe the production of $T1$ (rTIMP-1) and wild-type and mutant human collagenase type I ($T2$) proteins in SF9 cells by the baculovirus expression system.
+recombinant human tissue inhibitor of metalloproteinases-1
+rMMP-1
+0
+Using a protein interaction cloning technique, we identified cDNAs that encode a novel Bcl-2-binding protein, termed $T1$$T2$, termed BAG-1.
+BAG-1
+Bcl-2-binding protein
+0
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of $T1$ and gelatinase B, does not interact with $T2$.
+gelatinase A
+TIMP-1
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IGF-IR
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$-receptor antagonist IL1RA (ref.
+IL-1
+IL-1
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$$T2$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF10
+FGFR2
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, gp130 and $T1$$T2$ (CNTF) with CNTFR alpha and not with the beta-components, gp130 and LIFR.
+LIFR
+ciliary neurotrophic factor
+0
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely $T1$, interferon-gamma and IL-2 versus $T2$.
+interleukin (IL)-8
+IL-10
+0
+We expressed the cDNA of human $T1$ and the COOH terminus of human $T2$ in reticulocyte lysates using an in vitro transcription/translation system.
+beta 1-syntrophin
+dystrophin
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin (CaN)] are complexed by an $T1$$T2$ (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+A kinase anchoring protein
+calcineurin
+0
+This study demonstrates that IL-8 recognizes and activates $T1$, CXCR2, and the $T2$ by distinct mechanisms.
+CXCR1
+Duffy antigen
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C ($T1$), binds AKAP79 at a site distinct from those bound by $T2$ or CaN.
+PKC
+PKA
+0
+$T1$, $T2$ and IL-10 levels were statistically greater in patients.
+Interferon-gamma
+IL-2
+0
+MAIN OUTCOME MEASURES: Measurement of soluble interleukin (IL) 2 receptor ($T1$) and $T2$ in serum samples and fluid of recent blisters.
+sIL-2R
+IL-1alpha
+0
+Three naturally occurring ligands for the $T1$ ($T2$) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1 receptor
+IL1R
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ (CXCR1) and B (CXCR2) and to the $T2$.
+IL-8 receptor subtypes A
+Duffy antigen
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of $T1$ and Bcl-2 provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either BAG-1 or $T2$ protein alone.
+BAG-1
+Bcl-2
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in $T1$ reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A (CXCR1) and B ($T2$) and to the Duffy antigen.
+IL-8
+CXCR2
+0
+At relatively high concentrations, $T1$ induced calcium mobilization and chemotaxis via CCR1 and $T2$.
+LEC
+CCR2
+1
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$$T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IRS-1
+p52Shc
+0
+cDNA cloning and characterization of the human $T1$$T2$ alpha chain.
+interleukin 13 receptor alpha chain
+interleukin 13 receptor
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and $T1$, and (ii) IRS-1 interacts with the $T2$ in a fashion that is different from that used by p52Shc.
+IRS-1
+IGF-IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T2$ and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGFR2c
+FGF10
+1
+The acidic amino terminus of the p53 protein has been shown to contain this trans-activation activity as well as the domains for mdm-2 and adenovirus 5 $T1$$T2$ 55-kD protein binding.
+E1B
+5 E1B
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A ($T1$) and B ($T2$) and to the Duffy antigen.
+CXCR1
+CXCR2
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists $T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1 receptor
+IL-1alpha
+1
+Using immunoprecipitation techniques, we have determined the rates at which rhodanese and $T1$ (GS) are released from $T2$ in a form committed to refold to active enzyme.
+glutamine synthetase
+groEL
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and $T1$ and the $T2$ IL1RA (ref.
+IL-1beta
+IL-1-receptor antagonist
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the insulin receptor (IR) with their two known substrates $T2$ and the insulin receptor substrate-1 (IRS-1).
+IGF-IR
+p52Shc
+1
+Analysis of K-ras, p53, $T1$$T2$, p16 and DPC4/Smad4.
+p16
+p53
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists IL-1alpha and $T2$ and the IL-1-receptor antagonist IL1RA (ref.
+IL-1 receptor
+IL-1beta
+0
+Three naturally occurring ligands for the IL-1 receptor ($T1$) exist: the agonists IL-1alpha and IL-1beta and the $T2$ IL1RA (ref.
+IL1R
+IL-1-receptor antagonist
+0
+We have cloned cDNAs corresponding to the human $T1$$T2$ alpha chain (IL-13Ralpha).
+interleukin 13 receptor alpha chain
+interleukin 13 receptor
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ antagonist IL1RA (ref.
+IL-1
+IL-1-receptor
+0
+Interferon-gamma, $T1$ and $T2$ levels were statistically greater in patients.
+IL-2
+IL-10
+0
+Only weak IL-13 binding activity was found in cells transfected with only $T1$; however, the combination of both IL-13Ralpha and $T2$ resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13Ralpha
+IL-4Ralpha
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IRS-1
+0
+Several hydrophobic amino acids in the $T1$ amino-terminal domain are required for transcriptional activation, binding to mdm-2 and the adenovirus $T2$ 55-kD protein.
+p53
+5 E1B
+1
+These mutations have no impact on the ability of the p53 protein to bind to a $T1$$T2$ protein to bind to a p53-specific DNA element.
+p53
+p53
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IRS-1
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T1$, and $T2$.
+FGF6
+FGF9
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1-receptor antagonist
+IL-1alpha
+0
+In addition, hydrophobic residues Leu-14 and Phe-19 are crucial for the interactions between $T1$ and human mdm-2 ($T2$).
+p53
+hdm-2
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T2$, FGF6, and FGF9.
+FGFR2c
+FGF2
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase ($T1$) and phosphatase 2B [calcineurin (CaN)] are complexed by an $T2$, AKAP79.
+PKA
+A kinase anchoring protein
+0
+Here, we describe the production of recombinant human tissue inhibitor of metalloproteinases-1 ($T1$) and wild-type and mutant human collagenase type I ($T2$) proteins in SF9 cells by the baculovirus expression system.
+rTIMP-1
+rMMP-1
+0
+Wild-type MMP-1, as well as the $T1$ mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-MMP-1], exhibit enzymatic activity upon cleavage of the prodomain by treatment with $T2$ or 4-aminophenylmercuric acetate.
+MMP-1
+trypsin
+0
+In addition, hydrophobic residues Leu-14 and Phe-19 are crucial for the interactions between $T1$ and human $T2$ (hdm-2).
+p53
+mdm-2
+1
+RESULTS: In the blister fluid of patients with TEN, we found significantly higher levels of $T1$ than in patients with burns, whereas $T2$ levels were higher in the blister fluid of burned patients.
+sIL-2R
+IL-1alpha
+0
+Taken together, $T1$ is a new low-affinity functional ligand for CCR1, CCR2 and $T2$, and is constitutively expressed by liver parenchymal cells.
+LEC
+CCR5
+1
+We have found a COOH-terminal 37-kD fragment of $T1$ sufficient to interact with translated dystrophin and its homologues, suggesting that the dystrophin binding site on $T2$ occurs on a region that is conserved among the three syntrophin homologues.
+beta 1-syntrophin
+beta 1-syntrophin
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ related protein (DRP or $T2$) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+utrophin
+0
+Analysis of $T1$, p53, p16 and $T2$/Smad4.
+K-ras
+DPC4
+0
+Analysis of K-ras, p53, $T1$ and DPC4/$T2$.
+p16
+Smad4
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 ($T2$) to be activated by FGF2, FGF6, and FGF9.
+FGFR2
+FGFR2b
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both $T1$$T2$ binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13Ralpha
+IL-13
+0
+The K-ras, $T1$, p16 and $T2$ genes are among those most frequently altered in pancreatic ductal carcinoma.
+p53
+DPC4
+0
+Mutant proteins were expressed in bacteria as soluble $T1$ binding proteins ($T2$) and characterized for EPO binding activity in a number of different assays.
+EPO
+EBP
+1
+Here we describe the crystal structure at 2.7 A resolution of the soluble extracellular part of type-I $T1$ complexed with $T2$.
+IL1R
+IL1RA
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human p53 are both required for trans-activation activity, binding to the adenovirus $T1$ 55-kD protein and the human $T2$-p53 protein in vitro.
+E1B
+mdm-2
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ IL1RA (ref.
+IL-1-receptor
+IL-1-receptor antagonist
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 ($T1$) with the $T2$ in the yeast two-hybrid system.
+IRS-1
+insulin-like growth factor-I (IGF-I) receptor
+1
+Analysis of $T1$, p53, p16 and DPC4/$T2$.
+K-ras
+Smad4
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds $T1$ at a site distinct from those bound by $T2$ or CaN.
+AKAP79
+PKA
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and $T2$.
+FGFR2c
+FGF9
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$ and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and $T2$.
+FGF10
+FGF9
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T1$$T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF2
+FGFR2
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, $T1$ and $T2$.
+gp130
+LIFR
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ (DRP or $T2$) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin related protein
+utrophin
+0
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ($T1$ or $T2$) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+DRP
+utrophin
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ receptor subtypes A (CXCR1) and B (CXCR2) and to the $T2$.
+IL-8
+Duffy antigen
+1
+Three naturally occurring ligands for the $T1$ receptor ($T2$) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL1R
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor ($T1$) with their two known substrates $T2$ and the insulin receptor substrate-1 (IRS-1).
+IR
+p52Shc
+1
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase ($T1$) and phosphatase 2B [calcineurin ($T2$)] are complexed by an A kinase anchoring protein, AKAP79.
+PKA
+CaN
+0
+Consistently, $T1$ was found to bind to $T2$, CCR2 and CCR5 with relatively low affinities.
+LEC
+CCR1
+1
+This study describes the distributions of bone morphogenetic protein (BMP)-2 as well as mRNAs for $T1$$T2$ as well as mRNAs for BMP receptor type IB (BMPRIB).
+BMP receptor type IB
+bone morphogenetic protein (BMP)-2
+0
+Furthermore, a bacterially expressed v-Raf fusion protein (glutathione S-transferase-p3722W) also activated $T1$$T2$ in vitro.
+MAP kinase
+MAP kinase kinase
+0
+$T1$, IL-2 and $T2$ levels were statistically greater in patients.
+Interferon-gamma
+IL-10
+0
+Taken together, $T1$ is a new low-affinity functional ligand for $T2$, CCR2 and CCR5, and is constitutively expressed by liver parenchymal cells.
+LEC
+CCR1
+1
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$$T2$ reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A (CXCR1) and B (CXCR2) and to the Duffy antigen.
+IL-8 receptor subtypes A
+IL-8
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by $T1$$T2$ and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+p52Shc
+IGF-IR
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist $T2$ (ref.
+IL-1
+IL1RA
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$$T2$ receptor subtypes A (CXCR1) and B (CXCR2) and to the Duffy antigen.
+IL-8 receptor subtypes A
+IL-8
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin ($T1$)] are complexed by an $T2$, AKAP79.
+CaN
+A kinase anchoring protein
+0
+The $T1$$T2$ (EPOR) is a member of a family of cytokine and growth factor receptors that share conserved features in their extracellular and cytoplasmic domains.
+erythropoietin
+erythropoietin receptor
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$ and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T2$, FGF6, and FGF9.
+FGF10
+FGF2
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 ($T1$) to be activated by FGF2, $T2$, and FGF9.
+FGFR2b
+FGF6
+1
+These results suggest that $T1$/$T2$ plays a crucial role in a highly conserved mechanism for growth factor control of ras signaling.
+GRB2
+sem-5
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, gp130 and $T1$$T2$ and not with the beta-components, gp130 and LIFR.
+LIFR
+CNTFR alpha
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ ($T2$ or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin related protein
+DRP
+0
+Single Asp or Ser substitutions, H18D, F21D, F21S, and double substitutions, H18A/F21D, H18A/F21S, and H18D/F21D, reduced up to 431-fold the binding affinity to $T1$, $T2$, and the Duffy antigen.
+CXCR1
+CXCR2
+0
+The catalytic domain of activated collagenase I (MMP-1) is absolutely required for interaction with its specific inhibitor, tissue inhibitor of metalloproteinases-1 ($T1$$T2$ (TIMP-1).
+TIMP-1
+tissue inhibitor of metalloproteinases-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$ is required for its association with the IR and the $T2$.
+p52Shc
+IGF-IR
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+p52Shc
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, $T1$$T2$) with CNTFR alpha and not with the beta-components, gp130 and LIFR.
+gp130
+CNTF
+0
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of gelatinase A and gelatinase B, does not interact with $T1$$T2$, in contrast to the corresponding regions of gelatinase A and gelatinase B, does not interact with TIMP-1.
+TIMP-1
+MMP-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+Neither mutation of His199, nor deletion mutants des-(161-228)-MMP-1 and des-(161-228/248-450)-MMP-1, interact with $T1$$T2$ and des-(161-228/248-450)-MMP-1, interact with TIMP.
+TIMP
+MMP-1
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and $T1$ and the $T2$ antagonist IL1RA (ref.
+IL-1beta
+IL-1-receptor
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the $T1$ (IR) with their two known substrates p52Shc and the $T2$ substrate-1 (IRS-1).
+insulin receptor
+insulin receptor
+0
+Human CC chemokine liver-expressed chemokine/$T1$ is a functional ligand for CCR1, CCR2 and $T2$, and constitutively expressed by hepatocytes.
+CCL16
+CCR5
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T2$, and FGF9.
+FGFR2
+FGF6
+0
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or $T1$) and the $T2$ from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+utrophin
+87K postsynaptic protein
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+The $T1$ protein shares no significant homology with Bcl-2 or other $T2$ family proteins, which can form homo- and heterodimers.
+BAG-1
+Bcl-2
+0
+$T1$ binds to an alternatively spliced exon of $T2$.
+Syntrophin
+dystrophin
+0
+$T1$ associates with the $T2$ (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+SHPTP2
+platelet-derived growth factor
+0
+Wild-type MMP-1, as well as the MMP-1 mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-$T1$], exhibit enzymatic activity upon cleavage of the prodomain by treatment with $T2$ or 4-aminophenylmercuric acetate.
+MMP-1
+trypsin
+0
+While injection of GRB2 or $T1$ proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of $T2$ together with H-ras protein stimulated DNA synthesis.
+H-ras
+GRB2
+0
+Consistently, LEC was found to bind to $T1$, $T2$ and CCR5 with relatively low affinities.
+CCR1
+CCR2
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$-receptor antagonist $T2$ (ref.
+IL-1
+IL1RA
+0
+In this recombinant expression system, the $T1$ relatives, human dystrophin related protein (DRP or $T2$) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+utrophin
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+Only weak IL-13 binding activity was found in cells transfected with only $T1$; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$.
+IL-13Ralpha
+IL-13 receptor
+0
+These Ala mutants triggered neutrophil degranulation and induced calcium responses mediated by $T1$ and $T2$.
+CXCR1
+CXCR2
+0
+These data indicate that Phe93 is a critical $T1$ binding determinant of the $T2$.
+EPO
+EPOR
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+Consistently, $T1$ was found to bind to CCR1, $T2$ and CCR5 with relatively low affinities.
+LEC
+CCR2
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+p52Shc
+0
+We have cloned cDNAs corresponding to the human $T1$$T2$ alpha chain (IL-13Ralpha).
+interleukin 13
+interleukin 13 receptor
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the $T1$ is essential for the interaction with $T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+1
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ($T1$ or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated $T2$.
+DRP
+beta 1-syntrophin
+1
+MATERIALS AND METHODS: We measured levels of $T1$, interferon-gamma, IL-2 and $T2$ in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+IL-8
+IL-10
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists IL-1alpha and $T2$ and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL-1beta
+0
+MAP kinase and the protein kinase that activates it ($T1$) were constitutively activated in NIH 3T3 cells infected with viruses containing either of two oncogenic forms (p35EC12, p3722W) of the $T2$ protein kinase.
+MAP kinase kinase
+c-Raf-1
+1
+We propose that (i) the IGF-IR and the $T1$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, $T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IR
+p52Shc
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IGF-IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T2$, FGF6, and FGF9.
+FGF7
+FGF2
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of $T1$ and $T2$ provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either BAG-1 or Bcl-2 protein alone.
+BAG-1
+Bcl-2
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I
+IRS-1
+0
+Furthermore, a bacterially expressed $T1$ fusion protein (glutathione S-transferase-p3722W) also activated $T2$ kinase in vitro.
+v-Raf
+MAP kinase
+0
+In this recombinant expression system, the $T1$ relatives, human dystrophin related protein (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated $T2$.
+dystrophin
+beta 1-syntrophin
+0
+SHPTP2 associates with the platelet-derived growth factor (PDGF) receptor after ligand stimulation, and binding of $T1$ to this receptor promotes tyrosine phosphorylation of $T2$.
+SHPTP2
+SHPTP2
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T1$$T2$ (IRS-1).
+insulin receptor
+insulin receptor substrate-1
+0
+Analysis of K-ras, $T1$, p16 and DPC4/$T2$.
+p53
+Smad4
+0
+Soluble $T1$ receptor and $T2$ in toxic epidermal necrolysis: a comparative analysis of serum and blister fluid samples.
+interleukin 2
+interleukin 1alpha
+0
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of $T1$$T2$, in contrast to the corresponding regions of gelatinase A and gelatinase B, does not interact with TIMP-1.
+gelatinase A
+MMP-1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+Using $T1$ as bait and supplying an exogenous tyrosine kinase gene to the yeast cells, we have found that SHPTP2 interacts with another signaling protein, $T2$.
+SHPTP2
+Grb7
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both $T1$ and $T2$ resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13Ralpha
+IL-4Ralpha
+0
+While injection of $T1$ or $T2$ proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of GRB2 together with H-ras protein stimulated DNA synthesis.
+GRB2
+H-ras
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates $T1$ and the $T2$ (IRS-1).
+p52Shc
+insulin receptor substrate-1
+0
+SHPTP2 associates with the platelet-derived growth factor ($T1$$T2$ (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+PDGF
+platelet-derived growth factor
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$ is required for its association with the $T2$ and the IGF-IR.
+p52Shc
+IR
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T2$, and FGF9.
+FGF7
+FGF6
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ (IRS-1).
+insulin-like growth factor-I
+insulin receptor substrate-1
+0
+Several hydrophobic amino acids in the $T1$ amino-terminal domain are required for transcriptional activation, binding to mdm-2 and the adenovirus 5 $T2$ 55-kD protein.
+p53
+E1B
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL-1alpha
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the $T1$$T2$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+IR
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to $T1$ receptor subtypes A ($T2$) and B (CXCR2) and to the Duffy antigen.
+IL-8
+CXCR1
+1
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and $T1$$T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IRS-1
+p52Shc
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of BAG-1 and $T1$ provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either BAG-1 or $T2$ protein alone.
+Bcl-2
+Bcl-2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+The $T1$ proteins purified from cells infected with EC12 or 22W viruses activated $T2$ from skeletal muscle in vitro.
+v-Raf
+MAP kinase kinase
+1
+The findings indicate that bag-1 represents a new type of anti-cell death gene and suggest that some routes of apoptosis induction previously ascribed to $T1$-independent pathways may instead reflect a need for the combination of Bcl-2 and $T2$.
+Bcl-2
+BAG-1
+0
+Deletion of the complete active-site [des-(161-228)-$T1$] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of MMP-1 proteins which are unable to digest $T2$ or beta-casein.
+MMP-1
+collagen type I
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and $T1$ and the IL-1-receptor antagonist $T2$ (ref.
+IL-1beta
+IL1RA
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds AKAP79 at a site distinct from those bound by $T1$ or $T2$.
+PKA
+CaN
+0
+$T1$ and $T2$ related pathways.
+p53
+c-myc
+0
+Substitution of phenylalanine at position 93 (Phe93) with alanine (F93A mutation) resulted in a drastic reduction in $T1$ binding in the $T2$.
+EPO
+EBP
+1
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds $T1$$T2$ (PKC), binds AKAP79 at a site distinct from those bound by PKA or CaN.
+AKAP79
+protein kinase C
+0
+The catalytic domain of activated $T1$ (MMP-1) is absolutely required for interaction with its specific inhibitor, $T2$ (TIMP-1).
+collagenase I
+tissue inhibitor of metalloproteinases-1
+0
+The binding of $T1$ to $T2$ was much less significant.
+LEC
+CCR8
+1
+We also mapped the specific domains of the $T1$ and $T2$ participating in these interactions.
+IGF-IR
+p52Shc
+0
+In this recombinant expression system, the $T1$ relatives, human $T2$ related protein (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+dystrophin
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the insulin receptor ($T2$) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I
+IR
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ related protein (DRP or utrophin) and the $T2$ from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+87K postsynaptic protein
+0
+Cloning and functional analysis of $T1$: a novel $T2$ with anti-cell death activity.
+BAG-1
+Bcl-2-binding protein
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist $T1$$T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL1RA
+IL-1alpha
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and $T1$ bind to the $T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IGF-IR
+1
+We have found a COOH-terminal 37-kD fragment of $T1$ sufficient to interact with translated dystrophin and its homologues, suggesting that the $T2$ binding site on beta 1-syntrophin occurs on a region that is conserved among the three syntrophin homologues.
+beta 1-syntrophin
+dystrophin
+0
+Human $T1$/$T2$ is a functional ligand for CCR1, CCR2 and CCR5, and constitutively expressed by hepatocytes.
+CC chemokine liver-expressed chemokine
+CCL16
+0
+The $T1$ receptor ($T2$) is a member of a family of cytokine and growth factor receptors that share conserved features in their extracellular and cytoplasmic domains.
+erythropoietin
+EPOR
+1
+Using $T1$ as bait and supplying an exogenous tyrosine kinase gene to the yeast cells, we have found that $T2$ interacts with another signaling protein, Grb7.
+SHPTP2
+SHPTP2
+0
+Taken together, LEC is a new low-affinity functional ligand for CCR1, $T1$$T2$, CCR2 and CCR5, and is constitutively expressed by liver parenchymal cells.
+CCR2
+CCR1
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+SHPTP2 associates with the platelet-derived growth factor ($T1$$T2$ associates with the platelet-derived growth factor (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+PDGF
+SHPTP2
+0
+In this recombinant expression system, the $T1$ relatives, human dystrophin related protein (DRP or utrophin) and the $T2$ from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+87K postsynaptic protein
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the $T2$ (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I
+insulin receptor
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$ antagonist IL1RA (ref.
+IL-1
+IL-1-receptor
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+0
+Residues in human leukemia inhibitory factor (hLIF) crucial for binding to both the human LIF receptor (R) and gp130 were identified by analysis of alanine scanning mutants of $T1$$T2$ (R) and gp130 were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+hLIF
+LIF receptor
+0
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely interleukin (IL)-8, $T1$ and IL-2 versus $T2$.
+interferon-gamma
+IL-10
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ ($T2$) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I receptor
+IGF-IR
+0
+Soluble $T1$$T2$ and interleukin 1alpha in toxic epidermal necrolysis: a comparative analysis of serum and blister fluid samples.
+interleukin 2
+interleukin 2 receptor
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+0
+Three naturally occurring ligands for the $T1$$T2$ (IL1R) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1
+IL-1 receptor
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and $T1$ [calcineurin (CaN)] are complexed by an A kinase anchoring protein, $T2$.
+phosphatase 2B
+AKAP79
+0
+Analysis of K-ras, $T1$, p16 and $T2$/Smad4.
+p53
+DPC4
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and $T1$ and the $T2$-receptor antagonist IL1RA (ref.
+IL-1beta
+IL-1
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C (PKC), binds AKAP79 at a site distinct from those bound by $T1$$T2$ (PKC), binds AKAP79 at a site distinct from those bound by PKA or CaN.
+PKA
+protein kinase C
+0
+A region that is important for biological function in IL-1beta, the 'receptor trigger site' is not in direct contact with the receptor in the $T1$$T2$, the 'receptor trigger site' is not in direct contact with the receptor in the IL1RA complex.
+IL1RA
+IL-1beta
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human p53 are both required for trans-activation activity, binding to the adenovirus E1B 55-kD protein and the human $T1$-$T2$ protein in vitro.
+mdm-2
+p53
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in $T1$ reduced up to 77-fold the binding affinity to $T2$ receptor subtypes A (CXCR1) and B (CXCR2) and to the Duffy antigen.
+IL-8
+IL-8
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ IL1RA (ref.
+IL-1
+IL-1-receptor antagonist
+0
+While injection of $T1$ or H-ras proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of $T2$ together with H-ras protein stimulated DNA synthesis.
+GRB2
+GRB2
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T1$ substrate-1 ($T2$).
+insulin receptor
+IRS-1
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase ($T1$) and phosphatase 2B [$T2$ (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+PKA
+calcineurin
+0
+Three naturally occurring ligands for the $T1$ receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$ IL1RA (ref.
+IL-1
+IL-1-receptor antagonist
+0
+$T1$ associates with the platelet-derived growth factor (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of $T2$.
+SHPTP2
+SHPTP2
+0
+We have used site-specific mutagenesis within the extracellular domain of the $T1$ to search for amino acid residues involved in $T2$ (EPO) binding.
+EPOR
+erythropoietin
+1
+Taken together, LEC is a new low-affinity functional ligand for CCR1, CCR2 and $T1$$T2$ and CCR5, and is constitutively expressed by liver parenchymal cells.
+CCR5
+CCR2
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$ antagonist IL1RA (ref.
+IL-1 receptor
+IL-1-receptor
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T1$, FGF6, and $T2$.
+FGF2
+FGF9
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A (CXCR1) and B ($T1$) and to the $T2$.
+CXCR2
+Duffy antigen
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IRS-1
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and $T1$ [$T2$ (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+phosphatase 2B
+calcineurin
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to $T1$$T2$ and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+$T1$ and the protein kinase that activates it ($T2$) were constitutively activated in NIH 3T3 cells infected with viruses containing either of two oncogenic forms (p35EC12, p3722W) of the c-Raf-1 protein kinase.
+MAP kinase
+MAP kinase kinase
+1
+Liver-expressed chemokine ($T1$)/$T2$ is a human CC chemokine selectively expressed in the liver.
+LEC
+CCL16
+0
+The BAG-1 protein shares no significant homology with $T1$ or other $T2$ family proteins, which can form homo- and heterodimers.
+Bcl-2
+Bcl-2
+0
+$T1$ was detected in mesenchymal cells in the outer fibrous layer and chondrocytes in the inner cartilaginous matrix, positive for $T2$ and Col II, respectively.
+BMP-2
+Col III
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the $T1$ is essential for the interaction with p52Shc and $T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IRS-1
+1
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely interleukin (IL)-8, $T1$ and $T2$ versus IL-10.
+interferon-gamma
+IL-2
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T1$$T2$ binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13
+IL-13
+0
+Only weak IL-13 binding activity was found in cells transfected with only $T1$; however, the combination of both $T2$ and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13Ralpha
+IL-13Ralpha
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates $T2$ and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I
+p52Shc
+0
+MATERIALS AND METHODS: We measured levels of $T1$, $T2$, IL-2 and IL-10 in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+IL-8
+interferon-gamma
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by $T1$$T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+p52Shc
+p52Shc
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$ or $T2$ and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF7
+FGF10
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+Using a protein interaction cloning technique, we identified cDNAs that encode a novel $T1$$T2$, termed BAG-1.
+Bcl-2
+Bcl-2-binding protein
+0
+$T1$ and the protein kinase that activates it (MAP kinase kinase) were constitutively activated in NIH 3T3 cells infected with viruses containing either of two oncogenic forms (p35EC12, p3722W) of the $T2$ protein kinase.
+MAP kinase
+c-Raf-1
+1
+Immunoprecipitation experiments employing a polyclonal anti-$T1$ antibody provided further evidence that the 60-kDa protein isolated in this study was $T2$.
+calreticulin
+calreticulin
+0
+In addition to co-immunoprecipitation analysis, we have established a rapid and sensitive ELISA assay using immobilized $T1$ to determine the structural requirements of $T2$ to form complexes with its inhibitor.
+rTIMP
+MMP-1
+0
+Mutant proteins were expressed in bacteria as soluble EPO binding proteins ($T1$) and characterized for $T2$ binding activity in a number of different assays.
+EBP
+EPO
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+IGF-IR
+0
+Human $T1$/CCL16 is a functional ligand for $T2$, CCR2 and CCR5, and constitutively expressed by hepatocytes.
+CC chemokine liver-expressed chemokine
+CCR1
+1
+Analysis of K-ras, p53, $T1$ and $T2$/Smad4.
+p16
+DPC4
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ related protein (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated $T2$.
+dystrophin
+beta 1-syntrophin
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates $T1$ and the $T2$ substrate-1 (IRS-1).
+p52Shc
+insulin receptor
+0
+Mutant proteins were expressed in bacteria as soluble EPO binding proteins (EBP) and characterized for $T1$$T2$ binding proteins (EBP) and characterized for EPO binding activity in a number of different assays.
+EPO
+EPO
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands $T2$ or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGFR2c
+FGF7
+1
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of $T1$ (CNTF) with $T2$ and not with the beta-components, gp130 and LIFR.
+ciliary neurotrophic factor
+CNTFR alpha
+1
+Several hydrophobic amino acids in the p53 amino-terminal domain are required for transcriptional activation, binding to mdm-2 and the adenovirus 5 $T1$$T2$ 55-kD protein.
+E1B
+5 E1B
+0
+MATERIALS AND METHODS: We measured levels of IL-8, interferon-gamma, $T1$ and $T2$ in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+IL-2
+IL-10
+0
+We have used site-specific mutagenesis within the extracellular domain of the $T1$ to search for amino acid residues involved in erythropoietin ($T2$) binding.
+EPOR
+EPO
+1
+The $T1$ proteins purified from cells infected with EC12 or 22W viruses activated $T2$ kinase from skeletal muscle in vitro.
+v-Raf
+MAP kinase
+0
+The acidic amino terminus of the $T1$ protein has been shown to contain this trans-activation activity as well as the domains for mdm-2 and adenovirus $T2$ 55-kD protein binding.
+p53
+5 E1B
+1
+We have used site-specific mutagenesis within the extracellular domain of the EPOR to search for amino acid residues involved in $T1$ ($T2$) binding.
+erythropoietin
+EPO
+0
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or utrophin) and the $T1$ from Torpedo electric organ, also bind to translated $T2$.
+87K postsynaptic protein
+beta 1-syntrophin
+1
+Residues in human leukemia inhibitory factor ($T1$) crucial for binding to both the human LIF receptor (R) and gp130 were identified by analysis of alanine scanning mutants of $T2$ in assays for both receptor binding and bioactivity.
+hLIF
+hLIF
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and $T2$.
+FGFR2
+FGF9
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 ($T2$).
+insulin-like growth factor-I receptor
+IRS-1
+1
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the $T1$ ($T2$) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin receptor
+IR
+0
+Wild-type MMP-1, as well as the $T1$ mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-$T2$], exhibit enzymatic activity upon cleavage of the prodomain by treatment with trypsin or 4-aminophenylmercuric acetate.
+MMP-1
+MMP-1
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates $T1$ and the insulin receptor substrate-1 ($T2$).
+p52Shc
+IRS-1
+0
+The acidic amino terminus of the $T1$ protein has been shown to contain this trans-activation activity as well as the domains for mdm-2 and adenovirus 5 $T2$ 55-kD protein binding.
+p53
+E1B
+0
+Residues in human leukemia inhibitory factor (hLIF) crucial for binding to both the human $T1$ (R) and $T2$ were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+LIF receptor
+gp130
+0
+We propose that (i) the $T1$ and the $T2$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+IR
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the insulin receptor (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 ($T2$).
+IGF-IR
+IRS-1
+1
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of gelatinase A and $T1$$T2$, in contrast to the corresponding regions of gelatinase A and gelatinase B, does not interact with TIMP-1.
+gelatinase B
+MMP-1
+0
+cDNA cloning and characterization of the human $T1$$T2$ alpha chain.
+interleukin 13
+interleukin 13 receptor
+0
+Inflammation, regardless of whether it is provoked by infection or by tissue damage, starts with the activation of macrophages which initiate a cascade of inflammatory responses by producing the cytokines interleukin-1 ($T1$) and $T2$ (ref.
+IL-1
+tumour necrosis factor-alpha
+0
+MATERIALS AND METHODS: We measured levels of $T1$, interferon-gamma, $T2$ and IL-10 in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+IL-8
+IL-2
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [$T1$ (CaN)] are complexed by an A kinase anchoring protein, $T2$.
+calcineurin
+AKAP79
+0
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of gelatinase A and $T1$$T2$ and gelatinase B, does not interact with TIMP-1.
+gelatinase B
+gelatinase A
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ (IRS-1).
+insulin-like growth factor-I receptor
+insulin receptor substrate-1
+1
+Several hydrophobic amino acids in the p53 amino-terminal domain are required for transcriptional activation, binding to mdm-2 and the adenovirus 5 $T1$$T2$ and the adenovirus 5 E1B 55-kD protein.
+E1B
+mdm-2
+0
+Evidence for a differential interaction of $T1$ and the $T2$ (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+SHC
+insulin receptor substrate-1
+0
+Single Asp or Ser substitutions, H18D, F21D, F21S, and double substitutions, H18A/F21D, H18A/F21S, and H18D/F21D, reduced up to 431-fold the binding affinity to $T1$, CXCR2, and the $T2$.
+CXCR1
+Duffy antigen
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$ ($T2$) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I
+IGF-I
+0
+This demonstrates that the C-terminal hemopexin domain of MMP-1, in contrast to the corresponding regions of gelatinase A and $T1$, does not interact with $T2$.
+gelatinase B
+TIMP-1
+1
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both $T1$ and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$ receptor.
+IL-13Ralpha
+IL-13
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human p53 are both required for trans-activation activity, binding to the adenovirus $T1$ 55-kD protein and the human mdm-2-$T2$ protein in vitro.
+E1B
+p53
+0
+Rather, the hydrophobic amino acid residues Leu-22 and Trp-23 of human $T1$ are both required for trans-activation activity, binding to the adenovirus E1B 55-kD protein and the human $T2$-p53 protein in vitro.
+p53
+mdm-2
+0
+The $T1$, p53, p16 and $T2$ genes are among those most frequently altered in pancreatic ductal carcinoma.
+K-ras
+DPC4
+0
+This study demonstrates that $T1$ recognizes and activates $T2$, CXCR2, and the Duffy antigen by distinct mechanisms.
+IL-8
+CXCR1
+1
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$ interacts with the IGF-IR in a fashion that is different from that used by $T2$.
+IRS-1
+p52Shc
+0
+Inflammation, regardless of whether it is provoked by infection or by tissue damage, starts with the activation of macrophages which initiate a cascade of inflammatory responses by producing the cytokines $T1$ ($T2$) and tumour necrosis factor-alpha (ref.
+interleukin-1
+IL-1
+0
+This study demonstrates that $T1$ recognizes and activates CXCR1, $T2$, and the Duffy antigen by distinct mechanisms.
+IL-8
+CXCR2
+1
+In summary, we have shown that the integrity of the catalytic domain of $T1$ and its ability to bind Zn2+ is absolutely required for complex formation with $T2$, which further underlines the importance of this region for proper regulation of enzymatic activity of MMP-1.
+MMP-1
+TIMP-1
+1
+c-Myc and $T1$$T2$ and p53 are two proteins that have critical roles in the regulation of apoptosis and the cell cycle.
+p53
+c-Myc
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by $T2$, FGF6, and FGF9.
+FGFR2
+FGF2
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and $T1$$T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF9
+FGFR2
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of BAG-1 and $T1$ provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either $T2$ or Bcl-2 protein alone.
+Bcl-2
+BAG-1
+0
+This study demonstrates that IL-8 recognizes and activates CXCR1, $T1$, and the $T2$ by distinct mechanisms.
+CXCR2
+Duffy antigen
+0
+Using immunoprecipitation techniques, we have determined the rates at which $T1$ and glutamine synthetase (GS) are released from $T2$ in a form committed to refold to active enzyme.
+rhodanese
+groEL
+1
+The $T1$, p53, $T2$ and DPC4 genes are among those most frequently altered in pancreatic ductal carcinoma.
+K-ras
+p16
+0
+This study demonstrates that $T1$ recognizes and activates CXCR1, CXCR2, and the $T2$ by distinct mechanisms.
+IL-8
+Duffy antigen
+1
+Furthermore, the F93A mutation in full-length $T1$ expressed in COS cells abolished detectable $T2$ binding.
+EPOR
+EPO
+1
+Rhodanese and $T1$ were chosen as substrates because they exhibit different solution requirements for the chaperonin system and they form stable "folding arrested" complexes with $T2$.
+glutamine synthetase
+groEL
+1
+In resting human epithelial and fibroblastic cells, c-Jun is phosphorylated on serine and threonine at five sites, three of which are phosphorylated in vitro by $T1$ ($T2$).
+glycogen synthase kinase 3
+GSK-3
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+Here, we describe the production of recombinant human tissue inhibitor of metalloproteinases-1 (rTIMP-1) and wild-type and mutant human $T1$$T2$ (rTIMP-1) and wild-type and mutant human collagenase type I (rMMP-1) proteins in SF9 cells by the baculovirus expression system.
+collagenase type I
+recombinant human tissue inhibitor of metalloproteinases-1
+0
+Finally, our data highlight the crucial role of the juxtamembrane domain in signaling by both the IR and the $T1$$T2$ and the IGF-IR.
+IGF-IR
+IR
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$ and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T2$, and FGF9.
+FGF10
+FGF6
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor ($T1$) with their two known substrates p52Shc and the insulin receptor substrate-1 ($T2$).
+IR
+IRS-1
+1
+Further, polyclonal antibodies to human calreticulin significantly inhibited the mitogenic activity of $T1$$T2$ significantly inhibited the mitogenic activity of fibrinogen B beta chain on human fibroblasts.
+fibrinogen B beta chain
+calreticulin
+0
+MAIN OUTCOME MEASURES: Measurement of soluble interleukin (IL) 2 receptor (sIL-2R) and $T1$$T2$ (sIL-2R) and IL-1alpha in serum samples and fluid of recent blisters.
+IL-1alpha
+interleukin (IL) 2 receptor
+0
+Abolition of the $T1$ binding site in hLIF created antagonists of $T2$ action.
+gp130
+LIF
+0
+While injection of GRB2 or H-ras proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of GRB2 together with $T1$$T2$ proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of GRB2 together with H-ras protein stimulated DNA synthesis.
+H-ras
+H-ras
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IRS-1
+0
+Human CC chemokine liver-expressed chemokine/CCL16 is a functional ligand for CCR1, CCR2 and $T1$$T2$, CCR2 and CCR5, and constitutively expressed by hepatocytes.
+CCR5
+CCR1
+0
+Here, we describe the production of recombinant human tissue inhibitor of metalloproteinases-1 ($T1$$T2$ (rTIMP-1) and wild-type and mutant human collagenase type I (rMMP-1) proteins in SF9 cells by the baculovirus expression system.
+rTIMP-1
+recombinant human tissue inhibitor of metalloproteinases-1
+0
+Wild-type $T1$, as well as the MMP-1 mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-$T2$], exhibit enzymatic activity upon cleavage of the prodomain by treatment with trypsin or 4-aminophenylmercuric acetate.
+MMP-1
+MMP-1
+0
+SHPTP2 associates with the $T1$ (PDGF) receptor after ligand stimulation, and binding of $T2$ to this receptor promotes tyrosine phosphorylation of SHPTP2.
+platelet-derived growth factor
+SHPTP2
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+p52Shc
+0
+These findings suggest that one function of c-Raf-1 in mitogenic signaling is to phosphorylate and activate $T1$$T2$.
+MAP kinase
+MAP kinase kinase
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and $T1$, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by $T2$.
+IRS-1
+p52Shc
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the $T1$$T2$ binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IR
+IRS-1
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the $T2$ (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I receptor
+insulin receptor
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin ($T1$$T2$ [calcineurin (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+CaN
+phosphatase 2B
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 ($T1$) to be activated by $T2$, FGF6, and FGF9.
+FGFR2b
+FGF2
+1
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin ($T1$$T2$ (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+CaN
+calcineurin
+0
+At relatively high concentrations, LEC induced calcium mobilization and chemotaxis via $T1$ and $T2$.
+CCR1
+CCR2
+0
+Only weak IL-13 binding activity was found in cells transfected with only $T1$; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T2$ receptor.
+IL-13Ralpha
+IL-13
+0
+SHPTP2 associates with the $T1$$T2$ (PDGF) receptor after ligand stimulation, and binding of SHPTP2 to this receptor promotes tyrosine phosphorylation of SHPTP2.
+platelet-derived growth factor (PDGF) receptor
+platelet-derived growth factor
+0
+Wild-type $T1$, as well as the $T2$ mutant lacking the C-terminal hemopexin-like domain [des-(248-450)-MMP-1], exhibit enzymatic activity upon cleavage of the prodomain by treatment with trypsin or 4-aminophenylmercuric acetate.
+MMP-1
+MMP-1
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ related protein ($T2$ or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+dystrophin
+DRP
+0
+We have localized the region of interaction to tyrosine 580 in the carboxyl end of $T1$ and to the SH2 domain in the carboxy-terminus of $T2$.
+SHPTP2
+Grb7
+0
+$T1$ recruitment by two distinct ligand-induced, tyrosine-phosphorylated docking sites in the $T2$ intracellular domain.
+Stat3
+interleukin-10 receptor
+1
+Furthermore, a bacterially expressed $T1$ fusion protein (glutathione S-transferase-p3722W) also activated $T2$ in vitro.
+v-Raf
+MAP kinase kinase
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ substrate-1 (IRS-1).
+insulin-like growth factor-I
+insulin receptor
+0
+Three naturally occurring ligands for the $T1$ (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T2$ IL1RA (ref.
+IL-1 receptor
+IL-1-receptor antagonist
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A ($T1$) and B (CXCR2) and to the $T2$.
+CXCR1
+Duffy antigen
+0
+Consistently, LEC was found to bind to CCR1, $T1$ and $T2$ with relatively low affinities.
+CCR2
+CCR5
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the $T1$ (IR) with their two known substrates $T2$ and the insulin receptor substrate-1 (IRS-1).
+insulin receptor
+p52Shc
+1
+These findings suggest that one function of $T1$ in mitogenic signaling is to phosphorylate and activate $T2$.
+c-Raf-1
+MAP kinase kinase
+1
+Single Asp or Ser substitutions, H18D, F21D, F21S, and double substitutions, H18A/F21D, H18A/F21S, and H18D/F21D, reduced up to 431-fold the binding affinity to CXCR1, $T1$, and the $T2$.
+CXCR2
+Duffy antigen
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+p52Shc
+0
+In TEN we also found significantly higher levels of $T1$ in the blister fluid compared with serum samples, pointing to a predominantly local production contrasting with the low concentration of $T2$ in the blister fluid of burned patients.
+sIL-2R
+sIL-2R
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the insulin receptor (IR) with their two known substrates p52Shc and the $T2$ (IRS-1).
+IGF-IR
+insulin receptor substrate-1
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) $T1$ and IRS-1 bind to the $T2$ in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+p52Shc
+IGF-IR
+1
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the $T1$$T2$ and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+IGF-IR
+0
+Using immunoprecipitation techniques, we have determined the rates at which rhodanese and glutamine synthetase ($T1$) are released from $T2$ in a form committed to refold to active enzyme.
+GS
+groEL
+1
+$T1$ and glutamine synthetase were chosen as substrates because they exhibit different solution requirements for the chaperonin system and they form stable "folding arrested" complexes with $T2$.
+Rhodanese
+groEL
+1
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of $T1$ ($T2$) with CNTFR alpha and not with the beta-components, gp130 and LIFR.
+ciliary neurotrophic factor
+CNTF
+0
+This study demonstrates that IL-8 recognizes and activates $T1$, $T2$, and the Duffy antigen by distinct mechanisms.
+CXCR1
+CXCR2
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$$T2$, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IRS-1
+IRS-1
+0
+We investigated whether the chronic inflammation and pain experienced by patients may be caused by an imbalance of proinflammatory versus anti-inflammatory cytokines within the prostate, namely interleukin (IL)-8, interferon-gamma and $T1$ versus $T2$.
+IL-2
+IL-10
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the $T2$ (IR) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+IGF-IR
+insulin receptor
+0
+While injection of $T1$ or H-ras proteins alone into quiescent rat fibroblasts did not have mitogenic effect, microinjection of GRB2 together with $T2$ protein stimulated DNA synthesis.
+GRB2
+H-ras
+0
+The catalytic domain of activated collagenase I (MMP-1) is absolutely required for interaction with its specific inhibitor, tissue inhibitor of metalloproteinases-1 ($T1$$T2$ (MMP-1) is absolutely required for interaction with its specific inhibitor, tissue inhibitor of metalloproteinases-1 (TIMP-1).
+TIMP-1
+collagenase I
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands $T1$$T2$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGF7
+FGFR2
+0
+$T1$ also induced calcium mobilization, but marginal chemotaxis via $T2$.
+LEC
+CCR5
+1
+The findings indicate that bag-1 represents a new type of anti-cell death gene and suggest that some routes of apoptosis induction previously ascribed to $T1$-independent pathways may instead reflect a need for the combination of $T2$ and BAG-1.
+Bcl-2
+Bcl-2
+0
+Neither mutation of His199, nor deletion mutants des-(161-228)-MMP-1 and des-(161-228/248-450)-$T1$$T2$ and des-(161-228/248-450)-MMP-1, interact with TIMP.
+MMP-1
+MMP-1
+0
+Abolition of the gp130 binding site in $T1$ created antagonists of $T2$ action.
+hLIF
+LIF
+0
+Deletion of the complete active-site [des-(161-228)-$T1$] within the catalytic domain, or mutation of a single His residue of the Zn2+ binding domain (His199), generates stable forms of MMP-1 proteins which are unable to digest collagen type I or $T2$.
+MMP-1
+beta-casein
+0
+We propose that (i) the $T1$ and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, $T2$ and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IGF-IR
+p52Shc
+1
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of $T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGFR2c
+FGFR2
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of $T1$ ($T2$) to be activated by FGF2, FGF6, and FGF9.
+FGFR2
+FGFR2b
+0
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$ interacts with the $T2$ in a fashion that is different from that used by p52Shc.
+IRS-1
+IGF-IR
+1
+In spite of its binding to $T1$, $T2$ was unable to inhibit infection of an R5-type HIV-1 to activated human peripheral blood mononuclear cells even at high concentrations.
+CCR5
+LEC
+1
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$ antagonist $T2$ (ref.
+IL-1-receptor
+IL1RA
+1
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and $T1$$T2$ binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-4Ralpha
+IL-13
+0
+Evidence for a differential interaction of SHC and the $T1$ (IRS-1) with the $T2$ in the yeast two-hybrid system.
+insulin receptor substrate-1
+insulin-like growth factor-I (IGF-I) receptor
+1
+We propose that (i) the IGF-IR and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) $T1$$T2$ and the IR share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and IRS-1, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IRS-1
+IGF-IR
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, $T1$$T2$ (CNTF) with CNTFR alpha and not with the beta-components, gp130 and LIFR.
+gp130
+ciliary neurotrophic factor
+0
+Consistently, LEC was found to bind to $T1$, CCR2 and $T2$ with relatively low affinities.
+CCR1
+CCR5
+0
+SHPTP2 associates with the platelet-derived growth factor ($T1$) receptor after ligand stimulation, and binding of $T2$ to this receptor promotes tyrosine phosphorylation of SHPTP2.
+PDGF
+SHPTP2
+0
+Evidence for a differential interaction of SHC and the insulin receptor substrate-1 (IRS-1) with the $T1$$T2$ (IRS-1) with the insulin-like growth factor-I (IGF-I) receptor in the yeast two-hybrid system.
+insulin-like growth factor-I
+insulin receptor substrate-1
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the $T1$ (IGF-IR) and the insulin receptor (IR) with their two known substrates $T2$ and the insulin receptor substrate-1 (IRS-1).
+insulin-like growth factor-I receptor
+p52Shc
+1
+collagen types II (Col II) and III ($T1$$T2$) and III (Col III) in a growing "cartilage cap" of osteochondroma.
+Col III
+Col II
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or $T1$ and the epithelial splice form of FGFR2 ($T2$) to be activated by FGF2, FGF6, and FGF9.
+FGF10
+FGFR2b
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the $T1$$T2$ and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IGF-IR
+p52Shc
+0
+Consistently, $T1$ was found to bind to CCR1, CCR2 and $T2$ with relatively low affinities.
+LEC
+CCR5
+1
+Whereas $T1$ serves as an alternative accessory protein to the common $T2$ (gammac) for IL-4 signaling, it could not replace the function of gammac in allowing enhanced IL-2 binding activity.
+IL-13Ralpha
+cytokine receptor gamma chain
+0
+This study describes the distributions of bone morphogenetic protein (BMP)-2 as well as mRNAs for BMP receptor type IB ($T1$$T2$ (BMPRIB).
+BMPRIB
+BMP receptor type IB
+0
+In this recombinant expression system, the dystrophin relatives, human $T1$ (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated $T2$.
+dystrophin related protein
+beta 1-syntrophin
+1
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$ and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1-receptor
+IL-1alpha
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$ is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IGF-IR
+0
+Similarly, in mammalian cells the cyclic adenosine 3',5'-monophosphate-dependent protein kinase (PKA) and phosphatase 2B [calcineurin (CaN)] are complexed by an $T1$$T2$ [calcineurin (CaN)] are complexed by an A kinase anchoring protein, AKAP79.
+A kinase anchoring protein
+phosphatase 2B
+0
+Three naturally occurring ligands for the IL-1 receptor (IL1R) exist: the agonists IL-1alpha and IL-1beta and the $T1$$T2$) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist IL1RA (ref.
+IL-1-receptor
+IL1R
+0
+These findings suggest that one function of $T1$ in mitogenic signaling is to phosphorylate and activate $T2$ kinase.
+c-Raf-1
+MAP kinase
+0
+Analysis of K-ras, p53, p16 and $T1$/$T2$.
+DPC4
+Smad4
+0
+SHPTP2 associates with the $T1$ after ligand stimulation, and binding of $T2$ to this receptor promotes tyrosine phosphorylation of SHPTP2.
+platelet-derived growth factor (PDGF) receptor
+SHPTP2
+0
+In gene transfer experiments using a human lymphoid cell line, Jurkat, coexpression of BAG-1 and Bcl-2 provided markedly increased protection from cell death induced by several stimuli, including staurosporine, anti-Fas antibody, and cytolytic T cells, relative to cells that contained gene transfer-mediated elevations in either $T1$ or $T2$ protein alone.
+BAG-1
+Bcl-2
+0
+Human CC chemokine liver-expressed chemokine/CCL16 is a functional ligand for CCR1, $T1$ and $T2$, and constitutively expressed by hepatocytes.
+CCR2
+CCR5
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ (FGFR2c) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of $T2$ (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGFR2
+FGFR2
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T1$$T2$.
+IL-13
+IL-13 receptor
+0
+In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or $T1$) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated $T2$.
+utrophin
+beta 1-syntrophin
+1
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IRS-1
+0
+We show that the S252W mutation allows the mesenchymal splice form of $T1$ ($T2$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, FGF6, and FGF9.
+FGFR2
+FGFR2c
+0
+Superposition of the $T1$ and growth hormone structures showed that the location of these epitopes on $T2$ is analogous to the location of the first and second receptor epitopes on the surface of growth hormone.
+CNTF
+CNTF
+0
+Three naturally occurring ligands for the IL-1 receptor ($T1$) exist: the agonists IL-1alpha and IL-1beta and the IL-1-receptor antagonist $T2$ (ref.
+IL1R
+IL1RA
+0
+We have cloned cDNAs corresponding to the human interleukin 13 receptor alpha chain ($T1$$T2$ alpha chain (IL-13Ralpha).
+IL-13Ralpha
+interleukin 13 receptor
+0
+The acidic amino terminus of the p53 protein has been shown to contain this trans-activation activity as well as the domains for $T1$ and adenovirus $T2$ 55-kD protein binding.
+mdm-2
+5 E1B
+0
+By rational mutagenesis, receptor-specific functional analysis, and visualization of complex formation in solution, we identified individual amino acid side chains involved specifically in the interaction of ciliary neurotrophic factor (CNTF) with CNTFR alpha and not with the beta-components, gp130 and $T1$$T2$) with CNTFR alpha and not with the beta-components, gp130 and LIFR.
+LIFR
+CNTF
+0
+Residues in human leukemia inhibitory factor (hLIF) crucial for binding to both the human LIF receptor (R) and gp130 were identified by analysis of alanine scanning mutants of $T1$$T2$ were identified by analysis of alanine scanning mutants of hLIF in assays for both receptor binding and bioactivity.
+hLIF
+gp130
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in $T1$ reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A (CXCR1) and B (CXCR2) and to the $T2$.
+IL-8
+Duffy antigen
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor (IR) with their two known substrates p52Shc and the $T1$ ($T2$).
+insulin receptor substrate-1
+IRS-1
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor ($T1$) and the insulin receptor ($T2$) with their two known substrates p52Shc and the insulin receptor substrate-1 (IRS-1).
+IGF-IR
+IR
+0
+Deletion analysis and binding studies demonstrate that a third enzyme, protein kinase C ($T1$), binds $T2$ at a site distinct from those bound by PKA or CaN.
+PKC
+AKAP79
+0
+We have cloned cDNAs corresponding to the human $T1$ ($T2$).
+interleukin 13 receptor alpha chain
+IL-13Ralpha
+0
+The findings indicate that bag-1 represents a new type of anti-cell death gene and suggest that some routes of apoptosis induction previously ascribed to Bcl-2-independent pathways may instead reflect a need for the combination of $T1$ and $T2$.
+Bcl-2
+BAG-1
+0
+MATERIALS AND METHODS: We measured levels of IL-8, $T1$, IL-2 and $T2$ in the seminal plasma of 31 patients with chronic prostatitis-chronic pelvic pain syndrome and 14 controls using enzyme-linked immunosorbent assay.
+interferon-gamma
+IL-10
+0
+In summary, we have shown that the integrity of the catalytic domain of MMP-1 and its ability to bind Zn2+ is absolutely required for complex formation with $T1$, which further underlines the importance of this region for proper regulation of enzymatic activity of $T2$.
+TIMP-1
+MMP-1
+0
+Only weak IL-13 binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the $T1$$T2$ binding activity was found in cells transfected with only IL-13Ralpha; however, the combination of both IL-13Ralpha and IL-4Ralpha resulted in substantial binding activity, with a Kd of approximately 400 pM, indicating that both chains are essential components of the IL-13 receptor.
+IL-13 receptor
+IL-13
+0
+We propose that (i) the IGF-IR and the $T1$ share at least in part the same molecular mechanism underlying their interplay with their two substrates, p52Shc and $T2$, and (ii) IRS-1 interacts with the IGF-IR in a fashion that is different from that used by p52Shc.
+IR
+IRS-1
+1
+In addition, hydrophobic residues Leu-14 and Phe-19 are crucial for the interactions between p53 and human $T1$ ($T2$).
+mdm-2
+hdm-2
+0
+We show that the S252W mutation allows the mesenchymal splice form of FGFR2 ($T1$) to bind and to be activated by the mesenchymally expressed ligands FGF7 or FGF10 and the epithelial splice form of FGFR2 (FGFR2b) to be activated by FGF2, $T2$, and FGF9.
+FGFR2c
+FGF6
+0
+We have cloned cDNAs corresponding to the human $T1$$T2$ receptor alpha chain (IL-13Ralpha).
+interleukin 13 receptor alpha chain
+interleukin 13
+0
+Using the yeast two-hybrid system, a genetic assay for studying protein-protein interactions, we have examined and compared the interaction of the insulin-like growth factor-I receptor (IGF-IR) and the insulin receptor ($T1$) with their two known substrates p52Shc and the $T2$ substrate-1 (IRS-1).
+IR
+insulin receptor
+0
+This work shows that single and double Ala substitutions of His18 and Phe21 in IL-8 reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A ($T1$$T2$ reduced up to 77-fold the binding affinity to IL-8 receptor subtypes A (CXCR1) and B (CXCR2) and to the Duffy antigen.
+CXCR1
+IL-8
+0
+Our findings can be summarized as follows: (i) the tyrosine kinase activity of the IGF-IR is essential for the interaction with p52Shc and IRS-1, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, $T1$$T2$, (ii) p52Shc and IRS-1 bind to the IGF-IR in the NPEY-juxtamembrane motif, (iii) contrary to p52Shc, IRS-1 binds also to the major autophosphorylation sites (Tyr-1131, -1135, and -1136) of the IGF-IR, and (iv) the amino-terminal domain of p52Shc is required for its association with the IR and the IGF-IR.
+IRS-1
+IRS-1
+0
+$T1$ ($T2$)/CCL16 is a human CC chemokine selectively expressed in the liver.
+Liver-expressed chemokine
+LEC
+0

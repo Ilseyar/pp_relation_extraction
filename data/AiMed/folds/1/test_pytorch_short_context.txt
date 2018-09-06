@@ -1,0 +1,2264 @@
+$T1$ and IGIF were diminished in the sera of $T2$-/- mice exposed to Propionibacterium acnes and lipopolysaccharide.
+Interferon-gamma
+ICE
+0
+rIL-10R expressed in an $T1$-dependent mouse pro-B cell line (Ba/F3) binds hIL-10 with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to $T2$.
+IL-3
+hIL-10
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric ($T2$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-II
+0
+This transcriptional activity is inhibited by association with the $T1$ (pRB) or its relatives p107 and $T2$.
+retinoblastoma tumor suppressor protein
+p103
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for $T1$$T2$ binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+MIP-1beta
+gp120
+0
+In a number of human T cell clones, expression of $T1$ mRNA is down-regulated after activation of the cells with anti-$T2$ Ab and phorbol ester.
+hIL-10R
+CD3
+0
+These findings imply that IL-11 and $T1$ share similar early signaling events with the possibility of using the same signal transducer, $T2$.
+IL-6
+gp130
+0
+BMP-2 binding significantly increased hetero- and homo-oligomerization (except for the BR-II homo-oligomer, which binds ligand poorly in the absence of $T1$$T2$ binding significantly increased hetero- and homo-oligomerization (except for the BR-II homo-oligomer, which binds ligand poorly in the absence of BR-I).
+BR-I
+BMP-2
+0
+Both $T1$ and hDP-2 bind to all $T2$ family members in vivo, and each complex is capable of activating transcription.
+hDP-1
+E2F
+0
+These data are consistent with a model wherein $T1$/CDK complexes sequester the $T2$-dependent kinase inhibitory activity of p27.
+cyclin D
+CDK2
+0
+CC CKR3 is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor $T1$ (also known as the $T2$/RANTES receptor).
+CC CKR1
+MIP-1 alpha
+0
+The first cDNA from the $T1$ family to be cloned was designated E2F-1, and multiple $T2$ family members have now been identified.
+E2F
+E2F
+0
+$T1$ suppressed c-jun-associated apoptosis by retinoic acid in F9 embryonic carcinoma cells, whereas this suppression of apoptosis is attenuated by mutation in $T2$.
+PS1
+PS1
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma
+interferon-gamma
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of $T1$$T2$ could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+MCP-3
+0
+Yeast two-hybrid assay, GST binding assay and immunoprecipitation demonstrated that $T1$ interacted with a hydrophilic loop region in the endoproteolytic C-terminal fragment of $T2$, but not with that of PS-2.
+delta-catenin
+PS1
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$, and IL-15 competed for binding with $T2$, indicating that IL-15 uses components of the IL-2 receptor.
+IL-15
+IL-2
+0
+We screened proteins for interaction with $T1$, and cloned the full-length cDNA of human $T2$, which encoded 1225 amino acids.
+presenilin (PS) 1
+delta-catenin
+1
+alpha-Actinin-2, a member of the spectrin/dystrophin family of $T1$$T2$, a member of the spectrin/dystrophin family of actin-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule PSD-95.
+actin
+alpha-Actinin-2
+0
+$T1$$T2$ was derived by linking the two peptide chains of the IFN-gamma dimer by a seven-residue linker and changing His111 in the first chain to an aspartic acid residue.
+IFN-gamma
+IFN-gamma SC1
+0
+In vitro and in nonproliferating cells, $T1$ associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either $T2$, CDK6, or CDK2.
+p27
+CDK4
+1
+$T1$ is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor $T2$ (also known as the MIP-1 alpha/RANTES receptor).
+CC CKR3
+CC CKR1
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for $T1$ and $T2$ in the incorporation of U2 snRNP into the spliceosome.
+SF3a
+SF3b
+0
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein $T1$, regulated on activation, normal T expressed and secreted (RANTES), and $T2$ (MCP-3), but the receptors involved have not been defined.
+(MIP)-1 alpha
+monocyte chemoattractant protein-3
+0
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the CDK6 protein mediates, in part, the $T1$$T2$ protein mediates, in part, the p27-associated Rb-kinase activity.
+p27
+CDK6
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$ adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma SC1
+0
+Presenilin 1 suppresses the function of c-Jun homodimers via interaction with $T1$$T2$ homodimers via interaction with QM/Jif-1.
+QM
+c-Jun
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$/Jif-1.
+Jif-1
+QM
+0
+Monoclonal antibodies to the beta chain of the $T1$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with $T2$, indicating that IL-15 uses components of the IL-2 receptor.
+IL-2
+IL-2
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric ($T2$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+0
+Expression cloning and characterization of a human $T1$$T2$.
+IL-10
+IL-10 receptor
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T1$/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+Involvement of IL-6 signal transducer gp130 in $T1$$T2$ in IL-11-mediated signal transduction.
+IL-11
+gp130
+0
+Collectively, the novel function of $T1$ via QM/$T2$ influences c-jun-mediated transcription and apoptosis.
+PS1
+Jif-1
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both $T1$$T2$ binds by its central rod domain to the cytoplasmic tail of both NR1 and NR2B subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+NR1
+alpha-Actinin-2
+0
+In contrast, p27 complexes containing CDK2 are incapable of phosphorylating $T1$$T2$ are incapable of phosphorylating histone H1.
+histone H1
+CDK2
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain ($T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma R alpha
+IFN-gamma
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain ($T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma R alpha
+interferon-gamma
+0
+We have previously identified $T1$ specific binding protein which is distinct from that of $T2$ in a number of cell lines.
+IL-11
+IL-6
+0
+Yeast two-hybrid assay, GST binding assay and immunoprecipitation demonstrated that delta-catenin interacted with a hydrophilic loop region in the endoproteolytic C-terminal fragment of PS1, but not with that of $T1$$T2$ interacted with a hydrophilic loop region in the endoproteolytic C-terminal fragment of PS1, but not with that of PS-2.
+PS-2
+delta-catenin
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for $T1$$T2$ with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+CCR5
+0
+CCR5 was first characterized as a receptor for MIP-1alpha, MIP-1beta, and $T1$$T2$, and RANTES, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+RANTES
+MIP-1beta
+0
+Isothermal titration calorimetry shows that $T1$ forms a 1:1 complex with its high-affinity receptor ($T2$ R alpha) with an affinity of 27(+/- 9) nM.
+IFN-gamma SC1
+IFN-gamma
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal $T1$ binding inhibition was 80% for $T2$, but only 30% for MIP-1beta.
+gp120
+MCP-2
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/BR-II, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+This transcriptional activity is inhibited by association with the $T1$ ($T2$) or its relatives p107 and p103.
+retinoblastoma tumor suppressor protein
+pRB
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or $T1$$T2$ gene expression elicited by IL-11 or IL-6 in TF-1 cells.
+IL-6
+junB
+0
+We also found another $T1$, p0071, interacted with $T2$.
+armadillo-protein
+PS1
+0
+In addition, $T1$ associates with three different CDKs: $T2$, CDK4, and CDK6.
+p27
+CDK2
+1
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated $T1$$T2$-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated Rb-kinase activity.
+Rb
+CDK6
+0
+Furthermore, the 60-kilodalton subunit of $T1$ is related to the yeast splicing protein $T2$.
+SF3a
+PRP9
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+However, MIP-1 beta was also an agonist for $T1$ but not $T2$; MCP-3 was an agonist for CC CKR1 but not CC CKR3.
+CC CKR3
+CC CKR1
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and $T1$ in the incorporation of $T2$ into the spliceosome.
+SF3b
+U2 snRNP
+0
+However, the various $T1$/DP complexes display strong differences in the ability to bind to either $T2$ or p107 in vivo, and the specificity of pRB or p107 binding is mediated by the E2F subunit.
+E2F
+pRB
+0
+In vitro and in nonproliferating cells, p27 associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either CDK4, CDK6, or $T1$$T2$, CDK6, or CDK2.
+CDK2
+CDK4
+0
+Lipopolysaccharide-activated $T1$-deficient (ICE-/-) Kupffer cells synthesized the $T2$ precursor but failed to process it into the active form.
+ICE
+IGIF
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of $T1$$T2$ adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma SC1
+0
+$T1$ suppressed $T2$-associated apoptosis by retinoic acid in F9 embryonic carcinoma cells, whereas this suppression of apoptosis is attenuated by mutation in PS1.
+PS1
+c-jun
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T1$, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for $T1$ and SF3b in the incorporation of $T2$ into the spliceosome.
+SF3a
+U2 snRNP
+0
+Coexpression of the alpha and betaL subunits of the human $T1$ (IFNalpha) receptor is required for the induction of an antiviral state by human $T2$.
+interferon alpha
+IFNalpha
+0
+The structure also reveals the final six C-terminal amino acid residues of $T1$ (residues 253-258) that have not been observed in any other reported $T2$ structures.
+IFN-gamma SC1
+IFN-gamma
+0
+Isothermal titration calorimetry shows that IFN-gamma SC1 forms a 1:1 complex with its high-affinity receptor ($T1$$T2$) with an affinity of 27(+/- 9) nM.
+IFN-gamma
+IFN-gamma R alpha
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma receptor alpha chain
+0
+We screened for proteins that bind to $T1$ from a human embryonic brain cDNA library using the two-hybrid method and isolated one clone encoding the $T2$/Jif-1 gene.
+PS1
+QM
+1
+The structure also reveals the final six C-terminal amino acid residues of $T1$ SC1 (residues 253-258) that have not been observed in any other reported $T2$ structures.
+IFN-gamma
+IFN-gamma
+0
+$T1$ was derived by linking the two peptide chains of the $T2$ dimer by a seven-residue linker and changing His111 in the first chain to an aspartic acid residue.
+IFN-gamma SC1
+IFN-gamma
+0
+$T1$ was first characterized as a receptor for MIP-1alpha, $T2$, and RANTES, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+CCR5
+MIP-1beta
+1
+All CC-chemokines currently available were tested for their ability to compete with [(125)I]-$T1$ binding on a stable cell line expressing recombinant $T2$, and/or to induce a functional response in these cells.
+MIP-1beta
+CCR5
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ ($T2$) has been designed and characterized.
+IFN-gamma receptor alpha chain
+IFN-gamma R alpha
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+The amount of CDK4 and $T1$ associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with $T2$ is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK6
+p27
+0
+Collectively, the novel function of PS1 via $T1$/Jif-1 influences $T2$-mediated transcription and apoptosis.
+QM
+c-jun
+0
+One clone encodes a novel $T1$ catalytic subunit (PP-1 alpha 2), which differs from the originally defined $T2$ by an amino-terminal 11-amino-acid insert.
+type 1 protein phosphatase
+PP-1 alpha
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T1$, MCP-3, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-2
+MCP-1
+0
+CCR5 was first characterized as a receptor for $T1$, $T2$, and RANTES, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+MIP-1alpha
+MIP-1beta
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or $T1$$T2$ or IL-6 in TF-1 cells.
+IL-6
+IL-11
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both NR1 and $T1$$T2$ binds by its central rod domain to the cytoplasmic tail of both NR1 and NR2B subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+NR2B
+alpha-Actinin-2
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal $T1$ binding inhibition was 80% for MCP-2, but only 30% for $T2$.
+gp120
+MIP-1beta
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and $T1$ competed for binding with IL-2, indicating that IL-15 uses components of the $T2$.
+IL-15
+IL-2 receptor
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+Jif-1
+PS1
+0
+Competitive binding of $T1$ and calmodulin to the $T2$.
+alpha-actinin
+NMDA receptor
+1
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with TBP; however, additional interactions between $T1$ and $T2$ or hTAFII30 were detected.
+hTAFII20
+hTAFII28
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and $T2$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-II
+0
+alpha-Actinin-2, a member of the spectrin/$T1$ family of $T2$-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule PSD-95.
+dystrophin
+actin
+0
+One clone encodes a novel type 1 protein phosphatase catalytic subunit ($T1$), which differs from the originally defined $T2$ by an amino-terminal 11-amino-acid insert.
+PP-1 alpha 2
+PP-1 alpha
+0
+We show that the physical interaction between YY1 and $T1$, a coactivator for $T2$, is not sufficient for repression of CREB-mediated transcription.
+p300
+CREB
+1
+However, MIP-1 beta was also an agonist for CC CKR3 but not CC CKR1; MCP-3 was an agonist for CC CKR1 but not $T1$$T2$ was an agonist for CC CKR1 but not CC CKR3.
+CC CKR3
+MCP-3
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for $T1$$T2$ had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+MCP-3
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-II
+0
+Yeast two-hybrid assay, GST binding assay and immunoprecipitation demonstrated that delta-catenin interacted with a hydrophilic loop region in the endoproteolytic C-terminal fragment of $T1$, but not with that of $T2$.
+PS1
+PS-2
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with $T1$, indicating that $T2$ uses components of the IL-2 receptor.
+IL-2
+IL-15
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, $T1$$T2$ with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MCP-3
+CCR5
+0
+$T1$ suppresses the function of c-Jun homodimers via interaction with QM/$T2$.
+Presenilin 1
+Jif-1
+1
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by $T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+PS1
+0
+A mutant form of human interferon-gamma ($T1$) that binds one IFN-gamma receptor alpha chain ($T2$ R alpha) has been designed and characterized.
+IFN-gamma SC1
+IFN-gamma
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for $T1$$T2$, but only 30% for MIP-1beta.
+MIP-1beta
+MCP-2
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S $T1$$T2$ interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3a
+0
+A mutant form of human interferon-gamma ($T1$) that binds one IFN-gamma receptor alpha chain ($T2$) has been designed and characterized.
+IFN-gamma SC1
+IFN-gamma R alpha
+1
+These results suggest that $T1$ and $T2$ partly differ in function.
+PS1
+PS2
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/$T1$$T2$ but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Fos
+c-Jun
+0
+CCR5 was first characterized as a receptor for MIP-1alpha, MIP-1beta, and $T1$$T2$, MIP-1beta, and RANTES, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+RANTES
+MIP-1alpha
+0
+We have identified an 18-amino acid residue stretch in the $T1$ head that is conserved only among type II epidermal keratins and that appears to play some role in $T2$ tail binding.
+K5
+DPI
+1
+Because IL-10 inhibits macrophage activation by $T1$$T2$ inhibits macrophage activation by IFN-gamma, this relationship suggests possible shared receptor or signal transduction pathway components.
+IFN-gamma
+IL-10
+0
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T2$, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-3
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal $T1$$T2$ binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+gp120
+gp120
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/$T2$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+Mouse $T1$ does not bind to hIL-10R, and $T2$-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of IL-10.
+IL-10
+hIL-10R
+0
+However, $T1$ was also an agonist for CC CKR3 but not CC CKR1; MCP-3 was an agonist for CC CKR1 but not $T2$.
+MIP-1 beta
+CC CKR3
+0
+SF3a interacts with U2 snRNP in the presence of $T1$ to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of $T2$ into the spliceosome.
+SF3b
+U2 snRNP
+0
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T2$ binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MIP-1beta
+1
+Finally, anti-IL-6R antibody inhibited the ability of IL-6, but not $T1$$T2$ antibody inhibited the ability of IL-6, but not IL-11, to transduce early signals in TF-1 cells.
+IL-11
+IL-6R
+0
+However, MIP-1 beta was also an agonist for $T1$ but not CC CKR1; $T2$ was an agonist for CC CKR1 but not CC CKR3.
+CC CKR3
+MCP-3
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and $T1$ competed for binding with IL-2, indicating that IL-15 uses components of the $T2$ receptor.
+IL-15
+IL-2
+0
+Mouse $T1$ does not bind to $T2$, and hIL-10R-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of IL-10.
+IL-10
+hIL-10R
+0
+The interleukin-1beta ($T1$) converting enzyme ($T2$) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+IL-1beta
+ICE
+1
+Here it is shown that the $T1$ subunits correspond to three of the 17S $T2$-specific polypeptides.
+SF3a
+U2 snRNP
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$ but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+Jif-1
+c-Jun
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+Jif-1
+c-Jun
+0
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein (MIP)-1 alpha, regulated on activation, normal T expressed and secreted ($T1$), and monocyte chemoattractant protein-3 ($T2$), but the receptors involved have not been defined.
+RANTES
+MCP-3
+0
+We next tested whether IL-11 induced signaling can be inhibited by anti-gp130 antibodies which blocked $T1$$T2$ antibodies which blocked IL-6-mediated functions.
+IL-6
+gp130
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+MCP-1
+0
+Involvement of $T1$ signal transducer $T2$ in IL-11-mediated signal transduction.
+IL-6
+gp130
+0
+The $T1$$T2$ (IL-1beta) converting enzyme (ICE) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+interleukin-1beta (IL-1beta) converting enzyme
+interleukin-1beta
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain ($T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma
+IFN-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T1$, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-II
+0
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the CDK6 protein mediates, in part, the $T1$$T2$-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated Rb-kinase activity.
+p27
+CDK6
+0
+SF3a interacts with U2 snRNP in the presence of $T1$ to generate a structure similar to 17S $T2$, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3b
+U2 snRNP
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, $T1$ MIP and $T2$ were both potent agonists for CC CKR3 and CC CKR1.
+(MIP)-1 alpha
+RANTES
+0
+The crystal structure of $T1$$T2$ has been determined at 2.9 A resolution from crystals grown in 1.4 M citrate solutions at pH 7.6.
+IFN-gamma
+IFN-gamma SC1
+0
+Our results demonstrated that the first 82 amino acids (AAs) (AAs 265-346) of the cytoplasmic domain of the betaL chain are sufficient to activate the $T1$-Stat pathway and trigger an antiviral state after $T2$ binding to the receptor.
+Jak
+IFNalpha2
+0
+Here we show that $T1$/$T2$, a negative regulator of c-Jun, is a candidate to mediate the function of PS1 in the cell.
+QM
+Jun-interacting factor (Jif)-1
+0
+We found that in addition to $T1$, $T2$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MIP-1alpha
+0
+Interaction of mammalian splicing factor SF3a with U2 snRNP and relation of its 60-kD subunit to yeast $T1$$T2$ and relation of its 60-kD subunit to yeast PRP9.
+PRP9
+U2 snRNP
+0
+Here we show that $T1$/Jun-interacting factor (Jif)-1, a negative regulator of c-Jun, is a candidate to mediate the function of $T2$ in the cell.
+QM
+PS1
+0
+A region of the beta subunit of the $T1$ different from box 1 interacts with $T2$ and is sufficient to activate the Jak-Stat pathway and induce an antiviral state.
+interferon alpha receptor
+Jak1
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T1$/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+0
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+eotaxin
+0
+The predicted amino acid sequence of $T1$ is 60% identical and 73% similar to mouse $T2$ (mIL-10R).
+hIL-10R
+IL-10R
+0
+ICE was also shown to cleave the precursor of $T1$$T2$ (IGIF) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+interferon-gamma
+interferon-gamma inducing factor
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both NR1 and $T1$ subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and $T2$ from rat brain.
+NR2B
+PSD-95
+0
+BMP-2 binding significantly increased hetero- and homo-oligomerization (except for the $T1$ homo-oligomer, which binds ligand poorly in the absence of $T2$).
+BR-II
+BR-I
+1
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, $T1$, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-1
+eotaxin
+0
+Intriguingly, $T1$-$T2$ binding is directly antagonized by Ca2+/calmodulin.
+NR1
+alpha-actinin
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha $T1$ and RANTES were both potent agonists for CC CKR3 and $T2$.
+MIP
+CC CKR1
+0
+Activation of $T1$ inducing factor mediated by $T2$.
+interferon-gamma
+interleukin-1beta converting enzyme
+0
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+eotaxin
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha MIP and $T1$ were both potent agonists for CC CKR3 and $T2$.
+RANTES
+CC CKR1
+1
+$T1$ was also shown to cleave the precursor of $T2$ inducing factor (IGIF) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+ICE
+interferon-gamma
+0
+In contrast, $T1$ complexes containing $T2$ are incapable of phosphorylating histone H1.
+p27
+CDK2
+1
+$T1$ is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor CC CKR1 (also known as the $T2$/RANTES receptor).
+CC CKR3
+MIP-1 alpha
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor alpha chain
+IFN-gamma
+0
+Presenilin 1 suppresses the function of c-Jun homodimers via interaction with QM/$T1$$T2$/Jif-1.
+Jif-1
+QM
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of $T1$ by $T2$ and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+MIP-1beta
+1
+$T1$ is a novel cytokine with a variety of biofunctions which overlap with those of $T2$.
+IL-11
+IL-6
+0
+Presenilin 1 ($T1$$T2$ (PS1) is the causative gene for an autosomal dominant familial Alzheimer's disease (AD) mapped to chromosome 14.
+PS1
+Presenilin 1
+0
+This transcriptional activity is inhibited by association with the retinoblastoma tumor suppressor protein ($T1$) or its relatives $T2$ and p103.
+pRB
+p107
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor
+interferon-gamma
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both $T1$ and NR2B subunits of the $T2$, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+NR1
+NMDA receptor
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and $T1$$T2$ antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or IL-6 in TF-1 cells.
+junB
+gp130
+0
+CC CKR3 is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor CC CKR1 (also known as the MIP-1 alpha/$T1$$T2$ (also known as the MIP-1 alpha/RANTES receptor).
+RANTES
+CC CKR1
+0
+Among these ligands, $T1$ had the remarkable property of binding $T2$ with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MCP-3
+CCR5
+1
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the $T1$/$T2$ complex.
+IFN-gamma
+IFN-gamma R alpha
+1
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha MIP and RANTES were both potent agonists for $T1$ and $T2$.
+CC CKR3
+CC CKR1
+0
+In addition, $T1$ associates with three different CDKs: CDK2, $T2$, and CDK6.
+p27
+CDK4
+1
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor alpha chain
+interferon-gamma
+0
+ICE was also shown to cleave the precursor of interferon-gamma inducing factor ($T1$) at the authentic processing site with high efficiency, thereby activating $T2$ and facilitating its export.
+IGIF
+IGIF
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric $T1$$T2$ binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+gp120
+MIP-1beta
+0
+Mouse IL-10 does not bind to $T1$, and $T2$-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of IL-10.
+hIL-10R
+hIL-10R
+0
+SF3a interacts with U2 snRNP in the presence of $T1$ to generate a structure similar to 17S U2 snRNP, which suggests a function for $T2$ and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3b
+SF3a
+0
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors (BR-Ia and BR-Ib) and the BMP type II receptor ($T1$$T2$) and the BMP type II receptor (BR-II).
+BR-II
+BR-Ib
+0
+The binding of $T1$/$T2$ to full-length PS1 was confirmed in vitro by pull-down assay, and in vivo by immunoprecipitation assays with human samples, including AD brains.
+QM
+Jif-1
+0
+The similarities in biofunctions and differences in ligand binding proteins between $T1$ and $T2$ prompted us to investigate whether IL-11 shares common signal transduction mechanisms with IL-6.
+IL-11
+IL-6
+0
+Despite binding to only one $T1$, $T2$ is biologically active in cell proliferation, MHC class I induction, and anti-viral assays.
+IFN-gamma R alpha
+IFN-gamma SC1
+1
+Finally, anti-IL-6R antibody inhibited the ability of IL-6, but not $T1$$T2$, but not IL-11, to transduce early signals in TF-1 cells.
+IL-11
+IL-6
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$ observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T1$/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+1
+This suggests that one domain of IFN-gamma is sufficient to recruit $T1$$T2$ R alpha and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma R alpha
+IFN-gamma
+0
+However, $T1$ was also an agonist for CC CKR3 but not $T2$; MCP-3 was an agonist for CC CKR1 but not CC CKR3.
+MIP-1 beta
+CC CKR1
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T1$ binding: MCP-2, MCP-3, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-4
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T1$/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha $T1$ and RANTES were both potent agonists for $T2$ and CC CKR1.
+MIP
+CC CKR3
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by $T1$/$T2$ heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+c-Fos
+1
+This suggests that one domain of IFN-gamma is sufficient to recruit IFN-gamma R alpha and $T1$$T2$ into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma R beta
+0
+By monitoring fluorescent recombinant protein and by gel mobility shift assays, PS1 was shown to accelerate the translocation of QM from the cytoplasm to the nucleus and to thereby suppress the binding of $T1$$T2$ from the cytoplasm to the nucleus and to thereby suppress the binding of c-Jun homodimer to 12-O-tetradecanoylphorbol-13- acetate (TPA)-responsive element (TRE).
+c-Jun
+QM
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ receptor alpha chain ($T2$) has been designed and characterized.
+IFN-gamma
+IFN-gamma R alpha
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain ($T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma
+interferon-gamma
+0
+The $T1$ ($T2$) interacts with many cellular proteins in complexes potentially important for its growth-suppressing function.
+retinoblastoma protein
+p110RB
+0
+However, $T1$ was also an agonist for $T2$ but not CC CKR1; MCP-3 was an agonist for CC CKR1 but not CC CKR3.
+MIP-1 beta
+CC CKR3
+1
+Intriguingly, NR1-$T1$ binding is directly antagonized by Ca2+/$T2$.
+alpha-actinin
+calmodulin
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/BR-II, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+PS1 suppressed c-jun-associated apoptosis by retinoic acid in F9 embryonic carcinoma cells, whereas this suppression of apoptosis is attenuated by mutation in $T1$$T2$-associated apoptosis by retinoic acid in F9 embryonic carcinoma cells, whereas this suppression of apoptosis is attenuated by mutation in PS1.
+PS1
+c-jun
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ alpha chain ($T2$ R alpha) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma
+0
+By monitoring fluorescent recombinant protein and by gel mobility shift assays, PS1 was shown to accelerate the translocation of $T1$$T2$ was shown to accelerate the translocation of QM from the cytoplasm to the nucleus and to thereby suppress the binding of c-Jun homodimer to 12-O-tetradecanoylphorbol-13- acetate (TPA)-responsive element (TRE).
+QM
+PS1
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit $T1$$T2$ is sufficient to recruit IFN-gamma R alpha and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma
+0
+A mutant form of human interferon-gamma ($T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma SC1
+IFN-gamma
+0
+Both hDP-1 and $T1$ bind to all $T2$ family members in vivo, and each complex is capable of activating transcription.
+hDP-2
+E2F
+0
+These results demonstrate that $T1$ and $T2$ utilize different ligand binding proteins, but share common signal transducer, gp130, in TF-1 cells.
+IL-11
+IL-6
+0
+ICE was also shown to cleave the precursor of $T1$ ($T2$) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+interferon-gamma inducing factor
+IGIF
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for $T1$$T2$ by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+CCR5
+0
+Comparison of the wild-type receptor-binding domain and the Asp111-containing domain of $T1$$T2$ SC1 show that they are structurally equivalent but have very different electrostatic surface potentials.
+IFN-gamma SC1
+IFN-gamma
+0
+$T1$, a member of the spectrin/dystrophin family of actin-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule $T2$.
+alpha-Actinin-2
+PSD-95
+0
+Like mIL-10R, $T1$$T2$, hIL-10R is structurally related to IFNR.
+hIL-10R
+mIL-10R
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by $T1$$T2$ could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MIP-1beta
+MCP-3
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, $T1$$T2$ had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MCP-3
+MCP-3
+0
+However, MIP-1 beta was also an agonist for CC CKR3 but not $T1$; MCP-3 was an agonist for $T2$ but not CC CKR3.
+CC CKR1
+CC CKR1
+0
+The amount of CDK4 and $T1$ associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of $T2$ associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK6
+CDK2
+0
+However, MIP-1 beta was also an agonist for CC CKR3 but not CC CKR1; MCP-3 was an agonist for CC CKR1 but not $T1$$T2$ but not CC CKR3.
+CC CKR3
+CC CKR1
+0
+We show that the carboxy terminal "tail" of $T1$ associates directly with the amino terminal "head" of type II epidermal keratins, including $T2$, K2, K5, and K6.
+DPI
+K1
+1
+The binding of QM/$T1$ to full-length $T2$ was confirmed in vitro by pull-down assay, and in vivo by immunoprecipitation assays with human samples, including AD brains.
+Jif-1
+PS1
+1
+Moreover, similar $T1$ sequences are required for binding $T2$ and SV40 large T antigen.
+p110RB
+PP-1 alpha 2
+1
+SF3a interacts with $T1$ in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of $T2$ into the spliceosome.
+U2 snRNP
+U2 snRNP
+0
+Immunoelectronmicroscopic analysis showed that $T1$/$T2$ and PS1 are colocalized at the endoplasmic reticulum, and the nuclear matrix in human brain neurons.
+QM
+Jif-1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+$T1$ binding significantly increased hetero- and homo-oligomerization (except for the $T2$ homo-oligomer, which binds ligand poorly in the absence of BR-I).
+BMP-2
+BR-II
+1
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by $T1$$T2$ but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+c-Jun
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of $T1$$T2$ heterodimers, consistent with the reported function of QM/Jif-1.
+QM
+c-Fos
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that $T1$ uses components of the $T2$.
+IL-15
+IL-2 receptor
+1
+The interleukin-1beta (IL-1beta) converting enzyme ($T1$) processes the inactive $T2$ precursor to the proinflammatory cytokine.
+ICE
+IL-1beta
+0
+A mutant form of human interferon-gamma ($T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma
+interferon-gamma
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for $T1$$T2$ binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+MIP-1beta
+MIP-1beta
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ receptor alpha chain ($T2$ R alpha) has been designed and characterized.
+IFN-gamma
+IFN-gamma
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$ adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma R alpha
+IFN-gamma SC1
+0
+However, the various $T1$/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of $T2$ or p107 binding is mediated by the E2F subunit.
+E2F
+pRB
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric ($T2$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-II
+0
+Isolation of human $T1$ and its binding specificity with $T2$.
+delta-catenin
+presenilin 1
+1
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated $T1$$T2$ protein mediates, in part, the p27-associated Rb-kinase activity.
+Rb
+CDK6
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/$T2$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by $T1$$T2$ gene expression elicited by IL-11 or IL-6 in TF-1 cells.
+IL-11
+junB
+0
+Thus, $T1$$T2$ R alpha binding does not result in a large conformational change in the AB loop as previously suggested.
+IFN-gamma R alpha
+IFN-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+0
+Although many different types of proliferating cells contain $T1$ protein, neither the interactions of $T2$ with cyclin/CDK complexes nor the consequences of this interaction during the mitotic cycle have been fully explored.
+p27
+p27
+0
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated $T1$$T2$-associated Rb-kinase activity.
+Rb
+p27
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of $T1$$T2$/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+QM
+c-Jun
+0
+We show that the carboxy terminal "tail" of $T1$ associates directly with the amino terminal "head" of type II epidermal keratins, including K1, $T2$, K5, and K6.
+DPI
+K2
+1
+The results showed that IL-11 and $T1$ can both stimulate cell proliferation, induce similar pattern of protein tyrosine phosphorylation, and activate the same proto-oncogene ($T2$) expression in TF-1 cells.
+IL-6
+junB
+1
+Mouse $T1$ does not bind to hIL-10R, and hIL-10R-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of $T2$.
+IL-10
+IL-10
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T1$ binding: MCP-2, $T2$, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-3
+1
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/$T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Fos
+PS1
+0
+The amount of $T1$ and CDK6 associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of $T2$ associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK4
+CDK2
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma SC1
+0
+However, MIP-1 beta was also an agonist for $T1$ but not CC CKR1; MCP-3 was an agonist for CC CKR1 but not $T2$.
+CC CKR3
+CC CKR3
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+Jif-1
+c-Jun
+0
+$T1$ was also shown to cleave the precursor of interferon-gamma inducing factor (IGIF) at the authentic processing site with high efficiency, thereby activating $T2$ and facilitating its export.
+ICE
+IGIF
+1
+$T1$ was first characterized as a receptor for MIP-1alpha, MIP-1beta, and $T2$, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+CCR5
+RANTES
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+A region of the beta subunit of the $T1$ receptor different from box 1 interacts with $T2$ and is sufficient to activate the Jak-Stat pathway and induce an antiviral state.
+interferon alpha
+Jak1
+0
+The results showed that $T1$ and $T2$ can both stimulate cell proliferation, induce similar pattern of protein tyrosine phosphorylation, and activate the same proto-oncogene (junB) expression in TF-1 cells.
+IL-11
+IL-6
+0
+In contrast, p27 complexes containing CDK2 are incapable of phosphorylating $T1$$T2$ complexes containing CDK2 are incapable of phosphorylating histone H1.
+histone H1
+p27
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T1$, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors (BR-Ia and BR-Ib) and the $T1$$T2$) and the BMP type II receptor (BR-II).
+BMP type II receptor
+BR-Ib
+0
+The similarities in biofunctions and differences in ligand binding proteins between IL-11 and IL-6 prompted us to investigate whether $T1$ shares common signal transduction mechanisms with $T2$.
+IL-11
+IL-6
+0
+Competitive binding of $T1$ and $T2$ to the NMDA receptor.
+alpha-actinin
+calmodulin
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the $T1$$T2$ observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, $T1$ could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for $T2$.
+MCP-3
+CCR5
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/$T2$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+1
+Interaction of mammalian splicing factor $T1$ with $T2$ and relation of its 60-kD subunit to yeast PRP9.
+SF3a
+U2 snRNP
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+0
+Monoclonal antibodies to the beta chain of the $T1$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T2$.
+IL-2
+IL-2 receptor
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for $T1$$T2$ and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+MIP-1beta
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of $T1$$T2$ had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+MCP-3
+0
+The $T1$ ($T2$) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+interleukin-1beta (IL-1beta) converting enzyme
+ICE
+0
+This suggests that one domain of $T1$ is sufficient to recruit IFN-gamma R alpha and $T2$ into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma R beta
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T2$) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the $T1$$T2$ adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma SC1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+$T1$ interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of $T2$ into the spliceosome.
+SF3a
+U2 snRNP
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, $T1$ $T2$ and RANTES were both potent agonists for CC CKR3 and CC CKR1.
+(MIP)-1 alpha
+MIP
+0
+Like mIL-10R, hIL-10R is structurally related to $T1$$T2$ is structurally related to IFNR.
+IFNR
+hIL-10R
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for $T1$$T2$ binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+MCP-2
+MIP-1beta
+0
+The $T1$ (IL-1beta) converting enzyme (ICE) processes the inactive $T2$ precursor to the proinflammatory cytokine.
+interleukin-1beta
+IL-1beta
+0
+The $T1$ (ICE) processes the inactive $T2$ precursor to the proinflammatory cytokine.
+interleukin-1beta (IL-1beta) converting enzyme
+IL-1beta
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ ($T2$ R alpha) has been designed and characterized.
+IFN-gamma receptor alpha chain
+IFN-gamma
+0
+In vitro and in nonproliferating cells, p27 associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either CDK4, $T1$, or $T2$.
+CDK6
+CDK2
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T1$ binding: MCP-2, MCP-3, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-1
+1
+Coexpression of the alpha and betaL subunits of the human interferon alpha ($T1$) receptor is required for the induction of an antiviral state by human $T2$.
+IFNalpha
+IFNalpha
+0
+The amount of $T1$ and CDK6 associated with $T2$ does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK4
+p27
+1
+$T1$ also interacts with TBP, but it interacts more strongly with hTAFII28 and $T2$.
+hTAFII18
+hTAFII30
+1
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/$T1$$T2$/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Fos
+c-Jun
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$$T2$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the IL-2 receptor.
+IL-15
+IL-2
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T1$$T2$ uses components of the IL-2 receptor.
+IL-2
+IL-15
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T1$, MCP-3, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-2
+MCP-4
+0
+In addition, p27 associates with three different CDKs: CDK2, $T1$, and $T2$.
+CDK4
+CDK6
+0
+$T1$ was also shown to cleave the precursor of interferon-gamma inducing factor ($T2$) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+ICE
+IGIF
+1
+In vitro and in nonproliferating cells, p27 associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either CDK4, $T1$$T2$, CDK6, or CDK2.
+CDK6
+CDK4
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T1$, $T2$, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-2
+MCP-3
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of $T1$$T2$ with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+CCR5
+CCR5
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T1$ binding: $T2$, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-2
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/BR-II, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+As observed with the homologous Drosophila proteins, hTAFII20 interacts directly with TBP; however, additional interactions between $T1$ and hTAFII28 or $T2$ were detected.
+hTAFII20
+hTAFII30
+1
+The current data are consistent with the main role of the IFN-gamma dimer being to decrease the dissociation constant of $T1$$T2$ dimer being to decrease the dissociation constant of IFN-gamma for its cellular receptors.
+IFN-gamma
+IFN-gamma
+0
+A region of the beta subunit of the interferon alpha receptor different from box 1 interacts with $T1$ and is sufficient to activate the $T2$-Stat pathway and induce an antiviral state.
+Jak1
+Jak
+0
+We have isolated a human cDNA encoding the first eosinophil-selective chemokine receptor, designated CC chemokine receptor 3 ($T1$$T2$ (CC CKR3).
+CC CKR3
+CC chemokine receptor 3
+0
+The cytokine, designated interleukin-15 (IL-15), is produced by a wide variety of cells and tissues and shares many biological properties with $T1$$T2$), is produced by a wide variety of cells and tissues and shares many biological properties with IL-2.
+IL-2
+IL-15
+0
+Intriguingly, $T1$-alpha-actinin binding is directly antagonized by Ca2+/$T2$.
+NR1
+calmodulin
+0
+These findings imply that $T1$ and $T2$ share similar early signaling events with the possibility of using the same signal transducer, gp130.
+IL-11
+IL-6
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit IFN-gamma R alpha and $T1$$T2$ R alpha and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma R beta
+IFN-gamma
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and $T1$$T2$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the IL-2 receptor.
+IL-15
+IL-2
+0
+$T1$ binds multiple CC-chemokines: $T2$ acts as a natural antagonist.
+CCR5
+MCP-3
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-$T2$ binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+MIP-1beta
+1
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$ alpha chain ($T2$) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma R alpha
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both $T1$ and NR2B subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and $T2$ from rat brain.
+NR1
+PSD-95
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/$T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+PS1
+0
+The interleukin-1beta ($T1$$T2$ (ICE) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+IL-1beta
+interleukin-1beta (IL-1beta) converting enzyme
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, $T1$ MIP and RANTES were both potent agonists for $T2$ and CC CKR1.
+(MIP)-1 alpha
+CC CKR3
+1
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors (BR-Ia and BR-Ib) and the $T1$$T2$ and BR-Ib) and the BMP type II receptor (BR-II).
+BMP type II receptor
+BR-Ia
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/$T2$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+Cloning and characterization of $T1$, $T2$ and hTAFII28: three subunits of the human transcription factor TFIID.
+hTAFII18
+hTAFII20
+1
+The amount of CDK4 and CDK6 associated with $T1$ does not change in a cell cycle-dependent fashion; in contrast, the amount of $T2$ associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+p27
+CDK2
+0
+rIL-10R expressed in an IL-3-dependent mouse pro-B cell line (Ba/F3) binds $T1$ with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to $T2$.
+hIL-10
+hIL-10
+0
+The similarities in biofunctions and differences in ligand binding proteins between $T1$ and IL-6 prompted us to investigate whether IL-11 shares common signal transduction mechanisms with $T2$.
+IL-11
+IL-6
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of $T1$$T2$ but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+QM
+c-Jun
+0
+We found that in addition to $T1$, MIP-1alpha, and $T2$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+RANTES
+0
+$T1$ could compete efficiently for $T2$ binding but was, however, found to be a weak inhibitor of HIV infection, probably as a consequence of its inability to downregulate the receptor.
+MCP-3
+gp120
+1
+Like mIL-10R, hIL-10R is structurally related to $T1$$T2$, hIL-10R is structurally related to IFNR.
+IFNR
+mIL-10R
+0
+However, the various $T1$/DP complexes display strong differences in the ability to bind to either pRB or p107 in vivo, and the specificity of pRB or $T2$ binding is mediated by the E2F subunit.
+E2F
+p107
+0
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors (BR-Ia and BR-Ib) and the BMP type II receptor ($T1$$T2$ and BR-Ib) and the BMP type II receptor (BR-II).
+BR-II
+BR-Ia
+0
+A mutant form of human interferon-gamma ($T1$$T2$ (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma SC1
+interferon-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+0
+This transcriptional activity is inhibited by association with the retinoblastoma tumor suppressor protein (pRB) or its relatives p107 and $T1$$T2$ and p103.
+p103
+p107
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, $T1$, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-4
+MCP-1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+We have examined early signals triggered by $T1$ or $T2$ in a multifactor-dependent human erythroleukemic cell line, TF-1.
+IL-11
+IL-6
+0
+The amount of $T1$ and $T2$ associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK4
+CDK6
+0
+Moreover, similar $T1$ sequences are required for binding PP-1 alpha 2 and $T2$.
+p110RB
+SV40 large T antigen
+1
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, $T1$ MIP and RANTES were both potent agonists for CC CKR3 and $T2$.
+(MIP)-1 alpha
+CC CKR1
+1
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both NR1 and $T1$ subunits of the $T2$, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+NR2B
+NMDA receptor
+0
+This suggests that one domain of $T1$ is sufficient to recruit $T2$ and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma R alpha
+1
+The $T1$ (IL-1beta) converting enzyme ($T2$) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+interleukin-1beta
+ICE
+1
+We show that the carboxy terminal "tail" of $T1$ associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, K5, and $T2$.
+DPI
+K6
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$, and $T2$ competed for binding with IL-2, indicating that IL-15 uses components of the IL-2 receptor.
+IL-15
+IL-15
+0
+We next tested whether IL-11 induced signaling can be inhibited by anti-gp130 antibodies which blocked $T1$$T2$ induced signaling can be inhibited by anti-gp130 antibodies which blocked IL-6-mediated functions.
+IL-6
+IL-11
+0
+One clone encodes a novel $T1$ catalytic subunit ($T2$), which differs from the originally defined PP-1 alpha by an amino-terminal 11-amino-acid insert.
+type 1 protein phosphatase
+PP-1 alpha 2
+0
+However, MIP-1 beta was also an agonist for CC CKR3 but not $T1$; MCP-3 was an agonist for CC CKR1 but not $T2$.
+CC CKR1
+CC CKR3
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T1$/ $T2$) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+0
+The amount of $T1$ and CDK6 associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with $T2$ is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK4
+p27
+0
+The first cDNA from the $T1$ family to be cloned was designated $T2$, and multiple E2F family members have now been identified.
+E2F
+E2F-1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T2$ receptor.
+IL-15
+IL-2
+0
+The interleukin-1beta ($T1$$T2$ (IL-1beta) converting enzyme (ICE) processes the inactive IL-1beta precursor to the proinflammatory cytokine.
+IL-1beta
+interleukin-1beta
+0
+The first cDNA from the E2F family to be cloned was designated $T1$, and multiple $T2$ family members have now been identified.
+E2F-1
+E2F
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+Despite binding to only one IFN-gamma R alpha, $T1$$T2$ R alpha, IFN-gamma SC1 is biologically active in cell proliferation, MHC class I induction, and anti-viral assays.
+IFN-gamma SC1
+IFN-gamma
+0
+SF3a interacts with U2 snRNP in the presence of $T1$ to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and $T2$ in the incorporation of U2 snRNP into the spliceosome.
+SF3b
+SF3b
+0
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T2$, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+MCP-2
+0
+ICE was also shown to cleave the precursor of $T1$ inducing factor ($T2$) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+interferon-gamma
+IGIF
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of $T1$$T2$/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+QM
+c-Jun
+0
+The results showed that $T1$ and IL-6 can both stimulate cell proliferation, induce similar pattern of protein tyrosine phosphorylation, and activate the same proto-oncogene ($T2$) expression in TF-1 cells.
+IL-11
+junB
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and $T1$ competed for binding with $T2$, indicating that IL-15 uses components of the IL-2 receptor.
+IL-15
+IL-2
+0
+We found that in addition to MIP-1beta, $T1$, and $T2$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+RANTES
+0
+These data are consistent with a model wherein $T1$/CDK complexes sequester the CDK2-dependent kinase inhibitory activity of $T2$.
+cyclin D
+p27
+0
+A region of the beta subunit of the $T1$ different from box 1 interacts with Jak1 and is sufficient to activate the $T2$-Stat pathway and induce an antiviral state.
+interferon alpha receptor
+Jak
+0
+Isothermal titration calorimetry shows that $T1$ SC1 forms a 1:1 complex with its high-affinity receptor ($T2$) with an affinity of 27(+/- 9) nM.
+IFN-gamma
+IFN-gamma R alpha
+0
+SF3a interacts with $T1$ in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for $T2$ and SF3b in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3a
+0
+Here we show that QM/$T1$, a negative regulator of c-Jun, is a candidate to mediate the function of $T2$ in the cell.
+Jun-interacting factor (Jif)-1
+PS1
+0
+$T1$ expressed in an IL-3-dependent mouse pro-B cell line (Ba/F3) binds $T2$ with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to hIL-10.
+rIL-10R
+hIL-10
+1
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T2$, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-2
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T1$, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T2$, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+MCP-3
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha $T1$ and $T2$ were both potent agonists for CC CKR3 and CC CKR1.
+MIP
+RANTES
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T1$/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+We next tested whether IL-11 induced signaling can be inhibited by anti-$T1$$T2$ induced signaling can be inhibited by anti-gp130 antibodies which blocked IL-6-mediated functions.
+gp130
+IL-11
+0
+$T1$ is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor CC CKR1 (also known as the MIP-1 alpha/$T2$ receptor).
+CC CKR3
+RANTES
+0
+However, $T1$ was also an agonist for CC CKR3 but not CC CKR1; MCP-3 was an agonist for $T2$ but not CC CKR3.
+MIP-1 beta
+CC CKR1
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T1$$T2$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the IL-2 receptor.
+IL-2
+IL-2
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+1
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S $T1$, which suggests a function for $T2$ and SF3b in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3a
+0
+In vitro and in nonproliferating cells, $T1$ associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either CDK4, $T2$, or CDK2.
+p27
+CDK6
+1
+$T1$ was first characterized as a receptor for $T2$, MIP-1beta, and RANTES, and was rapidly shown to be the main coreceptor for M-tropic human immunodeficiency virus (HIV)-1 strains and simian immunodeficiency virus (SIV).
+CCR5
+MIP-1alpha
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+0
+However, MIP-1 beta was also an agonist for $T1$ but not CC CKR1; MCP-3 was an agonist for $T2$ but not CC CKR3.
+CC CKR3
+CC CKR1
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/$T1$$T2$ heterodimers, consistent with the reported function of QM/Jif-1.
+Jif-1
+c-Fos
+0
+As observed with the homologous Drosophila proteins, $T1$ interacts directly with $T2$; however, additional interactions between hTAFII20 and hTAFII28 or hTAFII30 were detected.
+hTAFII20
+TBP
+1
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+MCP-4
+0
+$T1$ expressed in an IL-3-dependent mouse pro-B cell line (Ba/F3) binds hIL-10 with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to $T2$.
+rIL-10R
+hIL-10
+0
+The predicted amino acid sequence of $T1$ is 60% identical and 73% similar to mouse IL-10R ($T2$).
+hIL-10R
+mIL-10R
+0
+SF3a interacts with $T1$ in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and $T2$ in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3b
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+$T1$ SC1 was derived by linking the two peptide chains of the $T2$ dimer by a seven-residue linker and changing His111 in the first chain to an aspartic acid residue.
+IFN-gamma
+IFN-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T1$, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+$T1$ expressed in an $T2$-dependent mouse pro-B cell line (Ba/F3) binds hIL-10 with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to hIL-10.
+rIL-10R
+IL-3
+0
+ICE was also shown to cleave the precursor of $T1$ inducing factor (IGIF) at the authentic processing site with high efficiency, thereby activating $T2$ and facilitating its export.
+interferon-gamma
+IGIF
+0
+Competitive binding of alpha-actinin and $T1$ to the $T2$.
+calmodulin
+NMDA receptor
+1
+Collectively, the novel function of $T1$ via QM/Jif-1 influences $T2$-mediated transcription and apoptosis.
+PS1
+c-jun
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T1$$T2$, indicating that IL-15 uses components of the IL-2 receptor.
+IL-2 receptor
+IL-2
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit IFN-gamma R alpha and $T1$$T2$ and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma R alpha
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit IFN-gamma R alpha and $T1$$T2$ is sufficient to recruit IFN-gamma R alpha and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma
+0
+We have engineered and purified recombinant $T1$ head and $T2$ tail, and we demonstrate direct interaction in vitro by solution-binding assays and by ligand blot assays.
+K5
+DPI
+1
+However, MIP-1 beta was also an agonist for CC CKR3 but not $T1$; $T2$ was an agonist for CC CKR1 but not CC CKR3.
+CC CKR1
+MCP-3
+0
+$T1$ binds by its central rod domain to the cytoplasmic tail of both NR1 and NR2B subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and $T2$ from rat brain.
+alpha-Actinin-2
+PSD-95
+1
+The substrate specificity, the expression pattern of this kinase, and the ability to deplete 50% of this kinase activity with a CDK6-specific antibody suggest that the $T1$$T2$-specific antibody suggest that the CDK6 protein mediates, in part, the p27-associated Rb-kinase activity.
+CDK6
+CDK6
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit $T1$ and $T2$ into a complex competent for eliciting biological activity.
+IFN-gamma R alpha
+IFN-gamma R beta
+0
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein (MIP)-1 alpha, regulated on activation, normal T expressed and secreted (RANTES), and $T1$ ($T2$), but the receptors involved have not been defined.
+monocyte chemoattractant protein-3
+MCP-3
+0
+Interferon-gamma and $T1$ were diminished in the sera of $T2$-/- mice exposed to Propionibacterium acnes and lipopolysaccharide.
+IGIF
+ICE
+0
+rIL-10R expressed in an $T1$-dependent mouse pro-B cell line (Ba/F3) binds $T2$ with high affinity (200 to 250 pM), and the transfected cells exhibit a proliferative response to hIL-10.
+IL-3
+hIL-10
+0
+The BMP receptors belong to the family of serine/threonine kinase receptors, whose activation has been investigated intensively for the $T1$ ($T2$) receptor subfamily.
+transforming growth factor-beta
+TGF-beta
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ib
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by $T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+PS1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/$T1$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+In addition, $T1$ associates with three different CDKs: CDK2, CDK4, and $T2$.
+p27
+CDK6
+1
+Collectively, the novel function of PS1 via QM/Jif-1 influences $T1$$T2$ influences c-jun-mediated transcription and apoptosis.
+c-jun
+Jif-1
+0
+Isothermal titration calorimetry shows that $T1$$T2$ forms a 1:1 complex with its high-affinity receptor (IFN-gamma R alpha) with an affinity of 27(+/- 9) nM.
+IFN-gamma
+IFN-gamma SC1
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma
+0
+alpha-Actinin-2, a member of the spectrin/$T1$$T2$, a member of the spectrin/dystrophin family of actin-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule PSD-95.
+dystrophin
+alpha-Actinin-2
+0
+These findings imply that $T1$ and IL-6 share similar early signaling events with the possibility of using the same signal transducer, $T2$.
+IL-11
+gp130
+0
+We show that the carboxy terminal "tail" of $T1$ associates directly with the amino terminal "head" of type II epidermal keratins, including K1, K2, $T2$, and K6.
+DPI
+K5
+1
+$T1$ was also shown to cleave the precursor of $T2$ (IGIF) at the authentic processing site with high efficiency, thereby activating IGIF and facilitating its export.
+ICE
+interferon-gamma inducing factor
+1
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S $T1$, which suggests a function for SF3a and $T2$ in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3b
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+eotaxin
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of $T1$$T2$ suppresses transactivation by c-Jun/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+QM
+PS1
+0
+alpha-Actinin-2, a member of the spectrin/$T1$ family of actin-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule $T2$.
+dystrophin
+PSD-95
+0
+Immunoelectronmicroscopic analysis showed that QM/$T1$ and $T2$ are colocalized at the endoplasmic reticulum, and the nuclear matrix in human brain neurons.
+Jif-1
+PS1
+0
+These data are consistent with a model wherein cyclin D/CDK complexes sequester the $T1$-dependent kinase inhibitory activity of $T2$.
+CDK2
+p27
+0
+In vitro and in nonproliferating cells, $T1$ associates with and inhibits cyclin/cycin-dependent kinase (CDK) holoenzymes containing either CDK4, CDK6, or $T2$.
+p27
+CDK2
+1
+Coexpression of the alpha and betaL subunits of the human interferon alpha ($T1$$T2$ (IFNalpha) receptor is required for the induction of an antiviral state by human IFNalpha.
+IFNalpha
+interferon alpha
+0
+We screened for proteins that bind to $T1$ from a human embryonic brain cDNA library using the two-hybrid method and isolated one clone encoding the QM/$T2$ gene.
+PS1
+Jif-1
+1
+The $T1$ associates with the $T2$ catalytic subunit.
+retinoblastoma protein
+protein phosphatase type 1
+1
+In vitro-binding assays demonstrated that $T1$ isoforms preferentially bind the hypophosphorylated form of $T2$.
+PP-1 alpha
+p110RB
+1
+We show that the physical interaction between $T1$ and $T2$, a coactivator for CREB, is not sufficient for repression of CREB-mediated transcription.
+YY1
+p300
+1
+The cytokine, designated interleukin-15 ($T1$$T2$ (IL-15), is produced by a wide variety of cells and tissues and shares many biological properties with IL-2.
+IL-15
+interleukin-15
+0
+cDNA clones encoding a human IL-10R ($T1$$T2$ (hIL-10R) from a Burkitt lymphoma cell line, BJAB, express a 90 to 110 kDa polypeptide in COS7 cells that binds hIL-10 specifically.
+hIL-10R
+IL-10R
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal $T1$$T2$ binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+gp120
+MIP-1beta
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/BR-II, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors ($T1$ and $T2$) and the BMP type II receptor (BR-II).
+BR-Ia
+BR-Ib
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T1$, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-3
+MCP-4
+0
+Here we show that QM/$T1$, a negative regulator of $T2$, is a candidate to mediate the function of PS1 in the cell.
+Jun-interacting factor (Jif)-1
+c-Jun
+1
+Immunoelectronmicroscopic analysis showed that $T1$/Jif-1 and $T2$ are colocalized at the endoplasmic reticulum, and the nuclear matrix in human brain neurons.
+QM
+PS1
+0
+By monitoring fluorescent recombinant protein and by gel mobility shift assays, PS1 was shown to accelerate the translocation of QM from the cytoplasm to the nucleus and to thereby suppress the binding of $T1$$T2$ was shown to accelerate the translocation of QM from the cytoplasm to the nucleus and to thereby suppress the binding of c-Jun homodimer to 12-O-tetradecanoylphorbol-13- acetate (TPA)-responsive element (TRE).
+c-Jun
+PS1
+0
+SF3a interacts with $T1$ in the presence of SF3b to generate a structure similar to 17S $T2$, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+U2 snRNP
+0
+Here we show that $T1$/Jun-interacting factor (Jif)-1, a negative regulator of $T2$, is a candidate to mediate the function of PS1 in the cell.
+QM
+c-Jun
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T2$.
+IL-15
+IL-2 receptor
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by $T1$$T2$ with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MIP-1beta
+CCR5
+0
+We also found another armadillo-protein, $T1$, interacted with $T2$.
+p0071
+PS1
+1
+The amount of CDK4 and CDK6 associated with $T1$ does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with $T2$ is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+p27
+p27
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T1$, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+Collectively, the novel function of PS1 via $T1$/$T2$ influences c-jun-mediated transcription and apoptosis.
+QM
+Jif-1
+0
+Among these ligands, MCP-3 had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by $T1$$T2$ had the remarkable property of binding CCR5 with high affinity without eliciting a functional response, MCP-3 could also inhibit the activation of CCR5 by MIP-1beta and may therefore be considered as a natural antagonist for CCR5.
+MIP-1beta
+MCP-3
+0
+When [Ca2+]i changes were monitored in stably transfected human embryonic kidney 293 cells, (MIP)-1 alpha MIP and $T1$ were both potent agonists for $T2$ and CC CKR1.
+RANTES
+CC CKR3
+1
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-$T2$ binding: MCP-2, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+MIP-1beta
+1
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T1$, MCP-3, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-2
+eotaxin
+0
+The binding of $T1$ and hTAFII30 requires distinct domains of $T2$.
+hTAFII28
+hTAFII18
+1
+SF3a interacts with $T1$ in the presence of $T2$ to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+U2 snRNP
+SF3b
+0
+These results demonstrate that IL-11 and IL-6 utilize different ligand binding proteins, but share common signal transducer, $T1$$T2$ utilize different ligand binding proteins, but share common signal transducer, gp130, in TF-1 cells.
+gp130
+IL-6
+0
+The similarities in biofunctions and differences in ligand binding proteins between IL-11 and $T1$ prompted us to investigate whether $T2$ shares common signal transduction mechanisms with IL-6.
+IL-6
+IL-11
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$ R alpha complex.
+IFN-gamma R alpha
+IFN-gamma
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/BR-II, $T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+$T1$ and $T2$ were diminished in the sera of ICE-/- mice exposed to Propionibacterium acnes and lipopolysaccharide.
+Interferon-gamma
+IGIF
+0
+The binding of hTAFII28 and $T1$ requires distinct domains of $T2$.
+hTAFII30
+hTAFII18
+1
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one IFN-gamma receptor alpha chain ($T1$$T2$) has been designed and characterized.
+IFN-gamma
+IFN-gamma R alpha
+0
+Activation of $T1$$T2$ mediated by interleukin-1beta converting enzyme.
+interferon-gamma
+interferon-gamma inducing factor
+0
+Mouse IL-10 does not bind to $T1$, and hIL-10R-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of $T2$.
+hIL-10R
+IL-10
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S $T1$, which suggests a function for SF3a and SF3b in the incorporation of $T2$ into the spliceosome.
+U2 snRNP
+U2 snRNP
+0
+A region of the beta subunit of the $T1$ receptor different from box 1 interacts with Jak1 and is sufficient to activate the $T2$-Stat pathway and induce an antiviral state.
+interferon alpha
+Jak
+0
+Mouse IL-10 does not bind to hIL-10R, and $T1$-expressing Ba/F3 cells do not respond to the mouse cytokine, observations consistent with the known species specificity of $T2$.
+hIL-10R
+IL-10
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$ observed in the crystal structure of the IFN-gamma/IFN-gamma R alpha complex.
+IFN-gamma R alpha
+IFN-gamma
+0
+The AB loops of IFN-gamma SC1 adopt conformations similar to the ordered loops of IFN-gamma observed in the crystal structure of the IFN-gamma/$T1$$T2$/IFN-gamma R alpha complex.
+IFN-gamma
+IFN-gamma
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or $T1$$T2$ antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or IL-6 in TF-1 cells.
+IL-6
+gp130
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both NR1 and NR2B subunits of the $T1$, and can be immunoprecipitated with NMDA receptors and $T2$ from rat brain.
+NMDA receptor
+PSD-95
+0
+ICE was also shown to cleave the precursor of $T1$ (IGIF) at the authentic processing site with high efficiency, thereby activating $T2$ and facilitating its export.
+interferon-gamma inducing factor
+IGIF
+0
+A mutant form of human interferon-gamma ($T1$) that binds one $T2$ (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma SC1
+IFN-gamma receptor alpha chain
+1
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+0
+Monoclonal antibodies to the beta chain of the $T1$ receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that $T2$ uses components of the IL-2 receptor.
+IL-2
+IL-15
+0
+However, the various $T1$/DP complexes display strong differences in the ability to bind to either pRB or $T2$ in vivo, and the specificity of pRB or p107 binding is mediated by the E2F subunit.
+E2F
+p107
+0
+This region of the betaL chain, required for $T1$ binding and activation, contains the Box 1 motif that is important for the interaction of some cytokine receptors with $T2$ kinases.
+Jak1
+Jak
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of $T1$, and IL-15 competed for binding with IL-2, indicating that $T2$ uses components of the IL-2 receptor.
+IL-15
+IL-15
+0
+This transcriptional activity is inhibited by association with the retinoblastoma tumor suppressor protein (pRB) or its relatives p107 and $T1$$T2$) or its relatives p107 and p103.
+p103
+pRB
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for $T1$$T2$ interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3a
+SF3a
+0
+Coexpression of the alpha and betaL subunits of the human $T1$ is required for the induction of an antiviral state by human $T2$.
+interferon alpha (IFNalpha) receptor
+IFNalpha
+0
+Involvement of $T1$ signal transducer gp130 in $T2$-mediated signal transduction.
+IL-6
+IL-11
+0
+The cytokine, designated interleukin-15 (IL-15), is produced by a wide variety of cells and tissues and shares many biological properties with $T1$$T2$ (IL-15), is produced by a wide variety of cells and tissues and shares many biological properties with IL-2.
+IL-2
+interleukin-15
+0
+Coexpression of the alpha and betaL subunits of the human interferon alpha ($T1$$T2$ is required for the induction of an antiviral state by human IFNalpha.
+IFNalpha
+interferon alpha (IFNalpha) receptor
+0
+A mutant form of human interferon-gamma ($T1$) that binds one $T2$ receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma SC1
+IFN-gamma
+0
+cDNA clones encoding a human $T1$ (hIL-10R) from a Burkitt lymphoma cell line, BJAB, express a 90 to 110 kDa polypeptide in COS7 cells that binds $T2$ specifically.
+IL-10R
+hIL-10
+1
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma
+IFN-gamma
+0
+Interaction of mammalian splicing factor $T1$ with U2 snRNP and relation of its 60-kD subunit to yeast $T2$.
+SF3a
+PRP9
+0
+$T1$ suppresses the function of c-Jun homodimers via interaction with $T2$/Jif-1.
+Presenilin 1
+QM
+1
+However, $T1$ was also an agonist for CC CKR3 but not CC CKR1; $T2$ was an agonist for CC CKR1 but not CC CKR3.
+MIP-1 beta
+MCP-3
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T1$, $T2$/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ib
+0
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein $T1$, regulated on activation, normal T expressed and secreted ($T2$), and monocyte chemoattractant protein-3 (MCP-3), but the receptors involved have not been defined.
+(MIP)-1 alpha
+RANTES
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: $T2$, MCP-3, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+MCP-2
+0
+Activation of $T1$ mediated by $T2$.
+interferon-gamma inducing factor
+interleukin-1beta converting enzyme
+1
+The amount of CDK4 and CDK6 associated with p27 does not change in a cell cycle-dependent fashion; in contrast, the amount of $T1$ associated with $T2$ is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK2
+p27
+1
+We found that in addition to MIP-1beta, $T1$, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1alpha
+MCP-1
+0
+$T1$ binds by its central rod domain to the cytoplasmic tail of both NR1 and NR2B subunits of the $T2$, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+alpha-Actinin-2
+NMDA receptor
+1
+In addition, p27 associates with three different CDKs: $T1$, CDK4, and $T2$.
+CDK2
+CDK6
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T1$, BR-Ib/ BR-Ib, and also $T2$/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+0
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein $T1$, regulated on activation, normal T expressed and secreted (RANTES), and monocyte chemoattractant protein-3 ($T2$), but the receptors involved have not been defined.
+(MIP)-1 alpha
+MCP-3
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, $T1$, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-4
+eotaxin
+0
+It was observed that anti-gp130 antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by $T1$$T2$ antibodies abolished cell proliferation, protein tyrosine phosphorylation, and junB gene expression elicited by IL-11 or IL-6 in TF-1 cells.
+IL-11
+gp130
+0
+We also found another $T1$, $T2$, interacted with PS1.
+armadillo-protein
+p0071
+0
+$T1$ suppresses the function of $T2$ homodimers via interaction with QM/Jif-1.
+Presenilin 1
+c-Jun
+0
+The structure also reveals the final six C-terminal amino acid residues of $T1$$T2$ (residues 253-258) that have not been observed in any other reported IFN-gamma structures.
+IFN-gamma
+IFN-gamma SC1
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T1$, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-3
+MCP-1
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-II
+0
+However, MIP-1 beta was also an agonist for CC CKR3 but not CC CKR1; $T1$ was an agonist for $T2$ but not CC CKR3.
+MCP-3
+CC CKR1
+1
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor alpha chain
+IFN-gamma
+0
+The predicted amino acid sequence of hIL-10R is 60% identical and 73% similar to mouse $T1$ ($T2$).
+IL-10R
+mIL-10R
+0
+Collectively, the novel function of PS1 via $T1$$T2$ via QM/Jif-1 influences c-jun-mediated transcription and apoptosis.
+QM
+PS1
+0
+A region of the beta subunit of the $T1$$T2$ different from box 1 interacts with Jak1 and is sufficient to activate the Jak-Stat pathway and induce an antiviral state.
+interferon alpha
+interferon alpha receptor
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+MCP-4
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, $T1$/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-Ia
+1
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, MCP-4, $T2$, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-1
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by c-Jun/c-Jun but not by $T1$$T2$/c-Jun but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+c-Jun
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and $T1$, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T2$, MCP-4, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+RANTES
+MCP-3
+0
+Presenilin 1 suppresses the function of c-Jun homodimers via interaction with QM/$T1$$T2$ homodimers via interaction with QM/Jif-1.
+Jif-1
+c-Jun
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and $T2$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ $T2$, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ib
+0
+Finally, anti-IL-6R antibody inhibited the ability of $T1$$T2$ antibody inhibited the ability of IL-6, but not IL-11, to transduce early signals in TF-1 cells.
+IL-6
+IL-6R
+0
+Despite binding to only one $T1$$T2$ R alpha, IFN-gamma SC1 is biologically active in cell proliferation, MHC class I induction, and anti-viral assays.
+IFN-gamma R alpha
+IFN-gamma
+0
+The amount of CDK4 and $T1$ associated with $T2$ does not change in a cell cycle-dependent fashion; in contrast, the amount of CDK2 associated with p27 is lowest in early G1 cells and increases to a maximum in mid-G1 phase, reaching a steady-state level in late G1-phase cells.
+CDK6
+p27
+1
+$T1$ interacts with $T2$ in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3a
+U2 snRNP
+1
+Activation of $T1$ inducing factor mediated by $T2$ converting enzyme.
+interferon-gamma
+interleukin-1beta
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric ($T1$/BR-II, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+CC CKR3 is a seven-transmembrane domain G protein-coupled receptor most closely related to the previously reported monocyte- and neutrophil-selective receptor CC CKR1 (also known as the MIP-1 alpha/$T1$$T2$/RANTES receptor).
+RANTES
+MIP-1 alpha
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and $T1$/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ $T2$, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-Ia
+0
+The similarities in biofunctions and differences in ligand binding proteins between $T1$ and IL-6 prompted us to investigate whether $T2$ shares common signal transduction mechanisms with IL-6.
+IL-11
+IL-11
+0
+SF3a interacts with U2 snRNP in the presence of $T1$$T2$ interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3b
+SF3a
+0
+Isothermal titration calorimetry shows that $T1$ forms a 1:1 complex with its high-affinity receptor ($T2$) with an affinity of 27(+/- 9) nM.
+IFN-gamma SC1
+IFN-gamma R alpha
+1
+Moreover, similar p110RB sequences are required for binding $T1$ and $T2$.
+PP-1 alpha 2
+SV40 large T antigen
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and $T1$ competed for binding with IL-2, indicating that $T2$ uses components of the IL-2 receptor.
+IL-15
+IL-15
+0
+Coexpression of the alpha and betaL subunits of the human $T1$$T2$ (IFNalpha) receptor is required for the induction of an antiviral state by human IFNalpha.
+interferon alpha (IFNalpha) receptor
+interferon alpha
+0
+alpha-Actinin-2, a member of the spectrin/dystrophin family of $T1$-binding proteins, is identified here as a brain postsynaptic density protein that colocalizes in dendritic spines with NMDA receptors and the putative NMDA receptor-clustering molecule $T2$.
+actin
+PSD-95
+0
+Here we demonstrate that DP is also a family of polypeptides with at least two members ($T1$ and $T2$).
+hDP-1
+hDP-2
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/$T1$ and BR-II/BR-Ib) and homomeric (BR-II/$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ia
+BR-II
+0
+The binding of $T1$/Jif-1 to full-length $T2$ was confirmed in vitro by pull-down assay, and in vivo by immunoprecipitation assays with human samples, including AD brains.
+QM
+PS1
+1
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T1$$T2$.
+IL-2
+IL-2 receptor
+0
+Furthermore, the amount of $T1$ is significantly lower than the amount of $T2$ in these cells.
+p27
+cyclin D3
+0
+Using several complementary approaches, we investigated the formation of homomeric and heteromeric complexes between the two known BMP type I receptors (BR-Ia and BR-Ib) and the $T1$ ($T2$).
+BMP type II receptor
+BR-II
+0
+In addition, p27 associates with three different CDKs: $T1$, $T2$, and CDK6.
+CDK2
+CDK4
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-$T1$ binding: MCP-2, MCP-3, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+eotaxin
+1
+Eosinophils undergo chemotaxis, degranulate, and exhibit [C2+]i changes in response to the human CC chemokines macrophage inflammatory protein (MIP)-1 alpha, regulated on activation, normal T expressed and secreted (RANTES), and $T1$$T2$), and monocyte chemoattractant protein-3 (MCP-3), but the receptors involved have not been defined.
+monocyte chemoattractant protein-3
+RANTES
+0
+Both $T1$ and $T2$ bind to all E2F family members in vivo, and each complex is capable of activating transcription.
+hDP-1
+hDP-2
+0
+alpha-Actinin-2 binds by its central rod domain to the cytoplasmic tail of both $T1$ and $T2$ subunits of the NMDA receptor, and can be immunoprecipitated with NMDA receptors and PSD-95 from rat brain.
+NR1
+NR2B
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/BR-Ib) and homomeric (BR-II/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ $T1$$T2$/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-Ia
+0
+This suggests that one domain of IFN-gamma is sufficient to recruit IFN-gamma R alpha and $T1$$T2$ R alpha and IFN-gamma R beta into a complex competent for eliciting biological activity.
+IFN-gamma
+IFN-gamma
+0
+We screened for proteins that bind to PS1 from a human embryonic brain cDNA library using the two-hybrid method and isolated one clone encoding the $T1$/$T2$ gene.
+QM
+Jif-1
+0
+The similarities in biofunctions and differences in ligand binding proteins between IL-11 and $T1$ prompted us to investigate whether IL-11 shares common signal transduction mechanisms with $T2$.
+IL-6
+IL-6
+0
+Chemokines that could compete with high affinity for MIP-1beta binding could also compete for monomeric gp120 binding, although with variable potencies; maximal gp120 binding inhibition was 80% for $T1$$T2$ binding, although with variable potencies; maximal gp120 binding inhibition was 80% for MCP-2, but only 30% for MIP-1beta.
+MCP-2
+gp120
+0
+A mutant form of human interferon-gamma (IFN-gamma SC1) that binds one $T1$$T2$ SC1) that binds one IFN-gamma receptor alpha chain (IFN-gamma R alpha) has been designed and characterized.
+IFN-gamma receptor
+IFN-gamma
+0
+Activation of interferon-gamma inducing factor mediated by $T1$$T2$ mediated by interleukin-1beta converting enzyme.
+interleukin-1beta
+interferon-gamma inducing factor
+0
+We found that in addition to MIP-1beta, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, $T1$, MCP-4, MCP-1, and $T2$ binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MCP-3
+eotaxin
+0
+Chloramphenicol acetyltransferase assays in F9 cells showed that PS1 suppresses transactivation by $T1$/$T2$ but not by c-Jun/c-Fos heterodimers, consistent with the reported function of QM/Jif-1.
+c-Jun
+c-Jun
+1
+The interleukin-1beta ($T1$) converting enzyme (ICE) processes the inactive $T2$ precursor to the proinflammatory cytokine.
+IL-1beta
+IL-1beta
+0
+cDNA clones encoding a human IL-10R ($T1$) from a Burkitt lymphoma cell line, BJAB, express a 90 to 110 kDa polypeptide in COS7 cells that binds $T2$ specifically.
+hIL-10R
+hIL-10
+1
+In the assembly of a prespliceosome, $T1$ (snRNP) functions in pre-messenger RNA (mRNA) splicing together with splicing factors (SFs) 3a, $T2$, and several other proteins.
+U2 small nuclear ribonucleoprotein
+SF3b
+0
+These results demonstrate that $T1$ and IL-6 utilize different ligand binding proteins, but share common signal transducer, $T2$, in TF-1 cells.
+IL-11
+gp130
+0
+We found that in addition to $T1$, MIP-1alpha, and RANTES, five other CC-chemokines could compete for [(125)I]-MIP-1beta binding: MCP-2, MCP-3, $T2$, MCP-1, and eotaxin binding was characterized by IC(50) values of 0.22, 2.14, 5.89, 29.9, and 21.7 nmol/L, respectively.
+MIP-1beta
+MCP-4
+0
+Here we show that QM/Jun-interacting factor (Jif)-1, a negative regulator of $T1$, is a candidate to mediate the function of $T2$ in the cell.
+c-Jun
+PS1
+0
+This transcriptional activity is inhibited by association with the $T1$ (pRB) or its relatives $T2$ and p103.
+retinoblastoma tumor suppressor protein
+p107
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric (BR-II/BR-Ia and BR-II/$T1$) and homomeric (BR-II/$T2$, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-Ib
+BR-II
+0
+Isothermal titration calorimetry shows that $T1$ SC1 forms a 1:1 complex with its high-affinity receptor ($T2$ R alpha) with an affinity of 27(+/- 9) nM.
+IFN-gamma
+IFN-gamma
+0
+Monoclonal antibodies to the beta chain of the IL-2 receptor inhibited the biological activity of IL-15, and IL-15 competed for binding with IL-2, indicating that IL-15 uses components of the $T1$$T2$, indicating that IL-15 uses components of the IL-2 receptor.
+IL-2
+IL-2
+0
+Activation of interferon-gamma inducing factor mediated by $T1$$T2$.
+interleukin-1beta
+interleukin-1beta converting enzyme
+0
+Using antibody-mediated immunofluorescence copatching of epitope-tagged receptors, we provide evidence in live cells for preexisting heteromeric ($T1$/BR-Ia and BR-II/BR-Ib) and homomeric ($T2$/BR-II, BR-Ia/ BR-Ia, BR-Ib/ BR-Ib, and also BR-Ia/ BR-Ib) oligomers in the absence of ligand.
+BR-II
+BR-II
+0
+SF3a interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and $T1$$T2$ interacts with U2 snRNP in the presence of SF3b to generate a structure similar to 17S U2 snRNP, which suggests a function for SF3a and SF3b in the incorporation of U2 snRNP into the spliceosome.
+SF3b
+SF3a
+0
